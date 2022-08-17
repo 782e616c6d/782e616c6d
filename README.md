@@ -76,3 +76,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=782e616c6d&layout=compact&theme=github_dark&hide_border=true" />
 </a>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
