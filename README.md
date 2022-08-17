@@ -25,8 +25,8 @@
 </h1>
 </div>
   
-<div align="left">
-  <img src="https://i.gifer.com/origin/a1/a151e29409954830f542a9b8bb604582_w200.webp" width="100" height="100"/>
+<div align="center">
+  <img src="https://i.gifer.com/origin/ae/ae84325701f6d97ac4ad7e7951ac9063_w200.webp" width="200" height="200"/>
 </div>
 
 ---
@@ -39,6 +39,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time I venture a lot into the open source world, I also like to consume technology-related content, mostly technology articles.
+
+<p align="center">
+  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="450px">
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -63,10 +67,6 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=782e616c6d&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=782e616c6d&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Stats_Card](https://github-readme-stats.vercel.app/api/?username=782e616c6d&&count_private=true&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=782e616c6d&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=782e616c6d&&count_private=true&show_icons=true&layout=compact&theme=github_dark&hide_border=true" />
