@@ -25,8 +25,8 @@
 </h1>
 </div>
   
-<div align="center">
-  <img src="https://i.gifer.com/origin/6a/6a2dfb96f278692f0900cc08975efe0e_w200.webp" width="300" height="300"/>
+<div align="left">
+  <img src="https://i.gifer.com/origin/a1/a151e29409954830f542a9b8bb604582_w200.webp" width="100" height="100"/>
 </div>
 
 ---
@@ -44,7 +44,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ansible/logos/blob/main/vscode-ansible.png?raw=true" title="Ansible" **alt="Ansible" width="35" height="35"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331370/docker.svg" title="Docker" **alt="Docker" width="35" height="35"/>&nbsp;
   <img src="https://www.svgrepo.com/show/373623/git.svg" title="Git" **alt="Git" width="35" height="35"/>&nbsp;
@@ -76,6 +76,14 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=782e616c6d&layout=compact&theme=github_dark&hide_border=true" />
 </a>
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://github.com/782e616c6d" target="blank"><img align="center" src="https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg" alt="GitHub Link" height="35" width="35" /></a>
+<a href="https://www.instagram.com/adson__almeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@adson__almeida" height="26" width="26" /></a>
+<a href="https://www.linkedin.com/in/010000010100000101000001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="782e616c6d" height="26" width="30" /></a>  
+<a href="https://stackoverflow.com/users/19412614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="26" width="26" /></a>
+<a href="https://twitter.com/Adson_A1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Adson_A1" height="26" width="26" /></a>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
