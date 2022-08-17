@@ -26,8 +26,10 @@
 </div>
   
 <div align="center">
-  <img src="https://i.gifer.com/origin/ae/ae84325701f6d97ac4ad7e7951ac9063_w200.webp" width="200" height="200"/>
+  <img src="https://github.com/MishManners/MishManners/raw/master/MishManners%20Room%20animated.gif" width="1920" height="1080"/>
 </div>
+
+
 
 ---
 
