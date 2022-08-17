@@ -40,8 +40,6 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 - :zap: In my free time I venture a lot into the open source world, I also like to consume technology-related content, mostly technology articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/010000010100000101000001/)
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
