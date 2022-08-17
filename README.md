@@ -26,7 +26,7 @@
 </div>
   
 <div align="center">
-  <img src="https://github.com/MishManners/MishManners/raw/master/MishManners%20Room%20animated.gif" width="1920" height="1080"/>
+  <img src="https://github.com/MishManners/MishManners/raw/master/MishManners%20Room%20animated.gif" width="1020" height="600"/>
 </div>
 
 
