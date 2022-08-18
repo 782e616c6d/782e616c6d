@@ -47,6 +47,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
   <br><img src="https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake.svg" width="450px">
 </p>
 
+### 📕 Latest Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
