@@ -26,7 +26,7 @@
 </div>
   
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/2641087.gif" width="835" height="435"/>
+  <img src="https://wallpaperaccess.com/full/2641087.gif" width="840" height="440"/>
 </div>
 
 
