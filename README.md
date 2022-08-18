@@ -49,6 +49,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Init and Proxmox](https://medium.com/@tech.adson/cloud-init-and-proxmox-12d679337e4b?source=rss-260e27e4d787------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
