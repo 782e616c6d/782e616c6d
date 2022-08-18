@@ -80,7 +80,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### I'm listening to:
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c2cfh2hrecob45bxby7oe565hm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
