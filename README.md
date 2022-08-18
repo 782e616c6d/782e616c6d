@@ -26,7 +26,7 @@
 </div>
   
 <div align="center">
-  <img src="https://github.com/MishManners/MishManners/raw/master/MishManners%20Room%20animated.gif" width="1000" height="550"/>
+  <img src="https://wallpapercrafter.com/th800/123116-anime-original-characters-computer-artwork-interior-graphics-tablets.jpg" width="1000" height="500"/>
 </div>
 
 
