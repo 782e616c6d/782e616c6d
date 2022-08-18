@@ -26,7 +26,7 @@
 </div>
   
 <div align="center">
-  <img src="https://wallpapercrafter.com/th800/123116-anime-original-characters-computer-artwork-interior-graphics-tablets.jpg" width="1000" height="450"/>
+  <img src="https://wallpaperaccess.com/full/2641087.gif" width="1000" height="450"/>
 </div>
 
 
