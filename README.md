@@ -78,9 +78,12 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=782e616c6d&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 
-### I'm listening to:
+### Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c2cfh2hrecob45bxby7oe565hm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+[![Spotify](https://spotify-master.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7)
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
