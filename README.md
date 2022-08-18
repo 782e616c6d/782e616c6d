@@ -61,6 +61,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
   <img src="https://www.svgrepo.com/show/331552/proxmox.svg" title="Proxmox"  alt="Proxmox" width="35" height="35"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title="Shell Script"  alt="Shell Script" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform"  alt="Terraform" width="35" height="35"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VS Code"  alt="VS Code" width="30" height="30"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" title="Zabbix"  alt="Zabbix" width="45" height="45"/>&nbsp;
 </div>
