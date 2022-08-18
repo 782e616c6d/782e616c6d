@@ -44,7 +44,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - :zap: In my free time I venture a lot into the open source world, I also like to consume technology-related content, mostly technology articles.
 
 <p align="center">
-  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="450px">
+  <br><img src="https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake.svg" width="450px">
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
