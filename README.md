@@ -82,7 +82,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c2cfh2hrecob45bxby7oe565hm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Connect with me:**
 <p align="left">
 <a href="https://github.com/782e616c6d" target="blank"><img align="center" src="https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg" alt="GitHub Link" height="35" width="35" /></a>
 <a href="https://www.instagram.com/adson__almeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@adson__almeida" height="26" width="26" /></a>
