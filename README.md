@@ -78,6 +78,8 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=782e616c6d&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 
+### I'm listening to:
+
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7)
 
 🔗 &nbsp;**Connect with me**
