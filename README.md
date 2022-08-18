@@ -20,7 +20,8 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=782e616c6d&style=flat-square&color=blue" alt=""/>
   <h1>
-  👋Hey Guys!👋
+    <img src="https://media4.giphy.com/media/Q8sozM0tPmwIPnPcj4/200w.webp?cid=ecf05e47vnzkua786gg148olyvc08pbdti52cpbpp88eic1v&rid=200w.webp&ct=s" width="30px"/>
+  👋  Hey Guys! 👋
     <img src="https://media4.giphy.com/media/Q8sozM0tPmwIPnPcj4/200w.webp?cid=ecf05e47vnzkua786gg148olyvc08pbdti52cpbpp88eic1v&rid=200w.webp&ct=s" width="30px"/>
 </h1>
 </div>
