@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [DevSecOps with Amazon CodeGuru Reviewer CLI and Bitbucket Pipelines](https://aws.amazon.com/blogs/devops/devsecops-with-amazon-codeguru-reviewer-cli-and-bitbucket-pipelines/)
 - [10 ways to build applications faster with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/10-ways-to-build-applications-faster-with-amazon-codewhisperer/)
+- [Red Hat Insights Upgrade Risks for Red Hat OpenShift](https://www.redhat.com/en/blog/red-hat-insights-upgrade-risks-red-hat-openshift)
+- [Introducing hirte, a deterministic multi-node service controller](https://www.redhat.com/en/blog/introducing-hirte-deterministic-multi-node-service-controller)
 - [Exploratory analytics and collaborative analytics capabilities democratize insights across teams](https://www.dynatrace.com/news/blog/exploratory-analytics-and-collaborative-analytics/)
-- [Track your OpenShift costs more easily on Azure with new and improved capabilities in Red Hat Cost Management](https://www.redhat.com/en/blog/track-your-openshift-costs-more-easily-azure-new-and-improved-capabilities-red-hat-cost-management)
-- [Red Hat&amp;amp;#039;s OpenShift Certification Pathways evolve to meet the growing demand for cloud-native skills](https://www.redhat.com/en/blog/red-hats-openshift-certification-pathways-evolve-meet-growing-demand-cloud-native-skills)
-- [Use Power Automate to update Azure DevOps queries](https://devblogs.microsoft.com/devops/use-power-automate-to-update-azure-devops-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
