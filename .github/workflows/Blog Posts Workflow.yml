@@ -14,4 +14,4 @@ jobs:
       - name: Pull in medium.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@tech.adson,https://www.trendmicro.com/en_us/security-intelligence/breaking-news.html"
+          feed_list: "https://medium.com/feed/@tech.adson,https://devblogs.microsoft.com/devops/feed/,https://www.docker.com/feed/"
