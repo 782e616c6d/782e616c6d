@@ -49,7 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Init and Proxmox](https://medium.com/@tech.adson/cloud-init-and-proxmox-12d679337e4b?source=rss-260e27e4d787------2)
+- [Use Power Automate to update Azure DevOps queries](https://devblogs.microsoft.com/devops/use-power-automate-to-update-azure-devops-queries/)
+- [Docker Compose Experiment: Sync Files and Automatically Rebuild Services with Watch Mode](https://www.docker.com/blog/docker-compose-experiment-sync-files-and-automatically-rebuild-services-with-watch-mode/)
+- [New Boards Hub Update, Sprint 220](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-220/)
+- [Service Connection guidance for AKS customers using Kubernetes tasks](https://devblogs.microsoft.com/devops/service-connection-guidance-for-aks-customers-using-kubernetes-tasks/)
+- [Azure DevOps 2023 Q2 Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-2023-q2-roadmap-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
