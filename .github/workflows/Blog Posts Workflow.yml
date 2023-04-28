@@ -14,4 +14,4 @@ jobs:
       - name: Pull in medium.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@tech.adson,https://devblogs.microsoft.com/devops/feed/,https://www.docker.com/feed/"
+          feed_list: "https://medium.com/feed/@tech.adson,https://devblogs.microsoft.com/devops/feed/,https://www.docker.com/feed/,https://www.dynatrace.com/news/category/devops/feed/,https://aws.amazon.com/blogs/devops/feed/,https://www.redhat.com/en/rss/blog,https://www.atlassian.com/blog/devops/feed"
