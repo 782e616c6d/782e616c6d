@@ -50,10 +50,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [DevSecOps with Amazon CodeGuru Reviewer CLI and Bitbucket Pipelines](https://aws.amazon.com/blogs/devops/devsecops-with-amazon-codeguru-reviewer-cli-and-bitbucket-pipelines/)
-- [10 ways to build applications faster with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/10-ways-to-build-applications-faster-with-amazon-codewhisperer/)
-- [Red Hat Insights Upgrade Risks for Red Hat OpenShift](https://www.redhat.com/en/blog/red-hat-insights-upgrade-risks-red-hat-openshift)
-- [Introducing hirte, a deterministic multi-node service controller](https://www.redhat.com/en/blog/introducing-hirte-deterministic-multi-node-service-controller)
-- [Exploratory analytics and collaborative analytics capabilities democratize insights across teams](https://www.dynatrace.com/news/blog/exploratory-analytics-and-collaborative-analytics/)
+- [The future of Red Hat security data](https://www.redhat.com/en/blog/future-red-hat-security-data)
+- [Intelligent order: Getting goods into the customer’s hands](https://www.redhat.com/en/blog/intelligent-order-getting-goods-customers-hands)
+- [Friday Five — April 28, 2023](https://www.redhat.com/en/blog/friday-five-april-28-2023-red-hat)
+- [Red Hat Satellite 6.12.4 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6124-has-been-released)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
