@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [New Boards Hub Update, Sprint 221](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-221/)
 - [DevSecOps with Amazon CodeGuru Reviewer CLI and Bitbucket Pipelines](https://aws.amazon.com/blogs/devops/devsecops-with-amazon-codeguru-reviewer-cli-and-bitbucket-pipelines/)
 - [The future of Red Hat security data](https://www.redhat.com/en/blog/future-red-hat-security-data)
 - [Intelligent order: Getting goods into the customer’s hands](https://www.redhat.com/en/blog/intelligent-order-getting-goods-customers-hands)
 - [Friday Five — April 28, 2023](https://www.redhat.com/en/blog/friday-five-april-28-2023-red-hat)
-- [Red Hat Satellite 6.12.4 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6124-has-been-released)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
