@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Integrating DevOps Guru Insights with CloudWatch Dashboard](https://aws.amazon.com/blogs/devops/integrating-devops-guru-insights-with-cloudwatch-dashboard/)
+- [Building a Local Application Development Environment for Kubernetes with the Gefyra Docker Extension](https://www.docker.com/blog/building-a-local-application-development-environment-for-kubernetes-with-the-gefyra-docker-extension/)
 - [Docker Desktop 4.19: Compose v2, the Moby project, and more](https://www.docker.com/blog/docker-desktop-4-19/)
 - [Confidential computing primer](https://www.redhat.com/en/blog/confidential-computing-primer)
 - [New Boards Hub Update, Sprint 221](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-221/)
-- [Elevate your Red Hat Summit experience with Power Training](https://www.redhat.com/en/blog/elevate-your-red-hat-summit-experience-power-training)
-- [DevSecOps with Amazon CodeGuru Reviewer CLI and Bitbucket Pipelines](https://aws.amazon.com/blogs/devops/devsecops-with-amazon-codeguru-reviewer-cli-and-bitbucket-pipelines/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
