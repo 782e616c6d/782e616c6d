@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Sustainable supply chains: challenges, drivers and architectures](https://www.redhat.com/en/blog/sustainable-supply-chains-challenges-drivers-and-architectures)
 - [Friday Five — May 5, 2023](https://www.redhat.com/en/blog/friday-five-may-5-2023-red-hat)
 - [Three ways intelligent automation can advance release validation and break down DevSecOps silos](https://www.dynatrace.com/news/blog/intelligent-automation-break-devsecops-silos/)
 - [The history and future roadmap of the AWS CloudFormation Registry](https://aws.amazon.com/blogs/devops/cloudformation-coverage/)
 - [Red Hat Customer Portal launches redesigned product pages](https://www.redhat.com/en/blog/red-hat-customer-portal-launches-redesigned-product-pages)
-- [Attestation in confidential computing](https://www.redhat.com/en/blog/attestation-confidential-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
