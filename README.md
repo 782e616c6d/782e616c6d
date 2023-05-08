@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [S3 URI Parsing is now available in AWS SDK for Java 2.x](https://aws.amazon.com/blogs/devops/s3-uri-parsing-is-now-available-in-aws-sdk-for-java-2-x/)
+- [DevOps monitoring tools: How to drive DevOps efficiency](https://www.dynatrace.com/news/blog/how-devops-monitoring-tools-drive-efficiency/)
+- [Digital transformation strategies: Success stories from three digital transformation journeys](https://www.dynatrace.com/news/blog/successful-digital-transformation-strategies/)
 - [Sustainable supply chains: challenges, drivers and architectures](https://www.redhat.com/en/blog/sustainable-supply-chains-challenges-drivers-and-architectures)
 - [Friday Five — May 5, 2023](https://www.redhat.com/en/blog/friday-five-may-5-2023-red-hat)
-- [Three ways intelligent automation can advance release validation and break down DevSecOps silos](https://www.dynatrace.com/news/blog/intelligent-automation-break-devsecops-silos/)
-- [The history and future roadmap of the AWS CloudFormation Registry](https://aws.amazon.com/blogs/devops/cloudformation-coverage/)
-- [Red Hat Customer Portal launches redesigned product pages](https://www.redhat.com/en/blog/red-hat-customer-portal-launches-redesigned-product-pages)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
