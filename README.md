@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Retailers must embrace DevSecOps to deliver a modern, resilient shopping experience](https://www.dynatrace.com/news/blog/retailers-must-embrace-devsecops/)
+- [Now available: Azure DevOps Server 2022.0.1](https://devblogs.microsoft.com/devops/now-available-azure-devops-server-2022-0-1/)
 - [S3 URI Parsing is now available in AWS SDK for Java 2.x](https://aws.amazon.com/blogs/devops/s3-uri-parsing-is-now-available-in-aws-sdk-for-java-2-x/)
 - [DevOps monitoring tools: How to drive DevOps efficiency](https://www.dynatrace.com/news/blog/how-devops-monitoring-tools-drive-efficiency/)
 - [Digital transformation strategies: Success stories from three digital transformation journeys](https://www.dynatrace.com/news/blog/successful-digital-transformation-strategies/)
-- [Sustainable supply chains: challenges, drivers and architectures](https://www.redhat.com/en/blog/sustainable-supply-chains-challenges-drivers-and-architectures)
-- [Friday Five — May 5, 2023](https://www.redhat.com/en/blog/friday-five-may-5-2023-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
