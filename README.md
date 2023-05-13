@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — May 12, 2023](https://www.redhat.com/en/blog/friday-five-may-12-2023-red-hat)
 - [Docker Init: Initialize Dockerfiles and Compose files with a single CLI command](https://www.docker.com/blog/docker-init-initialize-dockerfiles-and-compose-files-with-a-single-cli-command/)
-- [What&#39;s new in the web console in RHEL 9.2 and 8.8](https://www.redhat.com/en/blog/whats-new-web-console-rhel-92-and-88)
-- [Speed innovation with new features in Red Hat Enterprise Linux 9.2 and 8.8](https://www.redhat.com/en/blog/speed-innovation-new-features-red-hat-enterprise-linux-92-and-88)
-- [Red Hat Enterprise Linux for SAP Solutions 9.2 - Just Use It](https://www.redhat.com/en/blog/red-hat-enterprise-linux-sap-solutions-version-92)
-- [Retailers must embrace DevSecOps to deliver a modern, resilient shopping experience](https://www.dynatrace.com/news/blog/retailers-must-embrace-devsecops/)
+- [Red Hat Insights Brings Resource Optimization to Red Hat OpenShift](https://www.redhat.com/en/blog/red-hat-insights-brings-resource-optimization-red-hat-openshift)
+- [Red Hat empowers customers to take charge of their learning journey through personalized skills assessments](https://www.redhat.com/en/blog/red-hat-empowers-customers-take-charge-their-learning-journey-through-personalized-skills-assessments)
+- [Powering innovation: How ROSA provides a fully-integrated AWS-native application platform](https://www.redhat.com/en/blog/powering-innovation-rosa-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
