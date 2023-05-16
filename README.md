@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Friday Five — May 12, 2023](https://www.redhat.com/en/blog/friday-five-may-12-2023-red-hat)
-- [Docker Init: Initialize Dockerfiles and Compose files with a single CLI command](https://www.docker.com/blog/docker-init-initialize-dockerfiles-and-compose-files-with-a-single-cli-command/)
-- [Red Hat Insights Brings Resource Optimization to Red Hat OpenShift](https://www.redhat.com/en/blog/red-hat-insights-brings-resource-optimization-red-hat-openshift)
-- [Red Hat empowers customers to take charge of their learning journey through personalized skills assessments](https://www.redhat.com/en/blog/red-hat-empowers-customers-take-charge-their-learning-journey-through-personalized-skills-assessments)
-- [Powering innovation: How ROSA provides a fully-integrated AWS-native application platform](https://www.redhat.com/en/blog/powering-innovation-rosa-aws)
+- [Azure DevOps Achieves ISO 26262 ASIL D level of Certification](https://devblogs.microsoft.com/devops/azure-devops-achieves-iso-26262-asil-d-level-of-certification/)
+- [Boost Your Local Testing Game with the LambdaTest Tunnel Docker Extension](https://www.docker.com/blog/boost-your-local-testing-game-with-lambdatest-tunnel-docker-extension/)
+- [Confidential computing use cases](https://www.redhat.com/en/blog/confidential-computing-use-cases)
+- [Red Hat Device Edge RPM-OSTree updates](https://www.redhat.com/en/blog/red-hat-device-edge-rpm-ostree-updates)
+- [Learn how to use the Red Hat Enterprise Linux &lpar;RHEL&rpar; web console](https://www.redhat.com/en/blog/rhel-web-console)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
