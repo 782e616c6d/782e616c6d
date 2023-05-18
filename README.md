@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Software vendors must accelerate DevSecOps adoption for reliable, resilient product delivery](https://www.dynatrace.com/news/blog/software-vendors-must-accelerate-devsecops-adoption/)
 - [How Dynatrace boosts production resilience with Site Reliability Guardian](https://www.dynatrace.com/news/blog/how-dynatrace-boosts-production-resilience-with-site-reliability-guardian/)
 - [Azure DevOps Achieves ISO 26262 ASIL D level of Certification](https://devblogs.microsoft.com/devops/azure-devops-achieves-iso-26262-asil-d-level-of-certification/)
 - [Boost Your Local Testing Game with the LambdaTest Tunnel Docker Extension](https://www.docker.com/blog/boost-your-local-testing-game-with-lambdatest-tunnel-docker-extension/)
-- [Red Hat Device Edge RPM-OSTree updates](https://www.redhat.com/en/blog/red-hat-device-edge-rpm-ostree-updates)
-- [Learn how to use the Red Hat Enterprise Linux &lpar;RHEL&rpar; web console](https://www.redhat.com/en/blog/rhel-web-console)
+- [Confidential computing use cases](https://www.redhat.com/en/blog/confidential-computing-use-cases)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
