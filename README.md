@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How Cirrusgo enabled rapid resolution with Amazon DevOps Guru](https://aws.amazon.com/blogs/devops/how-cirrusgo-enabled-rapid-resolution-with-devops-guru/)
+- [Friday Five — May 19, 2023](https://www.redhat.com/en/blog/friday-five-may-19-2023-red-hat)
 - [Software vendors must accelerate DevSecOps adoption for reliable, resilient product delivery](https://www.dynatrace.com/news/blog/software-vendors-must-accelerate-devsecops-adoption/)
+- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; - Who does what?](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-rosa-who-does-what)
 - [How Dynatrace boosts production resilience with Site Reliability Guardian](https://www.dynatrace.com/news/blog/how-dynatrace-boosts-production-resilience-with-site-reliability-guardian/)
-- [Azure DevOps Achieves ISO 26262 ASIL D level of Certification](https://devblogs.microsoft.com/devops/azure-devops-achieves-iso-26262-asil-d-level-of-certification/)
-- [Boost Your Local Testing Game with the LambdaTest Tunnel Docker Extension](https://www.docker.com/blog/boost-your-local-testing-game-with-lambdatest-tunnel-docker-extension/)
-- [Confidential computing use cases](https://www.redhat.com/en/blog/confidential-computing-use-cases)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
