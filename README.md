@@ -50,10 +50,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [How Cirrusgo enabled rapid resolution with Amazon DevOps Guru](https://aws.amazon.com/blogs/devops/how-cirrusgo-enabled-rapid-resolution-with-devops-guru/)
+- [RHEL 9.2 edge image configuration](https://www.redhat.com/en/blog/rhel-92-edge-image-configuration)
+- [Optimizing 5G N6 interface services with F5 and Red Hat](https://www.redhat.com/en/blog/optimizing-5g-n6-interface-services-f5-and-red-hat)
 - [Friday Five — May 19, 2023](https://www.redhat.com/en/blog/friday-five-may-19-2023-red-hat)
 - [Software vendors must accelerate DevSecOps adoption for reliable, resilient product delivery](https://www.dynatrace.com/news/blog/software-vendors-must-accelerate-devsecops-adoption/)
-- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; - Who does what?](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-rosa-who-does-what)
-- [How Dynatrace boosts production resilience with Site Reliability Guardian](https://www.dynatrace.com/news/blog/how-dynatrace-boosts-production-resilience-with-site-reliability-guardian/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
