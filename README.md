@@ -50,10 +50,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Advanced Security for Azure DevOps public preview starts now!](https://devblogs.microsoft.com/devops/github-advanced-security-for-azure-devops-public-preview-starts-now/)
-- [How Cirrusgo enabled rapid resolution with Amazon DevOps Guru](https://aws.amazon.com/blogs/devops/how-cirrusgo-enabled-rapid-resolution-with-devops-guru/)
-- [RHEL 9.2 edge image configuration](https://www.redhat.com/en/blog/rhel-92-edge-image-configuration)
-- [Optimizing 5G N6 interface services with F5 and Red Hat](https://www.redhat.com/en/blog/optimizing-5g-n6-interface-services-f5-and-red-hat)
-- [Friday Five — May 19, 2023](https://www.redhat.com/en/blog/friday-five-may-19-2023-red-hat)
+- [Smoothing the transition: CentOS Linux 7 to Red Hat Enterprise Linux](https://www.redhat.com/en/blog/smoothing-transition-centos-linux-7-red-hat-enterprise-linux)
+- [Red Hat OpenShift 4.13 is now available](https://www.redhat.com/en/blog/red-hat-openshift-413-now-available)
+- [Red Hat Advanced Cluster Security turns 4.0 today, moves to PostgreSQL](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-turns-40-today-moves-postgresql)
+- [Podman Desktop 1.0: The next-gen container management solution streamlining developers container operations](https://www.redhat.com/en/blog/podman-desktop-10-next-gen-container-management-solution-streamlining-developers-container-operations)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
