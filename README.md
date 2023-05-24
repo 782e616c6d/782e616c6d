@@ -59,7 +59,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ansible/logos/blob/main/vscode-ansible.png?raw=true" title="Ansible" **alt="Ansible" width="35" height="35"/>&nbsp;
+  <img src="[https://github.com/ansible/logos/blob/main/vscode-ansible.png?raw=true](https://github.com/ansible/logos/blob/main/ansible-logo-pride/ansible-logo-pride.png)" title="Ansible" **alt="Ansible" width="35" height="35"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331370/docker.svg" title="Docker" **alt="Docker" width="35" height="35"/>&nbsp;
   <img src="https://www.svgrepo.com/show/373623/git.svg" title="Git" **alt="Git" width="35" height="35"/>&nbsp;
   <img src="https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
