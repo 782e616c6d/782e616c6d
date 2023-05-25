@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Advanced Security for Azure DevOps public preview starts now!](https://devblogs.microsoft.com/devops/github-advanced-security-for-azure-devops-public-preview-starts-now/)
-- [Smoothing the transition: CentOS Linux 7 to Red Hat Enterprise Linux](https://www.redhat.com/en/blog/smoothing-transition-centos-linux-7-red-hat-enterprise-linux)
-- [Red Hat OpenShift 4.13 is now available](https://www.redhat.com/en/blog/red-hat-openshift-413-now-available)
-- [Red Hat Advanced Cluster Security turns 4.0 today, moves to PostgreSQL](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-turns-40-today-moves-postgresql)
-- [Podman Desktop 1.0: The next-gen container management solution streamlining developers container operations](https://www.redhat.com/en/blog/podman-desktop-10-next-gen-container-management-solution-streamlining-developers-container-operations)
+- [Simplifying Kubernetes Development: Docker Desktop + Red Hat OpenShift](https://www.docker.com/blog/blog-docker-desktop-red-hat-openshift/)
+- [160% Year-over-Year Growth in Pulls of Red Hat’s Universal Base Image on Docker Hub](https://www.docker.com/blog/blog-red-hat-universal-base-image-hub-pulls-grow/)
+- [The moment for AI](https://www.redhat.com/en/blog/moment-ai)
+- [Seizing innovation with the partner ecosystem](https://www.redhat.com/en/blog/seizing-innovation-partner-ecosystem)
+- [Save the date for Red Hat Summit 2024](https://www.redhat.com/en/blog/save-date-red-hat-summit-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
