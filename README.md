@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Improved Flaky Test Management in Azure Pipelines](https://devblogs.microsoft.com/devops/improved-flaky-test-management-in-azure-pipelines/)
+- [Introducing the Enhanced Document API for DynamoDB in the AWS SDK for Java 2.x](https://aws.amazon.com/blogs/devops/introducing-the-enhanced-document-api-for-dynamodb-in-the-aws-sdk-for-java-2-x/)
 - [Simplifying Kubernetes Development: Docker Desktop + Red Hat OpenShift](https://www.docker.com/blog/blog-docker-desktop-red-hat-openshift/)
 - [160% Year-over-Year Growth in Pulls of Red Hat’s Universal Base Image on Docker Hub](https://www.docker.com/blog/blog-red-hat-universal-base-image-hub-pulls-grow/)
 - [The moment for AI](https://www.redhat.com/en/blog/moment-ai)
-- [Seizing innovation with the partner ecosystem](https://www.redhat.com/en/blog/seizing-innovation-partner-ecosystem)
-- [Save the date for Red Hat Summit 2024](https://www.redhat.com/en/blog/save-date-red-hat-summit-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
