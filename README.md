@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Site reliability done right: 5 SRE best practices that deliver on business objectives](https://www.dynatrace.com/news/blog/site-reliability-done-right/)
+- [Markdown editor for comments &lpar;preview&rpar;](https://devblogs.microsoft.com/devops/markdown-editor-for-comments-preview/)
+- [Progressive delivery done right with Dynatrace and OpenFeature](https://www.dynatrace.com/news/blog/progressive-delivery-done-right/)
+- [Optimize software development with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/optimize-software-development-with-amazon-codewhisperer/)
 - [New Boards Hub Update, Sprint 222](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-222/)
-- [Improved Flaky Test Management in Azure Pipelines](https://devblogs.microsoft.com/devops/improved-flaky-test-management-in-azure-pipelines/)
-- [Introducing the Enhanced Document API for DynamoDB in the AWS SDK for Java 2.x](https://aws.amazon.com/blogs/devops/introducing-the-enhanced-document-api-for-dynamodb-in-the-aws-sdk-for-java-2-x/)
-- [Friday Five — May 26, 2023](https://www.redhat.com/en/blog/friday-five-may-26-2023-red-hat)
-- [Simplifying Kubernetes Development: Docker Desktop + Red Hat OpenShift](https://www.docker.com/blog/blog-docker-desktop-red-hat-openshift/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
