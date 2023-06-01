@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Site reliability done right: 5 SRE best practices that deliver on business objectives](https://www.dynatrace.com/news/blog/site-reliability-done-right/)
-- [Markdown editor for comments &lpar;preview&rpar;](https://devblogs.microsoft.com/devops/markdown-editor-for-comments-preview/)
-- [Progressive delivery done right with Dynatrace and OpenFeature](https://www.dynatrace.com/news/blog/progressive-delivery-done-right/)
-- [Optimize software development with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/optimize-software-development-with-amazon-codewhisperer/)
-- [New Boards Hub Update, Sprint 222](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-222/)
+- [Service level objectives: 5 SLOs to get started](https://www.dynatrace.com/news/blog/service-level-objectives-5-slos-to-get-started/)
+- [Docker Desktop 4.20: Docker Engine and CLI Updated to Moby 24.0](https://www.docker.com/blog/docker-desktop-4-20-docker-engine-and-cli-updated-to-moby-24-0/)
+- [Version 1 of the AWS Cloud Development Kit &lpar;AWS CDK&rpar; has reached end-of-support](https://aws.amazon.com/blogs/devops/cdk-v1-end-of-support/)
+- [Performance tracing of Podman using eBPF](https://www.redhat.com/en/blog/performance-tracing-podman-using-ebpf)
+- [Application-driven analytics: How to embed analytics in applications using OpensShift and MongoDB Atlas](https://www.redhat.com/en/blog/application-driven-analytics-how-embed-analytics-applications-using-opensshift-and-mongodb-atlas)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
