@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — June 2, 2023](https://www.redhat.com/en/blog/friday-five-june-2-2023-red-hat)
+- [Confidential computing: From root of trust to actual trust](https://www.redhat.com/en/blog/confidential-computing-root-trust-actual-trust)
+- [Building a high performance 5G network architecture with an open hybrid cloud](https://www.redhat.com/en/blog/building-high-performance-5g-network-architecture-open-hybrid-cloud)
 - [Service level objective examples: 5 SLO examples for faster, more reliable apps](https://www.dynatrace.com/news/blog/service-level-objective-examples-5-slo-examples/)
 - [Docker Desktop 4.20: Docker Engine and CLI Updated to Moby 24.0](https://www.docker.com/blog/docker-desktop-4-20-docker-engine-and-cli-updated-to-moby-24-0/)
-- [Version 1 of the AWS Cloud Development Kit &lpar;AWS CDK&rpar; has reached end-of-support](https://aws.amazon.com/blogs/devops/cdk-v1-end-of-support/)
-- [Performance tracing of Podman using eBPF](https://www.redhat.com/en/blog/performance-tracing-podman-using-ebpf)
-- [Application-driven analytics: How to embed analytics in applications using OpensShift and MongoDB Atlas](https://www.redhat.com/en/blog/application-driven-analytics-how-embed-analytics-applications-using-opensshift-and-mongodb-atlas)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
