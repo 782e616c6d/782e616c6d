@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Is DevOps dead? Exploring the changing IT landscape and future of DevOps](https://www.dynatrace.com/news/blog/is-devops-dead/)
 - [ChatOps integration with Dynatrace and Telegram or Google Chat](https://www.dynatrace.com/news/blog/chatops-integration-with-dynatrace/)
 - [Friday Five — June 2, 2023](https://www.redhat.com/en/blog/friday-five-june-2-2023-red-hat)
 - [Confidential computing: From root of trust to actual trust](https://www.redhat.com/en/blog/confidential-computing-root-trust-actual-trust)
 - [Building a high performance 5G network architecture with an open hybrid cloud](https://www.redhat.com/en/blog/building-high-performance-5g-network-architecture-open-hybrid-cloud)
-- [Service level objective examples: 5 SLO examples for faster, more reliable apps](https://www.dynatrace.com/news/blog/service-level-objective-examples-5-slo-examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
