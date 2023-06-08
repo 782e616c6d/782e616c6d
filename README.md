@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The evolution of quality assurance and how Azure Test Plans is driving the future of manual testing](https://devblogs.microsoft.com/devops/the-evolution-of-quality-assurance-and-how-azure-test-plans-is-driving-the-future-of-manual-testing/)
+- [How to deploy workloads in a multicloud environment with AWS developer tools](https://aws.amazon.com/blogs/devops/how-to-deploy-workloads-in-a-multicloud-environment-with-aws-developer-tools/)
+- [Balancing governance and agility with AWS CodeBuild](https://aws.amazon.com/blogs/devops/balancing-governance-and-agility-with-aws-codebuild/)
 - [How organizations are modernizing for cloud operations](https://aws.amazon.com/blogs/devops/how-organizations-are-modernizing-for-cloud-operations/)
 - [Is DevOps dead? Exploring the changing IT landscape and future of DevOps](https://www.dynatrace.com/news/blog/is-devops-dead/)
-- [ChatOps integration with Dynatrace and Telegram or Google Chat](https://www.dynatrace.com/news/blog/chatops-integration-with-dynatrace/)
-- [Friday Five — June 2, 2023](https://www.redhat.com/en/blog/friday-five-june-2-2023-red-hat)
-- [Confidential computing: From root of trust to actual trust](https://www.redhat.com/en/blog/confidential-computing-root-trust-actual-trust)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
