@@ -51,9 +51,9 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 <!-- BLOG-POST-LIST:START -->
 - [Unlock Docker Desktop Real-Time Insights with the Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
 - [Boost DevOps maturity with observability and a data lakehouse](https://www.dynatrace.com/news/blog/boost-devops-maturity-with-a-data-lakehouse/)
+- [Install GitLab CE on RHEL9 with Ansible](https://www.redhat.com/en/blog/installing-gitlab-ce-rhel-9)
+- [Friday Five — June 9, 2023](https://www.redhat.com/en/blog/friday-five-june-9-2023-red-hat)
 - [The evolution of quality assurance and how Azure Test Plans is driving the future of manual testing](https://devblogs.microsoft.com/devops/the-evolution-of-quality-assurance-and-how-azure-test-plans-is-driving-the-future-of-manual-testing/)
-- [How to deploy workloads in a multicloud environment with AWS developer tools](https://aws.amazon.com/blogs/devops/how-to-deploy-workloads-in-a-multicloud-environment-with-aws-developer-tools/)
-- [Balancing governance and agility with AWS CodeBuild](https://aws.amazon.com/blogs/devops/balancing-governance-and-agility-with-aws-codebuild/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
