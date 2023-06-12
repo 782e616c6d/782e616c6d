@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Updates to Approvals and Checks](https://devblogs.microsoft.com/devops/updates-to-approvals-and-checks/)
 - [Unlock Docker Desktop Real-Time Insights with the Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
 - [Boost DevOps maturity with observability and a data lakehouse](https://www.dynatrace.com/news/blog/boost-devops-maturity-with-a-data-lakehouse/)
 - [Install GitLab CE on RHEL9 with Ansible](https://www.redhat.com/en/blog/installing-gitlab-ce-rhel-9)
 - [Friday Five — June 9, 2023](https://www.redhat.com/en/blog/friday-five-june-9-2023-red-hat)
-- [The evolution of quality assurance and how Azure Test Plans is driving the future of manual testing](https://devblogs.microsoft.com/devops/the-evolution-of-quality-assurance-and-how-azure-test-plans-is-driving-the-future-of-manual-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
