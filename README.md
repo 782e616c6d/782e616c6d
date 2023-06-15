@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for patch management](https://www.redhat.com/en/blog/best-practices-patch-management)
 - [June patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-2/)
-- [Updates to Approvals and Checks](https://devblogs.microsoft.com/devops/updates-to-approvals-and-checks/)
-- [Unlock Docker Desktop Real-Time Insights with the Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
-- [Boost DevOps maturity with observability and a data lakehouse](https://www.dynatrace.com/news/blog/boost-devops-maturity-with-a-data-lakehouse/)
-- [Install GitLab CE on RHEL9 with Ansible](https://www.redhat.com/en/blog/installing-gitlab-ce-rhel-9)
+- [Red Hat OpenStack Platform 17.1 delivers modern networks and enhanced security features](https://www.redhat.com/en/blog/red-hat-openstack-platform-171-delivers-modern-networks-and-enhanced-security-features)
+- [Red Hat compliance certifications and attestations achieved](https://www.redhat.com/en/blog/red-hat-compliance-certifications-and-attestations-achieved)
+- [Plan maintenance of your Red Hat Enterprise Linux systems using the newly published upgrade schema](https://www.redhat.com/en/blog/plan-maintenance-your-red-hat-enterprise-linux-systems-using-newly-published-upgrade-schema)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
