@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Best practices for patch management](https://www.redhat.com/en/blog/best-practices-patch-management)
-- [June patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-2/)
-- [Red Hat OpenStack Platform 17.1 delivers modern networks and enhanced security features](https://www.redhat.com/en/blog/red-hat-openstack-platform-171-delivers-modern-networks-and-enhanced-security-features)
-- [Red Hat compliance certifications and attestations achieved](https://www.redhat.com/en/blog/red-hat-compliance-certifications-and-attestations-achieved)
-- [Plan maintenance of your Red Hat Enterprise Linux systems using the newly published upgrade schema](https://www.redhat.com/en/blog/plan-maintenance-your-red-hat-enterprise-linux-systems-using-newly-published-upgrade-schema)
+- [Protect your supply chain from disasters](https://www.redhat.com/en/blog/supply-chain-challenges-disaster-readiness)
+- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; IRAP Assessment kicks off](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-rosa-irap-assessment-kicks)
+- [Friday Five — June 16, 2023](https://www.redhat.com/en/blog/friday-five-june-16-2023-red-hat)
+- [Confidential computing platform-specific details](https://www.redhat.com/en/blog/confidential-computing-platform-specific-details)
+- [Streamlined Kubernetes cluster management: Introducing Red Hat Advanced Cluster Management 2.8](https://www.redhat.com/en/blog/streamlined-kubernetes-cluster-management-introducing-red-hat-advanced-cluster-management-28)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
