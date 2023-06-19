@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [New Boards Hub Update, Sprint 223](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-223/)
+- [Policy-based access control in application development with Amazon Verified Permissions](https://aws.amazon.com/blogs/devops/policy-based-access-control-in-application-development-with-amazon-verified-permissions/)
 - [Protect your supply chain from disasters](https://www.redhat.com/en/blog/supply-chain-challenges-disaster-readiness)
 - [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; IRAP Assessment kicks off](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-rosa-irap-assessment-kicks)
 - [Friday Five — June 16, 2023](https://www.redhat.com/en/blog/friday-five-june-16-2023-red-hat)
-- [Confidential computing platform-specific details](https://www.redhat.com/en/blog/confidential-computing-platform-specific-details)
-- [Streamlined Kubernetes cluster management: Introducing Red Hat Advanced Cluster Management 2.8](https://www.redhat.com/en/blog/streamlined-kubernetes-cluster-management-introducing-red-hat-advanced-cluster-management-28)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
