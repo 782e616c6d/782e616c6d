@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [We Thank the Stack Overflow Community for Ranking Docker the #1 Most-Used Developer Tool](https://www.docker.com/blog/docker-stack-overflow-survey-thank-you-2023/)
 - [Benefit from easily extensible automation—from SaaS to the edge](https://www.dynatrace.com/news/blog/benefit-from-easily-extensible-automation-from-saas-to-the-edge/)
 - [Shorter Feedback Loops Developing Java Apps with Digma’s Free Docker Extension](https://www.docker.com/blog/shorter-feedback-loops-developing-java-apps-with-digmas-free-docker-extension/)
 - [Full-Stack Reproducibility for AI/ML with Docker and Kaskada](https://www.docker.com/blog/full-stack-reproducibility-for-ai-ml-with-docker-kaskada/)
 - [New Boards Hub Update, Sprint 223](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-223/)
-- [Policy-based access control in application development with Amazon Verified Permissions](https://aws.amazon.com/blogs/devops/policy-based-access-control-in-application-development-with-amazon-verified-permissions/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
