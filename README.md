@@ -53,7 +53,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - [Benefit from easily extensible automation—from SaaS to the edge](https://www.dynatrace.com/news/blog/benefit-from-easily-extensible-automation-from-saas-to-the-edge/)
 - [Shorter Feedback Loops Developing Java Apps with Digma’s Free Docker Extension](https://www.docker.com/blog/shorter-feedback-loops-developing-java-apps-with-digmas-free-docker-extension/)
 - [Full-Stack Reproducibility for AI/ML with Docker and Kaskada](https://www.docker.com/blog/full-stack-reproducibility-for-ai-ml-with-docker-kaskada/)
-- [New Boards Hub Update, Sprint 223](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-223/)
+- [Green opportunity in telco: Transform from the packet networking to computing by IOWN &lpar;Innovative Optical and Wireless Network&rpar;](https://www.redhat.com/en/blog/green-opportunity-telco-transform-packet-networking-computing-iown-innovative-optical-and-wireless-network)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
