@@ -50,10 +50,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [We Thank the Stack Overflow Community for Ranking Docker the #1 Most-Used Developer Tool](https://www.docker.com/blog/docker-stack-overflow-survey-thank-you-2023/)
-- [Benefit from easily extensible automation—from SaaS to the edge](https://www.dynatrace.com/news/blog/benefit-from-easily-extensible-automation-from-saas-to-the-edge/)
-- [Shorter Feedback Loops Developing Java Apps with Digma’s Free Docker Extension](https://www.docker.com/blog/shorter-feedback-loops-developing-java-apps-with-digmas-free-docker-extension/)
-- [Full-Stack Reproducibility for AI/ML with Docker and Kaskada](https://www.docker.com/blog/full-stack-reproducibility-for-ai-ml-with-docker-kaskada/)
-- [Green opportunity in telco: Transform from the packet networking to computing by IOWN &lpar;Innovative Optical and Wireless Network&rpar;](https://www.redhat.com/en/blog/green-opportunity-telco-transform-packet-networking-computing-iown-innovative-optical-and-wireless-network)
+- [RHEL confidential virtual machines on Azure: A technical deep dive](https://www.redhat.com/en/blog/rhel-confidential-virtual-machines-azure-technical-deep-dive)
+- [​​Red Hat bringing open hybrid cloud to Red Hat IT provides key learnings for others](https://www.redhat.com/en/blog/red-hat-bringing-open-hybrid-cloud-red-hat-it-provides-key-learnings-others)
+- [Furthering the evolution of CentOS Stream](https://www.redhat.com/en/blog/furthering-evolution-centos-stream)
+- [FIRST Announces CVSS v4.0 Public Preview](https://www.redhat.com/en/blog/first-announces-cvss-v40-public-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
