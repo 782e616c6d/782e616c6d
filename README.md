@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — June 23, 2023](https://www.redhat.com/en/blog/friday-five-june-23-2023-red-hat)
+- [RHEL: Behind the scenes of a simple backport](https://www.redhat.com/en/blog/rhel-behind-scenes-simple-backport)
+- [Confidential computing: 5 support technologies to explore](https://www.redhat.com/en/blog/confidential-computing-5-support-technologies-explore)
 - [We Thank the Stack Overflow Community for Ranking Docker the #1 Most-Used Developer Tool](https://www.docker.com/blog/docker-stack-overflow-survey-thank-you-2023/)
 - [RHEL confidential virtual machines on Azure: A technical deep dive](https://www.redhat.com/en/blog/rhel-confidential-virtual-machines-azure-technical-deep-dive)
-- [​​Red Hat bringing open hybrid cloud to Red Hat IT provides key learnings for others](https://www.redhat.com/en/blog/red-hat-bringing-open-hybrid-cloud-red-hat-it-provides-key-learnings-others)
-- [Furthering the evolution of CentOS Stream](https://www.redhat.com/en/blog/furthering-evolution-centos-stream)
-- [FIRST Announces CVSS v4.0 Public Preview](https://www.redhat.com/en/blog/first-announces-cvss-v40-public-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
