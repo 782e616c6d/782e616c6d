@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Acquires Mutagen for Continued Investment in Performance and Flexibility of Docker Desktop](https://www.docker.com/blog/mutagen-acquisition/)
+- [Choose an image for your organization](https://devblogs.microsoft.com/devops/choose-an-image-for-your-organization/)
 - [Friday Five — June 23, 2023](https://www.redhat.com/en/blog/friday-five-june-23-2023-red-hat)
 - [Application modernization: Promote, observe and process](https://www.redhat.com/en/blog/application-modernization-promote-observe-and-process)
 - [RHEL: Behind the scenes of a simple backport](https://www.redhat.com/en/blog/rhel-behind-scenes-simple-backport)
-- [Confidential computing: 5 support technologies to explore](https://www.redhat.com/en/blog/confidential-computing-5-support-technologies-explore)
-- [We Thank the Stack Overflow Community for Ranking Docker the #1 Most-Used Developer Tool](https://www.docker.com/blog/docker-stack-overflow-survey-thank-you-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
