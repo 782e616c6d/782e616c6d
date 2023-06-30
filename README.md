@@ -50,10 +50,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Three ways to optimize open source contributions](https://www.dynatrace.com/news/blog/optimize-open-source-software-contributions/)
+- [You Asked. We Acted: How Red Hat collects and utilizes feedback from Red Hat Summit](https://www.redhat.com/en/blog/you-asked-we-acted-how-red-hat-collects-and-utilizes-feedback-red-hat-summit)
+- [Fully automated SAP life cycle in regulated and restricted environments](https://www.redhat.com/en/blog/fully-automated-sap-life-cycle-regulated-and-restricted-environments)
 - [Docker Acquires Mutagen for Continued Investment in Performance and Flexibility of Docker Desktop](https://www.docker.com/blog/mutagen-acquisition/)
 - [Choose an image for your organization](https://devblogs.microsoft.com/devops/choose-an-image-for-your-organization/)
-- [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
-- [Get the most out of Red Hat Enterprise Linux in the cloud](https://www.redhat.com/en/blog/get-most-out-red-hat-enterprise-linux-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
