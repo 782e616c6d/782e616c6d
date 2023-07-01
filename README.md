@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — June 30, 2023](https://www.redhat.com/en/blog/friday-five-june-30-2023-red-hat)
+- [Find your top tasks on the new Red Hat OpenShift Service on AWS learning hub](https://www.redhat.com/en/blog/find-your-top-tasks-new-rosa-learning-hub)
+- [Application modernization: The importance of an opinionated workflow](https://www.redhat.com/en/blog/application-modernization-importance-opinionated-workflow)
 - [Three ways to optimize open source contributions](https://www.dynatrace.com/news/blog/optimize-open-source-software-contributions/)
-- [You Asked. We Acted: How Red Hat collects and utilizes feedback from Red Hat Summit](https://www.redhat.com/en/blog/you-asked-we-acted-how-red-hat-collects-and-utilizes-feedback-red-hat-summit)
-- [Fully automated SAP life cycle in regulated and restricted environments](https://www.redhat.com/en/blog/fully-automated-sap-life-cycle-regulated-and-restricted-environments)
-- [Docker Acquires Mutagen for Continued Investment in Performance and Flexibility of Docker Desktop](https://www.docker.com/blog/mutagen-acquisition/)
-- [Choose an image for your organization](https://devblogs.microsoft.com/devops/choose-an-image-for-your-organization/)
+- [Red Hat Enterprise Linux Management with in-place upgrades](https://www.redhat.com/en/blog/red-hat-enterprise-linux-management-place-upgrades)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
