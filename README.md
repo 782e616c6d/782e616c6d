@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Conversational AI Made Easy: Developing an ML FAQ Model Demo from Scratch Using Rasa and Docker](https://www.docker.com/blog/developing-using-rasa-and-docker/)
+- [Docker Desktop 4.21: Support for new Wasm runtimes, Docker Init support for Rust, Docker Scout Dashboard enhancements, Builds view &lpar;Beta&rpar;, and more](https://www.docker.com/blog/docker-desktop-4-21/)
 - [SLO service: Creating global SLOs for enterprise-wide quality standards](https://www.dynatrace.com/news/blog/slo-service-creating-global-slos/)
 - [Accelerating your network automation journey with Ansible network validated content](https://www.redhat.com/en/blog/accelerating-your-network-automation-journey-ansible-network-validated-content)
 - [Friday Five — June 30, 2023](https://www.redhat.com/en/blog/friday-five-june-30-2023-red-hat)
-- [Find your top tasks on the new Red Hat OpenShift Service on AWS learning hub](https://www.redhat.com/en/blog/find-your-top-tasks-new-rosa-learning-hub)
-- [Application modernization: The importance of an opinionated workflow](https://www.redhat.com/en/blog/application-modernization-importance-opinionated-workflow)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
