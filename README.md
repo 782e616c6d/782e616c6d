@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — July 7, 2023](https://www.redhat.com/en/blog/friday-five-july-7-2023-red-hat)
 - [Conversational AI Made Easy: Developing an ML FAQ Model Demo from Scratch Using Rasa and Docker](https://www.docker.com/blog/developing-using-rasa-and-docker/)
 - [Docker Desktop 4.21: Support for new Wasm runtimes, Docker Init support for Rust, Docker Scout Dashboard enhancements, Builds view &lpar;Beta&rpar;, and more](https://www.docker.com/blog/docker-desktop-4-21/)
-- [SLO service: Creating global SLOs for enterprise-wide quality standards](https://www.dynatrace.com/news/blog/slo-service-creating-global-slos/)
-- [Running containers faster than ever](https://www.redhat.com/en/blog/running-containers-faster-ever)
-- [Accelerating your network automation journey with Ansible network validated content](https://www.redhat.com/en/blog/accelerating-your-network-automation-journey-ansible-network-validated-content)
+- [[EMEA-EN]Serving faster innovation: how open source is supporting AI-powered fan experiences at Wimbledon](https://www.redhat.com/en/blog/serving-faster-innovation-how-open-source-supporting-ai-powered-fan-experiences-wimbledon)
+- [New offering: Red Hat Enterprise Linux 7 for Third-Party Linux migration on AWS](https://www.redhat.com/en/blog/new-offering-red-hat-enterprise-linux-7-third-party-linux-migration-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
