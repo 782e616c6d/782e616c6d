@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Dynatrace Named a Leader and Positioned Furthest for Vision and Highest in Execution in the 2023 Gartner® Magic Quadrant™ for Application Performance Monitoring and Observability](https://www.dynatrace.com/news/blog/dynatrace-named-a-leader-in-2023-gartner-magic-quadrant-for-apm-and-observability/)
+- [Running GitHub Actions in a private Subnet with AWS CodeBuild](https://aws.amazon.com/blogs/devops/running-github-actions-in-a-private-subnet-with-aws-codebuild/)
+- [Automated Code Review on Pull Requests using AWS CodeCommit and AWS CodeBuild](https://aws.amazon.com/blogs/devops/automated-code-review-on-pull-requests-using-aws-codecommit-and-aws-codebuild/)
 - [Friday Five — July 7, 2023](https://www.redhat.com/en/blog/friday-five-july-7-2023-red-hat)
 - [Application modernization: Common problems and respecting the enterprise environment](https://www.redhat.com/en/blog/application-modernization-common-problems-and-respecting-enterprise-environment)
-- [Conversational AI Made Easy: Developing an ML FAQ Model Demo from Scratch Using Rasa and Docker](https://www.docker.com/blog/developing-using-rasa-and-docker/)
-- [Docker Desktop 4.21: Support for new Wasm runtimes, Docker Init support for Rust, Docker Scout Dashboard enhancements, Builds view &lpar;Beta&rpar;, and more](https://www.docker.com/blog/docker-desktop-4-21/)
-- [[EMEA-EN]Serving faster innovation: how open source is supporting AI-powered fan experiences at Wimbledon](https://www.redhat.com/en/blog/serving-faster-innovation-how-open-source-supporting-ai-powered-fan-experiences-wimbledon)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
