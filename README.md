@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [New Boards Hub Update, Sprint 224](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-224/)
+- [How Kinsta Improved the End-to-End Development Experience by Dockerizing Every Step of the Production Cycle](https://www.docker.com/blog/how-kinsta-improved-the-end-to-end-development-experience-by-dockerizing-every-step-of-the-production-cycle/)
+- [Optimizing Deep Learning Workflows: Leveraging Stable Diffusion and Docker on WSL 2](https://www.docker.com/blog/stable-diffusion-and-docker-on-wsl2/)
 - [Dynatrace Named a Leader and Positioned Furthest for Vision and Highest in Execution in the 2023 Gartner® Magic Quadrant™ for Application Performance Monitoring and Observability](https://www.dynatrace.com/news/blog/dynatrace-named-a-leader-in-2023-gartner-magic-quadrant-for-apm-and-observability/)
 - [Running GitHub Actions in a private Subnet with AWS CodeBuild](https://aws.amazon.com/blogs/devops/running-github-actions-in-a-private-subnet-with-aws-codebuild/)
-- [Automated Code Review on Pull Requests using AWS CodeCommit and AWS CodeBuild](https://aws.amazon.com/blogs/devops/automated-code-review-on-pull-requests-using-aws-codecommit-and-aws-codebuild/)
-- [Friday Five — July 7, 2023](https://www.redhat.com/en/blog/friday-five-july-7-2023-red-hat)
-- [Application modernization: Common problems and respecting the enterprise environment](https://www.redhat.com/en/blog/application-modernization-common-problems-and-respecting-enterprise-environment)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
