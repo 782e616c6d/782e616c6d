@@ -52,8 +52,8 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - [New Boards Hub Update, Sprint 224](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-224/)
 - [How Kinsta Improved the End-to-End Development Experience by Dockerizing Every Step of the Production Cycle](https://www.docker.com/blog/how-kinsta-improved-the-end-to-end-development-experience-by-dockerizing-every-step-of-the-production-cycle/)
 - [Optimizing Deep Learning Workflows: Leveraging Stable Diffusion and Docker on WSL 2](https://www.docker.com/blog/stable-diffusion-and-docker-on-wsl2/)
+- [CentOS Linux is going End of Life, What does that mean for me?](https://www.redhat.com/en/blog/centos-linux-going-end-life-what-does-mean-me)
 - [Dynatrace Named a Leader and Positioned Furthest for Vision and Highest in Execution in the 2023 Gartner® Magic Quadrant™ for Application Performance Monitoring and Observability](https://www.dynatrace.com/news/blog/dynatrace-named-a-leader-in-2023-gartner-magic-quadrant-for-apm-and-observability/)
-- [Running GitHub Actions in a private Subnet with AWS CodeBuild](https://aws.amazon.com/blogs/devops/running-github-actions-in-a-private-subnet-with-aws-codebuild/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
