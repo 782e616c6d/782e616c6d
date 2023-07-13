@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps 2023 Q3 Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-2023-q3-roadmap-update/)
+- [Using Docker Desktop and JFrog Artifactory for the Enterprise](https://www.docker.com/blog/using-docker-desktop-and-jfrog-artifactory-for-the-enterprise/)
+- [Directing ML-powered Operational Insights from Amazon DevOps Guru to your Datadog event stream](https://aws.amazon.com/blogs/devops/directing_ml-powered_operational_insights_from_amazon_devops_guru_to_your_datadog_event_stream/)
 - [New Boards Hub Update, Sprint 224](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-224/)
 - [How Kinsta Improved the End-to-End Development Experience by Dockerizing Every Step of the Production Cycle](https://www.docker.com/blog/how-kinsta-improved-the-end-to-end-development-experience-by-dockerizing-every-step-of-the-production-cycle/)
-- [Optimizing Deep Learning Workflows: Leveraging Stable Diffusion and Docker on WSL 2](https://www.docker.com/blog/stable-diffusion-and-docker-on-wsl2/)
-- [CentOS Linux is going End of Life, What does that mean for me?](https://www.redhat.com/en/blog/centos-linux-going-end-life-what-does-mean-me)
-- [Dynatrace Named a Leader and Positioned Furthest for Vision and Highest in Execution in the 2023 Gartner® Magic Quadrant™ for Application Performance Monitoring and Observability](https://www.dynatrace.com/news/blog/dynatrace-named-a-leader-in-2023-gartner-magic-quadrant-for-apm-and-observability/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
