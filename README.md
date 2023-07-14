@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — July 14, 2023](https://www.redhat.com/en/blog/friday-five-july-14-2023-red-hat)
 - [Azure DevOps 2023 Q3 Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-2023-q3-roadmap-update/)
 - [Using Docker Desktop and JFrog Artifactory for the Enterprise](https://www.docker.com/blog/using-docker-desktop-and-jfrog-artifactory-for-the-enterprise/)
 - [Directing ML-powered Operational Insights from Amazon DevOps Guru to your Datadog event stream](https://aws.amazon.com/blogs/devops/directing_ml-powered_operational_insights_from_amazon_devops_guru_to_your_datadog_event_stream/)
-- [New Boards Hub Update, Sprint 224](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-224/)
-- [How Kinsta Improved the End-to-End Development Experience by Dockerizing Every Step of the Production Cycle](https://www.docker.com/blog/how-kinsta-improved-the-end-to-end-development-experience-by-dockerizing-every-step-of-the-production-cycle/)
+- [Get to know Red Hat Learning Subscription with a 14-day trial](https://www.redhat.com/en/blog/get-know-red-hat-learning-subscription-14-day-trial)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
