@@ -49,11 +49,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [New Boards Hub Path to GA](https://devblogs.microsoft.com/devops/new-boards-hub-path-to-ga/)
-- [Friday Five — July 14, 2023](https://www.redhat.com/en/blog/friday-five-july-14-2023-red-hat)
-- [Automate configuration of Active Directory authentication for Microsoft SQL Server running on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/automate-configuration-active-directory-authentication-microsoft-sql-server-running-red-hat-enterprise-linux)
-- [Azure DevOps 2023 Q3 Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-2023-q3-roadmap-update/)
-- [Using Docker Desktop and JFrog Artifactory for the Enterprise](https://www.docker.com/blog/using-docker-desktop-and-jfrog-artifactory-for-the-enterprise/)
+- [Improvements to code coverage experience under test automation](https://devblogs.microsoft.com/devops/improvements-to-code-coverage-experience-under-test-automation/)
+- [Why Are There More Than 100 Million Pull Requests for AI/ML Images on Docker Hub?](https://www.docker.com/blog/100-million-pull-requests-for-ai-ml-images-docker-hub/)
+- [4 Reasons I’m Excited to Attend DockerCon 2023](https://www.docker.com/blog/4-reasons-im-excited-to-attend-dockercon-2023/)
+- [How to write and execute integration tests for AWS CDK applications](https://aws.amazon.com/blogs/devops/how-to-write-and-execute-integration-tests-for-aws-cdk-applications/)
+- [Confidential containers with AMD SEV](https://www.redhat.com/en/blog/confidential-containers-amd-sev)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
