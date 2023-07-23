@@ -43,9 +43,9 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 - :zap: In my free time I venture a lot into the open source world, I also like to consume technology-related content, mostly technology articles.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" width="450px" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" width="450px" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
