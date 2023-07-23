@@ -44,9 +44,9 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - :zap: In my free time I venture a lot into the open source world, I also like to consume technology-related content, mostly technology articles.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake-dark.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake.svg)">
-  <img alt="github-snake" src="[github-snake.svg](https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake.svg)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### 📕 Latest Blog Posts:
