@@ -44,9 +44,9 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - :zap: In my free time I venture a lot into the open source world, I also like to consume technology-related content, mostly technology articles.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="github-snake.svg">
 </picture>
 
 ### 📕 Latest Blog Posts:
