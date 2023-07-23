@@ -46,7 +46,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake.svg" width="450px>
+  <img alt="github-snake" src="https://github.com/782e616c6d/782e616c6d/blob/output/github-contribution-grid-snake.svg" width="450px />
 </picture>
 
 ### 📕 Latest Blog Posts:
