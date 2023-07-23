@@ -46,7 +46,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" width="450px" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" width="450px" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <br><img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 ### 📕 Latest Blog Posts:
