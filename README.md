@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Why should I standardize my operating system?](https://www.redhat.com/en/blog/why-should-i-standardize-my-operating-system)
+- [Friday Five — July 21, 2023](https://www.redhat.com/en/blog/friday-five-july-21-2023-red-hat)
 - [Improvements to code coverage experience under test automation](https://devblogs.microsoft.com/devops/improvements-to-code-coverage-experience-under-test-automation/)
 - [Why Are There More Than 100 Million Pull Requests for AI/ML Images on Docker Hub?](https://www.docker.com/blog/100-million-pull-requests-for-ai-ml-images-docker-hub/)
 - [4 Reasons I’m Excited to Attend DockerCon 2023](https://www.docker.com/blog/4-reasons-im-excited-to-attend-dockercon-2023/)
-- [How to write and execute integration tests for AWS CDK applications](https://aws.amazon.com/blogs/devops/how-to-write-and-execute-integration-tests-for-aws-cdk-applications/)
-- [Confidential containers with AMD SEV](https://www.redhat.com/en/blog/confidential-containers-amd-sev)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
