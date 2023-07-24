@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy controls and barriers to session replay](https://www.dynatrace.com/news/blog/privacy-controls-and-session-replay/)
+- [Supercharging AI/ML Development with JupyterLab and Docker](https://www.docker.com/blog/supercharging-ai-ml-development-with-jupyterlab-and-docker/)
+- [DevOps automation: From event-driven automation to answer-driven automation [with causal AI]](https://www.dynatrace.com/news/blog/answer-driven-devops-automation/)
 - [Why should I standardize my operating system?](https://www.redhat.com/en/blog/why-should-i-standardize-my-operating-system)
 - [Friday Five — July 21, 2023](https://www.redhat.com/en/blog/friday-five-july-21-2023-red-hat)
-- [Improvements to code coverage experience under test automation](https://devblogs.microsoft.com/devops/improvements-to-code-coverage-experience-under-test-automation/)
-- [Why Are There More Than 100 Million Pull Requests for AI/ML Images on Docker Hub?](https://www.docker.com/blog/100-million-pull-requests-for-ai-ml-images-docker-hub/)
-- [4 Reasons I’m Excited to Attend DockerCon 2023](https://www.docker.com/blog/4-reasons-im-excited-to-attend-dockercon-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
