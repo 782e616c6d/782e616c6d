@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — July 28, 2023](https://www.redhat.com/en/blog/friday-five-july-28-2023-red-hat)
+- [CentOS Linux is being retired, how will my job change with Red Hat Enterprise Linux?](https://www.redhat.com/en/blog/centos-linux-vs-rhel)
+- [How to run Red Hat Enterprise Linux 9.2 on Azure confidential virtual machines](https://www.redhat.com/en/blog/run-rhel-on-azure-confidential-vms)
 - [Generative AI: How it can be applied to business applications today](https://www.redhat.com/en/blog/generative-ai-business-applications)
-- [Privacy controls and barriers to session replay](https://www.dynatrace.com/news/blog/privacy-controls-and-session-replay/)
-- [Supercharging AI/ML Development with JupyterLab and Docker](https://www.docker.com/blog/supercharging-ai-ml-development-with-jupyterlab-and-docker/)
-- [DevOps automation: From event-driven automation to answer-driven automation [with causal AI]](https://www.dynatrace.com/news/blog/answer-driven-devops-automation/)
-- [Weakness risk-patterns: A Red Hat way to identify poor software practices in the secure development lifecycle](https://www.redhat.com/en/blog/weakness-risk-patterns)
+- [Red Hat OpenShift Service on AWS GovCloud is prioritized for FedRAMP® High JAB Authorization](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-govcloud-prioritized-fedrampr-high-jab-authorization-0)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
