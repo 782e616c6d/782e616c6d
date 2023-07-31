@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Friday Five — July 28, 2023](https://www.redhat.com/en/blog/friday-five-july-28-2023-red-hat)
-- [CentOS Linux is being retired, how will my job change with Red Hat Enterprise Linux?](https://www.redhat.com/en/blog/centos-linux-vs-rhel)
-- [How to run Red Hat Enterprise Linux 9.2 on Azure confidential virtual machines](https://www.redhat.com/en/blog/run-rhel-on-azure-confidential-vms)
-- [Generative AI: How it can be applied to business applications today](https://www.redhat.com/en/blog/generative-ai-business-applications)
-- [Red Hat OpenShift Service on AWS GovCloud is prioritized for FedRAMP® High JAB Authorization](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-govcloud-prioritized-fedrampr-high-jab-authorization-0)
+- [Dynatrace to acquire Rookout to deliver code debugging in production environments](https://www.dynatrace.com/news/blog/dynatrace-to-acquire-rookout-for-code-debugging/)
+- [Exploring Fn::ForEach and Fn::FindInMap enhancements in AWS CloudFormation](https://aws.amazon.com/blogs/devops/exploring-fnforeach-and-fnfindinmap-enhancements-in-aws-cloudformation/)
+- [Deploy serverless applications in a multicloud environment using Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/deploy-serverless-applications-in-a-multicloud-environment-using-amazon-codecatalyst/)
+- [Deploy container applications in a multicloud environment using Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/deploy-container-applications-in-a-multicloud-environment-using-amazon-codecatalyst/)
+- [Build and Deploy a LangChain-Powered Chat App with Docker and Streamlit](https://www.docker.com/blog/build-and-deploy-a-langchain-powered-chat-app-with-docker-and-streamlit/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
