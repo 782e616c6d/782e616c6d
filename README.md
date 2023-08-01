@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Improve Docker Compose Modularity with “include”](https://www.docker.com/blog/improve-docker-compose-modularity-with-include/)
+- [New warnings and errors in Clang 16](https://www.redhat.com/en/blog/new-warnings-and-errors-clang-16)
 - [Dynatrace to acquire Rookout to deliver code debugging in production environments](https://www.dynatrace.com/news/blog/dynatrace-to-acquire-rookout-for-code-debugging/)
 - [Exploring Fn::ForEach and Fn::FindInMap enhancements in AWS CloudFormation](https://aws.amazon.com/blogs/devops/exploring-fnforeach-and-fnfindinmap-enhancements-in-aws-cloudformation/)
 - [Deploy serverless applications in a multicloud environment using Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/deploy-serverless-applications-in-a-multicloud-environment-using-amazon-codecatalyst/)
-- [Deploy container applications in a multicloud environment using Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/deploy-container-applications-in-a-multicloud-environment-using-amazon-codecatalyst/)
-- [Build and Deploy a LangChain-Powered Chat App with Docker and Streamlit](https://www.docker.com/blog/build-and-deploy-a-langchain-powered-chat-app-with-docker-and-streamlit/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
