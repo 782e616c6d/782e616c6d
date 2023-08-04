@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Developing with Java and Spring Boot using Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/developing-with-java-and-spring-boot-using-amazon-codewhisperer/)
+- [Memgraph Docker Extension: Empowering Real-Time Analytics with High Performance](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
 - [Protecting Secrets with Docker](https://www.docker.com/blog/protecting-secrets-with-docker/)
 - [Red Hat Insights Compliance: Introducing new customization options for policies](https://www.redhat.com/en/blog/red-hat-insights-compliance-options)
 - [Improve Docker Compose Modularity with `include`](https://www.docker.com/blog/improve-docker-compose-modularity-with-include/)
-- [New warnings and errors in Clang 16](https://www.redhat.com/en/blog/new-warnings-and-errors-clang-16)
-- [Dynatrace to acquire Rookout to deliver code debugging in production environments](https://www.dynatrace.com/news/blog/dynatrace-to-acquire-rookout-for-code-debugging/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
