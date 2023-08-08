@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-3/)
 - [Developing with Java and Spring Boot using Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/developing-with-java-and-spring-boot-using-amazon-codewhisperer/)
 - [Memgraph Docker Extension: Empowering Real-Time Analytics with High Performance](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
 - [Joining RHEL or any other Linux machine directly to Microsoft Active Directory](https://www.redhat.com/en/blog/joining-rhel-microsoft-active-directory)
 - [Friday Five — August 4, 2023](https://www.redhat.com/en/blog/friday-five-august-4-2023-red-hat)
-- [Protecting Secrets with Docker](https://www.docker.com/blog/protecting-secrets-with-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
