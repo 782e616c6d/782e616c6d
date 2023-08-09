@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Container Security and Why It Matters](https://www.docker.com/blog/container-security-and-why-it-matters/)
+- [Sentiment Analysis and Insights on Cryptocurrencies Using Docker and Containerized AI/ML Models](https://www.docker.com/blog/sentiment-analysis-and-insights-on-cryptocurrencies-using-docker-and-containerized-ai-ml-models/)
+- [Docker Desktop 4.22: Resource Saver, Compose ‘include’, and Enhanced RBAC Functionality](https://www.docker.com/blog/docker-desktop-4-22/)
 - [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-3/)
 - [Developing with Java and Spring Boot using Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/developing-with-java-and-spring-boot-using-amazon-codewhisperer/)
-- [Memgraph Docker Extension: Empowering Real-Time Analytics with High Performance](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
-- [Joining RHEL or any other Linux machine directly to Microsoft Active Directory](https://www.redhat.com/en/blog/joining-rhel-microsoft-active-directory)
-- [Friday Five — August 4, 2023](https://www.redhat.com/en/blog/friday-five-august-4-2023-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
