@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Implementing automatic drift detection in CDK Pipelines using Amazon EventBridge](https://aws.amazon.com/blogs/devops/implementing-automatic-drift-detection-in-cdk-pipelines-using-amazon-eventbridge/)
+- [Load test your applications in a CI/CD pipeline using CDK  pipelines and AWS Distributed Load Testing Solution](https://aws.amazon.com/blogs/devops/load-test-applications-in-cicd-pipeline/)
+- [5 Benefits of a Container-First Approach to Software Development](https://www.docker.com/blog/5-benefits-of-a-container-first-approach-to-software-development/)
+- [Learn about Red Hat Enterprise Linux system roles](https://www.redhat.com/en/blog/rhel-system-roles)
 - [Friday Five — August 11, 2023](https://www.redhat.com/en/blog/friday-five-august-11-2023-red-hat)
-- [Simplify workstation deployments with Red Hat Enterprise Linux](https://www.redhat.com/en/blog/simplify-workstation-deployments-red-hat-enterprise-linux)
-- [Persistent volume support with peer-pods: Solution overview](https://www.redhat.com/en/blog/persistent-volume-support-peer-pods-solution-overview)
-- [Container Security and Why It Matters](https://www.docker.com/blog/container-security-and-why-it-matters/)
-- [Sentiment Analysis and Insights on Cryptocurrencies Using Docker and Containerized AI/ML Models](https://www.docker.com/blog/sentiment-analysis-and-insights-on-cryptocurrencies-using-docker-and-containerized-ai-ml-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
