@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [SLO burn: SLO monitoring and alerting on SLOs using error-budget burn rates with unified observability and AI](https://www.dynatrace.com/news/blog/slo-monitoring-alerting-on-slos-error-budget-burn-rates/)
+- [How to use Red Hat OpenShift GitOps with the Argo CD Vault Plugin as a sidecar](https://www.redhat.com/en/blog/openshift-gitops-with-argo-cd)
 - [Implementing automatic drift detection in CDK Pipelines using Amazon EventBridge](https://aws.amazon.com/blogs/devops/implementing-automatic-drift-detection-in-cdk-pipelines-using-amazon-eventbridge/)
 - [Load test your applications in a CI/CD pipeline using CDK  pipelines and AWS Distributed Load Testing Solution](https://aws.amazon.com/blogs/devops/load-test-applications-in-cicd-pipeline/)
 - [5 Benefits of a Container-First Approach to Software Development](https://www.docker.com/blog/5-benefits-of-a-container-first-approach-to-software-development/)
-- [Learn about Red Hat Enterprise Linux system roles](https://www.redhat.com/en/blog/rhel-system-roles)
-- [Friday Five — August 11, 2023](https://www.redhat.com/en/blog/friday-five-august-11-2023-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
