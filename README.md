@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Unleash Docker Desktop 4.22: The Featherweight Heavy-Hitter for Supercharged Rapid Development](https://www.docker.com/blog/unleash-docker-desktop-4-22-rapid-development/)
+- [Docker Scout Demo and Q&amp;A](https://www.docker.com/blog/docker-scout-demo-and-qa/)
+- [How to add notifications and manual approval to an AWS CDK Pipeline](https://aws.amazon.com/blogs/devops/how-to-add-notifications-and-manual-approval-to-an-aws-cdk-pipeline/)
+- [Accelerating Machine Learning with TensorFlow.js: Using Pretrained Models and Docker](https://www.docker.com/blog/accelerating-machine-learning-with-tensorflow-js-using-pretrained-models-and-docker/)
 - [SLO burn: SLO monitoring and alerting on SLOs using error-budget burn rates with unified observability and AI](https://www.dynatrace.com/news/blog/slo-monitoring-alerting-on-slos-error-budget-burn-rates/)
-- [How to use Red Hat OpenShift GitOps with the Argo CD Vault Plugin as a sidecar](https://www.redhat.com/en/blog/openshift-gitops-with-argo-cd)
-- [Implementing automatic drift detection in CDK Pipelines using Amazon EventBridge](https://aws.amazon.com/blogs/devops/implementing-automatic-drift-detection-in-cdk-pipelines-using-amazon-eventbridge/)
-- [Load test your applications in a CI/CD pipeline using CDK  pipelines and AWS Distributed Load Testing Solution](https://aws.amazon.com/blogs/devops/load-test-applications-in-cicd-pipeline/)
-- [5 Benefits of a Container-First Approach to Software Development](https://www.docker.com/blog/5-benefits-of-a-container-first-approach-to-software-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
