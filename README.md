@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Why choose Red Hat OpenShift Service on AWS?](https://www.redhat.com/en/blog/why-choose-red-hat-openshift-service-aws)
+- [Friday Five — August 18, 2023](https://www.redhat.com/en/blog/friday-five-august-18-2023-red-hat)
 - [Unleash Docker Desktop 4.22: The Featherweight Heavy-Hitter for Supercharged Rapid Development](https://www.docker.com/blog/unleash-docker-desktop-4-22-rapid-development/)
 - [Docker Scout Demo and Q&amp;A](https://www.docker.com/blog/docker-scout-demo-and-qa/)
 - [How to add notifications and manual approval to an AWS CDK Pipeline](https://aws.amazon.com/blogs/devops/how-to-add-notifications-and-manual-approval-to-an-aws-cdk-pipeline/)
-- [Accelerating Machine Learning with TensorFlow.js: Using Pretrained Models and Docker](https://www.docker.com/blog/accelerating-machine-learning-with-tensorflow-js-using-pretrained-models-and-docker/)
-- [SLO burn: SLO monitoring and alerting on SLOs using error-budget burn rates with unified observability and AI](https://www.dynatrace.com/news/blog/slo-monitoring-alerting-on-slos-error-budget-burn-rates/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
