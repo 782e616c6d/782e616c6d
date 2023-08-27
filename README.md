@@ -54,10 +54,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Maximize user experience with out-of-the-box service-performance SLOs](https://www.dynatrace.com/news/blog/maximize-user-experience-with-out-of-the-box-service-performance-slos/)
+- [Red Hat subscription management: Simple Content Access &lpar;SCA&rpar; explained](https://www.redhat.com/en/blog/red-hat-subscription-management-simple-content-access-explained)
 - [Friday Five — August 25, 2023](https://www.redhat.com/en/blog/friday-five-august-25-2023-red-hat)
 - [Red Hat extends training course lab access for continuing skill development](https://www.redhat.com/en/blog/red-hat-extends-training-course-lab-access)
 - [Docker Hub Registry IPv6 Support Now Generally Available](https://www.docker.com/blog/docker-hub-registry-ipv6-support-now-generally-available/)
-- [YAML explained for Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; users](https://www.redhat.com/en/blog/yaml-explained-for-rosa-users)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
