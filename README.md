@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat Satellite 6.12.5 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6125-has-been-released)
-- [Persistent volume support with peer-pods: A technical deep dive](https://www.redhat.com/en/blog/persistent-volume-support-peer-pods-technical-deep-dive)
 - [New Red Hat Insights capabilities available for managing Red Hat Enterprise Linux](https://www.redhat.com/en/blog/red-hat-insights-management-for-rhel)
 - [Maximize user experience with out-of-the-box service-performance SLOs](https://www.dynatrace.com/news/blog/maximize-user-experience-with-out-of-the-box-service-performance-slos/)
 - [Red Hat subscription management: Simple Content Access &lpar;SCA&rpar; explained](https://www.redhat.com/en/blog/red-hat-subscription-management-simple-content-access-explained)
+- [Friday Five — August 25, 2023](https://www.redhat.com/en/blog/friday-five-august-25-2023-red-hat)
+- [Red Hat extends training course lab access for continuing skill development](https://www.redhat.com/en/blog/red-hat-extends-training-course-lab-access)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
