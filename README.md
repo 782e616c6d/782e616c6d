@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [New Red Hat Insights capabilities available for managing Red Hat Enterprise Linux](https://www.redhat.com/en/blog/red-hat-insights-management-for-rhel)
-- [Maximize user experience with out-of-the-box service-performance SLOs](https://www.dynatrace.com/news/blog/maximize-user-experience-with-out-of-the-box-service-performance-slos/)
-- [Red Hat subscription management: Simple Content Access &lpar;SCA&rpar; explained](https://www.redhat.com/en/blog/red-hat-subscription-management-simple-content-access-explained)
-- [Friday Five — August 25, 2023](https://www.redhat.com/en/blog/friday-five-august-25-2023-red-hat)
-- [Red Hat extends training course lab access for continuing skill development](https://www.redhat.com/en/blog/red-hat-extends-training-course-lab-access)
+- [Friday Five — September 1, 2023](https://www.redhat.com/en/blog/friday-five-september-1-2023-red-hat)
+- [Improving containerization security with Red Hat OpenShift](https://www.redhat.com/en/blog/improving-containerization-security)
+- [Enterprise security challenges for CNI organizations: Overview of security challenges](https://www.redhat.com/en/blog/enterprise-security-challenges-cni-organizations-overview)
+- [Simplifying the complexity of private 5G networks](https://www.redhat.com/en/blog/simplifying-complexity-private-5g-networks)
+- [Red Hat and Google Cloud: Bringing the datacenter and public cloud closer together](https://www.redhat.com/en/blog/red-hat-and-google-cloud-bringing-datacenter-and-public-cloud-closer-together)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
