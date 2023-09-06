@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Architecting retail solutions](https://www.redhat.com/en/blog/architecting-retail-solutions)
 - [Next-generation network management: Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
 - [Friday Five — September 1, 2023](https://www.redhat.com/en/blog/friday-five-september-1-2023-red-hat)
 - [Improving containerization security with Red Hat OpenShift](https://www.redhat.com/en/blog/improving-containerization-security)
 - [Enterprise security challenges for CNI organizations: Overview of security challenges](https://www.redhat.com/en/blog/enterprise-security-challenges-cni-organizations-overview)
-- [Simplifying the complexity of private 5G networks](https://www.redhat.com/en/blog/simplifying-complexity-private-5g-networks)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
