@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using AWS CloudFormation and AWS Cloud Development Kit to provision multicloud resources](https://aws.amazon.com/blogs/devops/using-aws-cloudformation-and-aws-cloud-development-kit-to-provision-multicloud-resources/)
+- [Identify regional feature parity using the AWS CloudFormation registry](https://aws.amazon.com/blogs/devops/identify-regional-feature-parity-using-the-aws-cloudformation-registry/)
+- [Enterprise security challenges for CNI organizations: Security challenges with people and processes](https://www.redhat.com/en/blog/enterprise-security-challenges-cni-organizations-security-challenges-people-and-processes)
 - [Architecting retail solutions](https://www.redhat.com/en/blog/architecting-retail-solutions)
 - [Next-generation network management: Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
-- [Friday Five — September 1, 2023](https://www.redhat.com/en/blog/friday-five-september-1-2023-red-hat)
-- [Improving containerization security with Red Hat OpenShift](https://www.redhat.com/en/blog/improving-containerization-security)
-- [Enterprise security challenges for CNI organizations: Overview of security challenges](https://www.redhat.com/en/blog/enterprise-security-challenges-cni-organizations-overview)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
