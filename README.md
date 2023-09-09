@@ -55,9 +55,9 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 <!-- BLOG-POST-LIST:START -->
 - [Using AWS CloudFormation and AWS Cloud Development Kit to provision multicloud resources](https://aws.amazon.com/blogs/devops/using-aws-cloudformation-and-aws-cloud-development-kit-to-provision-multicloud-resources/)
 - [Identify regional feature parity using the AWS CloudFormation registry](https://aws.amazon.com/blogs/devops/identify-regional-feature-parity-using-the-aws-cloudformation-registry/)
-- [Enterprise security challenges for CNI organizations: Security challenges with people and processes](https://www.redhat.com/en/blog/enterprise-security-challenges-cni-organizations-security-challenges-people-and-processes)
-- [Architecting retail solutions](https://www.redhat.com/en/blog/architecting-retail-solutions)
-- [Next-generation network management: Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
+- [You Asked. We Acted: Acting on your feedback from Red Hat Summit 2023](https://www.redhat.com/en/blog/you-asked-we-acted-red-hat-summit-2023)
+- [Performance tuning at the edge using Cache Allocation Technology](https://www.redhat.com/en/blog/performance-tuning-at-the-edge)
+- [Friday Five — September 8, 2023](https://www.redhat.com/en/blog/friday-five-september-8-2023-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
