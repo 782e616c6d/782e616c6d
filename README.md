@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Public preview of Workload identity federation for Azure Pipelines](https://devblogs.microsoft.com/devops/public-preview-of-workload-identity-federation-for-azure-pipelines/)
+- [Red Hat is joining customers and partners for exciting Catalyst projects at TM Forum Digital Transformation World Copenhagen](https://www.redhat.com/en/blog/red-hat-tm-forum-digital-transformation-world)
+- [DISA STIG for Red Hat OpenShift is now available](https://www.redhat.com/en/blog/disa-stig-red-hat-openshift-now-available)
 - [Using AWS CloudFormation and AWS Cloud Development Kit to provision multicloud resources](https://aws.amazon.com/blogs/devops/using-aws-cloudformation-and-aws-cloud-development-kit-to-provision-multicloud-resources/)
 - [Identify regional feature parity using the AWS CloudFormation registry](https://aws.amazon.com/blogs/devops/identify-regional-feature-parity-using-the-aws-cloudformation-registry/)
-- [You Asked. We Acted: Acting on your feedback from Red Hat Summit 2023](https://www.redhat.com/en/blog/you-asked-we-acted-red-hat-summit-2023)
-- [Performance tuning at the edge using Cache Allocation Technology](https://www.redhat.com/en/blog/performance-tuning-at-the-edge)
-- [Friday Five — September 8, 2023](https://www.redhat.com/en/blog/friday-five-september-8-2023-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
