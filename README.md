@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — September 15, 2023](https://www.redhat.com/en/blog/friday-five-september-15-2023-red-hat)
+- [DockerCon Workshops: What to expect](https://www.docker.com/blog/dockercon-workshops-what-to-expect/)
+- [Three priorities for driving operational resilience in financial services in the U.K. using PRA SS1/21](https://www.dynatrace.com/news/blog/driving-operational-resilience-in-uk-with-ss1-21/)
 - [Implementing AWS well-architected pillars with automated workflows](https://www.dynatrace.com/news/blog/implementing-aws-well-architected-pillars/)
-- [September patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-2/)
-- [Docker Desktop 4.23: New Configuration Integrity Check, Plus Updates to Docker Init, Compose, Watch, Quick Search, and More](https://www.docker.com/blog/docker-desktop-4-23/)
-- [Public preview of Workload identity federation for Azure Pipelines](https://devblogs.microsoft.com/devops/public-preview-of-workload-identity-federation-for-azure-pipelines/)
-- [Red Hat is joining customers and partners for exciting Catalyst projects at TM Forum Digital Transformation World Copenhagen](https://www.redhat.com/en/blog/red-hat-tm-forum-digital-transformation-world)
+- [diary of a Binutils Release](https://www.redhat.com/en/blog/diary-binutils-release)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
