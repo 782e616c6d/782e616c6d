@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Manage roles and entitlements with PBAC using Amazon Verified Permissions](https://aws.amazon.com/blogs/devops/manage-roles-and-entitlements-with-pbac-using-amazon-verified-permissions/)
+- [Best Practices for Writing Step Functions Terraform Projects](https://aws.amazon.com/blogs/devops/best-practices-for-writing-step-functions-terraform-projects/)
 - [Dynatrace ranked No. 1 for the Security Operations Use Case in the 2023 Gartner Critical Capabilities for Application Performance Monitoring and Observability report](https://www.dynatrace.com/news/blog/dynatrace-ranked-no-1-for-the-security-operations-use-case-in-the-2023-gartner-critical-capabilities-for-application-performance-monitoring-and-observability-report/)
-- [Friday Five — September 15, 2023](https://www.redhat.com/en/blog/friday-five-september-15-2023-red-hat)
-- [DockerCon Workshops: What to expect](https://www.docker.com/blog/dockercon-workshops-what-to-expect/)
-- [Three priorities for driving operational resilience in financial services in the U.K. using PRA SS1/21](https://www.dynatrace.com/news/blog/driving-operational-resilience-in-uk-with-ss1-21/)
-- [Implementing AWS well-architected pillars with automated workflows](https://www.dynatrace.com/news/blog/implementing-aws-well-architected-pillars/)
+- [Red Hat platform for catalyst innovation](https://www.redhat.com/en/blog/red-hat-platform-catalyst-innovation)
+- [Managing SAP servers with Red Hat Insights](https://www.redhat.com/en/blog/managing-sap-servers-red-hat-insights)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
