@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Azure DevOps Server 2022 Update 1 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2022-update-1-rc1/)
+- [How to Get Started with the Weaviate Vector Database on Docker](https://www.docker.com/blog/how-to-get-started-weaviate-vector-database-on-docker/)
 - [Manage roles and entitlements with PBAC using Amazon Verified Permissions](https://aws.amazon.com/blogs/devops/manage-roles-and-entitlements-with-pbac-using-amazon-verified-permissions/)
 - [Best Practices for Writing Step Functions Terraform Projects](https://aws.amazon.com/blogs/devops/best-practices-for-writing-step-functions-terraform-projects/)
 - [Dynatrace ranked No. 1 for the Security Operations Use Case in the 2023 Gartner Critical Capabilities for Application Performance Monitoring and Observability report](https://www.dynatrace.com/news/blog/dynatrace-ranked-no-1-for-the-security-operations-use-case-in-the-2023-gartner-critical-capabilities-for-application-performance-monitoring-and-observability-report/)
-- [Red Hat platform for catalyst innovation](https://www.redhat.com/en/blog/red-hat-platform-catalyst-innovation)
-- [Managing SAP servers with Red Hat Insights](https://www.redhat.com/en/blog/managing-sap-servers-red-hat-insights)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
