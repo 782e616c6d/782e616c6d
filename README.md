@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Azure DevOps Server 2022 Update 1 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2022-update-1-rc1/)
-- [How to Get Started with the Weaviate Vector Database on Docker](https://www.docker.com/blog/how-to-get-started-weaviate-vector-database-on-docker/)
-- [Manage roles and entitlements with PBAC using Amazon Verified Permissions](https://aws.amazon.com/blogs/devops/manage-roles-and-entitlements-with-pbac-using-amazon-verified-permissions/)
-- [Best Practices for Writing Step Functions Terraform Projects](https://aws.amazon.com/blogs/devops/best-practices-for-writing-step-functions-terraform-projects/)
-- [Dynatrace ranked No. 1 for the Security Operations Use Case in the 2023 Gartner Critical Capabilities for Application Performance Monitoring and Observability report](https://www.dynatrace.com/news/blog/dynatrace-ranked-no-1-for-the-security-operations-use-case-in-the-2023-gartner-critical-capabilities-for-application-performance-monitoring-and-observability-report/)
+- [Implementing GitFlow with Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/implementing-gitflow-with-amazon-codecatalyst/)
+- [How IKEA Standardizes Docker Images for Efficient Machine Learning Model Deployment](https://www.docker.com/blog/how-ikea-standardizes-docker-images-for-efficient-machine-learning-model-deployment/)
+- [Now Generally Available: GitHub Advanced Security for Azure DevOps is ready for you to use](https://devblogs.microsoft.com/devops/now-generally-available-github-advanced-security-for-azure-devops-is-ready-for-you-to-use/)
+- [Remote host configuration and management for Red Hat Enterprise Linux](https://www.redhat.com/en/blog/remote-host-configuration-and-management-rhel)
+- [Frequently Asked Questions – Red Hat OpenShift on Oracle Cloud Infrastructure](https://www.redhat.com/en/blog/frequently-asked-questions-red-hat-openshift-oracle-cloud-infrastructure)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
