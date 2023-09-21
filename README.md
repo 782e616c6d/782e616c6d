@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The platform engineer role: A game-changer or just hype?](https://www.dynatrace.com/news/blog/platform-engineering-pureperformance/)
+- [IT carbon footprint: Dynatrace Carbon Impact and Optimization app helps organizations measure cloud computing carbon footprint](https://www.dynatrace.com/news/blog/measure-it-carbon-footprint-cloud-computing-carbon-footprint/)
 - [Implementing GitFlow with Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/implementing-gitflow-with-amazon-codecatalyst/)
-- [How IKEA Standardizes Docker Images for Efficient Machine Learning Model Deployment](https://www.docker.com/blog/how-ikea-standardizes-docker-images-for-efficient-machine-learning-model-deployment/)
+- [How IKEA Retail Standardizes Docker Images for Efficient Machine Learning Model Deployment](https://www.docker.com/blog/how-ikea-standardizes-docker-images-for-efficient-machine-learning-model-deployment/)
 - [Now Generally Available: GitHub Advanced Security for Azure DevOps is ready for you to use](https://devblogs.microsoft.com/devops/now-generally-available-github-advanced-security-for-azure-devops-is-ready-for-you-to-use/)
-- [Remote host configuration and management for Red Hat Enterprise Linux](https://www.redhat.com/en/blog/remote-host-configuration-and-management-rhel)
-- [Frequently Asked Questions – Red Hat OpenShift on Oracle Cloud Infrastructure](https://www.redhat.com/en/blog/frequently-asked-questions-red-hat-openshift-oracle-cloud-infrastructure)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
