@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to import existing resources into AWS CDK Stacks](https://aws.amazon.com/blogs/devops/how-to-import-existing-resources-into-aws-cdk-stacks/)
+- [Rust profiling in Red Hat Enterprise Linux 9.3 and 8.9](https://www.redhat.com/en/blog/rust-profiling-in-rhel)
+- [Friday Five — September 22, 2023](https://www.redhat.com/en/blog/friday-five-september-22-2023-red-hat)
 - [The platform engineer role: A game-changer or just hype?](https://www.dynatrace.com/news/blog/platform-engineering-pureperformance/)
 - [IT carbon footprint: Dynatrace Carbon Impact and Optimization app helps organizations measure cloud computing carbon footprint](https://www.dynatrace.com/news/blog/measure-it-carbon-footprint-cloud-computing-carbon-footprint/)
-- [Implementing GitFlow with Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/implementing-gitflow-with-amazon-codecatalyst/)
-- [How IKEA Retail Standardizes Docker Images for Efficient Machine Learning Model Deployment](https://www.docker.com/blog/how-ikea-standardizes-docker-images-for-efficient-machine-learning-model-deployment/)
-- [Now Generally Available: GitHub Advanced Security for Azure DevOps is ready for you to use](https://devblogs.microsoft.com/devops/now-generally-available-github-advanced-security-for-azure-devops-is-ready-for-you-to-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
