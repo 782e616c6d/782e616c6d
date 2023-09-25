@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update/)
+- [Automate Lambda code signing with Amazon CodeCatalyst and AWS Signer](https://aws.amazon.com/blogs/devops/automate-lambda-code-signing-with-amazon-codecatalyst-and-aws-signer/)
+- [Using Amazon CodeCatalyst Blueprints to Build and Deploy a Video-On-Demand Application to AWS](https://aws.amazon.com/blogs/devops/using-amazon-codecatalyst-blueprints-to-build-and-deploy-a-video-on-demand-application-to-aws/)
+- [Deploying container application using Amazon CodeCatalyst and AWS App Runner](https://aws.amazon.com/blogs/devops/deploying-container-application-using-amazon-codecatalyst-and-aws-app-runner/)
 - [How to import existing resources into AWS CDK Stacks](https://aws.amazon.com/blogs/devops/how-to-import-existing-resources-into-aws-cdk-stacks/)
-- [Rust profiling in Red Hat Enterprise Linux 9.3 and 8.9](https://www.redhat.com/en/blog/rust-profiling-in-rhel)
-- [Friday Five — September 22, 2023](https://www.redhat.com/en/blog/friday-five-september-22-2023-red-hat)
-- [The platform engineer role: A game-changer or just hype?](https://www.dynatrace.com/news/blog/platform-engineering-pureperformance/)
-- [IT carbon footprint: Dynatrace Carbon Impact and Optimization app helps organizations measure cloud computing carbon footprint](https://www.dynatrace.com/news/blog/measure-it-carbon-footprint-cloud-computing-carbon-footprint/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
