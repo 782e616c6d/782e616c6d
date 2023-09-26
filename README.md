@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Changes to How Docker Handles Personal Authentication Tokens](https://www.docker.com/blog/changes-to-how-docker-handles-personal-authentication-tokens/)
+- [Docker’s Journey Toward Enabling Lightning-Fast Developer Innovation: Unveiling Performance Milestones](https://www.docker.com/blog/dockers-developer-innovation-unveiling-performance-milestones/)
+- [Global Report Reveals DevOps Automation is Becoming a Strategic Imperative for Large Organizations, but Only 38% Have a Clear Strategy for Implementing It](https://www.dynatrace.com/news/press-release/global-report-reveals-devops-automation-is-becoming-a-strategic-imperative-for-large-organizations-but-only-38-have-a-clear-strategy-for-implementing-it/)
 - [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update/)
 - [Automate Lambda code signing with Amazon CodeCatalyst and AWS Signer](https://aws.amazon.com/blogs/devops/automate-lambda-code-signing-with-amazon-codecatalyst-and-aws-signer/)
-- [Using Amazon CodeCatalyst Blueprints to Build and Deploy a Video-On-Demand Application to AWS](https://aws.amazon.com/blogs/devops/using-amazon-codecatalyst-blueprints-to-build-and-deploy-a-video-on-demand-application-to-aws/)
-- [Deploying container application using Amazon CodeCatalyst and AWS App Runner](https://aws.amazon.com/blogs/devops/deploying-container-application-using-amazon-codecatalyst-and-aws-app-runner/)
-- [How to import existing resources into AWS CDK Stacks](https://aws.amazon.com/blogs/devops/how-to-import-existing-resources-into-aws-cdk-stacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
