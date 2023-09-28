@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Get Started with the Microcks Docker Extension for API Mocking and Testing](https://www.docker.com/blog/get-started-with-the-microcks-docker-extension-for-api-mocking-and-testing/)
+- [New Azure DevOps scopes now available for Microsoft Identity OAuth delegated flow apps](https://devblogs.microsoft.com/devops/new-azure-devops-scopes-now-available-for-microsoft-identity-oauth-delegated-flow-apps/)
 - [Let’s DockerCon!](https://www.docker.com/blog/lets-dockercon/)
 - [Managed identity and service principal support for Azure DevOps now in General Availability &lpar;GA&rpar;](https://devblogs.microsoft.com/devops/managed-identity-and-service-principal-support-for-azure-devops-now-in-general-availability-ga/)
-- [Changes to How Docker Handles Personal Authentication Tokens](https://www.docker.com/blog/changes-to-how-docker-handles-personal-authentication-tokens/)
-- [Docker’s Journey Toward Enabling Lightning-Fast Developer Innovation: Unveiling Performance Milestones](https://www.docker.com/blog/dockers-developer-innovation-unveiling-performance-milestones/)
-- [Global Report Reveals DevOps Automation is Becoming a Strategic Imperative for Large Organizations, but Only 38% Have a Clear Strategy for Implementing It](https://www.dynatrace.com/news/press-release/global-report-reveals-devops-automation-is-becoming-a-strategic-imperative-for-large-organizations-but-only-38-have-a-clear-strategy-for-implementing-it/)
+- [What new features are available in Red Hat Enterprise Linux 8.9 and 9.3 Beta?](https://www.redhat.com/en/blog/what-new-features-are-available-red-hat-enterprise-linux-89-and-93-beta)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
