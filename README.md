@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Team Work Item Automation Rules &lpar;Private Preview&rpar;](https://devblogs.microsoft.com/devops/team-backlog-automation-rules-private-preview/)
+- [Build and deploy to Amazon EKS with Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/build-and-deploy-to-amazon-eks-with-amazon-codecatalyst/)
 - [Succeeding with new technology: Breaking down adoption barriers](https://www.redhat.com/en/blog/succeeding-new-technology-breaking-down-adoption-barriers)
 - [Friday Five — September 29, 2023](https://www.redhat.com/en/blog/friday-five-september-29-2023-red-hat)
 - [Get Started with the Microcks Docker Extension for API Mocking and Testing](https://www.docker.com/blog/get-started-with-the-microcks-docker-extension-for-api-mocking-and-testing/)
-- [New Azure DevOps scopes now available for Microsoft Identity OAuth delegated flow apps](https://devblogs.microsoft.com/devops/new-azure-devops-scopes-now-available-for-microsoft-identity-oauth-delegated-flow-apps/)
-- [Red Hat Enterprise Linux &lpar;RHEL&rpar; product development tracking is moving to Jira](https://www.redhat.com/en/blog/rhel-tracking-moving-to-jira)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
