@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Docker AI/ML Hackathon](https://www.docker.com/blog/announcing-docker-ai-ml-hackathon/)
+- [Announcing Docker Compose Watch GA Release](https://www.docker.com/blog/announcing-docker-compose-watch-ga-release/)
+- [Docker Desktop 4.24: Compose Watch, Resource Saver, and Docker Engine](https://www.docker.com/blog/docker-desktop-4-24-compose-watch-resource-saver-and-docker-engine/)
 - [Team Work Item Automation Rules &lpar;Private Preview&rpar;](https://devblogs.microsoft.com/devops/team-backlog-automation-rules-private-preview/)
 - [Build and deploy to Amazon EKS with Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/build-and-deploy-to-amazon-eks-with-amazon-codecatalyst/)
-- [Succeeding with new technology: Breaking down adoption barriers](https://www.redhat.com/en/blog/succeeding-new-technology-breaking-down-adoption-barriers)
-- [Friday Five — September 29, 2023](https://www.redhat.com/en/blog/friday-five-september-29-2023-red-hat)
-- [Get Started with the Microcks Docker Extension for API Mocking and Testing](https://www.docker.com/blog/get-started-with-the-microcks-docker-extension-for-api-mocking-and-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
