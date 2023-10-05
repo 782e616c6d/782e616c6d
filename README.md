@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Security Advisory: High Severity Curl Vulnerability](https://www.docker.com/blog/security-advisory-high-severity-curl-vulnerability/)
+- [Enhancing Resource Isolation in AWS CDK with the App Staging Synthesizer](https://aws.amazon.com/blogs/devops/enhancing-resource-isolation-in-aws-cdk-with-the-app-staging-synthesizer/)
+- [Introducing a New GenAI Stack: Streamlined AI/ML Integration Made Easy](https://www.docker.com/blog/introducing-a-new-genai-stack/)
 - [Announcing Udemy + Docker Partnership](https://www.docker.com/blog/announcing-udemy-docker-partnership/)
 - [Announcing Docker Scout GA: Actionable Insights for the Software Supply Chain](https://www.docker.com/blog/announcing-docker-scout-ga/)
-- [Announcing Docker AI/ML Hackathon](https://www.docker.com/blog/announcing-docker-ai-ml-hackathon/)
-- [Announcing Docker Compose Watch GA Release](https://www.docker.com/blog/announcing-docker-compose-watch-ga-release/)
-- [Docker Desktop 4.24: Compose Watch, Resource Saver, and Docker Engine](https://www.docker.com/blog/docker-desktop-4-24-compose-watch-resource-saver-and-docker-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
