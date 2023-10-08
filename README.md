@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Updating GPG keys for future Fedora and Red Hat Enterprise Linux releases](https://www.redhat.com/en/blog/updating-gpg-keys-for-fedora-and-rhel)
+- [Transforming Defense operations: The impact of Red Hat Ansible Automation Platform within the DoD](https://www.redhat.com/en/blog/transforming-defense-operations)
 - [Friday Five — October 6, 2023](https://www.redhat.com/en/blog/friday-five-october-6-2023-red-hat)
 - [Security Advisory: High Severity Curl Vulnerability](https://www.docker.com/blog/security-advisory-high-severity-curl-vulnerability/)
 - [Enhancing Resource Isolation in AWS CDK with the App Staging Synthesizer](https://aws.amazon.com/blogs/devops/enhancing-resource-isolation-in-aws-cdk-with-the-app-staging-synthesizer/)
-- [Introducing a New GenAI Stack: Streamlined AI/ML Integration Made Easy](https://www.docker.com/blog/introducing-a-new-genai-stack/)
-- [Beyond the STIG: Enhancing Kubernetes security with Red Hat Advanced Cluster Security and the Compliance Operator for Red Hat OpenShift](https://www.redhat.com/en/blog/enhancing-kubernetes-security)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
