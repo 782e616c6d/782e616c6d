@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using Generative AI, Amazon Bedrock and Amazon CodeGuru to Improve Code Quality and Security](https://aws.amazon.com/blogs/devops/using-generative-ai-amazon-bedrock-and-amazon-codeguru-to-improve-code-quality-and-security/)
+- [Blue/Green deployments using AWS CDK Pipelines and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/blue-green-deployments-using-aws-cdk-pipelines-and-aws-codedeploy/)
+- [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-3/)
 - [Updating GPG keys for future Fedora and Red Hat Enterprise Linux releases](https://www.redhat.com/en/blog/updating-gpg-keys-for-fedora-and-rhel)
 - [Transforming Defense operations: The impact of Red Hat Ansible Automation Platform within the DoD](https://www.redhat.com/en/blog/transforming-defense-operations)
-- [Friday Five — October 6, 2023](https://www.redhat.com/en/blog/friday-five-october-6-2023-red-hat)
-- [Security Advisory: High Severity Curl Vulnerability](https://www.docker.com/blog/security-advisory-high-severity-curl-vulnerability/)
-- [Enhancing Resource Isolation in AWS CDK with the App Staging Synthesizer](https://aws.amazon.com/blogs/devops/enhancing-resource-isolation-in-aws-cdk-with-the-app-staging-synthesizer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
