@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Signing Docker Official Images Using OpenPubkey](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)
 - [Getting Started with JupyterLab as a Docker Extension](https://www.docker.com/blog/getting-started-with-jupyterlab-as-a-docker-extension/)
-- [Using Generative AI, Amazon Bedrock and Amazon CodeGuru to Improve Code Quality and Security](https://aws.amazon.com/blogs/devops/using-generative-ai-amazon-bedrock-and-amazon-codeguru-to-improve-code-quality-and-security/)
-- [Blue/Green deployments using AWS CDK Pipelines and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/blue-green-deployments-using-aws-cdk-pipelines-and-aws-codedeploy/)
-- [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-3/)
-- [Updating GPG keys for future Fedora and Red Hat Enterprise Linux releases](https://www.redhat.com/en/blog/updating-gpg-keys-for-fedora-and-rhel)
+- [DISA STIG for Red Hat Enterprise Linux 9 is now available](https://www.redhat.com/en/blog/disa-stig-red-hat-enterprise-linux-9-now-available)
+- [Data Plane Development Kit &lpar;DPDK&rpar; latency in Red Hat OpenShift - Part I](https://www.redhat.com/en/blog/dpdk-latency-red-hat-openshift-1)
+- [Accelerate STIG compliance with Red Hat OpenShift’s built-in security features: From 40 CAT I items to 7 &lpar;Part 1&rpar;](https://www.redhat.com/en/blog/accelerate-stig-compliance-with-openshift-part1)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
