@@ -54,10 +54,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Signing Docker Official Images Using OpenPubkey](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)
+- [How Red Hat Insights tackles malware head-on](https://www.redhat.com/en/blog/how-red-hat-insights-tackles-malware-head)
+- [Friday Five — October 13, 2023](https://www.redhat.com/en/blog/friday-five-october-13-2023-red-hat)
 - [Getting Started with JupyterLab as a Docker Extension](https://www.docker.com/blog/getting-started-with-jupyterlab-as-a-docker-extension/)
-- [DISA STIG for Red Hat Enterprise Linux 9 is now available](https://www.redhat.com/en/blog/disa-stig-red-hat-enterprise-linux-9-now-available)
-- [Data Plane Development Kit &lpar;DPDK&rpar; latency in Red Hat OpenShift - Part I](https://www.redhat.com/en/blog/dpdk-latency-red-hat-openshift-1)
-- [Accelerate STIG compliance with Red Hat OpenShift’s built-in security features: From 40 CAT I items to 7 &lpar;Part 1&rpar;](https://www.redhat.com/en/blog/accelerate-stig-compliance-with-openshift-part1)
+- [Support for our Israel associates](https://www.redhat.com/en/blog/support-our-israel-associates)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
