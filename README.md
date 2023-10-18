@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Multiple Load Balance Support in AWS CodeDeploy](https://aws.amazon.com/blogs/devops/multiple-load-balance-support-in-codedeploy/)
 - [Announcing the AWS Well-Architected Framework DevOps Guidance](https://aws.amazon.com/blogs/devops/announcing-the-aws-well-architected-framework-devops-guidance/)
 - [Bringing IT automation to life at Dynatrace Innovate Barcelona](https://www.dynatrace.com/news/blog/bringing-it-automation-to-life-at-dynatrace-innovate-barcelona/)
 - [Vulnerability Exploitability eXchange &lpar;VEX&rpar; beta files now available](https://www.redhat.com/en/blog/vulnerability-exploitability-exchange-vex-beta-files-now-available)
 - [The TLS Extended Master Secret and FIPS in Red Hat Enterprise Linux](https://www.redhat.com/en/blog/tls-extended-master-secret-and-fips-rhel)
-- [Signing Docker Official Images Using OpenPubkey](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
