@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Multiple Load Balance Support in AWS CodeDeploy](https://aws.amazon.com/blogs/devops/multiple-load-balance-support-in-codedeploy/)
+- [Multiple Load Balancer Support in AWS CodeDeploy](https://aws.amazon.com/blogs/devops/multiple-load-balance-support-in-codedeploy/)
+- [Improved Code Coverage Tab Experience](https://devblogs.microsoft.com/devops/improved-code-coverage-tab-experience/)
 - [Announcing the AWS Well-Architected Framework DevOps Guidance](https://aws.amazon.com/blogs/devops/announcing-the-aws-well-architected-framework-devops-guidance/)
-- [Bringing IT automation to life at Dynatrace Innovate Barcelona](https://www.dynatrace.com/news/blog/bringing-it-automation-to-life-at-dynatrace-innovate-barcelona/)
-- [Vulnerability Exploitability eXchange &lpar;VEX&rpar; beta files now available](https://www.redhat.com/en/blog/vulnerability-exploitability-exchange-vex-beta-files-now-available)
-- [The TLS Extended Master Secret and FIPS in Red Hat Enterprise Linux](https://www.redhat.com/en/blog/tls-extended-master-secret-and-fips-rhel)
+- [Red Hat Advanced Cluster Management for Kubernetes: High availability and disaster recovery &lpar;part 1&rpar;](https://www.redhat.com/en/blog/rhacm-high-availability-and-disaster-recovery-part-1)
+- [Introducing Node.js 21](https://www.redhat.com/en/blog/introducing-nodejs-21)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
