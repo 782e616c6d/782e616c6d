@@ -54,10 +54,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Docker State of Application Development Survey 2023: Share Your Thoughts on Development](https://www.docker.com/blog/docker-state-of-application-development-survey-2023/)
+- [Friday Five — October 20, 2023](https://www.redhat.com/en/blog/friday-five-october-20-2023-red-hat)
 - [Multiple Load Balancer Support in AWS CodeDeploy](https://aws.amazon.com/blogs/devops/multiple-load-balance-support-in-codedeploy/)
 - [Improved Code Coverage Tab Experience](https://devblogs.microsoft.com/devops/improved-code-coverage-tab-experience/)
-- [Platform engineering for Telecommunications, Media, and Entertainment &lpar;TME&rpar;](https://www.redhat.com/en/blog/platform-engineering-telecom-media-and-entertainment-tme)
-- [Cybersecurity Awareness Month: 9 Red Hat security articles you may have missed](https://www.redhat.com/en/blog/cybersecurity-awareness-month-2023)
+- [Runtime security deep dive: Ask An OpenShift Admin episode 116](https://www.redhat.com/en/blog/runtime-security-deep-dive-ask-openshift-admin-episode-116)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
