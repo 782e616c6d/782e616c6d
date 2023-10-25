@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Highlights from DockerCon 2023: New Docker Local, Cloud, and AI/ML Innovations](https://www.docker.com/blog/highlights-from-dockercon-2023/)
 - [Introducing Work Item Chart Filtering in Azure DevOps Dashboards](https://devblogs.microsoft.com/devops/introducing-work-item-chart-filtering-in-azure-devops-dashboards/)
-- [Why AWS is the Best Place to Run Rust](https://aws.amazon.com/blogs/devops/why-aws-is-the-best-place-to-run-rust/)
-- [Docker State of Application Development Survey 2023: Share Your Thoughts on Development](https://www.docker.com/blog/docker-state-of-application-development-survey-2023/)
-- [Friday Five — October 20, 2023](https://www.redhat.com/en/blog/friday-five-october-20-2023-red-hat)
-- [Multiple Load Balancer Support in AWS CodeDeploy](https://aws.amazon.com/blogs/devops/multiple-load-balance-support-in-codedeploy/)
+- [We Are Red Hat Week: 9 examples of how Red Hat supports career growth](https://www.redhat.com/en/blog/we-are-red-hat-week-9-examples-how-red-hat-supports-career-growth)
+- [The benefits of certified software for organizations using Red Hat Enterprise Linux](https://www.redhat.com/en/blog/benefits-certified-software-organizations-using-red-hat-enterprise-linux)
+- [A complete view of system vulnerabilities using Red Hat Insights](https://www.redhat.com/en/blog/complete-view-system-vulnerabilities-using-red-hat-insights)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
