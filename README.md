@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to use Amazon CodeWhisperer using Okta as an external IdP](https://aws.amazon.com/blogs/devops/how-to-use-amazon-codewhisperer-using-okta-as-an-external-idp/)
 - [Introducing Amazon CodeWhisperer Dashboard and CloudWatch Metrics](https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-dashboard-and-cloudwatch-metrics/)
 - [Highlights from DockerCon 2023: New Docker Local, Cloud, and AI/ML Innovations](https://www.docker.com/blog/highlights-from-dockercon-2023/)
 - [Introducing Work Item Chart Filtering in Azure DevOps Dashboards](https://devblogs.microsoft.com/devops/introducing-work-item-chart-filtering-in-azure-devops-dashboards/)
 - [We Are Red Hat Week: 9 examples of how Red Hat supports career growth](https://www.redhat.com/en/blog/we-are-red-hat-week-9-examples-how-red-hat-supports-career-growth)
-- [The benefits of certified software for organizations using Red Hat Enterprise Linux](https://www.redhat.com/en/blog/benefits-certified-software-organizations-using-red-hat-enterprise-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
