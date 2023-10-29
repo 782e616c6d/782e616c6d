@@ -54,10 +54,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [How to use Amazon CodeWhisperer using Okta as an external IdP](https://aws.amazon.com/blogs/devops/how-to-use-amazon-codewhisperer-using-okta-as-an-external-idp/)
+- [We Are Red Hat Week: 15 ways Red Hat culture sparks joy](https://www.redhat.com/en/blog/we-are-red-hat-week-15-ways-red-hat-culture-sparks-joy)
+- [Red Hat OpenShift and sigstore: A powerful pairing for software trustworthiness](https://www.redhat.com/en/blog/red-hat-openshift-and-sigstore)
+- [Red Hat and HCLTech reinvent cloud-native for telecommunications](https://www.redhat.com/en/blog/red-hat-hcltech-reinvent-cloud-native)
 - [Friday Five — October 27, 2023](https://www.redhat.com/en/blog/friday-five-october-27-2023-red-hat)
-- [Introducing Amazon CodeWhisperer Dashboard and CloudWatch Metrics](https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-dashboard-and-cloudwatch-metrics/)
-- [We Are Red Hat Week: 9 ways open source is part of our organizational DNA](https://www.redhat.com/en/blog/we-are-red-hat-week-9-ways-open-source-part-our-organizational-dna)
-- [Protecting your intellectual property and AI models using Confidential Containers](https://www.redhat.com/en/blog/protecting-your-intellectual-property-and-ai-models-using-confidential-containers)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
