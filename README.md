@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Git Partial Clone Now Supported in Azure DevOps](https://devblogs.microsoft.com/devops/git-partial-clone-now-supported-in-azure-devops/)
 - [Azure DevOps Server 2022.1 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rc2-now-available/)
 - [Azure Boards + GitHub Integration Improvements](https://devblogs.microsoft.com/devops/azure-boards-github-integration-improvements/)
-- [Docker Desktop 4.25: Enhancements to Docker Desktop on Windows, Rosetta for Linux GA, and New Docker Scout Image Analysis Settings](https://www.docker.com/blog/docker-desktop-4-25/)
-- [Platform engineering: Empowering key Kubernetes use cases with Dynatrace](https://www.dynatrace.com/news/blog/platform-engineering-empowering-key-kubernetes-use-cases/)
-- [How to use Amazon CodeWhisperer using Okta as an external IdP](https://aws.amazon.com/blogs/devops/how-to-use-amazon-codewhisperer-using-okta-as-an-external-idp/)
+- [The evolution of Ansible: Empowering people and technology](https://www.redhat.com/en/blog/evolution-ansible-empowering-people-and-technology)
+- [Easy bare-metal cluster deployment with external load balancer using Red Hat Advanced Cluster Management for Kubernetes console](https://www.redhat.com/en/blog/easy-bare-metal-cluster-deployment-acm-console)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
