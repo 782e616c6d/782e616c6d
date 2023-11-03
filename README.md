@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [What is platform engineering?](https://www.dynatrace.com/news/blog/what-is-platform-engineering/)
+- [Friday Five — November 3, 2023](https://www.redhat.com/en/friday-five-november-3-2023-red-hat)
 - [DevOps automation: We’re only halfway there](https://www.dynatrace.com/news/blog/devops-automation-were-only-halfway-there/)
+- [Red Hat OpenShift Operators: Concept and working example in Golang](https://www.redhat.com/en/blog/red-hat-openshift-operators-concept-and-working-example-golang)
 - [Git Partial Clone Now Supported in Azure DevOps](https://devblogs.microsoft.com/devops/git-partial-clone-now-supported-in-azure-devops/)
-- [Getting started with Red Hat Ansible Lightspeed with IBM watsonx Code Assistant](https://www.redhat.com/en/blog/getting-started-red-hat-ansible-lightspeed-ibm-watsonx-code-assistant)
-- [Encryption at rest for Red Hat OpenShift application data at the edge](https://www.redhat.com/en/blog/encryption-rest-red-hat-openshift-application-data-edge)
-- [Azure DevOps Server 2022.1 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rc2-now-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
