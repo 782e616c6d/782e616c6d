@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Achieve Security and Compliance Goals with Policy Guardrails in Docker Scout](https://www.docker.com/blog/achieve-security-and-compliance-goals-with-policy-guardrails-in-docker-scout/)
+- [AWS CodeBuild adds support for AWS Lambda compute mode](https://aws.amazon.com/blogs/devops/aws-codebuild-adds-support-for-aws-lambda-compute-mode/)
+- [LLM Everywhere: Docker for Local and Hugging Face Hosting](https://www.docker.com/blog/llm-docker-for-local-and-hugging-face-hosting/)
 - [Building Trusted Content with GitHub Actions](https://www.docker.com/blog/building-trusted-content-with-github-actions/)
-- [The power of AI is open](https://www.redhat.com/en/blog/the-power-of-ai-is-open)
-- [Simplifying Red Hat Device Edge lifecycle with Ansible Automation Platform](https://www.redhat.com/en/blog/simplifying-red-hat-device-edge-lifecycle-ansible)
-- [Enabling AI at the edge with Red Hat Ansible Inside](https://www.redhat.com/en/blog/enabling-ai-edge-red-hat-ansible-inside)
-- [Celebrating the release of Podman Desktop 1.5](https://www.redhat.com/en/blog/celebrating-release-podman-desktop-15)
+- [Unite flexibility and manageability with Red Hat Enterprise Linux 9.3 and 8.9](https://www.redhat.com/en/blog/rhel-93-and-89)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
