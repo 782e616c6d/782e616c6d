@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How JW Player Secured 300 Repos in an Hour with Docker Scout](https://www.docker.com/blog/how-jw-player-secured-300-repos-in-an-hour-with-docker-scout/)
+- [How Red Hat and HCLTech help banks get more value out of the cloud sooner](https://www.redhat.com/en/blog/how-red-hat-and-hcltech-help-banks-get-more-value-out-cloud-sooner)
 - [Friday Five — November 10, 2023](https://www.redhat.com/en/blog/friday-five-november-10-2023-red-hat)
 - [Achieve Security and Compliance Goals with Policy Guardrails in Docker Scout](https://www.docker.com/blog/achieve-security-and-compliance-goals-with-policy-guardrails-in-docker-scout/)
 - [AWS CodeBuild adds support for AWS Lambda compute mode](https://aws.amazon.com/blogs/devops/aws-codebuild-adds-support-for-aws-lambda-compute-mode/)
-- [LLM Everywhere: Docker for Local and Hugging Face Hosting](https://www.docker.com/blog/llm-docker-for-local-and-hugging-face-hosting/)
-- [Intelligent edge for sustainable agriculture Part 1: the importance of a cloud-native application platform](https://www.redhat.com/en/blog/intelligent-edge-sustainable-agriculture-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
