@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Livecycle Docker Extension: Instantly Share Changes and Get Feedback in Context](https://www.docker.com/blog/livecycle-docker-extension/)
 - [The state of site reliability engineering: SRE challenges and best practices in 2023](https://www.dynatrace.com/news/blog/state-of-sre-in-2023/)
 - [November patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-and-team-foundation-server/)
-- [How JW Player Secured 300 Repos in an Hour with Docker Scout](https://www.docker.com/blog/how-jw-player-secured-300-repos-in-an-hour-with-docker-scout/)
-- [How Red Hat and HCLTech help banks get more value out of the cloud sooner](https://www.redhat.com/en/blog/how-red-hat-and-hcltech-help-banks-get-more-value-out-cloud-sooner)
-- [Friday Five — November 10, 2023](https://www.redhat.com/en/blog/friday-five-november-10-2023-red-hat)
+- [Red Hat Insights turns smart statistics into machine learning](https://www.redhat.com/en/blog/red-hat-insights-turns-smart-statistics-machine-learning)
+- [Moving your SQL Servers from CentOS Linux to Red Hat Enterprise Linux](https://www.redhat.com/en/blog/moving-sql-servers-from-centos-linux-to-rhel)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
