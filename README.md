@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Accelerating Developer Velocity with Microsoft Dev Box and Docker Desktop](https://www.docker.com/blog/microsoft-devbox-and-docker-desktop/)
+- [Azure DevOps’ First Consensus Assessment Initiative Questionnaire &lpar;CAIQ&rpar; Now Available](https://devblogs.microsoft.com/devops/azure-devops-first-consensus-assessment-initiative-questionnaire-caiq-now-available/)
 - [The Livecycle Docker Extension: Instantly Share Changes and Get Feedback in Context](https://www.docker.com/blog/livecycle-docker-extension/)
-- [The state of site reliability engineering: SRE challenges and best practices in 2023](https://www.dynatrace.com/news/blog/state-of-sre-in-2023/)
-- [November patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-and-team-foundation-server/)
-- [Red Hat Insights turns smart statistics into machine learning](https://www.redhat.com/en/blog/red-hat-insights-turns-smart-statistics-machine-learning)
-- [Moving your SQL Servers from CentOS Linux to Red Hat Enterprise Linux](https://www.redhat.com/en/blog/moving-sql-servers-from-centos-linux-to-rhel)
+- [Working with subgroups and configurations on your ZTP/Red Hat Advanced Cluster Management for Kubernetes infrastructure](https://www.redhat.com/en/blog/working-subgroups-and-configurations-your-ztpred-hat-advanced-cluster-management-kubernetes-infrastructure)
+- [Red Hat Enterprise Linux 9.3 on Azure confidential virtual machines: What’s new?](https://www.redhat.com/en/blog/rhel-on-azure-cvm-whats-new)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
