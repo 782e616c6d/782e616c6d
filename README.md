@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Amazon CodeWhisperer for command line](https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-for-command-line/)
 - [Using Amazon CodeCatalyst with Amazon Virtual Private Cloud](https://aws.amazon.com/blogs/devops/using-amazon-codecatalyst-with-amazon-virtual-private-cloud/)
 - [Accelerating Developer Velocity with Microsoft Dev Box and Docker Desktop](https://www.docker.com/blog/microsoft-devbox-and-docker-desktop/)
 - [Azure DevOps’ First Consensus Assessment Initiative Questionnaire &lpar;CAIQ&rpar; Now Available](https://devblogs.microsoft.com/devops/azure-devops-first-consensus-assessment-initiative-questionnaire-caiq-now-available/)
 - [The Livecycle Docker Extension: Instantly Share Changes and Get Feedback in Context](https://www.docker.com/blog/livecycle-docker-extension/)
-- [Working with subgroups and configurations on your ZTP/Red Hat Advanced Cluster Management for Kubernetes infrastructure](https://www.redhat.com/en/blog/working-subgroups-and-configurations-your-ztpred-hat-advanced-cluster-management-kubernetes-infrastructure)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
