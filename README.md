@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Shifting security left through collaboration](https://www.redhat.com/en/blog/shifting-security-left-through-collaboration)
+- [Red Hat Satellite 6.13.6 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6136-has-been-released)
+- [Red Hat Advanced Cluster Security and Paladin Cloud: Enhancing security for multicloud environments](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-and-paladin-cloud)
+- [Accelerate STIG compliance with Red Hat OpenShift’s built-in security features: From 40 CAT I items to 7 &lpar;Part II&rpar;](https://www.redhat.com/en/blog/accelerate-stig-compliance-with-openshift-part2)
 - [Your DevOps and Developer Productivity guide to re:Invent 2023](https://aws.amazon.com/blogs/devops/your-devops-and-developer-productivity-guide-to-reinvent-2023/)
-- [New Boards Hub, Fall Update](https://devblogs.microsoft.com/devops/new-boards-hub-fall-update/)
-- [Introducing Amazon CodeWhisperer for command line](https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-for-command-line/)
-- [Using Amazon CodeCatalyst with Amazon Virtual Private Cloud](https://aws.amazon.com/blogs/devops/using-amazon-codecatalyst-with-amazon-virtual-private-cloud/)
-- [NetScaler BLX certified on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/netscaler-blx-certified-red-hat-enterprise-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
