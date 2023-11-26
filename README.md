@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Shifting security left through collaboration](https://www.redhat.com/en/blog/shifting-security-left-through-collaboration)
-- [Red Hat Satellite 6.13.6 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6136-has-been-released)
-- [Red Hat Advanced Cluster Security and Paladin Cloud: Enhancing security for multicloud environments](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-and-paladin-cloud)
-- [Accelerate STIG compliance with Red Hat OpenShift’s built-in security features: From 40 CAT I items to 7 &lpar;Part II&rpar;](https://www.redhat.com/en/blog/accelerate-stig-compliance-with-openshift-part2)
-- [Your DevOps and Developer Productivity guide to re:Invent 2023](https://aws.amazon.com/blogs/devops/your-devops-and-developer-productivity-guide-to-reinvent-2023/)
+- [Automate safe AWS CloudFormation deployments from GitHub](https://aws.amazon.com/blogs/devops/automate-safe-aws-cloudformation-deployments-from-github/)
+- [Unlocking new possibilities: The general availability of hosted control planes for self-managed Red Hat OpenShift](https://www.redhat.com/en/blog/unlocking-new-possibilities-general-availability-hosted-control-planes-self-managed-red-hat-openshift)
+- [Strategies and solutions for business resilience: Disaster recovery](https://www.redhat.com/en/blog/strategies-and-solutions-business-resilience-disaster-recovery)
+- [Introducing Cluster Observability Operator](https://www.redhat.com/en/blog/introducing-cluster-observability-operator)
+- [Friday Five — November 24, 2023](https://www.redhat.com/en/blog/friday-five-november-24-2023-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
