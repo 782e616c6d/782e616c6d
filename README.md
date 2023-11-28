@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps Server 2022.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rtw-now-available/)
 - [Automate safe AWS CloudFormation deployments from GitHub](https://aws.amazon.com/blogs/devops/automate-safe-aws-cloudformation-deployments-from-github/)
 - [Unlocking new possibilities: The general availability of hosted control planes for self-managed Red Hat OpenShift](https://www.redhat.com/en/blog/unlocking-new-possibilities-general-availability-hosted-control-planes-self-managed-red-hat-openshift)
 - [Strategies and solutions for business resilience: Disaster recovery](https://www.redhat.com/en/blog/strategies-and-solutions-business-resilience-disaster-recovery)
 - [Introducing Cluster Observability Operator](https://www.redhat.com/en/blog/introducing-cluster-observability-operator)
-- [Friday Five — November 24, 2023](https://www.redhat.com/en/blog/friday-five-november-24-2023-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
