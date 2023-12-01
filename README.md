@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Work Items in Visual Studio](https://devblogs.microsoft.com/devops/work-items-in-visual-studio/)
 - [Azure DevOps Server 2022.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rtw-now-available/)
-- [Red Hat Quay 3.10 is generally available](https://www.redhat.com/en/blog/red-hat-quay-310-generally-available)
-- [Intelligent edge for sustainable agriculture Part 2: building sustainable networks with open source](https://www.redhat.com/en/blog/intelligent-edge-sustainable-agriculture-part-2)
-- [Red Hat Enterprise Linux 10 plans for Wayland and Xorg server](https://www.redhat.com/en/blog/rhel-10-plans-wayland-and-xorg-server)
-- [Mapping your CentOS to RHEL migration journey on AWS with Red Hat Consulting](https://www.redhat.com/en/blog/mapping-your-centos-rhel-migration)
+- [Automate safe AWS CloudFormation deployments from GitHub](https://aws.amazon.com/blogs/devops/automate-safe-aws-cloudformation-deployments-from-github/)
+- [Unlocking new possibilities: The general availability of hosted control planes for self-managed Red Hat OpenShift](https://www.redhat.com/en/blog/unlocking-new-possibilities-general-availability-hosted-control-planes-self-managed-red-hat-openshift)
+- [Strategies and solutions for business resilience: Disaster recovery](https://www.redhat.com/en/blog/strategies-and-solutions-business-resilience-disaster-recovery)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
