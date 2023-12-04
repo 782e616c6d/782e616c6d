@@ -54,10 +54,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Work Items in Visual Studio](https://devblogs.microsoft.com/devops/work-items-in-visual-studio/)
-- [Azure DevOps Server 2022.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rtw-now-available/)
-- [Automate safe AWS CloudFormation deployments from GitHub](https://aws.amazon.com/blogs/devops/automate-safe-aws-cloudformation-deployments-from-github/)
-- [Unlocking new possibilities: The general availability of hosted control planes for self-managed Red Hat OpenShift](https://www.redhat.com/en/blog/unlocking-new-possibilities-general-availability-hosted-control-planes-self-managed-red-hat-openshift)
-- [Strategies and solutions for business resilience: Disaster recovery](https://www.redhat.com/en/blog/strategies-and-solutions-business-resilience-disaster-recovery)
+- [The Time Zone Database Package &lpar;tzdata&rpar; review for 2023](https://www.redhat.com/en/blog/tzdata-review-2023)
+- [Friday Five — December 1, 2023](https://www.redhat.com/en/blog/friday-five-december-1-2023-red-hat)
+- [What might the next decade bring for computing?](https://www.redhat.com/en/blog/what-might-next-decade-bring-computing)
+- [A formula for observability that drives OSS/BSS transformation for Telco](https://www.redhat.com/en/blog/formula-observability-drives-ossbss-transformation-telco)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
