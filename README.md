@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Docker AI/ML Hackathon 2023 Winners](https://www.docker.com/blog/announcing-the-docker-ai-ml-hackathon-2023-winners/)
+- [Embracing the future: Red Hat’s commitment to the AI Alliance](https://www.redhat.com/en/blog/embracing-future-red-hats-commitment-ai-alliance)
+- [AI Alliance Launches as an International Community of Leading Technology Developers, Researchers, and Adopters Collaborating Together to Advance Open, Safe, Responsible AI](https://www.redhat.com/en/blog/ai-alliance-launches-international-community-leading-technology-developers-researchers-and-adopters-collaborating-together-advance-open-safe-responsible-ai)
+- [Better securing the future: Navigating Red Hat OpenShift disconnected installations with the agent-based installer](https://www.redhat.com/en/blog/red-hat-openshift-disconnected-installations)
 - [Work Items in Visual Studio](https://devblogs.microsoft.com/devops/work-items-in-visual-studio/)
-- [The Time Zone Database Package &lpar;tzdata&rpar; review for 2023](https://www.redhat.com/en/blog/tzdata-review-2023)
-- [Friday Five — December 1, 2023](https://www.redhat.com/en/blog/friday-five-december-1-2023-red-hat)
-- [What might the next decade bring for computing?](https://www.redhat.com/en/blog/what-might-next-decade-bring-computing)
-- [A formula for observability that drives OSS/BSS transformation for Telco](https://www.redhat.com/en/blog/formula-observability-drives-ossbss-transformation-telco)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
