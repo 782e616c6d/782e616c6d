@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Empowering Data-Driven Development: Docker’s collaboration with Snowflake and Docker AI Advancements](https://www.docker.com/blog/docker-collaboration-snowflake-snowpark/)
+- [Announcing Builds View in Docker Desktop GA](https://www.docker.com/blog/announcing-builds-view-in-docker-desktop-ga/)
+- [Docker Desktop 4.26: Rosetta, PHP Init, Builds View GA, Admin Enhancements, and Docker Desktop Image for Microsoft Dev Box](https://www.docker.com/blog/docker-desktop-4-26/)
 - [Announcing the Docker AI/ML Hackathon 2023 Winners](https://www.docker.com/blog/announcing-the-docker-ai-ml-hackathon-2023-winners/)
-- [Embracing the future: Red Hat’s commitment to the AI Alliance](https://www.redhat.com/en/blog/embracing-future-red-hats-commitment-ai-alliance)
-- [AI Alliance Launches as an International Community of Leading Technology Developers, Researchers, and Adopters Collaborating Together to Advance Open, Safe, Responsible AI](https://www.redhat.com/en/blog/ai-alliance-launches-international-community-leading-technology-developers-researchers-and-adopters-collaborating-together-advance-open-safe-responsible-ai)
 - [Better securing the future: Navigating Red Hat OpenShift disconnected installations with the agent-based installer](https://www.redhat.com/en/blog/red-hat-openshift-disconnected-installations)
-- [Work Items in Visual Studio](https://devblogs.microsoft.com/devops/work-items-in-visual-studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
