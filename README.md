@@ -57,7 +57,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - [Announcing Builds View in Docker Desktop GA](https://www.docker.com/blog/announcing-builds-view-in-docker-desktop-ga/)
 - [Docker Desktop 4.26: Rosetta, PHP Init, Builds View GA, Admin Enhancements, and Docker Desktop Image for Microsoft Dev Box](https://www.docker.com/blog/docker-desktop-4-26/)
 - [Announcing the Docker AI/ML Hackathon 2023 Winners](https://www.docker.com/blog/announcing-the-docker-ai-ml-hackathon-2023-winners/)
-- [Better securing the future: Navigating Red Hat OpenShift disconnected installations with the agent-based installer](https://www.redhat.com/en/blog/red-hat-openshift-disconnected-installations)
+- [Embracing the future: Red Hat’s commitment to the AI Alliance](https://www.redhat.com/en/blog/embracing-future-red-hats-commitment-ai-alliance)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
