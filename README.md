@@ -56,8 +56,8 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - [Empowering Data-Driven Development: Docker’s collaboration with Snowflake and Docker AI Advancements](https://www.docker.com/blog/docker-collaboration-snowflake-snowpark/)
 - [Announcing Builds View in Docker Desktop GA](https://www.docker.com/blog/announcing-builds-view-in-docker-desktop-ga/)
 - [Docker Desktop 4.26: Rosetta, PHP Init, Builds View GA, Admin Enhancements, and Docker Desktop Image for Microsoft Dev Box](https://www.docker.com/blog/docker-desktop-4-26/)
-- [Announcing the Docker AI/ML Hackathon 2023 Winners](https://www.docker.com/blog/announcing-the-docker-ai-ml-hackathon-2023-winners/)
-- [Embracing the future: Red Hat’s commitment to the AI Alliance](https://www.redhat.com/en/blog/embracing-future-red-hats-commitment-ai-alliance)
+- [Zero trust security with a hardware root of trust](https://www.redhat.com/en/blog/zero-trust-security-hardware-root)
+- [Secondary network overlays for virtualization workloads](https://www.redhat.com/en/blog/secondary-network-overlays-virtualization-workloads)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
