@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Updates to Azure DevOps Demo Generator and Labs](https://devblogs.microsoft.com/devops/updates-to-azure-devops-demo-generator-and-labs/)
 - [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-3/)
+- [The business imperative for enterprise IT automation](https://www.redhat.com/en/blog/business-imperative-enterprise-it-automation)
+- [Environment-as-a-Service, part 1: Provisioning namespaces](https://www.redhat.com/en/blog/environment-as-a-service-part-1)
 - [Docker whale-comes AtomicJar, maker of Testcontainers](https://www.docker.com/blog/docker-whale-comes-atomicjar-maker-of-testcontainers/)
-- [Blue/Green Deployments with Amazon ECS using Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/blue-green-deployments-with-amazon-ecs-using-amazon-codecatalyst/)
-- [Azure DevOps for Unreal Engine game development](https://devblogs.microsoft.com/devops/azure-devops-for-unreal-engine-game-development/)
-- [Intelligence community insights: Driving efficiency with Red Hat OpenShift](https://www.redhat.com/en/blog/intelligence-community-insights-driving-efficiency-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
