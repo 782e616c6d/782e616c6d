@@ -54,10 +54,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with Projen and AWS CDK](https://aws.amazon.com/blogs/devops/getting-started-with-projen-and-aws-cdk/)
-- [Friday Five — December 15, 2023](https://www.redhat.com/en/blog/friday-five-december-15-2023-red-hat)
 - [Updates to Azure DevOps Demo Generator and Labs](https://devblogs.microsoft.com/devops/updates-to-azure-devops-demo-generator-and-labs/)
-- [Red Hat Satellite 6.14.1 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6141-has-been-released)
-- [Introducing a first observability signal correlation experience for Red Hat OpenShift](https://www.redhat.com/en/blog/observability-signal-correlation-red-hat-openshift)
+- [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-3/)
+- [The business imperative for enterprise IT automation](https://www.redhat.com/en/blog/business-imperative-enterprise-it-automation)
+- [Environment-as-a-Service, part 1: Provisioning namespaces](https://www.redhat.com/en/blog/environment-as-a-service-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
