@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker 2023: Milestones, Updates, and What’s Next](https://www.docker.com/blog/docker-highlights-2023/)
 - [Using Authenticated Logins for Docker Hub in Google Cloud](https://www.docker.com/blog/authenticated-logins-docker-hub-in-google-cloud/)
 - [Maximizing Software Development’s ROI: Forrester’s TEI Study of Docker Business](https://www.docker.com/blog/forresters-tei-study-of-docker-business/)
-- [Getting started with Projen and AWS CDK](https://aws.amazon.com/blogs/devops/getting-started-with-projen-and-aws-cdk/)
-- [Migrating to OpenShift Pipelines and integrating continuous deployment](https://www.redhat.com/en/blog/migrating-openshift-pipelines-and-integrating-continuous-deployment)
-- [Friday Five — December 15, 2023](https://www.redhat.com/en/blog/friday-five-december-15-2023-red-hat)
+- [Red Hat OpenShift introduces Regional disaster recovery for stateful applications](https://www.redhat.com/en/blog/red-hat-openshift-introduces-regional-disaster-recovery-stateful-applications)
+- [Press play: Our top 10 podcast and video episodes in 2023](https://www.redhat.com/en/blog/top-10-podcast-video-episodes-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
