@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Prompt Engineering with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/best-practices-for-prompt-engineering-with-amazon-codewhisperer/)
+- [Best practices for scaling AWS CDK adoption within your organization](https://aws.amazon.com/blogs/devops/best-practices-for-scaling-aws-cdk-adoption-within-your-organization/)
 - [Friday Five — December 22 , 2023](https://www.redhat.com/en/blog/friday-five-december-22-2023-red-hat)
 - [How to Use OpenPubkey with GitHub Actions Workloads](https://www.docker.com/blog/how-to-use-openpubkey-with-github-actions-workloads/)
 - [Docker 2023: Milestones, Updates, and What’s Next](https://www.docker.com/blog/docker-highlights-2023/)
-- [Red Hat Training and Certification: Shaping the future of IT in 2023](https://www.redhat.com/en/blog/red-hat-training-certification-future-it-2023)
-- [Using Authenticated Logins for Docker Hub in Google Cloud](https://www.docker.com/blog/authenticated-logins-docker-hub-in-google-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
