@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Looking beyond code coverage with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/looking-beyond-code-coverage-with-amazon-codewhisperer/)
-- [Supercharging chaos testing using AI](https://www.redhat.com/en/blog/supercharging-chaos-testing-using-ai)
-- [Deploying bare metal at the edge with Red Hat Advanced Cluster Management and zero touch provisioning](https://www.redhat.com/en/blog/deploying-bare-metal-at-the-edge)
-- [Building the future of telco: Red Hat partners discuss what’s next](https://www.redhat.com/en/blog/building-the-future-of-telco)
-- [Friday Five — January 5, 2024](https://www.redhat.com/en/blog/friday-five-january-5-2024-red-hat)
+- [Red Hat Summit and AnsibleFest 2024 registration now open](https://www.redhat.com/en/blog/red-hat-summit-and-ansiblefest-2024-registration-now-open)
+- [The evolution of Quay.io UI: Progress and future vision](https://www.redhat.com/en/blog/evolution-of-quayio-ui)
+- [Patch management needs a revolution, part 1: Surveying cybersecurity’s lineage](https://www.redhat.com/en/blog/patch-management-needs-a-revolution-part-1)
+- [KrknChaos is joining CNCF Sandbox](https://www.redhat.com/en/blog/krknchaos-joining-cncf-sandbox)
+- [Behind the scenes: Introducing OpenShift Virtualization Performance and Scale](https://www.redhat.com/en/blog/behind-scenes-introducing-openshift-virtualization-performance-and-scale)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
