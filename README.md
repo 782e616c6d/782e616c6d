@@ -54,10 +54,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Summit and AnsibleFest 2024 registration now open](https://www.redhat.com/en/blog/red-hat-summit-and-ansiblefest-2024-registration-now-open)
+- [Implement a fully managed shared file storage for Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; with Amazon FSx for NetApp ONTAP](https://www.redhat.com/en/blog/fully-managed-shared-file-storage-for-rosa)
+- [Deploying Red Hat OpenShift Dedicated clusters to Shared Virtual Private Cloud on Google Cloud](https://www.redhat.com/en/blog/deploying-red-hat-openshift-dedicated-clusters)
 - [The evolution of Quay.io UI: Progress and future vision](https://www.redhat.com/en/blog/evolution-of-quayio-ui)
 - [Patch management needs a revolution, part 1: Surveying cybersecurity’s lineage](https://www.redhat.com/en/blog/patch-management-needs-a-revolution-part-1)
-- [KrknChaos is joining CNCF Sandbox](https://www.redhat.com/en/blog/krknchaos-joining-cncf-sandbox)
-- [Behind the scenes: Introducing OpenShift Virtualization Performance and Scale](https://www.redhat.com/en/blog/behind-scenes-introducing-openshift-virtualization-performance-and-scale)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
