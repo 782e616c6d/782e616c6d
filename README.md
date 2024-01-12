@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [OpenShift APIs for Data Protection 1.3 Data Mover](https://www.redhat.com/en/blog/openshift-apis-data-protection-13-data-mover)
+- [Friday Five — January 12, 2024](https://www.redhat.com/en/blog/friday-five-january-12-2024-red-hat)
+- [Everything automation: Top automation focused blogs of 2023](https://www.redhat.com/en/blog/everything-automation-top-automation-focused-blogs-2023)
 - [Operating Tekton at scale: 10 lessons learned from Red Hat Trusted Application Pipeline](https://www.redhat.com/en/blog/operating-tekton-scale-10-lessons-learned)
 - [How to install ClearML Enterprise on Red Hat OpenShift](https://www.redhat.com/en/blog/how-install-clearml-enterprise-red-hat-openshift)
-- [Exploring PXE booting with Red Hat OpenShift agent-based installer](https://www.redhat.com/en/blog/exploring-pxe-booting-red-hat-openshift-agent-based-installer)
-- [Red Hat Summit and AnsibleFest 2024 registration now open](https://www.redhat.com/en/blog/red-hat-summit-and-ansiblefest-2024-registration-now-open)
-- [Implement a fully managed shared file storage for Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; with Amazon FSx for NetApp ONTAP](https://www.redhat.com/en/blog/fully-managed-shared-file-storage-for-rosa)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
