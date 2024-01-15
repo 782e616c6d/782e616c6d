@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [OpenShift APIs for Data Protection 1.3 Data Mover](https://www.redhat.com/en/blog/openshift-apis-data-protection-13-data-mover)
-- [Friday Five — January 12, 2024](https://www.redhat.com/en/blog/friday-five-january-12-2024-red-hat)
-- [Everything automation: Top automation focused blogs of 2023](https://www.redhat.com/en/blog/everything-automation-top-automation-focused-blogs-2023)
-- [Operating Tekton at scale: 10 lessons learned from Red Hat Trusted Application Pipeline](https://www.redhat.com/en/blog/operating-tekton-scale-10-lessons-learned)
-- [How to install ClearML Enterprise on Red Hat OpenShift](https://www.redhat.com/en/blog/how-install-clearml-enterprise-red-hat-openshift)
+- [Stratis-managed file systems for Microsoft SQL Server on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/stratis-managed-file-systems-microsoft-sql-server-rhel)
+- [Red Hat recognized as a Leader in G2’s Winter 2024 Reports](https://www.redhat.com/en/blog/red-hat-recognized-leader-g2s-winter-2024-reports)
+- [Red Hat CEO Matt Hicks talks about AI, open source and cloud](https://www.redhat.com/en/blog/red-hat-ceo-matt-hicks-talks-about-ai-open-source-and-cloud)
+- [OpenShift Secrets Store CSI Driver with Vault](https://www.redhat.com/en/blog/openshift-secrets-store-csi-driver-vault)
+- [Environment-as-a-Service, part 2: Static secrets](https://www.redhat.com/en/blog/environment-as-a-service-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
