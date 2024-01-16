@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps Server Product Lifecycle and Servicing](https://devblogs.microsoft.com/devops/azure-devops-server-product-lifecycle-and-servicing/)
+- [Patch management needs a revolution, part 2: The flood of vulnerabilities](https://www.redhat.com/en/blog/patch-management-needs-a-revolution-part-2)
+- [Evaluating LLM inference performance on Red Hat OpenShift AI](https://www.redhat.com/en/blog/evaluating-llm-inference-performance-red-hat-openshift-ai)
 - [Stratis-managed file systems for Microsoft SQL Server on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/stratis-managed-file-systems-microsoft-sql-server-rhel)
 - [Red Hat recognized as a Leader in G2’s Winter 2024 Reports](https://www.redhat.com/en/blog/red-hat-recognized-leader-g2s-winter-2024-reports)
-- [Red Hat CEO Matt Hicks talks about AI, open source and cloud](https://www.redhat.com/en/blog/red-hat-ceo-matt-hicks-talks-about-ai-open-source-and-cloud)
-- [OpenShift Secrets Store CSI Driver with Vault](https://www.redhat.com/en/blog/openshift-secrets-store-csi-driver-vault)
-- [Environment-as-a-Service, part 2: Static secrets](https://www.redhat.com/en/blog/environment-as-a-service-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
