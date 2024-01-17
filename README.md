@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Synchronizing software between Red Hat Satellite servers](https://www.redhat.com/en/blog/synchronizing-software-between-red-hat-satellite-servers)
+- [Continuous performance and scale validation of Red Hat OpenShift AI model-serving stack](https://www.redhat.com/en/blog/continuous-performance-and-scale-validation-red-hat-openshift-ai-model-serving-stack)
+- [Containerized Ansible Automation Platform update](https://www.redhat.com/en/blog/containerized-ansible-automation-platform-update)
 - [Azure DevOps Server Product Lifecycle and Servicing](https://devblogs.microsoft.com/devops/azure-devops-server-product-lifecycle-and-servicing/)
 - [Patch management needs a revolution, part 2: The flood of vulnerabilities](https://www.redhat.com/en/blog/patch-management-needs-a-revolution-part-2)
-- [Evaluating LLM inference performance on Red Hat OpenShift AI](https://www.redhat.com/en/blog/evaluating-llm-inference-performance-red-hat-openshift-ai)
-- [Stratis-managed file systems for Microsoft SQL Server on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/stratis-managed-file-systems-microsoft-sql-server-rhel)
-- [Red Hat recognized as a Leader in G2’s Winter 2024 Reports](https://www.redhat.com/en/blog/red-hat-recognized-leader-g2s-winter-2024-reports)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
