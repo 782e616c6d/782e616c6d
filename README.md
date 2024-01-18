@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Synchronizing software between Red Hat Satellite servers](https://www.redhat.com/en/blog/synchronizing-software-between-red-hat-satellite-servers)
-- [Continuous performance and scale validation of Red Hat OpenShift AI model-serving stack](https://www.redhat.com/en/blog/continuous-performance-and-scale-validation-red-hat-openshift-ai-model-serving-stack)
-- [Containerized Ansible Automation Platform update](https://www.redhat.com/en/blog/containerized-ansible-automation-platform-update)
-- [Azure DevOps Server Product Lifecycle and Servicing](https://devblogs.microsoft.com/devops/azure-devops-server-product-lifecycle-and-servicing/)
-- [Patch management needs a revolution, part 2: The flood of vulnerabilities](https://www.redhat.com/en/blog/patch-management-needs-a-revolution-part-2)
+- [Deploy CloudFormation Hooks to an Organization with service-managed StackSets](https://aws.amazon.com/blogs/devops/deploy-cloudformation-hooks-to-an-organization-with-service-managed-stacksets/)
+- [How to Enhance Application Security Posture with Docker Scout Policies](https://www.docker.com/blog/how-to-enhance-application-security-posture-with-docker-scout-policies/)
+- [How to Use OpenPubkey to SSH Without SSH Keys](https://www.docker.com/blog/how-to-use-openpubkey-to-ssh-without-ssh-keys/)
+- [Unlocking the power of generative AI with Cloudera Data Platform and Red Hat OpenShift](https://www.redhat.com/en/blog/unlocking-power-generative-ai-cloudera-data-platform-and-red-hat-openshift)
+- [Performing large-scale network testing on Red Hat OpenShift: A 100 Gbps approach](https://www.redhat.com/en/blog/performing-large-scale-network-testing-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
