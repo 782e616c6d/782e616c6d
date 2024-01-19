@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Deploy CloudFormation Hooks to an Organization with service-managed StackSets](https://aws.amazon.com/blogs/devops/deploy-cloudformation-hooks-to-an-organization-with-service-managed-stacksets/)
-- [How to Enhance Application Security Posture with Docker Scout Policies](https://www.docker.com/blog/how-to-enhance-application-security-posture-with-docker-scout-policies/)
-- [How to Use OpenPubkey to SSH Without SSH Keys](https://www.docker.com/blog/how-to-use-openpubkey-to-ssh-without-ssh-keys/)
-- [Unlocking the power of generative AI with Cloudera Data Platform and Red Hat OpenShift](https://www.redhat.com/en/blog/unlocking-power-generative-ai-cloudera-data-platform-and-red-hat-openshift)
-- [Performing large-scale network testing on Red Hat OpenShift: A 100 Gbps approach](https://www.redhat.com/en/blog/performing-large-scale-network-testing-red-hat-openshift)
+- [Final notice of alternate credentials deprecation](https://devblogs.microsoft.com/devops/final-notice-of-alternate-credentials-deprecation/)
+- [Top articles for developers from 2023](https://www.redhat.com/en/blog/top-articles-developers-2023)
+- [Open Container Initiative hooks for admission control in Podman](https://www.redhat.com/en/blog/open-container-initiative-hooks-admission-control-podman)
+- [Leveraging Red Hat Service Mesh to encrypt AMQ communication on OpenShift](https://www.redhat.com/en/blog/leveraging-red-hat-service-mesh-encrypt-amq-communication-openshift)
+- [Friday Five — January 19, 2024](https://www.redhat.com/en/blog/friday-five-january-19-2024-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
