@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [GitOps quality of life tips](https://www.redhat.com/en/blog/gitops-quality-life-tips)
 - [Final notice of alternate credentials deprecation](https://devblogs.microsoft.com/devops/final-notice-of-alternate-credentials-deprecation/)
 - [Top articles for developers from 2023](https://www.redhat.com/en/blog/top-articles-developers-2023)
 - [Open Container Initiative hooks for admission control in Podman](https://www.redhat.com/en/blog/open-container-initiative-hooks-admission-control-podman)
 - [Leveraging Red Hat Service Mesh to encrypt AMQ communication on OpenShift](https://www.redhat.com/en/blog/leveraging-red-hat-service-mesh-encrypt-amq-communication-openshift)
-- [Friday Five — January 19, 2024](https://www.redhat.com/en/blog/friday-five-january-19-2024-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
