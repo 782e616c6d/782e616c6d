@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Docker Build Cloud: A New Solution to Speed Up Build Times and Improve Developer Productivity](https://www.docker.com/blog/introducing-docker-build-cloud/)
+- [Patch management needs a revolution, part 3: Vulnerability scores and the concept of trust](https://www.redhat.com/en/blog/patch-management-needs-a-revolution-part-3)
+- [Correlating QPS rate with resource utilization in self-managed Red Hat OpenShift with Hosted Control Planes](https://www.redhat.com/en/blog/correlating-qps-rate-resource-utilization-self-managed-red-hat-openshift-hosted-control-planes)
+- [Building a mission critical application platform](https://www.redhat.com/en/blog/building-mission-critical-application-platform)
 - [GitOps quality of life tips](https://www.redhat.com/en/blog/gitops-quality-life-tips)
-- [Final notice of alternate credentials deprecation](https://devblogs.microsoft.com/devops/final-notice-of-alternate-credentials-deprecation/)
-- [Top articles for developers from 2023](https://www.redhat.com/en/blog/top-articles-developers-2023)
-- [Open Container Initiative hooks for admission control in Podman](https://www.redhat.com/en/blog/open-container-initiative-hooks-admission-control-podman)
-- [Leveraging Red Hat Service Mesh to encrypt AMQ communication on OpenShift](https://www.redhat.com/en/blog/leveraging-red-hat-service-mesh-encrypt-amq-communication-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
