@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [What’s next on the horizon for telecommunications service providers? A look at 2024 with Red Hat.](https://www.redhat.com/en/blog/whats-next-horizon-telecommunications-service-providers-look-2024-red-hat)
-- [Ansible Blog From Observability to Action with Event-Driven Ansible and Partners](https://www.redhat.com/en/blog/observability-action-event-driven-ansible-and-partners)
-- [End-to-end declarative provisioning of bare metal Red Hat OpenShift clusters](https://www.redhat.com/en/blog/end-end-declarative-provisioning-bare-metal-red-hat-openshift-clusters)
-- [Enabling Peer Pods on IBM Z and LinuxONE with Red Hat OpenShift sandboxed containers](https://www.redhat.com/en/blog/enabling-peer-pods-ibm-z-and-linuxone-red-hat-openshift-sandboxed-containers)
-- [Announcing the Red Hat build of Apache Camel 4 for smoother enterprise integration](https://www.redhat.com/en/blog/announcing-red-hat-build-apache-camel-4-smoother-enterprise-integration)
+- [Friday Five — January 26, 2024](https://www.redhat.com/en/blog/friday-five-january-26-2024-red-hat)
+- [Announcing Docker Scout Software Supply Chain Solution for Open Source Projects](https://www.docker.com/blog/docker-scout-software-supply-chain-solution-for-open-source-projects/)
+- [EJBCA and Docker — Streamlining PKI Management and TLS Certificate Issuance](https://www.docker.com/blog/ejbca-and-docker-streamlining-pki-management-and-tls-certificate-issuance/)
+- [Open source artificial intelligence: The key for business transformation](https://www.redhat.com/en/blog/open-source-artificial-intelligence)
+- [Migrating from a virtualization platform to a hybrid cloud solution: A hands-on account](https://www.redhat.com/en/blog/migrating-virtualization-platform-to-a-hybrid-cloud-solution)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
