@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Friday Five — January 26, 2024](https://www.redhat.com/en/blog/friday-five-january-26-2024-red-hat)
-- [Announcing Docker Scout Software Supply Chain Solution for Open Source Projects](https://www.docker.com/blog/docker-scout-software-supply-chain-solution-for-open-source-projects/)
-- [EJBCA and Docker — Streamlining PKI Management and TLS Certificate Issuance](https://www.docker.com/blog/ejbca-and-docker-streamlining-pki-management-and-tls-certificate-issuance/)
-- [Open source artificial intelligence: The key for business transformation](https://www.redhat.com/en/blog/open-source-artificial-intelligence)
-- [Migrating from a virtualization platform to a hybrid cloud solution: A hands-on account](https://www.redhat.com/en/blog/migrating-virtualization-platform-to-a-hybrid-cloud-solution)
+- [New Boards Hub Update, January 2024](https://devblogs.microsoft.com/devops/new-boards-hub-update-january-2024/)
+- [New version of Publish Code Coverage Results task](https://devblogs.microsoft.com/devops/new-pccr-task/)
+- [Red Hat Enterprise Linux scalable pricing to cloud partners announcement](https://www.redhat.com/en/blog/red-hat-enterprise-linux-scalable-pricing-cloud-partners-announcement)
+- [Managing system access in Red Hat Insights with Inventory Groups](https://www.redhat.com/en/blog/managing-system-access-red-hat-insights-inventory-groups)
+- [Lessons learned on the path to solution architecture](https://www.redhat.com/en/blog/lessons-learned-path-solution-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
