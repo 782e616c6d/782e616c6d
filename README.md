@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Closed-loop remediation: Why unified observability is an essential auto-remediation best practice](https://www.dynatrace.com/news/blog/closed-loop-remediation-auto-remediation-best-practices/)
+- [Introducing the Microsoft Active Directory inventory plug-in for Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/introducing-microsoft-active-directory-inventory-plug-ansible)
+- [How to implement a cloud-native application architecture](https://www.redhat.com/en/blog/how-implement-cloud-native-application-architecture)
+- [DevOps and Platform Engineering: What&#39;s the difference?](https://www.redhat.com/en/blog/whats-difference-between-devops-and-platform-engineering)
 - [New Boards Hub Update, January 2024](https://devblogs.microsoft.com/devops/new-boards-hub-update-january-2024/)
-- [New version of Publish Code Coverage Results task](https://devblogs.microsoft.com/devops/new-pccr-task/)
-- [Red Hat Enterprise Linux scalable pricing to cloud partners announcement](https://www.redhat.com/en/blog/red-hat-enterprise-linux-scalable-pricing-cloud-partners-announcement)
-- [Managing system access in Red Hat Insights with Inventory Groups](https://www.redhat.com/en/blog/managing-system-access-red-hat-insights-inventory-groups)
-- [Lessons learned on the path to solution architecture](https://www.redhat.com/en/blog/lessons-learned-path-solution-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
