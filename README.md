@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Closed-loop remediation: Why unified observability is an essential auto-remediation best practice](https://www.dynatrace.com/news/blog/closed-loop-remediation-auto-remediation-best-practices/)
-- [Introducing the Microsoft Active Directory inventory plug-in for Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/introducing-microsoft-active-directory-inventory-plug-ansible)
-- [How to implement a cloud-native application architecture](https://www.redhat.com/en/blog/how-implement-cloud-native-application-architecture)
-- [DevOps and Platform Engineering: What&#39;s the difference?](https://www.redhat.com/en/blog/whats-difference-between-devops-and-platform-engineering)
-- [New Boards Hub Update, January 2024](https://devblogs.microsoft.com/devops/new-boards-hub-update-january-2024/)
+- [Red Hat Satellite webhooks and errata](https://www.redhat.com/en/blog/red-hat-satellite-webhooks-and-errata)
+- [New! Self-Managed Red Hat Ansible Automation Platform  on Microsoft Azure](https://www.redhat.com/en/blog/red-hat-introduces-new-ansible-automation-platform-self-managed-offering-microsoft-azure)
+- [Patch management needs a revolution, part 4: Sane patching is safe patching is selective patching](https://www.redhat.com/en/blog/patch-management-needs-a-revolution-part-4)
+- [How to find and execute high-impact application modernization opportunities faster with the new migration toolkit for applications 7.0](https://www.redhat.com/en/blog/how-find-and-execute-high-impact-application-modernization-opportunities-faster-new-migration-toolkit-applications-70)
+- [Convert CentOS Linux 7.9 to RHEL 7.9 on AWS with Red Hat Enterprise Linux for Third Party Linux Migration with ELS](https://www.redhat.com/en/blog/convert-centos-linux-79-rhel-79-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
