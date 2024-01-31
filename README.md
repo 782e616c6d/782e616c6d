@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat Satellite webhooks and errata](https://www.redhat.com/en/blog/red-hat-satellite-webhooks-and-errata)
-- [New! Self-Managed Red Hat Ansible Automation Platform  on Microsoft Azure](https://www.redhat.com/en/blog/red-hat-introduces-new-ansible-automation-platform-self-managed-offering-microsoft-azure)
-- [Patch management needs a revolution, part 4: Sane patching is safe patching is selective patching](https://www.redhat.com/en/blog/patch-management-needs-a-revolution-part-4)
-- [How to find and execute high-impact application modernization opportunities faster with the new migration toolkit for applications 7.0](https://www.redhat.com/en/blog/how-find-and-execute-high-impact-application-modernization-opportunities-faster-new-migration-toolkit-applications-70)
-- [Convert CentOS Linux 7.9 to RHEL 7.9 on AWS with Red Hat Enterprise Linux for Third Party Linux Migration with ELS](https://www.redhat.com/en/blog/convert-centos-linux-79-rhel-79-aws)
+- [A new and improved AWS CDK construct for Amazon DynamoDB tables](https://aws.amazon.com/blogs/devops/a-new-and-improved-aws-cdk-construct-for-amazon-dynamodb-tables/)
+- [Announcing Generative AI CDK Constructs](https://aws.amazon.com/blogs/devops/announcing-generative-ai-cdk-constructs/)
+- [Docker Security Advisory: Multiple Vulnerabilities in runc, BuildKit, and Moby](https://www.docker.com/blog/docker-security-advisory-multiple-vulnerabilities-in-runc-buildkit-and-moby/)
+- [Power monitoring for Red Hat OpenShift: Technology Preview](https://www.redhat.com/en/blog/power-monitoring-red-hat-openshift-technology-preview)
+- [Multi-arch workloads on hosted control planes on AWS](https://www.redhat.com/en/blog/multi-arch-workloads-hosted-control-planes-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
