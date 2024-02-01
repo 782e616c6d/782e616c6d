@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [A new and improved AWS CDK construct for Amazon DynamoDB tables](https://aws.amazon.com/blogs/devops/a-new-and-improved-aws-cdk-construct-for-amazon-dynamodb-tables/)
-- [Announcing Generative AI CDK Constructs](https://aws.amazon.com/blogs/devops/announcing-generative-ai-cdk-constructs/)
-- [Docker Security Advisory: Multiple Vulnerabilities in runc, BuildKit, and Moby](https://www.docker.com/blog/docker-security-advisory-multiple-vulnerabilities-in-runc-buildkit-and-moby/)
-- [Power monitoring for Red Hat OpenShift: Technology Preview](https://www.redhat.com/en/blog/power-monitoring-red-hat-openshift-technology-preview)
-- [Multi-arch workloads on hosted control planes on AWS](https://www.redhat.com/en/blog/multi-arch-workloads-hosted-control-planes-aws)
+- [Friday Five — February 2, 2024](https://www.redhat.com/en/blog/friday-five-february-2-2024-red-hat)
+- [Docker Joins the AWS ISV Accelerate Program](https://www.docker.com/blog/docker-joins-the-aws-isv-accelerate-program/)
+- [Red Hat Trusted Artifact Signer with Enterprise Contract: Trustable container images](https://www.redhat.com/en/blog/red-hat-trusted-artifact-signer-enterprise-contract-trustable-container-images)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [MLRun Community Edition on Red Hat OpenShift](https://www.redhat.com/en/blog/mlrun-community-edition-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
