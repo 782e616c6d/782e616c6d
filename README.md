@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Import entire applications into AWS CloudFormation](https://aws.amazon.com/blogs/devops/import-entire-applications-into-aws-cloudformation/)
+- [Announcing CDK Migrate: A single command to migrate to the AWS CDK](https://aws.amazon.com/blogs/devops/announcing-cdk-migrate-a-single-command-to-migrate-to-the-aws-cdk/)
+- [Red Hat’s customer success in action: Enhancing security posture for organizations across the information services and telco industries](https://www.redhat.com/en/blog/customer-success-security-jan-2024)
 - [Friday Five — February 2, 2024](https://www.redhat.com/en/blog/friday-five-february-2-2024-red-hat)
 - [Docker Joins the AWS ISV Accelerate Program](https://www.docker.com/blog/docker-joins-the-aws-isv-accelerate-program/)
-- [Red Hat Trusted Artifact Signer with Enterprise Contract: Trustable container images](https://www.redhat.com/en/blog/red-hat-trusted-artifact-signer-enterprise-contract-trustable-container-images)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [MLRun Community Edition on Red Hat OpenShift](https://www.redhat.com/en/blog/mlrun-community-edition-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
