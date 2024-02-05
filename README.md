@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Import entire applications into AWS CloudFormation](https://aws.amazon.com/blogs/devops/import-entire-applications-into-aws-cloudformation/)
-- [Announcing CDK Migrate: A single command to migrate to the AWS CDK](https://aws.amazon.com/blogs/devops/announcing-cdk-migrate-a-single-command-to-migrate-to-the-aws-cdk/)
-- [Red Hat’s customer success in action: Enhancing security posture for organizations across the information services and telco industries](https://www.redhat.com/en/blog/customer-success-security-jan-2024)
-- [Friday Five — February 2, 2024](https://www.redhat.com/en/blog/friday-five-february-2-2024-red-hat)
-- [Docker Joins the AWS ISV Accelerate Program](https://www.docker.com/blog/docker-joins-the-aws-isv-accelerate-program/)
+- [Regenerating secrets for Azure DevOps OAuth applications](https://devblogs.microsoft.com/devops/regenerating-secrets-for-azure-devops-oauth-applications/)
+- [Azure Boards + GitHub improvements in private preview](https://devblogs.microsoft.com/devops/azure-boards-github-improvements-in-private-preview/)
+- [Generative AI Meets AWS Security](https://aws.amazon.com/blogs/devops/generative-ai-meets-aws-security/)
+- [Red Hat and RISC-V: To the far edge and beyond](https://www.redhat.com/en/blog/red-hat-and-risc-v-far-edge-and-beyond)
+- [How to prepare for your conversion from CentOS Linux to RHEL](https://www.redhat.com/en/blog/how-prepare-your-conversion-centos-linux-rhel)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
