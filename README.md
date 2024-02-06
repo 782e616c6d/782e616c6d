@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Regenerating secrets for Azure DevOps OAuth applications](https://devblogs.microsoft.com/devops/regenerating-secrets-for-azure-devops-oauth-applications/)
-- [Azure Boards + GitHub improvements in private preview](https://devblogs.microsoft.com/devops/azure-boards-github-improvements-in-private-preview/)
-- [Generative AI Meets AWS Security](https://aws.amazon.com/blogs/devops/generative-ai-meets-aws-security/)
-- [Red Hat and RISC-V: To the far edge and beyond](https://www.redhat.com/en/blog/red-hat-and-risc-v-far-edge-and-beyond)
-- [How to prepare for your conversion from CentOS Linux to RHEL](https://www.redhat.com/en/blog/how-prepare-your-conversion-centos-linux-rhel)
+- [See 2-10x Faster File Operation Speeds with Synchronized File Shares in Docker Desktop](https://www.docker.com/blog/announcing-synchronized-file-shares/)
+- [Streamline Dockerization with Docker Init GA](https://www.docker.com/blog/streamline-dockerization-with-docker-init-ga/)
+- [Scaling Docker Compose Up](https://www.docker.com/blog/scaling-docker-compose-up/)
+- [Why the future of manufacturing will rely on open source](https://www.redhat.com/en/blog/why-future-manufacturing-will-rely-open-source)
+- [Unveiling the Power of Automation: Introducing the latest VMware and Red Hat Ansible Certified Collection](https://www.redhat.com/en/blog/unveiling-power-automation-introducing-latest-vmware-and-red-hat-ansible-certified-collection)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
