@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [See 2-10x Faster File Operation Speeds with Synchronized File Shares in Docker Desktop](https://www.docker.com/blog/announcing-synchronized-file-shares/)
-- [Streamline Dockerization with Docker Init GA](https://www.docker.com/blog/streamline-dockerization-with-docker-init-ga/)
-- [Scaling Docker Compose Up](https://www.docker.com/blog/scaling-docker-compose-up/)
-- [Why the future of manufacturing will rely on open source](https://www.redhat.com/en/blog/why-future-manufacturing-will-rely-open-source)
-- [Unveiling the Power of Automation: Introducing the latest VMware and Red Hat Ansible Certified Collection](https://www.redhat.com/en/blog/unveiling-power-automation-introducing-latest-vmware-and-red-hat-ansible-certified-collection)
+- [Build Multimodal GenAI Apps with OctoAI and Docker](https://www.docker.com/blog/build-multimodal-genai-apps-with-octoai-and-docker/)
+- [What&#39;s new in the web console in RHEL 9.3 and 8.9](https://www.redhat.com/en/blog/whats-new-web-console-rhel-93-and-89)
+- [Understanding Red Hat Enterprise Linux &lpar;RHEL&rpar; lifecycle](https://www.redhat.com/en/blog/understanding-red-hat-enterprise-linux-rhel-lifecycle)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Red Hat OpenShift 4.14 Precision Time Offering Adds Telecom Grandmaster Leveraging Open Source](https://www.redhat.com/en/blog/red-hat-openshift-414-precision-time-offering-adds-telecom-grandmaster-leveraging-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
