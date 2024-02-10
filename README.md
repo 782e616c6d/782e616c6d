@@ -55,9 +55,9 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 <!-- BLOG-POST-LIST:START -->
 - [AWS CodePipeline adds support for Branch-based development and Monorepos](https://aws.amazon.com/blogs/devops/aws-codepipeline-adds-support-for-branch-based-development-and-monorepos/)
 - [Docker Desktop 4.27: Synchronized File Shares, Docker Init GA, Private Extensions Marketplace, Moby 25, Support for Testcontainers with ECI, Docker Build Cloud, and Docker Debug Beta](https://www.docker.com/blog/docker-desktop-4-27/)
-- [How to migrate Red Hat OpenShift Data Foundation data to new disks](https://www.redhat.com/en/blog/how-migrate-red-hat-openshift-data-foundation-data-new-disks)
 - [Friday Five — February 9, 2024](https://www.redhat.com/en/blog/friday-five-february-9-2024)
-- [Deploying Red Hat OpenShift Dedicated clusters on Shielded Virtual Machines](https://www.redhat.com/en/blog/deploying-red-hat-openshift-dedicated-clusters-shielded-virtual-machines)
+- [Build Multimodal GenAI Apps with OctoAI and Docker](https://www.docker.com/blog/build-multimodal-genai-apps-with-octoai-and-docker/)
+- [What&#39;s new in the web console in RHEL 9.3 and 8.9](https://www.redhat.com/en/blog/whats-new-web-console-rhel-93-and-89)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
