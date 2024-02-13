@@ -53,9 +53,9 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The 4 easiest ways to migrate CentOS Linux to RHEL](https://www.redhat.com/en/blog/4-easiest-ways-migrate-centos-linux-rhel)
+- [February patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-3/)
+- [Workload identity federation for Azure deployments is now generally available](https://devblogs.microsoft.com/devops/workload-identity-federation-for-azure-deployments-is-now-generally-available/)
 - [Automating Success: Building a better developer experience with platform engineering](https://www.dynatrace.com/news/blog/building-a-better-developer-experience-with-platform-engineering/)
-- [The 2023 State of Open Source in Financial Services](https://www.redhat.com/en/blog/state-open-source-financial-services)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [AWS CodePipeline adds support for Branch-based development and Monorepos](https://aws.amazon.com/blogs/devops/aws-codepipeline-adds-support-for-branch-based-development-and-monorepos/)
 <!-- BLOG-POST-LIST:END -->
