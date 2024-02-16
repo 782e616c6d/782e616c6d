@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Azure Pipelines deprecated tasks retirement schedule](https://devblogs.microsoft.com/devops/azure-pipelines-deprecated-tasks-retirement-schedule/)
+- [Friday Five — February 16, 2024](https://www.redhat.com/en/blog/friday-five-february-16-2024-red-hat)
+- [Building a unified hybrid cloud strategy with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/building-unified-hybrid-cloud-strategy-red-hat-openshift-virtualization)
 - [End of SSH-RSA support for Azure Repos](https://devblogs.microsoft.com/devops/ssh-rsa-deprecation/)
 - [JUnit Attachments Support for Publish Test Results](https://devblogs.microsoft.com/devops/junit-attachments-support-for-publish-test-results/)
-- [Kubernetes API Performance Metrics: Examples and Best Practices](https://www.redhat.com/en/blog/kubernetes-api-performance-metrics-examples-and-best-practices)
-- [Customer success stories: How Red Hat delivers edge solutions for regional digital operators, smart cities, and industrial automation](https://www.redhat.com/en/blog/customer-success-stories-how-red-hat-delivers-edge-solutions)
-- [Red Hat Satellite 6.14.2 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6142-has-been-released)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
