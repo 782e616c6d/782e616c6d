@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for managing Terraform State files in AWS CI/CD Pipeline](https://aws.amazon.com/blogs/devops/best-practices-for-managing-terraform-state-files-in-aws-ci-cd-pipeline/)
+- [5 reasons to convert from CentOS Linux to RHEL](https://www.redhat.com/en/blog/5-reasons-convert-centos-linux-rhel)
 - [Azure Pipelines deprecated tasks retirement schedule](https://devblogs.microsoft.com/devops/azure-pipelines-deprecated-tasks-retirement-schedule/)
 - [Friday Five — February 16, 2024](https://www.redhat.com/en/blog/friday-five-february-16-2024-red-hat)
 - [Building a unified hybrid cloud strategy with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/building-unified-hybrid-cloud-strategy-red-hat-openshift-virtualization)
-- [End of SSH-RSA support for Azure Repos](https://devblogs.microsoft.com/devops/ssh-rsa-deprecation/)
-- [JUnit Attachments Support for Publish Test Results](https://devblogs.microsoft.com/devops/junit-attachments-support-for-publish-test-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
