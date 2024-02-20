@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Best practices for managing Terraform State files in AWS CI/CD Pipeline](https://aws.amazon.com/blogs/devops/best-practices-for-managing-terraform-state-files-in-aws-ci-cd-pipeline/)
-- [5 reasons to convert from CentOS Linux to RHEL](https://www.redhat.com/en/blog/5-reasons-convert-centos-linux-rhel)
-- [Azure Pipelines deprecated tasks retirement schedule](https://devblogs.microsoft.com/devops/azure-pipelines-deprecated-tasks-retirement-schedule/)
-- [Friday Five — February 16, 2024](https://www.redhat.com/en/blog/friday-five-february-16-2024-red-hat)
-- [Building a unified hybrid cloud strategy with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/building-unified-hybrid-cloud-strategy-red-hat-openshift-virtualization)
+- [How to Use OpenPubkey to Solve Key Management via SSO](https://www.docker.com/blog/how-to-use-openpubkey-to-solve-key-management-via-sso/)
+- [Upcoming improvements to Red Hat Enterprise Linux minor release betas](https://www.redhat.com/en/blog/upcoming-improvements-red-hat-enterprise-linux-minor-release-betas)
+- [Red Hat Summit &amp; AnsibleFest 2024: Session catalog and agenda builder now available!](https://www.redhat.com/en/blog/red-hat-summit-ansiblefest-2024-session-catalog-and-agenda-builder-now-available)
+- [Red Hat Global Tech Trends 2024: Security remains top priority while IT management funding priorities shift](https://www.redhat.com/en/global-tech-trends-2024)
+- [DPDK latency in OpenShift - Part II](https://www.redhat.com/en/blog/dpdk-latency-in-openshift-part2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
