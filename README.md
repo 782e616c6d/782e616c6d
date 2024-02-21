@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [What are quality gates? How to use quality gates to deliver better software at speed and scale](https://www.dynatrace.com/news/blog/what-are-quality-gates-how-to-use-quality-gates-with-dynatrace/)
+- [The State of Customer and Partner Experience at Red Hat 2023: Collecting feedback from multiple inputs and channels](https://www.redhat.com/en/blog/state-of-customer-and-partner-experience-redHat-2023-collecting-feedback)
+- [Environment-as-a-Service, part 4: External resources and dynamic credentials](https://www.redhat.com/en/blog/environment-as-a-service-part-4)
 - [How to Use OpenPubkey to Solve Key Management via SSO](https://www.docker.com/blog/how-to-use-openpubkey-to-solve-key-management-via-sso/)
 - [Upcoming improvements to Red Hat Enterprise Linux minor release betas](https://www.redhat.com/en/blog/upcoming-improvements-red-hat-enterprise-linux-minor-release-betas)
-- [Red Hat Summit &amp; AnsibleFest 2024: Session catalog and agenda builder now available!](https://www.redhat.com/en/blog/red-hat-summit-ansiblefest-2024-session-catalog-and-agenda-builder-now-available)
-- [Red Hat Global Tech Trends 2024: Security remains top priority while IT management funding priorities shift](https://www.redhat.com/en/global-tech-trends-2024)
-- [DPDK latency in OpenShift - Part II](https://www.redhat.com/en/blog/dpdk-latency-in-openshift-part2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
