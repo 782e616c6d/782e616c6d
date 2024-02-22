@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [What are quality gates? How to use quality gates to deliver better software at speed and scale](https://www.dynatrace.com/news/blog/what-are-quality-gates-how-to-use-quality-gates-with-dynatrace/)
-- [The State of Customer and Partner Experience at Red Hat 2023: Collecting feedback from multiple inputs and channels](https://www.redhat.com/en/blog/state-of-customer-and-partner-experience-redHat-2023-collecting-feedback)
-- [Environment-as-a-Service, part 4: External resources and dynamic credentials](https://www.redhat.com/en/blog/environment-as-a-service-part-4)
-- [How to Use OpenPubkey to Solve Key Management via SSO](https://www.docker.com/blog/how-to-use-openpubkey-to-solve-key-management-via-sso/)
-- [Upcoming improvements to Red Hat Enterprise Linux minor release betas](https://www.redhat.com/en/blog/upcoming-improvements-red-hat-enterprise-linux-minor-release-betas)
+- [Subscribing to IBM watsonx Code Assistant for Ansible Lightspeed](https://www.redhat.com/en/blog/subscribing-ibm-watsonx-code-assistant-ansible-lightspeed)
+- [New! Self-Managed Red Hat Ansible Automation Platform on Google Cloud Marketplace](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-google-cloud-marketplace)
+- [Delivering a better view of system vulnerabilities with Red Hat Insights](https://www.redhat.com/en/blog/delivering-a-better-view-system-vulnerabilities)
+- [Bridging innovation and standards compliance: Red Hat’s drive towards the next-generation of government computing standards](https://www.redhat.com/en/blog/bridging-innovation-and-standards-compliance-red-hats-drive-towards-next-generation-government-computing-standards)
+- [Simplified Deployment: Step-by-Step Ansible Automation Platform Installation on Microsoft Azure](https://www.redhat.com/en/blog/ansible-automation-platform-installation-microsoft-azure)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
