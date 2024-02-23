@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — February 23, 2024](https://www.redhat.com/en/blog/friday-five-february-23-2024-red-hat)
+- [Empowering success: Red Hat introduces new feature - digital badges for training course attendance](https://www.redhat.com/en/blog/red-hat-introduces-digital-badges-for-training-course-attendance)
 - [Subscribing to IBM watsonx Code Assistant for Ansible Lightspeed](https://www.redhat.com/en/blog/subscribing-ibm-watsonx-code-assistant-ansible-lightspeed)
 - [New! Self-Managed Red Hat Ansible Automation Platform on Google Cloud Marketplace](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-google-cloud-marketplace)
 - [Delivering a better view of system vulnerabilities with Red Hat Insights](https://www.redhat.com/en/blog/delivering-a-better-view-system-vulnerabilities)
-- [Bridging innovation and standards compliance: Red Hat’s drive towards the next-generation of government computing standards](https://www.redhat.com/en/blog/bridging-innovation-and-standards-compliance-red-hats-drive-towards-next-generation-government-computing-standards)
-- [Simplified Deployment: Step-by-Step Ansible Automation Platform Installation on Microsoft Azure](https://www.redhat.com/en/blog/ansible-automation-platform-installation-microsoft-azure)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
