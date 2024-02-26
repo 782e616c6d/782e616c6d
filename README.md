@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Testcontainers on Jenkins CI](https://www.docker.com/blog/how-to-use-testcontainers-on-jenkins-ci/)
+- [SAP on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/sap-red-hat-openshift-virtualization)
+- [How the telco ecosystem can make a more meaningful, measurable impact on sustainability](https://www.redhat.com/en/blog/how-telco-ecosystem-can-make-more-meaningful-measurable-impact-sustainability)
+- [How private 5G can unlock the promise of industrial AI](https://www.redhat.com/en/blog/how-private-5g-can-unlock-promise-industrial-ai)
 - [Friday Five — February 23, 2024](https://www.redhat.com/en/blog/friday-five-february-23-2024-red-hat)
-- [Empowering success: Red Hat introduces new feature - digital badges for training course attendance](https://www.redhat.com/en/blog/red-hat-introduces-digital-badges-for-training-course-attendance)
-- [Subscribing to IBM watsonx Code Assistant for Ansible Lightspeed](https://www.redhat.com/en/blog/subscribing-ibm-watsonx-code-assistant-ansible-lightspeed)
-- [New! Self-Managed Red Hat Ansible Automation Platform on Google Cloud Marketplace](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-google-cloud-marketplace)
-- [Delivering a better view of system vulnerabilities with Red Hat Insights](https://www.redhat.com/en/blog/delivering-a-better-view-system-vulnerabilities)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
