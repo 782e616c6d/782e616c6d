@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The benefits of unified observability and security for BizDevSecOps use cases](https://www.dynatrace.com/news/blog/bizdevsecops-use-cases-for-unified-observability/)
+- [Ultra-low power architecture for the network edge](https://www.redhat.com/en/blog/ultra-low-power-architecture-network-edge)
+- [Configuring Red Hat Insights integration with Microsoft Teams](https://www.redhat.com/en/blog/configuring-red-hat-insights-integration-microsoft-teams)
 - [How to Use Testcontainers on Jenkins CI](https://www.docker.com/blog/how-to-use-testcontainers-on-jenkins-ci/)
 - [SAP on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/sap-red-hat-openshift-virtualization)
-- [How the telco ecosystem can make a more meaningful, measurable impact on sustainability](https://www.redhat.com/en/blog/how-telco-ecosystem-can-make-more-meaningful-measurable-impact-sustainability)
-- [How private 5G can unlock the promise of industrial AI](https://www.redhat.com/en/blog/how-private-5g-can-unlock-promise-industrial-ai)
-- [Friday Five — February 23, 2024](https://www.redhat.com/en/blog/friday-five-february-23-2024-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
