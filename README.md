@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — March 1, 2024](https://www.redhat.com/en/blog/friday-five-march-1-2024-red-hat)
 - [Revolutionize Your CI/CD Pipeline: Integrating Testcontainers and Bazel](https://www.docker.com/blog/revolutionize-your-ci-cd-pipeline-integrating-testcontainers-and-bazel/)
 - [Azure Container Registry and Docker Hub: Connecting the Dots with Seamless Authentication and Artifact Cache](https://www.docker.com/blog/azure-container-registry-and-docker-hub-connecting-the-dots-with-seamless-authentication-and-artifact-cache/)
 - [Making Quay.io more accessible](https://www.redhat.com/en/blog/making-quayio-more-accessible)
-- [How we moved Quay.io&#39;s database from MySQL to Postgres and lived to tell about it](https://www.redhat.com/en/blog/moved-quay-io-database-from-mysql-to-aurora-postgres)
-- [Forrester Total Economic ImpactTM Study details Cost Savings And Business Benefits of Red Hat Enterprise Linux On Microsoft Azure](https://www.redhat.com/en/blog/forrester-tei-cost-savings-and-business-benefits-redhat-enterprise-linux-microsoft-azure)
+- [Insights helps to provide Threat Intelligence](https://www.redhat.com/en/blog/insights-helps-provide-threat-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
