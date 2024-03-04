@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Friday Five — March 1, 2024](https://www.redhat.com/en/blog/friday-five-march-1-2024-red-hat)
-- [Revolutionize Your CI/CD Pipeline: Integrating Testcontainers and Bazel](https://www.docker.com/blog/revolutionize-your-ci-cd-pipeline-integrating-testcontainers-and-bazel/)
-- [Azure Container Registry and Docker Hub: Connecting the Dots with Seamless Authentication and Artifact Cache](https://www.docker.com/blog/azure-container-registry-and-docker-hub-connecting-the-dots-with-seamless-authentication-and-artifact-cache/)
-- [Making Quay.io more accessible](https://www.redhat.com/en/blog/making-quayio-more-accessible)
-- [Insights helps to provide Threat Intelligence](https://www.redhat.com/en/blog/insights-helps-provide-threat-intelligence)
+- [Creating a User Activity Dashboard for Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/creating-a-user-activity-dashboard-for-amazon-codewhisperer/)
+- [Red Hat Satellite 6.13.7 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6137-has-been-released)
+- [Exploring a custom collection for pulling data from Red Hat Insights APIs to Event-Driven Ansible](https://www.redhat.com/en/blog/exploring-custom-collection-pulling-data-red-hat-insights-apis-event-driven-ansible)
+- [Ensuring sovereign cloud does not equal limited cloud](https://www.redhat.com/en/blog/ensuring-sovereign-cloud-does-not-equal-limited-cloud)
+- [5 ways we work to optimize Red Hat Satellite](https://www.redhat.com/en/blog/5-ways-we-work-optimize-red-hat-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
