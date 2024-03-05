@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Filter Out Security Vulnerability False Positives with VEX](https://www.docker.com/blog/filter-out-security-vulnerability-false-positives-with-vex/)
+- [The Windows enterprise in an Ansible galaxy](https://www.redhat.com/en/blog/windows-enterprise-ansible-galaxy)
+- [Incorporating a sovereign cloud into a multicloud strategy](https://www.redhat.com/en/blog/incorporating-sovereign-cloud-multicloud-strategy)
+- [Accessing Amazon S3 with OpenShift sandboxed containers peer-pods](https://www.redhat.com/en/blog/accessing-amazon-s3-with-openshift-sandboxed-containers-peer-pods)
 - [Creating a User Activity Dashboard for Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/creating-a-user-activity-dashboard-for-amazon-codewhisperer/)
-- [Red Hat Satellite 6.13.7 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6137-has-been-released)
-- [Exploring a custom collection for pulling data from Red Hat Insights APIs to Event-Driven Ansible](https://www.redhat.com/en/blog/exploring-custom-collection-pulling-data-red-hat-insights-apis-event-driven-ansible)
-- [Ensuring sovereign cloud does not equal limited cloud](https://www.redhat.com/en/blog/ensuring-sovereign-cloud-does-not-equal-limited-cloud)
-- [5 ways we work to optimize Red Hat Satellite](https://www.redhat.com/en/blog/5-ways-we-work-optimize-red-hat-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
