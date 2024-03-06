@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How platform engineering and IDP observability can accelerate developer velocity](https://www.dynatrace.com/news/blog/how-platform-engineering-can-accelerate-developer-velocity/)
+- [Are Containers Only for Microservices? Myth Debunked](https://www.docker.com/blog/are-containers-only-for-microservices-myth-debunked/)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [Filter Out Security Vulnerability False Positives with VEX](https://www.docker.com/blog/filter-out-security-vulnerability-false-positives-with-vex/)
 - [The Windows enterprise in an Ansible galaxy](https://www.redhat.com/en/blog/windows-enterprise-ansible-galaxy)
-- [Incorporating a sovereign cloud into a multicloud strategy](https://www.redhat.com/en/blog/incorporating-sovereign-cloud-multicloud-strategy)
-- [Accessing Amazon S3 with OpenShift sandboxed containers peer-pods](https://www.redhat.com/en/blog/accessing-amazon-s3-with-openshift-sandboxed-containers-peer-pods)
-- [Creating a User Activity Dashboard for Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/creating-a-user-activity-dashboard-for-amazon-codewhisperer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
