@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [What to expect in the next era of artificial intelligence in banking](https://www.redhat.com/en/blog/what-expect-next-era-artificial-intelligence-banking)
+- [Implementing digital sovereignty: the decision framework](https://www.redhat.com/en/blog/implementing-digital-sovereignty-the-decision-framework)
+- [GitOps in Action: Building and Deploying AI Chatbots on Azure Red Hat OpenShift with Azure OpenAI](https://www.redhat.com/en/blog/gitops-action-building-and-deploying-ai-chatbots-azure-red-hat-openshift-azure-openai)
 - [How platform engineering and IDP observability can accelerate developer velocity](https://www.dynatrace.com/news/blog/how-platform-engineering-can-accelerate-developer-velocity/)
 - [Are Containers Only for Microservices? Myth Debunked](https://www.docker.com/blog/are-containers-only-for-microservices-myth-debunked/)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Filter Out Security Vulnerability False Positives with VEX](https://www.docker.com/blog/filter-out-security-vulnerability-false-positives-with-vex/)
-- [The Windows enterprise in an Ansible galaxy](https://www.redhat.com/en/blog/windows-enterprise-ansible-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
