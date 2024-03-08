@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Working with exceptions and configurations on your ZTP/RHACM infrastructure](https://www.redhat.com/en/blog/working-exceptions-and-configurations-your-ztprhacm-infrastructure)
+- [Top 10 operators deployed on Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/top-10-operators-deployed-red-hat-openshift-service-aws)
+- [Friday Five — March 8, 2024](https://www.redhat.com/en/blog/friday-five-march-8-2024-red-hat)
+- [Confidential Containers for Financial Services on Public Cloud](https://www.redhat.com/en/blog/confidential-containers-fsi-public-cloud)
 - [What to expect in the next era of artificial intelligence in banking](https://www.redhat.com/en/blog/what-expect-next-era-artificial-intelligence-banking)
-- [Implementing digital sovereignty: the decision framework](https://www.redhat.com/en/blog/implementing-digital-sovereignty-the-decision-framework)
-- [GitOps in Action: Building and Deploying AI Chatbots on Azure Red Hat OpenShift with Azure OpenAI](https://www.redhat.com/en/blog/gitops-action-building-and-deploying-ai-chatbots-azure-red-hat-openshift-azure-openai)
-- [How platform engineering and IDP observability can accelerate developer velocity](https://www.dynatrace.com/news/blog/how-platform-engineering-can-accelerate-developer-velocity/)
-- [Are Containers Only for Microservices? Myth Debunked](https://www.docker.com/blog/are-containers-only-for-microservices-myth-debunked/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
