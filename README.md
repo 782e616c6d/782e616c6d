@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How we sped up AWS CloudFormation deployments with optimistic stabilization](https://aws.amazon.com/blogs/devops/how-we-sped-up-aws-cloudformation-deployments-with-optimistic-stabilization/)
+- [NTT’s accelerated data pipeline with Red Hat OpenShift and IOWN All-Photonics Network](https://www.redhat.com/en/blog/ntts-accelerated-data-pipeline-red-hat-openshift-and-iown-all-photonics-network)
+- [Exploring Red Hat Insights integration with Jira Software](https://www.redhat.com/en/blog/exploring-red-hat-insights-integration-jira-software)
+- [API Management Trends: Insights from API World and APIDays Paris 2023](https://www.redhat.com/en/blog/api-management-trends-insights-from-api-world-and-apidays-paris2023)
 - [Working with exceptions and configurations on your ZTP/RHACM infrastructure](https://www.redhat.com/en/blog/working-exceptions-and-configurations-your-ztprhacm-infrastructure)
-- [Top 10 operators deployed on Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/top-10-operators-deployed-red-hat-openshift-service-aws)
-- [Friday Five — March 8, 2024](https://www.redhat.com/en/blog/friday-five-march-8-2024-red-hat)
-- [Confidential Containers for Financial Services on Public Cloud](https://www.redhat.com/en/blog/confidential-containers-fsi-public-cloud)
-- [What to expect in the next era of artificial intelligence in banking](https://www.redhat.com/en/blog/what-expect-next-era-artificial-intelligence-banking)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
