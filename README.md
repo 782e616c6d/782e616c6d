@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How we sped up AWS CloudFormation deployments with optimistic stabilization](https://aws.amazon.com/blogs/devops/how-we-sped-up-aws-cloudformation-deployments-with-optimistic-stabilization/)
-- [NTT’s accelerated data pipeline with Red Hat OpenShift and IOWN All-Photonics Network](https://www.redhat.com/en/blog/ntts-accelerated-data-pipeline-red-hat-openshift-and-iown-all-photonics-network)
-- [Exploring Red Hat Insights integration with Jira Software](https://www.redhat.com/en/blog/exploring-red-hat-insights-integration-jira-software)
-- [API Management Trends: Insights from API World and APIDays Paris 2023](https://www.redhat.com/en/blog/api-management-trends-insights-from-api-world-and-apidays-paris2023)
-- [Working with exceptions and configurations on your ZTP/RHACM infrastructure](https://www.redhat.com/en/blog/working-exceptions-and-configurations-your-ztprhacm-infrastructure)
+- [Infrastructure as Code development with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/infrastructure-as-code-development-with-amazon-codewhisperer/)
+- [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-2/)
+- [EMEA DE | Was bringt ein Open Source Program Office &lpar;OSPO&rpar;?](https://www.redhat.com/en/blog/what-is-the-point-of-an-ospo)
+- [Insights at KubeCon Europe 2024: Red Hat&#39;s observability sessions](https://www.redhat.com/en/blog/insights-kubecon-europe-2024-red-hats-observability-sessions)
+- [How to prepare your RHEL server for an in-place upgrade](https://www.redhat.com/en/blog/how-prepare-your-rhel-server-place-upgrade)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
