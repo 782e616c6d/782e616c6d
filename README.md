@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Rev Up Your Cloud-Native Journey: Join Docker at KubeCon + CloudNativeCon EU 2024 for Innovation, Expert Insight, and Motorsports](https://www.docker.com/blog/docker-at-kubecon-eu-2024/)
 - [Infrastructure as Code development with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/infrastructure-as-code-development-with-amazon-codewhisperer/)
 - [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-2/)
 - [EMEA DE | Was bringt ein Open Source Program Office &lpar;OSPO&rpar;?](https://www.redhat.com/en/blog/what-is-the-point-of-an-ospo)
 - [Insights at KubeCon Europe 2024: Red Hat&#39;s observability sessions](https://www.redhat.com/en/blog/insights-kubecon-europe-2024-red-hats-observability-sessions)
-- [How to prepare your RHEL server for an in-place upgrade](https://www.redhat.com/en/blog/how-prepare-your-rhel-server-place-upgrade)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
