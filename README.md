@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Watch now: 3 top episodes on Red Hat TV](https://www.redhat.com/en/blog/watch-now-3-top-episodes-red-hat-tv)
-- [Integrating Enterprise Environments with SaaS: A CRM Case Study with Red Hat Application Foundations](https://www.redhat.com/en/blog/integrating-enterprise-environments-saas-crm-case-study-red-hat-application-foundations)
-- [Rev Up Your Cloud-Native Journey: Join Docker at KubeCon + CloudNativeCon EU 2024 for Innovation, Expert Insight, and Motorsports](https://www.docker.com/blog/docker-at-kubecon-eu-2024/)
-- [Infrastructure as Code development with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/infrastructure-as-code-development-with-amazon-codewhisperer/)
-- [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-2/)
+- [Why Red Hat Enterprise Linux &lpar;RHEL&rpar; is an ideal choice for your VFX pipeline](https://www.redhat.com/en/blog/why-redhat-enterprise-linux-rhel-ideal-choice-for-your-vfx-pipeline)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Red Hat OpenShift Service on AWS obtains FedRAMP “Ready” designation](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-obtains-fedramp-ready-designation)
+- [Friday Five — March 15, 2024](https://www.redhat.com/en/blog/friday-five-march-15-2024-red-hat)
+- [Zero Trust MLOps with OpenShift Platform Plus](https://www.redhat.com/en/blog/zero-trust-mlops-with-openshift-platform-plus)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
