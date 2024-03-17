@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Driving Development Forward: How the PGA TOUR speeds up Development with the AWS CDK](https://aws.amazon.com/blogs/devops/driving-development-forward-how-the-pga-tour-speeds-up-development-with-the-aws-cdk/)
 - [Why Red Hat Enterprise Linux &lpar;RHEL&rpar; is an ideal choice for your VFX pipeline](https://www.redhat.com/en/blog/why-redhat-enterprise-linux-rhel-ideal-choice-for-your-vfx-pipeline)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [Red Hat OpenShift Service on AWS obtains FedRAMP “Ready” designation](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-obtains-fedramp-ready-designation)
 - [Friday Five — March 15, 2024](https://www.redhat.com/en/blog/friday-five-march-15-2024-red-hat)
-- [Zero Trust MLOps with OpenShift Platform Plus](https://www.redhat.com/en/blog/zero-trust-mlops-with-openshift-platform-plus)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
