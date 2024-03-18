@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Driving Development Forward: How the PGA TOUR speeds up Development with the AWS CDK](https://aws.amazon.com/blogs/devops/driving-development-forward-how-the-pga-tour-speeds-up-development-with-the-aws-cdk/)
-- [Why Red Hat Enterprise Linux &lpar;RHEL&rpar; is an ideal choice for your VFX pipeline](https://www.redhat.com/en/blog/why-redhat-enterprise-linux-rhel-ideal-choice-for-your-vfx-pipeline)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Red Hat OpenShift Service on AWS obtains FedRAMP “Ready” designation](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-obtains-fedramp-ready-designation)
-- [Friday Five — March 15, 2024](https://www.redhat.com/en/blog/friday-five-march-15-2024-red-hat)
+- [Docker Partners with NVIDIA to Support Building and Running AI/ML Applications](https://www.docker.com/blog/docker-nvidia-support-building-running-ai-ml-apps/)
+- [The fastest guide to configuring Red Hat Satellite ever](https://www.redhat.com/en/blog/fastest-guide-configuring-red-hat-satellite-ever)
+- [Red Hat optimizes AI inference on hybrid cloud infrastructure with NVIDIA microservices](https://www.redhat.com/en/blog/red-hat-optimizes-ai-inference-hybrid-cloud-infrastructure-nvidia-microservices)
+- [Red Hat Advanced Cluster Security 4.4: What’s included](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-44-release-now-available)
+- [Platform engineering for your IT team: How to get started](https://www.redhat.com/en/blog/platform-engineering-for-your-it-team-how-to-get-started)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
