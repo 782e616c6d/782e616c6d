@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [New Boards Hub on as default](https://devblogs.microsoft.com/devops/new-boards-hub-on-as-default/)
+- [Quick Copy and Import Test Case by Plan or Suite ID](https://devblogs.microsoft.com/devops/id-search-in-azure-test-plans/)
 - [Red Hat Quay 3.11: Smarter permissions, lifecycle, and AWS integration](https://www.redhat.com/en/blog/red-hat-quay-311-smarter-permissions-lifecycle-and-aws-integration)
+- [Enhanced observability in OpenShift 4.15](https://www.redhat.com/en/blog/enhanced-observability-openshift-415)
 - [Unveiling Red Hat OpenShift 4.15](https://www.redhat.com/en/blog/unveiling-red-hat-openshift-415)
-- [Podman Desktop 1.8 enhances developer experience with new learning guides, streamlined onboarding, and advanced Kubernetes support](https://www.redhat.com/en/blog/podman-desktop-18-enhances-developer-experience-new-learning-guides-streamlined-onboarding-and-advanced-kubernetes-support)
-- [Open source AI at Red Hat: Our journey in the Kubeflow community](https://www.redhat.com/en/blog/open-source-ai-red-hat-our-journey-kubeflow-community)
-- [Introducing OpenShift Service Mesh 2.5](https://www.redhat.com/en/blog/introducing-openshift-service-mesh2.5)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
