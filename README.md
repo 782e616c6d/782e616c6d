@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [New Boards Hub on as default](https://devblogs.microsoft.com/devops/new-boards-hub-on-as-default/)
-- [Quick Copy and Import Test Case by Plan or Suite ID](https://devblogs.microsoft.com/devops/id-search-in-azure-test-plans/)
-- [Red Hat Quay 3.11: Smarter permissions, lifecycle, and AWS integration](https://www.redhat.com/en/blog/red-hat-quay-311-smarter-permissions-lifecycle-and-aws-integration)
-- [Enhanced observability in OpenShift 4.15](https://www.redhat.com/en/blog/enhanced-observability-openshift-415)
-- [Unveiling Red Hat OpenShift 4.15](https://www.redhat.com/en/blog/unveiling-red-hat-openshift-415)
+- [Friday Five — March 22, 2024](https://www.redhat.com/en/blog/friday-five-march-22-2024-red-hat)
+- [11 Years of Docker: Shaping the Next Decade of Development](https://www.docker.com/blog/docker-11-year-anniversary/)
+- [Critical IT operations at risk: The blame game and siloed tools take a toll](https://www.dynatrace.com/news/blog/critical-it-operations-at-risk/)
+- [Red Hat leadership update](https://www.redhat.com/en/blog/red-hat-leadership-update)
+- [Enhanced Governance, Compliance and Scalability with Red Hat Advanced Cluster Management for Kubernetes 2.10](https://www.redhat.com/en/blog/enhanced-governance-compliance-and-scalability-red-hat-advanced-cluster-management-kubernetes-210)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
