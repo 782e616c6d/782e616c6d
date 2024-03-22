@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Driving Development Forward: How the PGA TOUR speeds up Development with the AWS CDK](https://aws.amazon.com/blogs/devops/driving-development-forward-how-the-pga-tour-speeds-up-development-with-the-aws-cdk/)
+- [The State of Customer and Partner Experience at Red Hat 2023: Using feedback to drive enhancements](https://www.redhat.com/en/blog/state-customer-and-partner-experience-red-hat-2023-using-feedback-drive-enhancements-0)
+- [Insights Advisor for OpenShift - How to react to Advisor recommendations](https://www.redhat.com/en/blog/insights-advisor-openshift-how-react-advisor-recommendations)
+- [Increasing developer velocity and operational efficiency: Findings from the Forrester TEI study for OpenShift cloud services](https://www.redhat.com/en/blog/increasing-developer-velocity-and-operational-efficiency-findings-forrester-tei-study-openshift-cloud-services)
 - [Friday Five — March 22, 2024](https://www.redhat.com/en/blog/friday-five-march-22-2024-red-hat)
-- [11 Years of Docker: Shaping the Next Decade of Development](https://www.docker.com/blog/docker-11-year-anniversary/)
-- [Critical IT operations at risk: The blame game and siloed tools take a toll](https://www.dynatrace.com/news/blog/critical-it-operations-at-risk/)
-- [Red Hat leadership update](https://www.redhat.com/en/blog/red-hat-leadership-update)
-- [Enhanced Governance, Compliance and Scalability with Red Hat Advanced Cluster Management for Kubernetes 2.10](https://www.redhat.com/en/blog/enhanced-governance-compliance-and-scalability-red-hat-advanced-cluster-management-kubernetes-210)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
