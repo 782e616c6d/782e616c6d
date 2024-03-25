@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Driving Development Forward: How the PGA TOUR speeds up Development with the AWS CDK](https://aws.amazon.com/blogs/devops/driving-development-forward-how-the-pga-tour-speeds-up-development-with-the-aws-cdk/)
-- [The State of Customer and Partner Experience at Red Hat 2023: Using feedback to drive enhancements](https://www.redhat.com/en/blog/state-customer-and-partner-experience-red-hat-2023-using-feedback-drive-enhancements-0)
-- [Insights Advisor for OpenShift - How to react to Advisor recommendations](https://www.redhat.com/en/blog/insights-advisor-openshift-how-react-advisor-recommendations)
-- [Increasing developer velocity and operational efficiency: Findings from the Forrester TEI study for OpenShift cloud services](https://www.redhat.com/en/blog/increasing-developer-velocity-and-operational-efficiency-findings-forrester-tei-study-openshift-cloud-services)
-- [Friday Five — March 22, 2024](https://www.redhat.com/en/blog/friday-five-march-22-2024-red-hat)
+- [What&#39;s new with Ansible Lightspeed with watsonx Code Assistant](https://www.redhat.com/en/blog/whats-new-ansible-lightspeed-watsonx-code-assistant)
+- [SAS Viya on Red Hat OpenShift – Part 1: Reference Architecture and Deployment Considerations](https://www.redhat.com/en/blog/sas-viya-on-red-hat-openshift-part-1-reference-architecture-and-deployment-considerations)
+- [Red Hat Training: 3 takeaways from TechTarget&#39;s Enterprise Strategy Group study](https://www.redhat.com/en/blog/red-hat-training-3-takeaways-techtargets-enterprise-strategy-group-study)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Prep your RHEL systems for SAP installations using RHEL system roles](https://www.redhat.com/en/blog/prep-your-rhel-systems-sap-installations-using-rhel-system-roles)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
