@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Preparing for OpenShift Service Mesh 3](https://www.redhat.com/en/blog/preparing-openshift-service-mesh-3)
-- [Fedora 40 Beta now available](https://www.redhat.com/en/blog/fedora-40-beta-now-available)
-- [What&#39;s new with Ansible Lightspeed with watsonx Code Assistant](https://www.redhat.com/en/blog/whats-new-ansible-lightspeed-watsonx-code-assistant)
-- [SAS Viya on Red Hat OpenShift – Part 1: Reference Architecture and Deployment Considerations](https://www.redhat.com/en/blog/sas-viya-on-red-hat-openshift-part-1-reference-architecture-and-deployment-considerations)
-- [Red Hat Training: 3 takeaways from TechTarget&#39;s Enterprise Strategy Group study](https://www.redhat.com/en/blog/red-hat-training-3-takeaways-techtargets-enterprise-strategy-group-study)
+- [The path to scaling automation at one of Spain&#39;s largest banks](https://www.redhat.com/en/blog/the-path-to-scaling-automation-at-one-of-spains-largest-banks)
+- [containerd vs. Docker: Understanding Their Relationship and How They Work Together](https://www.docker.com/blog/containerd-vs-docker/)
+- [Is Your Container Image Really Distroless?](https://www.docker.com/blog/is-your-container-image-really-distroless/)
+- [Revolutionize IT automation with the new ServiceNow integration for Event-Driven Ansible](https://www.redhat.com/en/blog/revolutionize-it-automation-new-servicenow-integration-event-driven-ansible)
+- [Red Hat Satellite 6.14.3 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6143-has-been-released)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
