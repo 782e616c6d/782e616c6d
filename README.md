@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [OpenSSH and XZ/liblzma: A nation-state attack was thwarted, what did we learn?](https://www.docker.com/blog/openssh-and-xz-liblzma/)
+- [New video: Red Hat OpenShift Service on AWS as a managed comprehensive application platform](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-video)
+- [Level up your automation with Event-Driven Ansible and Red Hat Consulting](https://www.redhat.com/en/blog/level-your-automation-event-driven-ansible-and-red-hat-consulting)
 - [Urgent security alert for Fedora Linux 40 and Fedora Rawhide users](https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users)
 - [The path to scaling automation at one of Spain&#39;s largest banks](https://www.redhat.com/en/blog/the-path-to-scaling-automation-at-one-of-spains-largest-banks)
-- [Friday Five — March 29, 2024](https://www.redhat.com/en/blog/friday-five-march-29-2024)
-- [Why business digital transformation is still a key C-level priority today](https://www.dynatrace.com/news/blog/why-business-digital-transformation-is-still-the-primary-c-level-priority-today/)
-- [Building a Video Analysis and Transcription Chatbot with the GenAI Stack](https://www.docker.com/blog/building-a-video-analysis-and-transcription-chatbot-with-the-genai-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
