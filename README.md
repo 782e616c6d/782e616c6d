@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Creating a User Activity Dashboard for Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/creating-a-user-activity-dashboard-for-amazon-codewhisperer/)
+- [End of Support for Microsoft products reliant on older Azure DevOps authentication](https://devblogs.microsoft.com/devops/end-of-support-for-microsoft-products-reliant-on-older-azure-devops-authentication/)
+- [KubeCon EU 2024: Highlights from Paris](https://www.docker.com/blog/kubecon-eu-2024-highlights-from-paris/)
+- [Terraform CI/CD and testing on AWS with the new Terraform Test Framework](https://aws.amazon.com/blogs/devops/terraform-ci-cd-and-testing-on-aws-with-the-new-terraform-test-framework/)
 - [Empower Your Development: Dive into Docker’s Comprehensive Learning Ecosystem](https://www.docker.com/blog/docker-learning-ecosystem/)
-- [OpenSSH and XZ/liblzma: A nation-state attack was thwarted, what did we learn?](https://www.docker.com/blog/openssh-and-xz-liblzma/)
-- [New video: Red Hat OpenShift Service on AWS as a managed comprehensive application platform](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-video)
-- [Level up your automation with Event-Driven Ansible and Red Hat Consulting](https://www.redhat.com/en/blog/level-your-automation-event-driven-ansible-and-red-hat-consulting)
-- [Urgent security alert for Fedora Linux 40 and Fedora Rawhide users](https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
