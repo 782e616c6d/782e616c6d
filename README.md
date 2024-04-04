@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Creating a User Activity Dashboard for Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/creating-a-user-activity-dashboard-for-amazon-codewhisperer/)
-- [End of Support for Microsoft products reliant on older Azure DevOps authentication](https://devblogs.microsoft.com/devops/end-of-support-for-microsoft-products-reliant-on-older-azure-devops-authentication/)
-- [KubeCon EU 2024: Highlights from Paris](https://www.docker.com/blog/kubecon-eu-2024-highlights-from-paris/)
-- [Terraform CI/CD and testing on AWS with the new Terraform Test Framework](https://aws.amazon.com/blogs/devops/terraform-ci-cd-and-testing-on-aws-with-the-new-terraform-test-framework/)
-- [Empower Your Development: Dive into Docker’s Comprehensive Learning Ecosystem](https://www.docker.com/blog/docker-learning-ecosystem/)
+- [AB links on GitHub pull request and scale improvements for large organizations](https://devblogs.microsoft.com/devops/ab-links-on-github-pull-request-and-scale-improvements/)
+- [Debian’s Dedication to Security: A Robust Foundation for Docker Developers](https://www.docker.com/blog/debian-for-docker-developers/)
+- [From Misconceptions to Mastery: Enhancing Security and Transparency with Docker Official Images](https://www.docker.com/blog/enhancing-security-and-transparency-with-docker-official-images/)
+- [Introducing Confidential Containers Trustee: Attestation Services Solution Overview and Use Cases](https://www.redhat.com/en/blog/introducing-confidential-containers-trustee-attestation-services-solution-overview-and-use-cases)
+- [Complexity, AI and more: why automation is now mission-critical](https://www.redhat.com/en/blog/why-automation-is-now-mission-critical)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
