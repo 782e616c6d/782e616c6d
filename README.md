@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [4 ways to talk to your manager about Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/4-ways-talk-your-manager-about-ansible-automation-platform)
 - [Efficient SLO event integration powers successful AIOps](https://www.dynatrace.com/news/blog/efficient-slo-event-integration-powers-successful-aiops/)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [Friday Five — April 5, 2024](https://www.redhat.com/en/blog/friday-five-april-5-2024-red-hat)
 - [Automating Google Cloud  Resource Management with the new Ansible Validated Content Collection for cloud.gcp_ops](https://www.redhat.com/en/blog/automating-google-cloud-resource-management-new-ansible-validated-content-collection-cloudgcpops)
-- [AB links on GitHub pull request and scale improvements for large organizations](https://devblogs.microsoft.com/devops/ab-links-on-github-pull-request-and-scale-improvements/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
