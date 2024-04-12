@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Enterprise Linux 7: End of compliance content on June 30, 2024](https://www.redhat.com/en/blog/red-hat-enterprise-linux-7-end-compliance-content-june-30-2024)
+- [Friday Five — April 12, 2024](https://www.redhat.com/en/blog/friday-five-april-12-2024-red-hat)
 - [Next-Level Error Handling: How Docker Desktop 4.29 Aims to Simplify Developer Challenges](https://www.docker.com/blog/next-level-error-handling/)
 - [Docker Desktop 4.29: Docker Socket Mount Permissions in ECI, Advanced Error Management, Moby 26, and New Beta Features](https://www.docker.com/blog/docker-desktop-4-29/)
 - [Understanding the Red Hat security impact scale](https://www.redhat.com/en/blog/understanding-red-hat-security-impact-scale)
-- [Get started with the latest updates for Dockerfile syntax &lpar;v1.7.0&rpar;](https://www.docker.com/blog/new-dockerfile-capabilities-v1-7-0/)
-- [Builds for Red Hat OpenShift is now generally available](https://www.redhat.com/en/blog/builds-red-hat-openshift-now-generally-available)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
