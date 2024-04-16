@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [AI Trends Report 2024: AI’s Growing Role in Software Development](https://www.docker.com/blog/ai-trends-report-2024/)
+- [AnsibleFest 2024: Schedule Ansible into your Red Hat Summit and AnsibleFest agenda](https://www.redhat.com/en/blog/ansiblefest-2024-schedule-ansible-your-red-hat-summit-and-ansiblefest-agenda)
 - [Ansible Blog - Networking - Why do you need network automation in the AI world?](https://www.redhat.com/en/blog/why-do-you-need-network-automation-ai-world)
 - [Join us for OpenShift Commons Gathering at Red Hat Summit, 2024](https://www.redhat.com/en/blog/join-us-openshift-commons-gathering-red-hat-summit-2024)
 - [Red Hat Enterprise Linux 7: End of compliance content on June 30, 2024](https://www.redhat.com/en/blog/red-hat-enterprise-linux-7-end-compliance-content-june-30-2024)
-- [Friday Five — April 12, 2024](https://www.redhat.com/en/blog/friday-five-april-12-2024-red-hat)
-- [Next-Level Error Handling: How Docker Desktop 4.29 Aims to Simplify Developer Challenges](https://www.docker.com/blog/next-level-error-handling/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
