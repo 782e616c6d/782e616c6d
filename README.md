@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [SAS Viya on Red Hat OpenShift Service for AWS &lpar;ROSA&rpar;](https://www.redhat.com/en/blog/sas-viya-red-hat-openshift-service-aws-rosa)
-- [Red Hat’s Community Day and OpenShift Commons Gathering May 6  offers a way to maximize your 2024 Summit experience](https://www.redhat.com/en/blog/red-hats-community-day-and-openshift-commons-gathering-may-6-offers-way-maximize-your-2024-summit-experience)
-- [Deploying SAS Viya on HPE GreenLake and Red Hat OpenShift](https://www.redhat.com/en/blog/deploying-sas-viya-hpe-greenlake-and-red-hat-openshift)
-- [AI Trends Report 2024: AI’s Growing Role in Software Development](https://www.docker.com/blog/ai-trends-report-2024/)
-- [AnsibleFest 2024: Schedule Ansible into your Red Hat Summit and AnsibleFest agenda](https://www.redhat.com/en/blog/ansiblefest-2024-schedule-ansible-your-red-hat-summit-and-ansiblefest-agenda)
+- [Friday Five — April 19, 2024](https://www.redhat.com/en/blog/friday-five-april-19-2024-red-hat)
+- [How observability, application security, and AI enhance DevOps and platform engineering maturity](https://www.dynatrace.com/news/blog/observability-security-ai-enhance-devops-platform-engineering/)
+- [Learn about trends and best practices from top security experts at Red Hat and NIST&#39;s Cybersecurity Open Forum](https://www.redhat.com/en/blog/red-hat-nist-cybersecurity-open-forum)
+- [Fault tolerant deployments of OpenShift on Nutanix](https://www.redhat.com/en/blog/fault-tolerant-deployments-openshift-nutanix)
+- [Connect hybrid cloud Kubernetes with F5 multicloud networking and Red Hat OpenShift for optimized security footprints](https://www.redhat.com/en/blog/connect-hybrid-cloud-kubernetes-with-f5-multicloud-networking-and-redhat-openshift-for-optimized-security-footprints)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
