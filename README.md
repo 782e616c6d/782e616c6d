@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Quickly go from Idea to PR with CodeCatalyst using Amazon Q](https://aws.amazon.com/blogs/devops/quickly-go-from-idea-to-pr-with-codecatalyst-using-amazon-q/)
+- [Insights from financial operations for platform as product at OpenShift Commons Gathering co-located with Red Hat Summit](https://www.redhat.com/en/blog/financial-services-openshift-commons-red-hat-summit)
 - [Friday Five — April 19, 2024](https://www.redhat.com/en/blog/friday-five-april-19-2024-red-hat)
+- [4 use cases for AI in cyber security](https://www.redhat.com/en/blog/4-use-cases-ai-cyber-security)
 - [How observability, application security, and AI enhance DevOps and platform engineering maturity](https://www.dynatrace.com/news/blog/observability-security-ai-enhance-devops-platform-engineering/)
-- [Learn about trends and best practices from top security experts at Red Hat and NIST&#39;s Cybersecurity Open Forum](https://www.redhat.com/en/blog/red-hat-nist-cybersecurity-open-forum)
-- [Fault tolerant deployments of OpenShift on Nutanix](https://www.redhat.com/en/blog/fault-tolerant-deployments-openshift-nutanix)
-- [Connect hybrid cloud Kubernetes with F5 multicloud networking and Red Hat OpenShift for optimized security footprints](https://www.redhat.com/en/blog/connect-hybrid-cloud-kubernetes-with-f5-multicloud-networking-and-redhat-openshift-for-optimized-security-footprints)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
