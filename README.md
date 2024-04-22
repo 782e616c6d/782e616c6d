@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The State of DevOps Automation assessment: How automated are you?](https://www.dynatrace.com/news/blog/the-state-of-devops-automation-assessment-how-automated-are-you/)
+- [Transitioning from Chef Cookbooks to Ansible Playbooks: A seamless journey](https://www.redhat.com/en/blog/transitioning-chef-cookbooks-ansible-playbooks-seamless-journey)
+- [5 reasons to adopt AI platforms in 2024](https://www.redhat.com/en/blog/5-reasons-adopt-ai-platforms-2024)
 - [Quickly go from Idea to PR with CodeCatalyst using Amazon Q](https://aws.amazon.com/blogs/devops/quickly-go-from-idea-to-pr-with-codecatalyst-using-amazon-q/)
 - [Insights from financial operations for platform as product at OpenShift Commons Gathering co-located with Red Hat Summit](https://www.redhat.com/en/blog/financial-services-openshift-commons-red-hat-summit)
-- [Friday Five — April 19, 2024](https://www.redhat.com/en/blog/friday-five-april-19-2024-red-hat)
-- [4 use cases for AI in cyber security](https://www.redhat.com/en/blog/4-use-cases-ai-cyber-security)
-- [How observability, application security, and AI enhance DevOps and platform engineering maturity](https://www.dynatrace.com/news/blog/observability-security-ai-enhance-devops-platform-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
