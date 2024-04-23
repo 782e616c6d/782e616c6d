@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Data resiliency: 5 features of Portworx with Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/data-resiliency-5-features-portworx-red-hat-openshift-service-aws)
+- [Is a slow but low-consumption system more energy efficient? Let’s measure, with RHEL!](https://www.redhat.com/en/blog/slow-low-consumption-system-more-energy-efficient-lets-measure-rhel)
+- [Announcing Fedora Linux 40](https://www.redhat.com/en/blog/announcing-fedora-linux-40)
 - [The State of DevOps Automation assessment: How automated are you?](https://www.dynatrace.com/news/blog/the-state-of-devops-automation-assessment-how-automated-are-you/)
 - [Transitioning from Chef Cookbooks to Ansible Playbooks: A seamless journey](https://www.redhat.com/en/blog/transitioning-chef-cookbooks-ansible-playbooks-seamless-journey)
-- [5 reasons to adopt AI platforms in 2024](https://www.redhat.com/en/blog/5-reasons-adopt-ai-platforms-2024)
-- [Quickly go from Idea to PR with CodeCatalyst using Amazon Q](https://aws.amazon.com/blogs/devops/quickly-go-from-idea-to-pr-with-codecatalyst-using-amazon-q/)
-- [Insights from financial operations for platform as product at OpenShift Commons Gathering co-located with Red Hat Summit](https://www.redhat.com/en/blog/financial-services-openshift-commons-red-hat-summit)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
