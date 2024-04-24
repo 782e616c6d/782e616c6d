@@ -54,10 +54,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Data resiliency: 5 features of Portworx with Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/data-resiliency-5-features-portworx-red-hat-openshift-service-aws)
-- [Is a slow but low-consumption system more energy efficient? Let’s measure, with RHEL!](https://www.redhat.com/en/blog/slow-low-consumption-system-more-energy-efficient-lets-measure-rhel)
-- [Announcing Fedora Linux 40](https://www.redhat.com/en/blog/announcing-fedora-linux-40)
-- [The State of DevOps Automation assessment: How automated are you?](https://www.dynatrace.com/news/blog/the-state-of-devops-automation-assessment-how-automated-are-you/)
-- [Transitioning from Chef Cookbooks to Ansible Playbooks: A seamless journey](https://www.redhat.com/en/blog/transitioning-chef-cookbooks-ansible-playbooks-seamless-journey)
+- [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
+- [Better Debugging: How the Signal0ne Docker Extension Uses AI to Simplify Container Troubleshooting](https://www.docker.com/blog/debug-containers-ai-signal0ne-docker-extension/)
+- [Simplified image management: Dive into our end-to-end Harbor and Jenkins integration](https://www.dynatrace.com/news/blog/simplified-image-management-dive-into-our-end-to-end-harbor-and-jenkins-integration/)
+- [Unlocking telco service provider success by reducing complexity](https://www.redhat.com/en/blog/unlocking-telco-service-provider-success-reducing-complexity)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
