@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — April 26, 2024](https://www.redhat.com/en/blog/friday-five-april-26-2024-red-hat)
+- [Red Hat Insights cost management now available for ARM, IBM Z and POWER](https://www.redhat.com/en/blog/red-hat-insights-cost-management-now-available-arm-ibm-z-and-power)
 - [Data resiliency: 5 features of Portworx with Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/data-resiliency-5-features-portworx-red-hat-openshift-service-aws)
-- [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
-- [Better Debugging: How the Signal0ne Docker Extension Uses AI to Simplify Container Troubleshooting](https://www.docker.com/blog/debug-containers-ai-signal0ne-docker-extension/)
-- [Simplified image management: Dive into our end-to-end Harbor and Jenkins integration](https://www.dynatrace.com/news/blog/simplified-image-management-dive-into-our-end-to-end-harbor-and-jenkins-integration/)
-- [Unlocking telco service provider success by reducing complexity](https://www.redhat.com/en/blog/unlocking-telco-service-provider-success-reducing-complexity)
+- [Community Heroes and the magic of OpenShift Commons](https://www.redhat.com/en/blog/community-heroes-and-magic-openshift-commons)
+- [Announcing up to 4 years of Extended Life Cycle Support &lpar;ELS&rpar; for Red Hat Enterprise Linux 7](https://www.redhat.com/en/blog/announcing-4-years-extended-life-cycle-support-els-red-hat-enterprise-linux-7)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
