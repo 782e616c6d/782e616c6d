@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Build APIs using OpenAPI, the AWS CDK and AWS Solutions Constructs](https://aws.amazon.com/blogs/devops/build-apis-using-openapi-the-aws-cdk-and-aws-solutions-constructs/)
+- [Redefining development: The retrieval-augmented generation &lpar;RAG&rpar; revolution in software engineering](https://www.redhat.com/en/blog/redefining-development-retrieval-augmented-generation-rag-revolution-software-engineering)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Navigating the streaming data landscape with Apache Kafka and Red Hat](https://www.redhat.com/en/blog/navigating-streaming-data-landscape-apache-kafka-and-red-hat)
 - [Friday Five — April 26, 2024](https://www.redhat.com/en/blog/friday-five-april-26-2024-red-hat)
-- [Red Hat Insights cost management now available for ARM, IBM Z and POWER](https://www.redhat.com/en/blog/red-hat-insights-cost-management-now-available-arm-ibm-z-and-power)
-- [Data resiliency: 5 features of Portworx with Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/data-resiliency-5-features-portworx-red-hat-openshift-service-aws)
-- [Community Heroes and the magic of OpenShift Commons](https://www.redhat.com/en/blog/community-heroes-and-magic-openshift-commons)
-- [Announcing up to 4 years of Extended Life Cycle Support &lpar;ELS&rpar; for Red Hat Enterprise Linux 7](https://www.redhat.com/en/blog/announcing-4-years-extended-life-cycle-support-els-red-hat-enterprise-linux-7)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
