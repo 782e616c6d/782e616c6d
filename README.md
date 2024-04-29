@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Build APIs using OpenAPI, the AWS CDK and AWS Solutions Constructs](https://aws.amazon.com/blogs/devops/build-apis-using-openapi-the-aws-cdk-and-aws-solutions-constructs/)
-- [Redefining development: The retrieval-augmented generation &lpar;RAG&rpar; revolution in software engineering](https://www.redhat.com/en/blog/redefining-development-retrieval-augmented-generation-rag-revolution-software-engineering)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Navigating the streaming data landscape with Apache Kafka and Red Hat](https://www.redhat.com/en/blog/navigating-streaming-data-landscape-apache-kafka-and-red-hat)
-- [Friday Five — April 26, 2024](https://www.redhat.com/en/blog/friday-five-april-26-2024-red-hat)
+- [De-risk releases with AWS CodePipeline rollbacks](https://aws.amazon.com/blogs/devops/de-risk-releases-with-aws-codepipeline-rollbacks/)
+- [Learn about virtualization at Red Hat Summit 2024](https://www.redhat.com/en/blog/learn-about-virtualization-red-hat-summit)
+- [Hear from your peers while at Red Hat Summit](https://www.redhat.com/en/blog/hear-your-peers-while-red-hat-summit)
+- [Announcing the winners of the 18th annual Red Hat Innovation Awards](https://www.redhat.com/en/blog/announcing-winners-18th-annual-red-hat-innovation-awards)
+- [AI Awards roundup: January to April 2024](https://www.redhat.com/en/blog/ai-awards-roundup-january-april-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
