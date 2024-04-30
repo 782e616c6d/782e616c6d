@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [De-risk releases with AWS CodePipeline rollbacks](https://aws.amazon.com/blogs/devops/de-risk-releases-with-aws-codepipeline-rollbacks/)
-- [Learn about virtualization at Red Hat Summit 2024](https://www.redhat.com/en/blog/learn-about-virtualization-red-hat-summit)
-- [Hear from your peers while at Red Hat Summit](https://www.redhat.com/en/blog/hear-your-peers-while-red-hat-summit)
-- [Announcing the winners of the 18th annual Red Hat Innovation Awards](https://www.redhat.com/en/blog/announcing-winners-18th-annual-red-hat-innovation-awards)
-- [AI Awards roundup: January to April 2024](https://www.redhat.com/en/blog/ai-awards-roundup-january-april-2024)
+- [Announcing additional Extended Update Support for OpenShift 4.14 and beyond!](https://www.redhat.com/en/blog/announcing-additional-extended-update-support-openshift-414-and-beyond)
+- [Docker and JFrog partner to further secure Docker Hub and remove millions of imageless repos with malicious links](https://www.docker.com/blog/docker-jfrog-partner-to-further-secure-docker-hub/)
+- [Understanding Red Hat’s response to the XZ security incident](https://www.redhat.com/en/blog/understanding-red-hats-response-xz-security-incident)
+- [Red Hat Satellite 6.14.4 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6144-has-been-released)
+- [Find out what’s next for Red Hat OpenShift at Red Hat Summit, May 6-9 2024](https://www.redhat.com/en/blog/find-out-whats-next-red-hat-openshift-red-hat-summit-may-6-9-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
