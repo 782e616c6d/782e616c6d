@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Announcing additional Extended Update Support for OpenShift 4.14 and beyond!](https://www.redhat.com/en/blog/announcing-additional-extended-update-support-openshift-414-and-beyond)
-- [Docker and JFrog partner to further secure Docker Hub and remove millions of imageless repos with malicious links](https://www.docker.com/blog/docker-jfrog-partner-to-further-secure-docker-hub/)
-- [Understanding Red Hat’s response to the XZ security incident](https://www.redhat.com/en/blog/understanding-red-hats-response-xz-security-incident)
-- [Red Hat Satellite 6.14.4 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6144-has-been-released)
-- [Find out what’s next for Red Hat OpenShift at Red Hat Summit, May 6-9 2024](https://www.redhat.com/en/blog/find-out-whats-next-red-hat-openshift-red-hat-summit-may-6-9-2024)
+- [Automate Terraform Deployments with Amazon CodeCatalyst and Terraform Community action](https://aws.amazon.com/blogs/devops/automate-terraform-deployments-with-amazon-codecatalyst-and-terraform-community-action/)
+- [Unlock enterprise knowledge with Atlassian Rovo](https://www.atlassian.com/blog/announcements/introducing-atlassian-rovo-ai)
+- [Simplify hybrid cloud operations with Red Hat Enterprise Linux 9.4](https://www.redhat.com/en/blog/simplify-hybrid-cloud-operations-red-hat-enterprise-linux-94)
+- [Mitigating breaches on Red Hat OpenShift with the CrowdStrike Falcon Operator](https://www.redhat.com/en/blog/mitigating-breaches-red-hat-openshift-crowdstrike-falcon-operator)
+- [Know Before You Go: Red Hat Summit and AnsibleFest 2024](https://www.redhat.com/en/blog/know-you-go-red-hat-summit-and-ansiblefest-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
