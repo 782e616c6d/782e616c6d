@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [On with the show! This is it! Red Hat OpenShift takes the stage at Summit next week.](https://www.redhat.com/en/blog/show-it-red-hat-openshift-takes-stage-summit-next-week)
+- [Friday Five — May 3, 2024](https://www.redhat.com/en/blog/friday-five-may-3-2024)
+- [Building an AI engineering team: Interview with Catherine Weeks from OpenShift AI](https://www.redhat.com/en/blog/interview-catherine-weeks-openshift-ai)
 - [RSA guide 2024: AI and security are top concerns for organizations in every industry](https://www.dynatrace.com/news/blog/rsa-guide-2024/)
 - [How do you operationalize Generative AI consistently and at scale?](https://www.redhat.com/en/blog/how-do-you-operationalize-generative-ai-consistently-and-scale)
-- [Customer Success with Red Hat OpenShift Virtualization: A Journey to Modern Infrastructure](https://www.redhat.com/en/blog/customer-success-red-hat-openshift-virtualization-journey-modern-infrastructure)
-- [Building Powerful Applications with Weaviate and Red Hat OpenShift: A Retrieval-Augmented Generation Workflow](https://www.redhat.com/en/blog/building-powerful-applications-weaviate-and-red-hat-openshift-retrieval-augmented-generation-workflow)
-- [Beyond the lingo:  What does Red Hat Insights and FedRAMP mean for your workload?](https://www.redhat.com/en/blog/beyond-lingo-what-does-red-hat-insights-and-fedramp-mean-your-workload)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
