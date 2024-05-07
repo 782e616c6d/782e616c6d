@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How Red Hat and Dynatrace intelligently automate your production environment](https://www.dynatrace.com/news/blog/how-red-hat-and-dynatrace-intelligently-automate-your-production-environment/)
-- [Mission-critical automation takes flight at Southwest Airlines](https://www.redhat.com/en/blog/mission-critical-automation-takes-flight-southwest-airlines)
-- [Announcing additional Extended Update Support for OpenShift 4.14 and beyond!](https://www.redhat.com/en/blog/announcing-additional-extended-update-support-openshift-414-and-beyond)
-- [Simplify Amazon EKS Deployments with GitHub Actions and AWS CodeBuild](https://aws.amazon.com/blogs/devops/simplify-amazon-eks-deployments-with-github-actions-and-aws-codebuild/)
-- [On with the show! This is it! Red Hat OpenShift takes the stage at Summit next week.](https://www.redhat.com/en/blog/show-it-red-hat-openshift-takes-stage-summit-next-week)
+- [Azure DevOps Server 2022 Update 2 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-update-2-rc-now-available/)
+- [Creating AI-Enhanced Document Management with the GenAI Stack](https://www.docker.com/blog/creating-ai-enhanced-document-management-with-the-genai-stack/)
+- [What is RHEL AI? A guide to the open source way for doing AI](https://www.redhat.com/en/blog/what-rhel-ai-guide-open-source-way-doing-ai)
+- [The mission-critical mindset](https://www.redhat.com/en/blog/mission-critical-mindset)
+- [The influence of open source and AI in healthcare](https://www.redhat.com/en/blog/influence-open-source-and-ai-healthcare)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
