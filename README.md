@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate your Software Development Lifecycle with Amazon Q](https://aws.amazon.com/blogs/devops/accelerate-your-software-development-lifecycle-with-amazon-q/)
+- [Save the date for Red Hat Summit 2025](https://www.redhat.com/en/blog/save-date-red-hat-summit-2025)
+- [Open source and AI’s future: The importance of democratization, sustainability and trust](https://www.redhat.com/en/blog/open-source-and-ais-future-importance-democratization-sustainability-and-trust)
+- [Migrate and modernize virtual machines with Red Hat OpenShift Virtualization and Dell APEX Cloud Platform](https://www.redhat.com/en/blog/migrate-and-modernize-virtual-machines-red-hat-openshift-virtualization-and-dell-apex-cloud-platform)
 - [Azure DevOps Server 2022 Update 2 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-update-2-rc-now-available/)
-- [Creating AI-Enhanced Document Management with the GenAI Stack](https://www.docker.com/blog/creating-ai-enhanced-document-management-with-the-genai-stack/)
-- [What is RHEL AI? A guide to the open source way for doing AI](https://www.redhat.com/en/blog/what-rhel-ai-guide-open-source-way-doing-ai)
-- [The mission-critical mindset](https://www.redhat.com/en/blog/mission-critical-mindset)
-- [The influence of open source and AI in healthcare](https://www.redhat.com/en/blog/influence-open-source-and-ai-healthcare)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
