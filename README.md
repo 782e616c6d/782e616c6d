@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Red Hat Insights and FedRAMP](https://www.redhat.com/en/blog/getting-started-insights-and-fedramp)
 - [Friday Five — May 10, 2024](https://www.redhat.com/en/blog/friday-five-may-10-2024-red-hat)
 - [Wasm vs. Docker: Performant, Secure, and Versatile Containers](https://www.docker.com/blog/wasm-vs-docker/)
 - [Accelerate your Software Development Lifecycle with Amazon Q](https://aws.amazon.com/blogs/devops/accelerate-your-software-development-lifecycle-with-amazon-q/)
 - [Save the date for Red Hat Summit 2025](https://www.redhat.com/en/blog/save-date-red-hat-summit-2025)
-- [Open source and AI’s future: The importance of democratization, sustainability and trust](https://www.redhat.com/en/blog/open-source-and-ais-future-importance-democratization-sustainability-and-trust)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
