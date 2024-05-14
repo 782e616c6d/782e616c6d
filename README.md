@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Red Hat Insights and FedRAMP](https://www.redhat.com/en/blog/getting-started-insights-and-fedramp)
-- [Friday Five — May 10, 2024](https://www.redhat.com/en/blog/friday-five-may-10-2024-red-hat)
-- [Wasm vs. Docker: Performant, Secure, and Versatile Containers](https://www.docker.com/blog/wasm-vs-docker/)
-- [Accelerate your Software Development Lifecycle with Amazon Q](https://aws.amazon.com/blogs/devops/accelerate-your-software-development-lifecycle-with-amazon-q/)
-- [Save the date for Red Hat Summit 2025](https://www.redhat.com/en/blog/save-date-red-hat-summit-2025)
+- [Automating Docker Image Builds with Pulumi and Docker Build Cloud](https://www.docker.com/blog/pulumi-and-docker-build-cloud/)
+- [Navigating Proxy Servers with Ease: New Advancements in Docker Desktop 4.30](https://www.docker.com/blog/navigating-proxy-servers-docker-desktop-4-30/)
+- [Docker Desktop 4.30: Proxy Support with SOCKS5, NTLM and Kerberos, ECI for Build Commands, Build View Features, and Docker Desktop on RHEL Beta](https://www.docker.com/blog/docker-desktop-4-30/)
+- [Veeam Ransomware Protection with Red Hat Enterprise Linux as the Immutable Repository](https://www.redhat.com/en/blog/veeam-ransomware-protection-rhel-immutable-repository)
+- [Meet the Hybrid Cloud Console’s Virtual Assistant](https://www.redhat.com/en/blog/meet-hybrid-cloud-consoles-virtual-assistant)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
