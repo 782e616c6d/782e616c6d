@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Automating Docker Image Builds with Pulumi and Docker Build Cloud](https://www.docker.com/blog/pulumi-and-docker-build-cloud/)
-- [Navigating Proxy Servers with Ease: New Advancements in Docker Desktop 4.30](https://www.docker.com/blog/navigating-proxy-servers-docker-desktop-4-30/)
-- [Docker Desktop 4.30: Proxy Support with SOCKS5, NTLM and Kerberos, ECI for Build Commands, Build View Features, and Docker Desktop on RHEL Beta](https://www.docker.com/blog/docker-desktop-4-30/)
-- [Veeam Ransomware Protection with Red Hat Enterprise Linux as the Immutable Repository](https://www.redhat.com/en/blog/veeam-ransomware-protection-rhel-immutable-repository)
-- [Meet the Hybrid Cloud Console’s Virtual Assistant](https://www.redhat.com/en/blog/meet-hybrid-cloud-consoles-virtual-assistant)
+- [Empowering Developers at Microsoft Build: Docker Unveils Integrations and Sessions](https://www.docker.com/blog/docker-microsoft-build-preview/)
+- [A Quick Guide to Containerizing Llamafile with Docker for AI Applications](https://www.docker.com/blog/a-quick-guide-to-containerizing-llamafile-with-docker-for-ai-applications/)
+- [Running Watsonx on ROSA with an integrated application pipeline for Generative AI driven app modernization](https://www.redhat.com/en/blog/running-watsonx-rosa-integrated-application-pipeline-generative-ai-driven-app-modernization)
+- [Remote server management for edge computing](https://www.redhat.com/en/blog/remote-server-management-edge-computing)
+- [Empower your workflow: Configuring Ansible Automation Platform 2.x via API with Ansible Playbook](https://www.redhat.com/en/blog/empower-your-workflow-configuring-ansible-automation-platform-2x-api-ansible-playbook)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
