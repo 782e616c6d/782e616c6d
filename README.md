@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — May 17, 2024](https://www.redhat.com/en/blog/friday-five-may-17-2024-red-hat)
+- [Red Hat OpenShift as OpenTelemetry &lpar;OTLP&rpar; native platform](https://www.redhat.com/en/blog/red-hat-openshift-opentelemetry-otlp-native-platform)
+- [Automating fapolicyd with RHEL system roles](https://www.redhat.com/en/blog/automating-fapolicyd-rhel-system-roles)
 - [Empowering Developers at Microsoft Build: Docker Unveils Integrations and Sessions](https://www.docker.com/blog/docker-microsoft-build-preview/)
 - [A Quick Guide to Containerizing Llamafile with Docker for AI Applications](https://www.docker.com/blog/a-quick-guide-to-containerizing-llamafile-with-docker-for-ai-applications/)
-- [Running Watsonx on ROSA with an integrated application pipeline for Generative AI driven app modernization](https://www.redhat.com/en/blog/running-watsonx-rosa-integrated-application-pipeline-generative-ai-driven-app-modernization)
-- [Remote server management for edge computing](https://www.redhat.com/en/blog/remote-server-management-edge-computing)
-- [Empower your workflow: Configuring Ansible Automation Platform 2.x via API with Ansible Playbook](https://www.redhat.com/en/blog/empower-your-workflow-configuring-ansible-automation-platform-2x-api-ansible-playbook)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
