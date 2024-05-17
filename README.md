@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Making the double hop on Windows with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/making-double-hop-windows-ansible)
 - [Friday Five — May 17, 2024](https://www.redhat.com/en/blog/friday-five-may-17-2024-red-hat)
 - [Red Hat OpenShift as OpenTelemetry &lpar;OTLP&rpar; native platform](https://www.redhat.com/en/blog/red-hat-openshift-opentelemetry-otlp-native-platform)
 - [Automating fapolicyd with RHEL system roles](https://www.redhat.com/en/blog/automating-fapolicyd-rhel-system-roles)
 - [Empowering Developers at Microsoft Build: Docker Unveils Integrations and Sessions](https://www.docker.com/blog/docker-microsoft-build-preview/)
-- [A Quick Guide to Containerizing Llamafile with Docker for AI Applications](https://www.docker.com/blog/a-quick-guide-to-containerizing-llamafile-with-docker-for-ai-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
