@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [“@docker can you help me…”: An Early Look at the Docker Extension for GitHub Copilot](https://www.docker.com/blog/preview-docker-extension-for-github-copilot/)
+- [Kentik for Ansible Automation Platform now certified with Red Hat](https://www.redhat.com/en/blog/kentik-ansible-automation-platform-now-certified-red-hat)
+- [Inter-Satellite Sync: Network and Export Sync](https://www.redhat.com/en/blog/inter-satellite-sync-network-and-export-sync)
 - [Streamline the Development of Real-Time AI Applications with MindsDB Docker Extension](https://www.docker.com/blog/mindsdb-docker-extension/)
 - [How to Check Your Docker Installation: Docker Desktop vs. Docker Engine](https://www.docker.com/blog/blog-how-to-check-docker-version/)
-- [Making the double hop on Windows with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/making-double-hop-windows-ansible)
-- [Friday Five — May 17, 2024](https://www.redhat.com/en/blog/friday-five-may-17-2024-red-hat)
-- [Red Hat OpenShift as OpenTelemetry &lpar;OTLP&rpar; native platform](https://www.redhat.com/en/blog/red-hat-openshift-opentelemetry-otlp-native-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
