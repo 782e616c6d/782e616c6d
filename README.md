@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Ansible Blog: Accelerate your automation skills with Event-Driven Ansible](https://www.redhat.com/en/blog/accelerate-your-automation-skills-event-driven-ansible)
+- [Docker Documentation Gets an AI-Powered Assistant](https://www.docker.com/blog/docker-documentation-ai-powered-assistant/)
+- [The Strategic Imperative of AI in 2024](https://www.docker.com/blog/the-strategic-imperative-of-ai-in-2024/)
+- [Unlocking insights: digital experience research at Red Hat Summit 2024](https://www.redhat.com/en/blog/unlocking-insights-digital-experience-research-red-hat-summit-2024)
 - [“@docker can you help me…”: An Early Look at the Docker Extension for GitHub Copilot](https://www.docker.com/blog/preview-docker-extension-for-github-copilot/)
-- [Kentik for Ansible Automation Platform now certified with Red Hat](https://www.redhat.com/en/blog/kentik-ansible-automation-platform-now-certified-red-hat)
-- [Inter-Satellite Sync: Network and Export Sync](https://www.redhat.com/en/blog/inter-satellite-sync-network-and-export-sync)
-- [Streamline the Development of Real-Time AI Applications with MindsDB Docker Extension](https://www.docker.com/blog/mindsdb-docker-extension/)
-- [How to Check Your Docker Installation: Docker Desktop vs. Docker Engine](https://www.docker.com/blog/blog-how-to-check-docker-version/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
