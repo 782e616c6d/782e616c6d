@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Dynatrace proud to receive the Ally Technology Velocity with Quality award](https://www.dynatrace.com/news/blog/dynatrace-ally-technology-velocity-with-quality-award/)
+- [Friday Five — May 24, 2024](https://www.redhat.com/en/blog/friday-five-may-24-2024-red-hat)
 - [Announcing Docker Desktop Support for Windows on Arm: New AI Innovation Opportunities](https://www.docker.com/blog/announcing-docker-desktop-support-for-windows-on-arm/)
 - [Optimize application life cycles with Red Hat Enterprise Linux 8.10](https://www.redhat.com/en/blog/optimize-application-life-cycles-red-hat-enterprise-linux-810)
 - [Ansible Blog: Accelerate your automation skills with Event-Driven Ansible](https://www.redhat.com/en/blog/accelerate-your-automation-skills-event-driven-ansible)
-- [Docker Documentation Gets an AI-Powered Assistant](https://www.docker.com/blog/docker-documentation-ai-powered-assistant/)
-- [The Strategic Imperative of AI in 2024](https://www.docker.com/blog/the-strategic-imperative-of-ai-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
