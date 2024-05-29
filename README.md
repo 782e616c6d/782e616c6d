@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Named a Leader in IDC MarketScape: Worldwide Multicloud and Hybrid Cloud Management with Automation](https://www.redhat.com/en/blog/red-hat-named-leader-idc-marketscape-worldwide-multicloud-and-hybrid-cloud-management-automation)
+- [Making Quay.io more accessible](https://www.redhat.com/en/blog/making-quayio-more-accessible)
 - [May patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-2/)
 - [Experimental Windows Containers Support for BuildKit Released in v0.13.0](https://www.docker.com/blog/experimental-windows-containers-support-for-buildkit-released-in-v0-13-0/)
 - [Dynatrace proud to receive the Ally Technology Velocity with Quality award](https://www.dynatrace.com/news/blog/dynatrace-ally-technology-velocity-with-quality-award/)
-- [Friday Five — May 24, 2024](https://www.redhat.com/en/blog/friday-five-may-24-2024-red-hat)
-- [Announcing Docker Desktop Support for Windows on Arm: New AI Innovation Opportunities](https://www.docker.com/blog/announcing-docker-desktop-support-for-windows-on-arm/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
