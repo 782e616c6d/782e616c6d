@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using Single Sign On &lpar;SSO&rpar; to manage project teams for Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/using-single-sign-on-sso-to-manage-project-teams-for-amazon-codecatalyst/)
+- [Simplify hybrid cloud with Dell APEX Cloud Platform for Red Hat OpenShift](https://www.redhat.com/en/blog/simplify-hybrid-cloud-dell-apex-cloud-platform-red-hat-openshift)
+- [Friday Five — May 31, 2024](https://www.redhat.com/en/blog/friday-five-may-31-2024-red-hat)
 - [Quickly adopt new AWS features with the Terraform AWS Cloud Control provider](https://aws.amazon.com/blogs/devops/quickly-adopt-new-aws-features-with-the-terraform-aws-cloud-control-provider/)
 - [Highlights from Microsoft Build: Docker’s Innovations with AI and Windows on Arm](https://www.docker.com/blog/highlights-from-microsoft-build/)
-- [Getting hands-on with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/getting-hands-red-hat-openshift-virtualization)
-- [Red Hat Named a Leader in IDC MarketScape: Worldwide Multicloud and Hybrid Cloud Management with Automation](https://www.redhat.com/en/blog/red-hat-named-leader-idc-marketscape-worldwide-multicloud-and-hybrid-cloud-management-automation)
-- [Quay.io now available on the AWS Marketplace](https://www.redhat.com/en/blog/quayio-available-aws-marketplace)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
