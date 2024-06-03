@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [NetBox Labs and Red Hat collaborate to accelerate network automation with NetBox and Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/netbox-labs-red-hat-collaborate-accelerate-network-automation-netbox-and-red-hat-ansible-automation-platform)
+- [Kernel Live Patch Support Cadence Update](https://www.redhat.com/en/blog/kernel-live-patch-support-cadence-update)
 - [Using Single Sign On &lpar;SSO&rpar; to manage project teams for Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/using-single-sign-on-sso-to-manage-project-teams-for-amazon-codecatalyst/)
 - [Simplify hybrid cloud with Dell APEX Cloud Platform for Red Hat OpenShift](https://www.redhat.com/en/blog/simplify-hybrid-cloud-dell-apex-cloud-platform-red-hat-openshift)
-- [Friday Five — May 31, 2024](https://www.redhat.com/en/blog/friday-five-may-31-2024-red-hat)
-- [Quickly adopt new AWS features with the Terraform AWS Cloud Control provider](https://aws.amazon.com/blogs/devops/quickly-adopt-new-aws-features-with-the-terraform-aws-cloud-control-provider/)
-- [Highlights from Microsoft Build: Docker’s Innovations with AI and Windows on Arm](https://www.docker.com/blog/highlights-from-microsoft-build/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
