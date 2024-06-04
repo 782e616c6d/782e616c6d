@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Announces SOC 2 Type 2 Attestation &amp; ISO 27001 Certification](https://www.docker.com/blog/docker-announces-soc-2-type-2-attestation-iso-27001-certification/)
+- [The Path to Distributed Tracing: an OpenShift Observability Adventure Part II: A Twist in the Myth](https://www.redhat.com/en/blog/path-distributed-tracing-openshift-observability-adventure-part-ii-twist-myth)
+- [Application regional disaster recovery using ROSA and AWS EFS - An unpopular yet effective approach](https://www.redhat.com/en/blog/application-regional-disaster-recovery-using-rosa-and-aws-efs-unpopular-yet-effective-approach)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [NetBox Labs and Red Hat collaborate to accelerate network automation with NetBox and Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/netbox-labs-red-hat-collaborate-accelerate-network-automation-netbox-and-red-hat-ansible-automation-platform)
-- [Kernel Live Patch Support Cadence Update](https://www.redhat.com/en/blog/kernel-live-patch-support-cadence-update)
-- [Using Single Sign On &lpar;SSO&rpar; to manage project teams for Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/using-single-sign-on-sso-to-manage-project-teams-for-amazon-codecatalyst/)
-- [Simplify hybrid cloud with Dell APEX Cloud Platform for Red Hat OpenShift](https://www.redhat.com/en/blog/simplify-hybrid-cloud-dell-apex-cloud-platform-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
