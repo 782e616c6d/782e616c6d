@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker Announces SOC 2 Type 2 Attestation &amp; ISO 27001 Certification](https://www.docker.com/blog/docker-announces-soc-2-type-2-attestation-iso-27001-certification/)
-- [The Path to Distributed Tracing: an OpenShift Observability Adventure Part II: A Twist in the Myth](https://www.redhat.com/en/blog/path-distributed-tracing-openshift-observability-adventure-part-ii-twist-myth)
-- [Application regional disaster recovery using ROSA and AWS EFS - An unpopular yet effective approach](https://www.redhat.com/en/blog/application-regional-disaster-recovery-using-rosa-and-aws-efs-unpopular-yet-effective-approach)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [NetBox Labs and Red Hat collaborate to accelerate network automation with NetBox and Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/netbox-labs-red-hat-collaborate-accelerate-network-automation-netbox-and-red-hat-ansible-automation-platform)
+- [Friday Five — June 7, 2024](https://www.redhat.com/en/blog/friday-five-june-7-2024-red-hat)
+- [Build Your Own AI-Driven Code Analysis Chatbot for Developers with the GenAI Stack](https://www.docker.com/blog/build-your-own-ai-driven-code-analysis-chatbot-genai-stack/)
+- [Develop Kubernetes Operators in Java without Breaking a Sweat](https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/)
+- [Exploring security by design and loosening guides](https://www.redhat.com/en/blog/exploring-security-by-design-and-loosening-guides)
+- [Easily integrate Secrets Management System with Ansible Automation Platform to update systems passwords](https://www.redhat.com/en/blog/easily-integrate-secrets-management-system-ansible-automation-platform-update-systems-passwords)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
