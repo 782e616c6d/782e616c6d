@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Five troubleshooting examples with Amazon Q](https://aws.amazon.com/blogs/devops/five-troubleshooting-examples-with-amazon-q/)
+- [AWS CodeBuild Managed Self-Hosted GitHub Action Runners](https://aws.amazon.com/blogs/devops/aws-codebuild-managed-self-hosted-github-action-runners/)
+- [EMEA blog [Dutch] |  IT22 brings edge technology to the energy world with Red Hat](https://www.redhat.com/en/blog/it22-brings-edge-technology-to-the-energy-world-nl)
 - [Friday Five — June 7, 2024](https://www.redhat.com/en/blog/friday-five-june-7-2024-red-hat)
-- [Build Your Own AI-Driven Code Analysis Chatbot for Developers with the GenAI Stack](https://www.docker.com/blog/build-your-own-ai-driven-code-analysis-chatbot-genai-stack/)
-- [Develop Kubernetes Operators in Java without Breaking a Sweat](https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/)
-- [Exploring security by design and loosening guides](https://www.redhat.com/en/blog/exploring-security-by-design-and-loosening-guides)
-- [Easily integrate Secrets Management System with Ansible Automation Platform to update systems passwords](https://www.redhat.com/en/blog/easily-integrate-secrets-management-system-ansible-automation-platform-update-systems-passwords)
+- [Automating storage management with RHEL System Roles](https://www.redhat.com/en/blog/automating-storage-management-rhel-system-roles)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
