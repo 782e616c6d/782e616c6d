@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [10 Years Since Kubernetes Launched at DockerCon](https://www.docker.com/blog/10-years-since-kubernetes-launched-at-dockercon/)
+- [Test &amp; Feedback Extension in Manifest V3](https://devblogs.microsoft.com/devops/test-feedback-extension-v3/)
+- [Explore new datacenter options with Red Hat Enterprise Linux and Arm](https://www.redhat.com/en/blog/explore-new-datacenter-options-red-hat-enterprise-linux-and-arm)
 - [Five troubleshooting examples with Amazon Q](https://aws.amazon.com/blogs/devops/five-troubleshooting-examples-with-amazon-q/)
 - [AWS CodeBuild Managed Self-Hosted GitHub Action Runners](https://aws.amazon.com/blogs/devops/aws-codebuild-managed-self-hosted-github-action-runners/)
-- [EMEA blog [Dutch] |  IT22 brings edge technology to the energy world with Red Hat](https://www.redhat.com/en/blog/it22-brings-edge-technology-to-the-energy-world-nl)
-- [Friday Five — June 7, 2024](https://www.redhat.com/en/blog/friday-five-june-7-2024-red-hat)
-- [Automating storage management with RHEL System Roles](https://www.redhat.com/en/blog/automating-storage-management-rhel-system-roles)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
