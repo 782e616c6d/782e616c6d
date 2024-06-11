@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [10 Years Since Kubernetes Launched at DockerCon](https://www.docker.com/blog/10-years-since-kubernetes-launched-at-dockercon/)
-- [Test &amp; Feedback Extension in Manifest V3](https://devblogs.microsoft.com/devops/test-feedback-extension-v3/)
-- [Explore new datacenter options with Red Hat Enterprise Linux and Arm](https://www.redhat.com/en/blog/explore-new-datacenter-options-red-hat-enterprise-linux-and-arm)
-- [Five troubleshooting examples with Amazon Q](https://aws.amazon.com/blogs/devops/five-troubleshooting-examples-with-amazon-q/)
-- [AWS CodeBuild Managed Self-Hosted GitHub Action Runners](https://aws.amazon.com/blogs/devops/aws-codebuild-managed-self-hosted-github-action-runners/)
+- [June patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-3/)
+- [Docker Desktop 4.31: Air-Gapped Containers, Accelerated Builds, and Beta Releases of Docker Desktop on Windows on Arm, Compose File Viewer, and GitHub Actions](https://www.docker.com/blog/docker-desktop-4-31/)
+- [Docker Launches 2024 State of Application Development Report](https://www.docker.com/blog/docker-2024-state-of-application-development-report/)
+- [Red Hat Summit in review: Maximizing value with Red Hat Technical Account Management](https://www.redhat.com/en/blog/red-hat-summit-review-maximizing-value-red-hat-technical-account-management)
+- [Learn OpenShift Virtualization: 7 training resources to help you get started](https://www.redhat.com/en/blog/learn-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
