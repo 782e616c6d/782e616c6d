@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate your Automation for SAP on AWS Operations using Amazon Q Developer](https://aws.amazon.com/blogs/devops/accelerate-your-automation-for-sap-on-aws-operations-using-amazon-q-developer/)
+- [Red Hat Satellite 6.15.1 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6151-has-been-released)
+- [OpenShift Virtualization: Not as scary as it seems](https://www.redhat.com/en/blog/openshift-virtualization-not-scary-it-seems)
+- [New to Linux? RHEL has management tools to save the day](https://www.redhat.com/en/blog/new-linux-rhel-has-management-tools-save-day)
 - [June patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-3/)
-- [Docker Desktop 4.31: Air-Gapped Containers, Accelerated Builds, and Beta Releases of Docker Desktop on Windows on Arm, Compose File Viewer, and GitHub Actions](https://www.docker.com/blog/docker-desktop-4-31/)
-- [Docker Launches 2024 State of Application Development Report](https://www.docker.com/blog/docker-2024-state-of-application-development-report/)
-- [Red Hat Summit in review: Maximizing value with Red Hat Technical Account Management](https://www.redhat.com/en/blog/red-hat-summit-review-maximizing-value-red-hat-technical-account-management)
-- [Learn OpenShift Virtualization: 7 training resources to help you get started](https://www.redhat.com/en/blog/learn-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
