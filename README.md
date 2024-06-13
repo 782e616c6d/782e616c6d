@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — June 14, 2024](https://www.redhat.com/en/blog/friday-five-june-14-2024-red-hat)
+- [LXC vs. Docker: Which One Should You Use?](https://www.docker.com/blog/lxc-vs-docker/)
+- [Ansible Blog: What’s new: Cloud automation with amazon.aws 8.0.0](https://www.redhat.com/en/blog/whats-new-cloud-automation-amazonaws-800)
+- [Security and safety of AI systems](https://www.redhat.com/en/blog/security-and-safety-ai-systems)
 - [Accelerate your Automation for SAP on AWS Operations using Amazon Q Developer](https://aws.amazon.com/blogs/devops/accelerate-your-automation-for-sap-on-aws-operations-using-amazon-q-developer/)
-- [Red Hat Satellite 6.15.1 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6151-has-been-released)
-- [OpenShift Virtualization: Not as scary as it seems](https://www.redhat.com/en/blog/openshift-virtualization-not-scary-it-seems)
-- [New to Linux? RHEL has management tools to save the day](https://www.redhat.com/en/blog/new-linux-rhel-has-management-tools-save-day)
-- [June patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
