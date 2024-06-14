@@ -56,8 +56,8 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - [Friday Five — June 14, 2024](https://www.redhat.com/en/blog/friday-five-june-14-2024-red-hat)
 - [LXC vs. Docker: Which One Should You Use?](https://www.docker.com/blog/lxc-vs-docker/)
 - [Ansible Blog: What’s new: Cloud automation with amazon.aws 8.0.0](https://www.redhat.com/en/blog/whats-new-cloud-automation-amazonaws-800)
+- [What is Red Hat OpenShift? A cooking story.](https://www.redhat.com/en/blog/what-is-red-hat-openshift-cooking-story)
 - [Security and safety of AI systems](https://www.redhat.com/en/blog/security-and-safety-ai-systems)
-- [Accelerate your Automation for SAP on AWS Operations using Amazon Q Developer](https://aws.amazon.com/blogs/devops/accelerate-your-automation-for-sap-on-aws-operations-using-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
