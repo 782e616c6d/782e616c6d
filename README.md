@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Friday Five — June 14, 2024](https://www.redhat.com/en/blog/friday-five-june-14-2024-red-hat)
-- [LXC vs. Docker: Which One Should You Use?](https://www.docker.com/blog/lxc-vs-docker/)
-- [Ansible Blog: What’s new: Cloud automation with amazon.aws 8.0.0](https://www.redhat.com/en/blog/whats-new-cloud-automation-amazonaws-800)
-- [What is Red Hat OpenShift? A cooking story.](https://www.redhat.com/en/blog/what-is-red-hat-openshift-cooking-story)
-- [Security and safety of AI systems](https://www.redhat.com/en/blog/security-and-safety-ai-systems)
+- [Three ways Amazon Q Developer agent for code transformation accelerates Java upgrades](https://aws.amazon.com/blogs/devops/three-ways-amazon-q-developer-agent-for-code-transformation-accelerates-java-upgrades/)
+- [Upskill on OpenShift AI with tailored Red Hat Training and Certification](https://www.redhat.com/en/blog/upskill-on-openshift-ai-with-tailored-redhat-training-and-certification)
+- [Reducing the significant risk of known exploitable vulnerabilities in Red Hat software](https://www.redhat.com/en/blog/reducing-significant-risk-known-exploitable-vulnerabilities-red-hat-software)
+- [How to get started with InstructLab today](https://www.redhat.com/en/blog/how-get-started-instructlab-today)
+- [AI in the insurance industry: Insights from Red Hat Summit 2024](https://www.redhat.com/en/blog/ai-insurance-industry-insights-red-hat-summit-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
