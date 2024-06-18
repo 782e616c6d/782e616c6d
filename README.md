@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat levels up AI support for telecommunication service providers](https://www.redhat.com/en/blog/red-hat-levels-ai-support-telecommunication-service-providers)
+- [Introducing Ansible Lightspeed playbook generation and on-premise deployments](https://www.redhat.com/en/blog/introducing-ansible-lightspeed-playbook-generation-and-premise-deployments)
 - [Three ways Amazon Q Developer agent for code transformation accelerates Java upgrades](https://aws.amazon.com/blogs/devops/three-ways-amazon-q-developer-agent-for-code-transformation-accelerates-java-upgrades/)
 - [Upskill on OpenShift AI with tailored Red Hat Training and Certification](https://www.redhat.com/en/blog/upskill-on-openshift-ai-with-tailored-redhat-training-and-certification)
 - [Reducing the significant risk of known exploitable vulnerabilities in Red Hat software](https://www.redhat.com/en/blog/reducing-significant-risk-known-exploitable-vulnerabilities-red-hat-software)
-- [How to get started with InstructLab today](https://www.redhat.com/en/blog/how-get-started-instructlab-today)
-- [AI in the insurance industry: Insights from Red Hat Summit 2024](https://www.redhat.com/en/blog/ai-insurance-industry-insights-red-hat-summit-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
