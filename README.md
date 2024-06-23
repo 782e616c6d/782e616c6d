@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Passkey is the Future, and the Future is Now with Red Hat Enterprise Linux](https://www.redhat.com/en/blog/passkey-with-rhel)
 - [Fault-isolated, zonal deployments with AWS CodeDeploy](https://aws.amazon.com/blogs/devops/fault-isolated-zonal-deployments-with-aws-codedeploy/)
 - [Five ways Amazon Q simplifies AWS CloudFormation development](https://aws.amazon.com/blogs/devops/five-ways-amazon-q-simplifies-aws-cloudformation-development/)
 - [Friday Five — June 21, 2024](https://www.redhat.com/en/blog/friday-five-june-21-2024-red-hat)
 - [New Beta Feature: Deep Dive into GitHub Actions Docker Builds with Docker Desktop](https://www.docker.com/blog/new-beta-feature-deep-dive-into-github-actions-docker-builds-with-docker-desktop/)
-- [Blue/Green Deployments to Amazon ECS using AWS CloudFormation and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/blue-green-deployments-to-amazon-ecs-using-aws-cloudformation-and-aws-codedeploy/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
