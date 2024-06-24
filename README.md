@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Marvin Attack](https://www.redhat.com/en/blog/marvin-attack)
 - [Passkey is the Future, and the Future is Now with Red Hat Enterprise Linux](https://www.redhat.com/en/blog/passkey-with-rhel)
-- [Fault-isolated, zonal deployments with AWS CodeDeploy](https://aws.amazon.com/blogs/devops/fault-isolated-zonal-deployments-with-aws-codedeploy/)
-- [Five ways Amazon Q simplifies AWS CloudFormation development](https://aws.amazon.com/blogs/devops/five-ways-amazon-q-simplifies-aws-cloudformation-development/)
-- [Friday Five — June 21, 2024](https://www.redhat.com/en/blog/friday-five-june-21-2024-red-hat)
-- [New Beta Feature: Deep Dive into GitHub Actions Docker Builds with Docker Desktop](https://www.docker.com/blog/new-beta-feature-deep-dive-into-github-actions-docker-builds-with-docker-desktop/)
+- [Customize your Red Hat OpenShift nodes and keep them updated](https://www.redhat.com/en/blog/openshift-intro-on-cluster-layering)
+- [Buzzwords unite: 6 reasons to run AI at the edge](https://www.redhat.com/en/blog/buzzwords-unite-6-reasons-run-ai-edge)
+- [Automate actions from Datadog observability data](https://www.redhat.com/en/blog/automate-actions-datadog-observability-data)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
