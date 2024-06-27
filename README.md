@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Post-quantum cryptography: Code-based cryptography](https://www.redhat.com/en/blog/post-quantum-cryptography-code-based-cryptography)
+- [How to get started with Cost Management in Red Hat Insights](https://www.redhat.com/en/blog/how-get-started-cost-management-red-hat-insights)
+- [Embracing automated policy as code in financial services](https://www.redhat.com/en/blog/embracing-automated-policy-code-financial-services)
+- [Automating your CentOS Linux to RHEL migration](https://www.redhat.com/en/blog/automating-your-centos-rhel-migration)
 - [Dynatrace completes 2024 FedRAMP Moderate reauthorization with Rev.5 transition](https://www.dynatrace.com/news/blog/dynatrace-completes-2024-fedramp-moderate-reauthorization/)
-- [Understanding the Docker USER Instruction](https://www.docker.com/blog/understanding-the-docker-user-instruction/)
-- [Why trust open source AI?](https://www.redhat.com/en/blog/why-trust-open-source-ai)
-- [The State of Kubernetes Security in 2024](https://www.redhat.com/en/blog/state-kubernetes-security-2024)
-- [Getting started with Red Hat Ansible Lightspeed with IBM watsonx Code Assistant](https://www.redhat.com/en/blog/getting-started-red-hat-ansible-lightspeed-ibm-watsonx-code-assistant)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
