@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Post-quantum cryptography: Code-based cryptography](https://www.redhat.com/en/blog/post-quantum-cryptography-code-based-cryptography)
-- [How to get started with Cost Management in Red Hat Insights](https://www.redhat.com/en/blog/how-get-started-cost-management-red-hat-insights)
-- [Embracing automated policy as code in financial services](https://www.redhat.com/en/blog/embracing-automated-policy-code-financial-services)
-- [Automating your CentOS Linux to RHEL migration](https://www.redhat.com/en/blog/automating-your-centos-rhel-migration)
-- [Dynatrace completes 2024 FedRAMP Moderate reauthorization with Rev.5 transition](https://www.dynatrace.com/news/blog/dynatrace-completes-2024-fedramp-moderate-reauthorization/)
+- [ReadMeAI: An AI-powered README Generator for Developers](https://www.docker.com/blog/readmeai-an-ai-powered-readme-generator-for-developers/)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Red Hat Insights Remediations improvements](https://www.redhat.com/en/blog/red-hat-insights-remediations-improvements)
+- [Friday Five — June 28, 2024](https://www.redhat.com/en/blog/friday-five-june-28-2024)
+- [API security: The importance of rate limiting policies in safeguarding your APIs](https://www.redhat.com/en/blog/api-security-importance-rate-limiting-policies-safeguarding-your-apis)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
