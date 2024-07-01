@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using Generative AI to Create Runnable Markdown](https://www.docker.com/blog/using-generative-ai-to-create-runnable-markdown/)
+- [Tips for generative AI large language model &lpar;LLM&rpar; prompt patterns](https://www.redhat.com/en/blog/tips-for-gen-ai-prompts)
+- [CentOS Linux has reached its End of Life &lpar;EOL&rpar;](https://www.redhat.com/en/blog/centos-linux-has-reached-its-end-life-eol)
 - [ReadMeAI: An AI-powered README Generator for Developers](https://www.docker.com/blog/readmeai-an-ai-powered-readme-generator-for-developers/)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Red Hat Insights Remediations improvements](https://www.redhat.com/en/blog/red-hat-insights-remediations-improvements)
-- [Friday Five — June 28, 2024](https://www.redhat.com/en/blog/friday-five-june-28-2024)
-- [API security: The importance of rate limiting policies in safeguarding your APIs](https://www.redhat.com/en/blog/api-security-importance-rate-limiting-policies-safeguarding-your-apis)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
