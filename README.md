@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring to Serverless: From Application to Automation](https://aws.amazon.com/blogs/devops/refactoring-to-serverless-from-application-to-automation/)
+- [Modernize your Java application with Amazon Q Developer](https://aws.amazon.com/blogs/devops/modernize-your-java-application-with-amazon-q-developer/)
+- [Sharing is caring: How to make the most of your GPUs &lpar;part 1 - time-slicing&rpar;](https://www.redhat.com/en/blog/sharing-caring-how-make-most-your-gpus-part-1-time-slicing)
 - [Security vulnerability reporting: Who can you trust?](https://www.redhat.com/en/blog/security-vulnerability-reporting-who-can-you-trust)
 - [Using Generative AI to Create Runnable Markdown](https://www.docker.com/blog/using-generative-ai-to-create-runnable-markdown/)
-- [Tips for generative AI large language model &lpar;LLM&rpar; prompt patterns](https://www.redhat.com/en/blog/tips-for-gen-ai-prompts)
-- [CentOS Linux has reached its End of Life &lpar;EOL&rpar;](https://www.redhat.com/en/blog/centos-linux-has-reached-its-end-life-eol)
-- [ReadMeAI: An AI-powered README Generator for Developers](https://www.docker.com/blog/readmeai-an-ai-powered-readme-generator-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
