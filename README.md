@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [FRR-k8s as a BGP backend for MetalLB](https://www.redhat.com/en/blog/frr-k8s-bgp-backend-metallb)
 - [Friday Five — July 5, 2024](https://www.redhat.com/en/blog/friday-five-july-5-2024-red-hat)
 - [Refactoring to Serverless: From Application to Automation](https://aws.amazon.com/blogs/devops/refactoring-to-serverless-from-application-to-automation/)
 - [Modernize your Java application with Amazon Q Developer](https://aws.amazon.com/blogs/devops/modernize-your-java-application-with-amazon-q-developer/)
-- [Sharing is caring: How to make the most of your GPUs &lpar;part 1 - time-slicing&rpar;](https://www.redhat.com/en/blog/sharing-caring-how-make-most-your-gpus-part-1-time-slicing)
-- [Security vulnerability reporting: Who can you trust?](https://www.redhat.com/en/blog/security-vulnerability-reporting-who-can-you-trust)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
