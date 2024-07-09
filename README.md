@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps Server 2022.2 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-2-rtw-now-available/)
+- [Top 3 priorities for CIOs: drive revenue, optimize costs and manage risk](https://www.redhat.com/en/blog/top-3-priorities-for-cios)
+- [Scaling Red Hat OpenStack Platform 17.1 to more than 1000+ virtual nodes](https://www.redhat.com/en/blog/scaling-red-hat-openstack-platform-171-more-1000-virtual-nodes)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [FRR-k8s as a BGP backend for MetalLB](https://www.redhat.com/en/blog/frr-k8s-bgp-backend-metallb)
-- [Friday Five — July 5, 2024](https://www.redhat.com/en/blog/friday-five-july-5-2024-red-hat)
-- [Refactoring to Serverless: From Application to Automation](https://aws.amazon.com/blogs/devops/refactoring-to-serverless-from-application-to-automation/)
-- [Modernize your Java application with Amazon Q Developer](https://aws.amazon.com/blogs/devops/modernize-your-java-application-with-amazon-q-developer/)
+- [Meet Arthy, Principal Software Quality Engineer in the OpenShift AI team](https://www.redhat.com/en/blog/meet-arthy)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
