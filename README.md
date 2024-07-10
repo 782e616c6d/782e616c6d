@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat VEX files for CVEs are now generally available](https://www.redhat.com/en/blog/red-hat-vex-files-cves-are-now-generally-available)
+- [Fast system utilization summaries for system administrators](https://www.redhat.com/en/blog/fast-system-utilization-summaries-sysadmins)
+- [Convert to RHEL with the new Convert2RHEL 2.0](https://www.redhat.com/en/blog/convert-rhel-new-convert2rhel-20)
 - [Azure DevOps Server 2022.2 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-2-rtw-now-available/)
 - [Top 3 priorities for CIOs: drive revenue, optimize costs and manage risk](https://www.redhat.com/en/blog/top-3-priorities-for-cios)
-- [Scaling Red Hat OpenStack Platform 17.1 to more than 1000+ virtual nodes](https://www.redhat.com/en/blog/scaling-red-hat-openstack-platform-171-more-1000-virtual-nodes)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Meet Arthy, Principal Software Quality Engineer in the OpenShift AI team](https://www.redhat.com/en/blog/meet-arthy)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
