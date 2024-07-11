@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat VEX files for CVEs are now generally available](https://www.redhat.com/en/blog/red-hat-vex-files-cves-are-now-generally-available)
-- [Fast system utilization summaries for system administrators](https://www.redhat.com/en/blog/fast-system-utilization-summaries-sysadmins)
-- [Convert to RHEL with the new Convert2RHEL 2.0](https://www.redhat.com/en/blog/convert-rhel-new-convert2rhel-20)
-- [Azure DevOps Server 2022.2 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-2-rtw-now-available/)
-- [Top 3 priorities for CIOs: drive revenue, optimize costs and manage risk](https://www.redhat.com/en/blog/top-3-priorities-for-cios)
+- [AWS announces workspace context awareness for Amazon Q Developer chat](https://aws.amazon.com/blogs/devops/aws-announces-workspace-context-awareness-for-amazon-q-developer-chat/)
+- [Chat about your AWS account resources with Amazon Q Developer](https://aws.amazon.com/blogs/devops/chat-about-your-aws-account-resources-with-amazon-q-developer/)
+- [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
+- [How should you modernize your applications?](https://www.redhat.com/en/blog/how-should-you-modernize-your-applications)
+- [Converting CentOS Linux to RHEL in Alicloud](https://www.redhat.com/en/blog/converting-centos-linux-rhel-alicloud)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
