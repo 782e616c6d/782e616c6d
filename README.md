@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
+- [How an AI Assistant Can Help Configure Your Project’s Git Hooks](https://www.docker.com/blog/how-an-ai-assistant-can-help-configure-your-projects-git-hooks/)
+- [Red Hat’s path to post-quantum cryptography](https://www.redhat.com/en/blog/red-hats-path-post-quantum-cryptography)
 - [Multi-cluster Red Hat OpenShift ingress with F5 BIG-IP](https://www.redhat.com/en/blog/multi-cluster-red-hat-openshift-ingress-f5-big-ip)
 - [Friday Five — July 12, 2024](https://www.redhat.com/en/blog/friday-five-july-12-2024-red-hat)
-- [AWS announces workspace context awareness for Amazon Q Developer chat](https://aws.amazon.com/blogs/devops/aws-announces-workspace-context-awareness-for-amazon-q-developer-chat/)
-- [Chat about your AWS account resources with Amazon Q Developer](https://aws.amazon.com/blogs/devops/chat-about-your-aws-account-resources-with-amazon-q-developer/)
-- [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
