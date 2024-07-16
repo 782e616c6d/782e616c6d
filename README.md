@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Red Hat OpenShift 4.16: What you need to know](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-416)
+- [Red Hat Device Edge empowers teams to scale to the edge with new features in Red Hat’s build of MicroShift 4.16](https://www.redhat.com/en/blog/red-hat-device-edge-microshift-416)
+- [Red Hat Advanced Cluster Security Cloud Service is now Generally Available](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-cloud-service-now-generally-available)
 - [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
-- [How an AI Assistant Can Help Configure Your Project’s Git Hooks](https://www.docker.com/blog/how-an-ai-assistant-can-help-configure-your-projects-git-hooks/)
-- [Red Hat’s path to post-quantum cryptography](https://www.redhat.com/en/blog/red-hats-path-post-quantum-cryptography)
-- [Multi-cluster Red Hat OpenShift ingress with F5 BIG-IP](https://www.redhat.com/en/blog/multi-cluster-red-hat-openshift-ingress-f5-big-ip)
-- [Friday Five — July 12, 2024](https://www.redhat.com/en/blog/friday-five-july-12-2024-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
