@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Desktop 4.32: Beta Releases of Compose File Viewer, Terminal Shell Integration, and Volume Backups to Cloud Providers](https://www.docker.com/blog/docker-desktop-4-32/)
+- [Red Hat Enterprise Linux and Secure Boot in the cloud](https://www.redhat.com/en/blog/red-hat-enterprise-linux-and-secure-boot-cloud)
+- [Enhanced observability in Red Hat OpenShift 4.16](https://www.redhat.com/en/blog/enhanced-observability-in-red-hat-openshift-4.16)
+- [CentOS Linux end of life, CentOS Stream and the new Red Hat Enterprise Linux landscape](https://www.redhat.com/en/blog/centos-linux-end-life-centos-stream-and-new-red-hat-enterprise-linux-landscape)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Red Hat OpenShift 4.16: What you need to know](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-416)
-- [Red Hat Device Edge empowers teams to scale to the edge with new features in Red Hat’s build of MicroShift 4.16](https://www.redhat.com/en/blog/red-hat-device-edge-microshift-416)
-- [Red Hat Advanced Cluster Security Cloud Service is now Generally Available](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-cloud-service-now-generally-available)
-- [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
