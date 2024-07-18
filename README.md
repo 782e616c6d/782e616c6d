@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Device Edge on NVIDIA Jetson Orin and IGX Orin now available in tech preview](https://www.redhat.com/en/blog/red-hat-device-edge-nvidia-jetson-orin-and-igx-orin-now-available-tech-preview)
 - [Docker Desktop 4.32: Beta Releases of Compose File Viewer, Terminal Shell Integration, and Volume Backups to Cloud Providers](https://www.docker.com/blog/docker-desktop-4-32/)
 - [Red Hat Enterprise Linux and Secure Boot in the cloud](https://www.redhat.com/en/blog/red-hat-enterprise-linux-and-secure-boot-cloud)
 - [Enhanced observability in Red Hat OpenShift 4.16](https://www.redhat.com/en/blog/enhanced-observability-in-red-hat-openshift-4.16)
 - [CentOS Linux end of life, CentOS Stream and the new Red Hat Enterprise Linux landscape](https://www.redhat.com/en/blog/centos-linux-end-life-centos-stream-and-new-red-hat-enterprise-linux-landscape)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
