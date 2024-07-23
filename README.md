@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Security Advisory: AuthZ Plugin Bypass Regression in Docker Engine](https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin/)
+- [Local LLM Messenger: Chat with GenAI on Your iPhone](https://www.docker.com/blog/local-llm-messenger-chat-with-genai-on-your-iphone/)
 - [What’s New in OpenShift Virtualization 4.16](https://www.redhat.com/en/blog/whats-new-openshift-virtualization-416)
 - [Add first boot scripts to golden images with Red Hat Insights image builder](https://www.redhat.com/en/blog/first-boot-scripts-with-Insights-image-builder)
 - [A guide to installing and configuring Red Hat Satellite Capsule server](https://www.redhat.com/en/blog/satellite-capsule-guide)
-- [Friday Five — July 19, 2023](https://www.redhat.com/en/blog/friday-five-july-19-2023-red-hat)
-- [Red Hat Device Edge on NVIDIA Jetson Orin and IGX Orin now available in tech preview](https://www.redhat.com/en/blog/red-hat-device-edge-nvidia-jetson-orin-and-igx-orin-now-available-tech-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
