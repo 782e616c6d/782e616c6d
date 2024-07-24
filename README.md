@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Empowering Developers with Docker: Simplifying Compliance and Enhancing Security for SOC 2, ISO 27001, FedRAMP, and More](https://www.docker.com/blog/empowering-developers-with-docker-simplifying-compliance-and-enhancing-security-for-soc-2-iso-27001-fedramp-and-more/)
+- [Leveraging Amazon Q Developer for Efficient Code Debugging and Maintenance](https://aws.amazon.com/blogs/devops/leveraging-amazon-q-developer-for-efficient-code-debugging-and-maintenance/)
+- [9 benefits of an automation-first mindset](https://www.redhat.com/en/blog/9-benefits-automation-first-mindset)
 - [Docker Security Advisory: AuthZ Plugin Bypass Regression in Docker Engine](https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin/)
 - [Local LLM Messenger: Chat with GenAI on Your iPhone](https://www.docker.com/blog/local-llm-messenger-chat-with-genai-on-your-iphone/)
-- [What’s New in OpenShift Virtualization 4.16](https://www.redhat.com/en/blog/whats-new-openshift-virtualization-416)
-- [Add first boot scripts to golden images with Red Hat Insights image builder](https://www.redhat.com/en/blog/first-boot-scripts-with-Insights-image-builder)
-- [A guide to installing and configuring Red Hat Satellite Capsule server](https://www.redhat.com/en/blog/satellite-capsule-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
