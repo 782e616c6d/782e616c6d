@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Empowering Developers with Docker: Simplifying Compliance and Enhancing Security for SOC 2, ISO 27001, FedRAMP, and More](https://www.docker.com/blog/empowering-developers-with-docker-simplifying-compliance-and-enhancing-security-for-soc-2-iso-27001-fedramp-and-more/)
-- [Leveraging Amazon Q Developer for Efficient Code Debugging and Maintenance](https://aws.amazon.com/blogs/devops/leveraging-amazon-q-developer-for-efficient-code-debugging-and-maintenance/)
-- [9 benefits of an automation-first mindset](https://www.redhat.com/en/blog/9-benefits-automation-first-mindset)
-- [Docker Security Advisory: AuthZ Plugin Bypass Regression in Docker Engine](https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin/)
-- [Local LLM Messenger: Chat with GenAI on Your iPhone](https://www.docker.com/blog/local-llm-messenger-chat-with-genai-on-your-iphone/)
+- [How Dynatrace enhances continuous delivery and manages deployment risk](https://www.dynatrace.com/news/blog/enhance-continuous-delivery-manage-deployment-risk/)
+- [CrowdStrike incident takeaways: Revisiting vendor quality control and release standards to minimize outage exposure](https://www.dynatrace.com/news/blog/crowdstrike-incident-revisiting-vendor-quality-control/)
+- [Update on Azure Boards + GitHub Integration](https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration/)
+- [How to migrate your AWS CodeCommit repository to another Git provider](https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/)
+- [How to migrate from AWS Cloud9 to AWS IDE Toolkits or AWS Cloudshell](https://aws.amazon.com/blogs/devops/how-to-migrate-from-aws-cloud9-to-aws-ide-toolkits-or-aws-cloudshell/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
