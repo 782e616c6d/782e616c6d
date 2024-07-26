@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How Dynatrace enhances continuous delivery and manages deployment risk](https://www.dynatrace.com/news/blog/enhance-continuous-delivery-manage-deployment-risk/)
+- [Generative AI fine-tuning of LLMs: Red Hat and Supermicro showcase outstanding results for efficient Llama-2-70b fine tuning using LoRA in MLPerf Training v4.0](https://www.redhat.com/en/blog/generative-ai-fine-tuning-llms-red-hat-and-supermicro-showcase)
+- [Friday Five — July 26, 2024](https://www.redhat.com/en/blog/friday-five-july-26-2024-red-hat)
+- [CrowdStrike outage: Managing continuous delivery and deployment risk with Dynatrace](https://www.dynatrace.com/news/blog/enhance-continuous-delivery-manage-deployment-risk/)
 - [CrowdStrike incident takeaways: Revisiting vendor quality control and release standards to minimize outage exposure](https://www.dynatrace.com/news/blog/crowdstrike-incident-revisiting-vendor-quality-control/)
 - [Update on Azure Boards + GitHub Integration](https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration/)
-- [How to migrate your AWS CodeCommit repository to another Git provider](https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/)
-- [How to migrate from AWS Cloud9 to AWS IDE Toolkits or AWS Cloudshell](https://aws.amazon.com/blogs/devops/how-to-migrate-from-aws-cloud9-to-aws-ide-toolkits-or-aws-cloudshell/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
