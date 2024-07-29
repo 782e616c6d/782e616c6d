@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI fine-tuning of LLMs: Red Hat and Supermicro showcase outstanding results for efficient Llama-2-70b fine tuning using LoRA in MLPerf Training v4.0](https://www.redhat.com/en/blog/generative-ai-fine-tuning-llms-red-hat-and-supermicro-showcase)
-- [Friday Five — July 26, 2024](https://www.redhat.com/en/blog/friday-five-july-26-2024-red-hat)
-- [CrowdStrike outage: Managing continuous delivery and deployment risk with Dynatrace](https://www.dynatrace.com/news/blog/enhance-continuous-delivery-manage-deployment-risk/)
-- [CrowdStrike incident takeaways: Revisiting vendor quality control and release standards to minimize outage exposure](https://www.dynatrace.com/news/blog/crowdstrike-incident-revisiting-vendor-quality-control/)
-- [Update on Azure Boards + GitHub Integration](https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration/)
+- [Docker Desktop 4.33: GA Releases of Docker Debug and Docker Build Checks Plus Enhanced Configuration Integrity Checks](https://www.docker.com/blog/docker-desktop-4-33/)
+- [Introducing Docker Build Checks: Optimize Dockerfiles with Best Practices](https://www.docker.com/blog/introducing-docker-build-checks/)
+- [How to Create Dockerfiles with GenAI](https://www.docker.com/blog/how-to-create-dockerfiles-with-genai/)
+- [Testing your applications with Amazon Q Developer](https://aws.amazon.com/blogs/devops/testing-your-applications-with-amazon-q-developer/)
+- [Use OpenID Connect with AWS Toolkit for Azure DevOps to perform AWS CodeDeploy deployments](https://aws.amazon.com/blogs/devops/use-openid-connect-with-aws-toolkit-for-azure-devops-to-perform-aws-codedeploy-deployments/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
