@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Scout Health Scores: Security Grading for Container Images in Your Docker Hub Repo](https://www.docker.com/blog/docker-scout-health-scores-security-grading-for-container-images/)
+- [Red Hat Quay 3.12 bolsters security, efficiency and compliance](https://www.redhat.com/en/blog/quay-312-bolsters-security-efficiency-and-compliance)
+- [Red Hat Advanced Cluster Security 4.5 enhances vulnerability management, scanning and compliance](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-45-enhances-vulnerability-management-scanning-and-compliance)
+- [Introducing Ansible plug-ins for Red Hat Developer Hub](https://www.redhat.com/en/blog/introducing-ansible-plug-ins-red-hat-developer-hub)
 - [Docker Desktop 4.33: GA Releases of Docker Debug and Docker Build Checks Plus Enhanced Configuration Integrity Checks](https://www.docker.com/blog/docker-desktop-4-33/)
-- [Introducing Docker Build Checks: Optimize Dockerfiles with Best Practices](https://www.docker.com/blog/introducing-docker-build-checks/)
-- [How to Create Dockerfiles with GenAI](https://www.docker.com/blog/how-to-create-dockerfiles-with-genai/)
-- [Testing your applications with Amazon Q Developer](https://aws.amazon.com/blogs/devops/testing-your-applications-with-amazon-q-developer/)
-- [Use OpenID Connect with AWS Toolkit for Azure DevOps to perform AWS CodeDeploy deployments](https://aws.amazon.com/blogs/devops/use-openid-connect-with-aws-toolkit-for-azure-devops-to-perform-aws-codedeploy-deployments/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
