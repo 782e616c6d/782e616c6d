@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Public Preview of Managed DevOps Pools &lpar;MDP&rpar; for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools/)
 - [Friday Five — August 2, 2024](https://www.redhat.com/en/blog/friday-five-august-2-2024-red-hat)
+- [Amazon Q Developer just reached a $260 million dollar milestone](https://aws.amazon.com/blogs/devops/amazon-q-developer-just-reached-a-260-million-dollar-milestone/)
 - [Accelerate your Terraform development with Amazon Q Developer](https://aws.amazon.com/blogs/devops/accelerate-your-terraform-development-with-amazon-q-developer/)
 - [Balance deployment speed and stability with DORA metrics](https://aws.amazon.com/blogs/devops/balance-deployment-speed-and-stability-with-dora-metrics/)
-- [Simplify Kubernetes management at scale with Red Hat Advanced Cluster Management](https://www.redhat.com/en/blog/simplify-kubernetes-management-scale-red-hat-advanced-cluster-management)
-- [Docker Scout Health Scores: Security Grading for Container Images in Your Docker Hub Repo](https://www.docker.com/blog/docker-scout-health-scores-security-grading-for-container-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
