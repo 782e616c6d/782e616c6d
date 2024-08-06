@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [What you need to know about VMware Automation with Red Hat Ansible](https://www.redhat.com/en/blog/what-you-need-know-about-vmware-automation-red-hat-ansible)
+- [Developer preview of Red Hat OpenShift Lightspeed, OpenShift’s new GenAI virtual assistant is now available](https://www.redhat.com/en/blog/developer-preview-red-hat-openshift-lightspeed-openshifts-new-genai-virtual-assistant-now-available)
+- [5 resources for building skills for the AI-enabled business](https://www.redhat.com/en/blog/5-resources-for-building-skills-for-the-ai-enabled-business)
 - [Announcing Public Preview of Managed DevOps Pools &lpar;MDP&rpar; for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools/)
 - [Friday Five — August 2, 2024](https://www.redhat.com/en/blog/friday-five-august-2-2024-red-hat)
-- [Amazon Q Developer just reached a $260 million dollar milestone](https://aws.amazon.com/blogs/devops/amazon-q-developer-just-reached-a-260-million-dollar-milestone/)
-- [Accelerate your Terraform development with Amazon Q Developer](https://aws.amazon.com/blogs/devops/accelerate-your-terraform-development-with-amazon-q-developer/)
-- [Balance deployment speed and stability with DORA metrics](https://aws.amazon.com/blogs/devops/balance-deployment-speed-and-stability-with-dora-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
