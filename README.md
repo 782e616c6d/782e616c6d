@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [What you need to know about VMware Automation with Red Hat Ansible](https://www.redhat.com/en/blog/what-you-need-know-about-vmware-automation-red-hat-ansible)
-- [Developer preview of Red Hat OpenShift Lightspeed, OpenShift’s new GenAI virtual assistant is now available](https://www.redhat.com/en/blog/developer-preview-red-hat-openshift-lightspeed-openshifts-new-genai-virtual-assistant-now-available)
-- [5 resources for building skills for the AI-enabled business](https://www.redhat.com/en/blog/5-resources-for-building-skills-for-the-ai-enabled-business)
-- [Announcing Public Preview of Managed DevOps Pools &lpar;MDP&rpar; for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools/)
-- [Friday Five — August 2, 2024](https://www.redhat.com/en/blog/friday-five-august-2-2024-red-hat)
+- [Generating Accurate Git Commit Messages with Amazon Q Developer CLI Context Modifiers](https://aws.amazon.com/blogs/devops/generating-accurate-git-commit-messages-with-amazon-q-developer-cli-context-modifiers/)
+- [Implementing Identity-Aware Sessions with Amazon Q Developer](https://aws.amazon.com/blogs/devops/implementing-identity-aware-sessions-with-amazon-q-developer/)
+- [How to use Amazon Q Developer to deploy a Serverless web application with AWS CDK](https://aws.amazon.com/blogs/devops/how-to-use-amazon-q-developer-to-deploy-a-serverless-web-application-with-aws-cdk/)
+- [Thank You to the Stack Overflow Community for Ranking Docker the Most Used, Desired, and Admired Developer Tool](https://www.docker.com/blog/docker-stack-overflow-survey-thank-you-2024/)
+- [Top Red Hat Blog articles of the year! &lpar;So far…&rpar;](https://www.redhat.com/en/blog/top-red-hat-blog-articles-year-so-far)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
