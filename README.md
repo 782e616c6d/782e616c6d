@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Six causes of major software outages–And how to avoid them](https://www.dynatrace.com/news/blog/six-causes-of-major-software-outages-and-how-to-avoid-them/)
+- [Docker Best Practices: Understanding the Differences Between ADD and COPY Instructions in Dockerfiles](https://www.docker.com/blog/docker-best-practices-understanding-the-differences-between-add-and-copy-instructions-in-dockerfiles/)
+- [Introducing OpenShift Service Mesh 2.6](https://www.redhat.com/en/blog/introducing-openshift-service-mesh-26)
+- [DarkNOC: GenAI &amp; Automation propels insights driven NetOps](https://www.redhat.com/en/blog/darknoc-automation-aiops)
 - [Generating Accurate Git Commit Messages with Amazon Q Developer CLI Context Modifiers](https://aws.amazon.com/blogs/devops/generating-accurate-git-commit-messages-with-amazon-q-developer-cli-context-modifiers/)
-- [Implementing Identity-Aware Sessions with Amazon Q Developer](https://aws.amazon.com/blogs/devops/implementing-identity-aware-sessions-with-amazon-q-developer/)
-- [How to use Amazon Q Developer to deploy a Serverless web application with AWS CDK](https://aws.amazon.com/blogs/devops/how-to-use-amazon-q-developer-to-deploy-a-serverless-web-application-with-aws-cdk/)
-- [Thank You to the Stack Overflow Community for Ranking Docker the Most Used, Desired, and Admired Developer Tool](https://www.docker.com/blog/docker-stack-overflow-survey-thank-you-2024/)
-- [Top Red Hat Blog articles of the year! &lpar;So far…&rpar;](https://www.redhat.com/en/blog/top-red-hat-blog-articles-year-so-far)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
