@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Adding the ESLint Tool to an AI Assistant: Improving Recommendations for JS/TS Projects](https://www.docker.com/blog/adding-the-eslint-tool-to-an-ai-assistant/)
 - [Code Clarity: Enhancing Code Understanding and Efficiency with Amazon Q Developer](https://aws.amazon.com/blogs/devops/code-clarity-enhancing-code-understanding-and-efficiency-with-amazon-q-developer/)
 - [Friday Five — August 9, 2024](https://www.redhat.com/en/blog/friday-five-august-9-2024-red-hat)
 - [Six causes of major software outages–And how to avoid them](https://www.dynatrace.com/news/blog/six-causes-of-major-software-outages-and-how-to-avoid-them/)
 - [Docker Best Practices: Understanding the Differences Between ADD and COPY Instructions in Dockerfiles](https://www.docker.com/blog/docker-best-practices-understanding-the-differences-between-add-and-copy-instructions-in-dockerfiles/)
-- [Introducing OpenShift Service Mesh 2.6](https://www.redhat.com/en/blog/introducing-openshift-service-mesh-26)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
