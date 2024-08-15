@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Bring value to Day 0 and Day 1 operations with Red Hat and Dynatrace](https://www.redhat.com/en/blog/bring-value-day-0-and-day-1-operations-red-hat-and-dynatrace)
+- [Deprecation of Password Logins on CLI with Docker SSO Enforcement](https://www.docker.com/blog/deprecation-of-password-logins-on-cli-with-docker-sso-enforcement/)
+- [Quickly identify and automatically remediate issues in your IT environment](https://www.redhat.com/en/blog/quickly-identify-and-automatically-remediate-issues-your-it-environment)
+- [Addressing the complexity of AI and edge operationalization](https://www.redhat.com/en/blog/addressing-complexity-ai-and-edge-operationalization)
 - [Zero Trust and Docker Desktop: An Introduction](https://www.docker.com/blog/zero-trust-and-docker-desktop-an-introduction/)
-- [Resolve issues before customers notice them with Red Hat and Dynatrace](https://www.redhat.com/en/blog/resolve-issues-customers-notice-them-red-hat-and-dynatrace)
-- [Ansible Automation Platform and ServiceNow ITSM Integration](https://www.redhat.com/en/blog/ansible-automation-platform-and-servicenow-itsm-integration)
-- [Adding the ESLint Tool to an AI Assistant: Improving Recommendations for JS/TS Projects](https://www.docker.com/blog/adding-the-eslint-tool-to-an-ai-assistant/)
-- [Improved vulnerability reporting on Quay.io](https://www.redhat.com/en/blog/improved-vulnerability-reporting-quay)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
