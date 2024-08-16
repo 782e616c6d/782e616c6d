@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Scaling up with AI and out to the edge with Red Hat and Dynatrace](https://www.redhat.com/en/blog/scaling-ai-and-out-edge-red-hat-and-dynatrace)
+- [Friday Five — August 16, 2024](https://www.redhat.com/en/blog/friday-five-august-16-2024)
 - [Bring value to Day 0 and Day 1 operations with Red Hat and Dynatrace](https://www.redhat.com/en/blog/bring-value-day-0-and-day-1-operations-red-hat-and-dynatrace)
 - [Deprecation of Password Logins on CLI with Docker SSO Enforcement](https://www.docker.com/blog/deprecation-of-password-logins-on-cli-with-docker-sso-enforcement/)
 - [Quickly identify and automatically remediate issues in your IT environment](https://www.redhat.com/en/blog/quickly-identify-and-automatically-remediate-issues-your-it-environment)
-- [Addressing the complexity of AI and edge operationalization](https://www.redhat.com/en/blog/addressing-complexity-ai-and-edge-operationalization)
-- [Zero Trust and Docker Desktop: An Introduction](https://www.docker.com/blog/zero-trust-and-docker-desktop-an-introduction/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
