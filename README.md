@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [New Azure DevOps Server Roadmap](https://devblogs.microsoft.com/devops/new-azure-devops-server-roadmap/)
 - [Scaling up with AI and out to the edge with Red Hat and Dynatrace](https://www.redhat.com/en/blog/scaling-ai-and-out-edge-red-hat-and-dynatrace)
 - [Friday Five — August 16, 2024](https://www.redhat.com/en/blog/friday-five-august-16-2024)
 - [Bring value to Day 0 and Day 1 operations with Red Hat and Dynatrace](https://www.redhat.com/en/blog/bring-value-day-0-and-day-1-operations-red-hat-and-dynatrace)
 - [Deprecation of Password Logins on CLI with Docker SSO Enforcement](https://www.docker.com/blog/deprecation-of-password-logins-on-cli-with-docker-sso-enforcement/)
-- [Quickly identify and automatically remediate issues in your IT environment](https://www.redhat.com/en/blog/quickly-identify-and-automatically-remediate-issues-your-it-environment)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
