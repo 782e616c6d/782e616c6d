@@ -54,10 +54,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update-2/)
-- [Authentication and Authorization in Red Hat OpenShift and Microservices Architectures](https://www.redhat.com/en/blog/authentication-authorization-redhat-openshift-microservices-architectures)
 - [New Azure DevOps Server Roadmap](https://devblogs.microsoft.com/devops/new-azure-devops-server-roadmap/)
-- [Scaling up with AI and out to the edge with Red Hat and Dynatrace](https://www.redhat.com/en/blog/scaling-ai-and-out-edge-red-hat-and-dynatrace)
-- [Friday Five — August 16, 2024](https://www.redhat.com/en/blog/friday-five-august-16-2024)
+- [Deprecation of Password Logins on CLI with Docker SSO Enforcement](https://www.docker.com/blog/deprecation-of-password-logins-on-cli-with-docker-sso-enforcement/)
+- [Zero Trust and Docker Desktop: An Introduction](https://www.docker.com/blog/zero-trust-and-docker-desktop-an-introduction/)
+- [Adding the ESLint Tool to an AI Assistant: Improving Recommendations for JS/TS Projects](https://www.docker.com/blog/adding-the-eslint-tool-to-an-ai-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
