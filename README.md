@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Use AWS CloudFormation Git sync to configure resources in customer accounts](https://aws.amazon.com/blogs/devops/use-aws-cloudformation-git-sync-to-configure-resources-in-customer-accounts/)
+- [Introducing Object Limit Tracker in Azure DevOps](https://devblogs.microsoft.com/devops/introducing-object-limit-tracker-in-azure-devops/)
+- [Red Hat Satellite 6.15.3 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6153-has-been-released)
+- [Save, edit, and share blueprints in Insights image builder](https://www.redhat.com/en/blog/blueprints-with-Insights-image-builder)
 - [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update-2/)
-- [New Azure DevOps Server Roadmap](https://devblogs.microsoft.com/devops/new-azure-devops-server-roadmap/)
-- [Deprecation of Password Logins on CLI with Docker SSO Enforcement](https://www.docker.com/blog/deprecation-of-password-logins-on-cli-with-docker-sso-enforcement/)
-- [Zero Trust and Docker Desktop: An Introduction](https://www.docker.com/blog/zero-trust-and-docker-desktop-an-introduction/)
-- [Adding the ESLint Tool to an AI Assistant: Improving Recommendations for JS/TS Projects](https://www.docker.com/blog/adding-the-eslint-tool-to-an-ai-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
