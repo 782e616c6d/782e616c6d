@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Use AWS CloudFormation Git sync to configure resources in customer accounts](https://aws.amazon.com/blogs/devops/use-aws-cloudformation-git-sync-to-configure-resources-in-customer-accounts/)
-- [Introducing Object Limit Tracker in Azure DevOps](https://devblogs.microsoft.com/devops/introducing-object-limit-tracker-in-azure-devops/)
-- [Red Hat Satellite 6.15.3 has been released](https://www.redhat.com/en/blog/red-hat-satellite-6153-has-been-released)
-- [Save, edit, and share blueprints in Insights image builder](https://www.redhat.com/en/blog/blueprints-with-Insights-image-builder)
-- [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update-2/)
+- [Publish packages to AWS CodeArtifact using Amazon CodeCatalyst Actions](https://aws.amazon.com/blogs/devops/publish-packages-to-aws-codeartifact-using-amazon-codecatalyst-actions/)
+- [Best Practices for working with Pull Requests in Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/best-practices-for-working-with-pull-requests-in-amazon-codecatalyst/)
+- [Accessing Amazon Q Developer using Microsoft Entra ID and VS Code to accelerate development](https://aws.amazon.com/blogs/devops/accessing-amazon-q-developer-using-microsoft-entra-id-and-vs-code-to-accelerate-development/)
+- [How A/B Testing and Multi-Model Hosting Accelerate Generative AI Feature Development in Amazon Q](https://aws.amazon.com/blogs/devops/how-a-b-testing-and-multi-model-hosting-accelerate-generative-ai-feature-development-in-amazon-q/)
+- [Friday Five — August 23, 2024](https://www.redhat.com/en/blog/friday-five-august-23-2024-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
