@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Publish packages to AWS CodeArtifact using Amazon CodeCatalyst Actions](https://aws.amazon.com/blogs/devops/publish-packages-to-aws-codeartifact-using-amazon-codecatalyst-actions/)
-- [Best Practices for working with Pull Requests in Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/best-practices-for-working-with-pull-requests-in-amazon-codecatalyst/)
-- [Accessing Amazon Q Developer using Microsoft Entra ID and VS Code to accelerate development](https://aws.amazon.com/blogs/devops/accessing-amazon-q-developer-using-microsoft-entra-id-and-vs-code-to-accelerate-development/)
-- [How A/B Testing and Multi-Model Hosting Accelerate Generative AI Feature Development in Amazon Q](https://aws.amazon.com/blogs/devops/how-a-b-testing-and-multi-model-hosting-accelerate-generative-ai-feature-development-in-amazon-q/)
-- [Friday Five — August 23, 2024](https://www.redhat.com/en/blog/friday-five-august-23-2024-red-hat)
+- [Optimizing AI Application Development with Docker Desktop and NVIDIA AI Workbench](https://www.docker.com/blog/optimizing-ai-application-development-docker-desktop-nvidia-ai-workbench/)
+- [How to Fix ESLint Violations with AI Assistance](https://www.docker.com/blog/how-to-fix-eslint-violations-with-ai-assistance/)
+- [The future of the Red Hat OpenShift Operator SDK](https://www.redhat.com/en/blog/future-red-hat-openshift-operator-sdk)
+- [Reducing complexity in virtual machine migration and in application platform management](https://www.redhat.com/en/blog/reducing-complexity-virtual-machine-migration-and-application-platform-management)
+- [Red Hat OpenShift: A comprehensive application platform for your traditional and future workloads](https://www.redhat.com/en/blog/red-hat-openshift-vmware-explore)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
