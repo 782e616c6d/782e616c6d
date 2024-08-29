@@ -57,7 +57,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - [Simplify identity management with Red Hat IdM](https://www.redhat.com/en/blog/simplify-identity-management-red-hat-idm)
 - [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
 - [Reaching escape velocity for OpenShift Virtualization](https://www.redhat.com/en/blog/reaching-escape-velocity-openshift-virtualization)
-- [OpenShift Commons Security Special Interest Group &lpar;SIG&rpar; at Red Hat Summit 2024](https://www.redhat.com/en/blog/openshift-commons-security-special-interest-group-sig-red-hat-summit-2024)
+- [Optimizing cloud resource management with cloud governance](https://www.redhat.com/en/blog/optimizing-cloud-resource-management-cloud-governance)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
