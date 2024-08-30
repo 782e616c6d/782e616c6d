@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — August 30, 2024](https://www.redhat.com/en/blog/friday-five-august-30-2024-red-hat)
+- [Exploring the OpenShift confidential containers solution](https://www.redhat.com/en/blog/exploring-openshift-confidential-containers-solution)
+- [Navigating the future: Red Hat OpenStack Platform 17.1 to Red Hat OpenStack Services on OpenShift using an adoption strategy](https://www.redhat.com/en/blog/adoption-strategy-red-hat-openstack-services-on-openshift)
 - [Use cases and ecosystem for OpenShift confidential containers](https://www.redhat.com/en/blog/use-cases-and-ecosystem-openshift-confidential-containers)
 - [Simplify identity management with Red Hat IdM](https://www.redhat.com/en/blog/simplify-identity-management-red-hat-idm)
-- [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
-- [Reaching escape velocity for OpenShift Virtualization](https://www.redhat.com/en/blog/reaching-escape-velocity-openshift-virtualization)
-- [Optimizing cloud resource management with cloud governance](https://www.redhat.com/en/blog/optimizing-cloud-resource-management-cloud-governance)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
