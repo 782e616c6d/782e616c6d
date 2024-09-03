@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [New Docker Desktop Enterprise Admin Features: MSI Installer and Login Enforcement Alternative](https://www.docker.com/blog/docker-desktop-msi-installer-login-enforcement-alternatives/)
+- [Docker Desktop 4.34: MSI Installer GA, Upgraded Host Networking, and Powerful Enhancements for Boosted Productivity &amp; Administration](https://www.docker.com/blog/docker-desktop-4-34/)
 - [Friday Five — August 30, 2024](https://www.redhat.com/en/blog/friday-five-august-30-2024-red-hat)
 - [Exploring the OpenShift confidential containers solution](https://www.redhat.com/en/blog/exploring-openshift-confidential-containers-solution)
 - [Navigating the future: Red Hat OpenStack Platform 17.1 to Red Hat OpenStack Services on OpenShift using an adoption strategy](https://www.redhat.com/en/blog/adoption-strategy-red-hat-openstack-services-on-openshift)
-- [Use cases and ecosystem for OpenShift confidential containers](https://www.redhat.com/en/blog/use-cases-and-ecosystem-openshift-confidential-containers)
-- [Simplify identity management with Red Hat IdM](https://www.redhat.com/en/blog/simplify-identity-management-red-hat-idm)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
