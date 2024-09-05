@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [From syslog to AWS Firehose: Dynatrace log management innovations that enhance observability](https://www.dynatrace.com/news/blog/from-syslog-to-aws-firehose-dynatrace-log-management-innovations-that-enhance-observability/)
+- [Amazon Q Developer Code Challenge](https://aws.amazon.com/blogs/devops/amazon-q-developer-code-challenge/)
+- [Get up to speed on RHEL AI with this new learning path](https://www.redhat.com/en/blog/rhel-ai-learning-path)
 - [Managing Automatic Certificate Management Environment &lpar;ACME&rpar; in Identity Management &lpar;IdM&rpar;](https://www.redhat.com/en/blog/managing-automatic-certificate-management-environment-acme-identity-management-idm)
 - [New Docker Desktop Enterprise Admin Features: MSI Installer and Login Enforcement Alternative](https://www.docker.com/blog/docker-desktop-msi-installer-login-enforcement-alternatives/)
-- [Docker Desktop 4.34: MSI Installer GA, Upgraded Host Networking, and Powerful Enhancements for Boosted Productivity &amp; Administration](https://www.docker.com/blog/docker-desktop-4-34/)
-- [Understanding open source software in 2024](https://www.redhat.com/en/blog/understanding-open-source-software-2024)
-- [Friday Five — August 30, 2024](https://www.redhat.com/en/blog/friday-five-august-30-2024-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
