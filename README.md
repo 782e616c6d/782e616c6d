@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Why We Need More Gender Diversity in the Cybersecurity Space](https://www.docker.com/blog/why-we-need-more-gender-diversity-in-the-cybersecurity-space/)
+- [Join Docker CEO Scott Johnston at SwampUP 2024 in Austin](https://www.docker.com/blog/swampup-2024-austin/)
+- [Sharing is caring: How to make the most of your GPUs part 2 - Multi-instance GPU](https://www.redhat.com/en/blog/sharing-caring-how-make-most-your-gpus-part-2-multi-instance-gpu)
+- [Friday Five — September 6, 2024](https://www.redhat.com/en/blog/friday-five-september-6-2024-red-hat)
 - [From syslog to AWS Firehose: Dynatrace log management innovations that enhance observability](https://www.dynatrace.com/news/blog/from-syslog-to-aws-firehose-dynatrace-log-management-innovations-that-enhance-observability/)
-- [Amazon Q Developer Code Challenge](https://aws.amazon.com/blogs/devops/amazon-q-developer-code-challenge/)
-- [Get up to speed on RHEL AI with this new learning path](https://www.redhat.com/en/blog/rhel-ai-learning-path)
-- [Managing Automatic Certificate Management Environment &lpar;ACME&rpar; in Identity Management &lpar;IdM&rpar;](https://www.redhat.com/en/blog/managing-automatic-certificate-management-environment-acme-identity-management-idm)
-- [New Docker Desktop Enterprise Admin Features: MSI Installer and Login Enforcement Alternative](https://www.docker.com/blog/docker-desktop-msi-installer-login-enforcement-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
