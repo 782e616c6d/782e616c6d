@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with the Labs AI Tools for Devs Docker Desktop Extension](https://www.docker.com/blog/labs-ai-tools-for-devs-docker-desktop-extension/)
+- [Red Hat and Oracle: Extending choice for greater hybrid cloud innovation](https://www.redhat.com/en/blog/red-hat-and-oracle-extending-choice-greater-hybrid-cloud-innovation)
+- [Capacity management and overcommitment best practices in Red Hat OpenShift](https://www.redhat.com/en/blog/capacity-management-overcommitment-best-practices-openshift)
 - [Why We Need More Gender Diversity in the Cybersecurity Space](https://www.docker.com/blog/why-we-need-more-gender-diversity-in-the-cybersecurity-space/)
 - [Join Docker CEO Scott Johnston at SwampUP 2024 in Austin](https://www.docker.com/blog/swampup-2024-austin/)
-- [Sharing is caring: How to make the most of your GPUs part 2 - Multi-instance GPU](https://www.redhat.com/en/blog/sharing-caring-how-make-most-your-gpus-part-2-multi-instance-gpu)
-- [Friday Five — September 6, 2024](https://www.redhat.com/en/blog/friday-five-september-6-2024-red-hat)
-- [From syslog to AWS Firehose: Dynatrace log management innovations that enhance observability](https://www.dynatrace.com/news/blog/from-syslog-to-aws-firehose-dynatrace-log-management-innovations-that-enhance-observability/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
