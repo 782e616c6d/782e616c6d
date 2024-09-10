@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat OpenShift Virtualization: Configuring Virtual Machines to use External Networks](https://www.redhat.com/en/blog/access-external-networks-with-openshift-virtualization)
+- [Are you or someone you know the next Red Hat Certified Professional of the Year?](https://www.redhat.com/en/blog/search-for-2025-red-hat-certified-professional-of-the-year)
+- [Accelerating DevOps with Red Hat technologies](https://www.redhat.com/en/blog/accelerating-devops-red-hat-technologies)
 - [Getting Started with the Labs AI Tools for Devs Docker Desktop Extension](https://www.docker.com/blog/labs-ai-tools-for-devs-docker-desktop-extension/)
 - [Red Hat and Oracle: Extending choice for greater hybrid cloud innovation](https://www.redhat.com/en/blog/red-hat-and-oracle-extending-choice-greater-hybrid-cloud-innovation)
-- [Capacity management and overcommitment best practices in Red Hat OpenShift](https://www.redhat.com/en/blog/capacity-management-overcommitment-best-practices-openshift)
-- [Why We Need More Gender Diversity in the Cybersecurity Space](https://www.docker.com/blog/why-we-need-more-gender-diversity-in-the-cybersecurity-space/)
-- [Join Docker CEO Scott Johnston at SwampUP 2024 in Austin](https://www.docker.com/blog/swampup-2024-austin/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
