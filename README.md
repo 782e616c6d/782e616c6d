@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat OpenShift Virtualization: Configuring Virtual Machines to use External Networks](https://www.redhat.com/en/blog/access-external-networks-with-openshift-virtualization)
+- [How InstructLab’s synthetic data generation enhances LLMs](https://www.redhat.com/en/blog/how-instructlabs-synthetic-data-generation-enhances-llms)
+- [Ansible Automation Platform for OpenShift Virtualization in Multi-cluster Environment](https://www.redhat.com/en/blog/ansible-automation-platform-openshift-virtualization-multi-cluster-environment)
+- [Red Hat OpenShift Virtualization: Configuring virtual machines to use external networks](https://www.redhat.com/en/blog/access-external-networks-with-openshift-virtualization)
 - [Are you or someone you know the next Red Hat Certified Professional of the Year?](https://www.redhat.com/en/blog/search-for-2025-red-hat-certified-professional-of-the-year)
 - [Accelerating DevOps with Red Hat technologies](https://www.redhat.com/en/blog/accelerating-devops-red-hat-technologies)
-- [Getting Started with the Labs AI Tools for Devs Docker Desktop Extension](https://www.docker.com/blog/labs-ai-tools-for-devs-docker-desktop-extension/)
-- [Red Hat and Oracle: Extending choice for greater hybrid cloud innovation](https://www.redhat.com/en/blog/red-hat-and-oracle-extending-choice-greater-hybrid-cloud-innovation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
