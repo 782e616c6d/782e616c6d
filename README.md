@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Secure by Design for AI: Building Resilient Systems from the Ground Up](https://www.docker.com/blog/secure-by-design-for-ai/)
+- [How Red Hat is integrating post-quantum cryptography into our products](https://www.redhat.com/en/blog/how-red-hat-integrating-post-quantum-cryptography-our-products)
+- [Deployment considerations for Red Hat OpenShift Confidential Containers solution](https://www.redhat.com/en/blog/red-hat-openshift-confidential-containers-deployment-solution)
 - [What is InstructLab and how do you use it? 9 quick videos to help you get started](https://www.redhat.com/en/blog/what-is-instructlab)
 - [Red Hat Named a Leader in 2024 Gartner® Magic Quadrant™ for Container Management](https://www.redhat.com/en/blog/red-hat-named-leader-2023-gartnerr-magic-quadranttm-container-management)
-- [Friday Five — September 13, 2024](https://www.redhat.com/en/blog/friday-five-september-13-2024-red-hat)
-- [Announcing Upgraded Docker Plans: Simpler, More Value, Better Development and Productivity](https://www.docker.com/blog/november-2024-updated-plans-announcement/)
-- [How InstructLab’s synthetic data generation enhances LLMs](https://www.redhat.com/en/blog/how-instructlabs-synthetic-data-generation-enhances-llms)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
