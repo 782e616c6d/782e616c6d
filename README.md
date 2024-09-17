@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Secure by Design for AI: Building Resilient Systems from the Ground Up](https://www.docker.com/blog/secure-by-design-for-ai/)
-- [How Red Hat is integrating post-quantum cryptography into our products](https://www.redhat.com/en/blog/how-red-hat-integrating-post-quantum-cryptography-our-products)
-- [Deployment considerations for Red Hat OpenShift Confidential Containers solution](https://www.redhat.com/en/blog/red-hat-openshift-confidential-containers-deployment-solution)
-- [What is InstructLab and how do you use it? 9 quick videos to help you get started](https://www.redhat.com/en/blog/what-is-instructlab)
-- [Red Hat Named a Leader in 2024 Gartner® Magic Quadrant™ for Container Management](https://www.redhat.com/en/blog/red-hat-named-leader-2023-gartnerr-magic-quadranttm-container-management)
+- [Docker for Web Developers: Getting Started with the Basics](https://www.docker.com/blog/docker-for-web-developers/)
+- [Reinventing the Amazon Q Developer agent for software development](https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/)
+- [Migrating virtual machines from vSphere to Red Hat OpenShift Virtualization with the migration toolkit for virtualization](https://www.redhat.com/en/blog/migrating-virtual-machines-vsphere-red-hat-openshift-virtualization-migration-toolkit-virtualization)
+- [Managing image mode for RHEL with Red Hat Insights](https://www.redhat.com/en/blog/managing-image-mode-rhel-red-hat-insights)
+- [Fedora 41 Beta now available](https://www.redhat.com/en/blog/fedora-41-beta-now-available)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
