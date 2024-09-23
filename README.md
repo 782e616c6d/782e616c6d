@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using an AI Assistant to Read Tool Documentation](https://www.docker.com/blog/using-an-ai-assistant-to-read-tool-documentation/)
+- [Red Hat OpenShift Service Mesh 3: Now technology preview](https://www.redhat.com/en/blog/red-hat-openshift-service-mesh-3-now-technology-preview)
+- [Red Hat OpenShift Service Mesh 3: Frequently asked questions](https://www.redhat.com/en/blog/red-hat-openshift-service-mesh-3-frequently-asked-questions)
 - [Friday Five — September 20, 2024](https://www.redhat.com/en/blog/friday-five-september-20-2024-red-hat)
 - [10 Docker Myths Debunked](https://www.docker.com/blog/docker-myths-debunked/)
-- [Docker for Web Developers: Getting Started with the Basics](https://www.docker.com/blog/docker-for-web-developers/)
-- [Reinventing the Amazon Q Developer agent for software development](https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/)
-- [Migrating virtual machines from vSphere to Red Hat OpenShift Virtualization with the migration toolkit for virtualization](https://www.redhat.com/en/blog/migrating-virtual-machines-vsphere-red-hat-openshift-virtualization-migration-toolkit-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
