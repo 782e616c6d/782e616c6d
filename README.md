@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [2024 Docker State of Application Development Survey: Share Your Thoughts on Development](https://www.docker.com/blog/2024-docker-state-of-application-development-survey/)
+- [Reimagining the cable industry by unlocking the power of software-defined networking, AI and edge computing](https://www.redhat.com/en/blog/reimagining-cable-industry-unlocking-power-software-defined-networking-ai-and-edge-computing)
+- [Q&amp;A on a public sector consulting role with Red Hatter Cait Macleod](https://www.redhat.com/en/blog/qa-public-sector-consulting-role-red-hatter-cait-macleod)
 - [Using an AI Assistant to Read Tool Documentation](https://www.docker.com/blog/using-an-ai-assistant-to-read-tool-documentation/)
-- [Red Hat OpenShift Service Mesh 3: Now technology preview](https://www.redhat.com/en/blog/red-hat-openshift-service-mesh-3-now-technology-preview)
-- [Red Hat OpenShift Service Mesh 3: Frequently asked questions](https://www.redhat.com/en/blog/red-hat-openshift-service-mesh-3-frequently-asked-questions)
-- [Friday Five — September 20, 2024](https://www.redhat.com/en/blog/friday-five-september-20-2024-red-hat)
-- [10 Docker Myths Debunked](https://www.docker.com/blog/docker-myths-debunked/)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
