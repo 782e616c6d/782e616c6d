@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Amazon ECS Multi-region Deployment with Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/amazon-ecs-multi-region-deployment-with-amazon-codecatalyst/)
+- [When LLMs day dream: Hallucinations and how to prevent them](https://www.redhat.com/en/blog/when-llms-day-dream-hallucinations-how-prevent-them)
+- [Accelerating adoption of automation through a community of practice](https://www.redhat.com/en/blog/communities-practice-straight-open-source)
+- [Automating Windows System Recovery with Ansible Automation Platform](https://www.redhat.com/en/blog/automating-windows-system-recovery-ansible-automation-platform)
 - [2024 Docker State of Application Development Survey: Share Your Thoughts on Development](https://www.docker.com/blog/2024-docker-state-of-application-development-survey/)
-- [Reimagining the cable industry by unlocking the power of software-defined networking, AI and edge computing](https://www.redhat.com/en/blog/reimagining-cable-industry-unlocking-power-software-defined-networking-ai-and-edge-computing)
-- [Q&amp;A on a public sector consulting role with Red Hatter Cait Macleod](https://www.redhat.com/en/blog/qa-public-sector-consulting-role-red-hatter-cait-macleod)
-- [Using an AI Assistant to Read Tool Documentation](https://www.docker.com/blog/using-an-ai-assistant-to-read-tool-documentation/)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
