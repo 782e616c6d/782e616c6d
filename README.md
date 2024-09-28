@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Securing Your Software Supply Chain with Amazon CodeCatalyst and Amazon Inspector](https://aws.amazon.com/blogs/devops/securing-your-software-supply-chain-with-amazon-codecatalyst-and-amazon-inspector/)
 - [Azure Boards, September Update](https://devblogs.microsoft.com/devops/azure-boards-september-update/)
 - [Friday Five — September 27, 2024](https://www.redhat.com/en/blog/friday-five-september-27-2024-red-hat)
 - [Red Hat’s response to OpenPrinting CUPS vulnerabilities: CVE-2024-47076, CVE-2024-47175, CVE-2024-47176 and CVE-2024-47177](https://www.redhat.com/en/blog/red-hat-response-openprinting-cups-vulnerabilities)
 - [Amazon ECS Multi-region Deployment with Amazon CodeCatalyst](https://aws.amazon.com/blogs/devops/amazon-ecs-multi-region-deployment-with-amazon-codecatalyst/)
-- [When LLMs day dream: Hallucinations and how to prevent them](https://www.redhat.com/en/blog/when-llms-day-dream-hallucinations-how-prevent-them)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
