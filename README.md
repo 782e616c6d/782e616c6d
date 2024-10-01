@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Best Practices: Using Tags and Labels to Manage Docker Image Sprawl](https://www.docker.com/blog/docker-best-practices-using-tags-and-labels-to-manage-docker-image-sprawl/)
+- [Deprecation of the macOS-12 Hosted Pipeline Image](https://devblogs.microsoft.com/devops/upcoming-deprecation-of-macos-12-hosted-pipeline-image/)
+- [A smarter way to manage malware with Red Hat Insights](https://www.redhat.com/en/blog/smarter-way-manage-malware-red-hat-insights)
 - [Exploring Telemetry Events in Amazon Q Developer](https://aws.amazon.com/blogs/devops/exploring-telemetry-events-in-amazon-q-developer/)
 - [Accenture Expedites Infrastructure Deployment with Amazon Q Developer](https://aws.amazon.com/blogs/devops/accenture-expedites-infrastructure-deployment-with-amazon-q-developer/)
-- [Exploring Docker for DevOps: What It Is and How It Works](https://www.docker.com/blog/docker-for-devops/)
-- [Unlock your Automation Advantage with Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/unlock-your-automation-advantage-red-hat-ansible-automation-platform-25)
-- [Better understanding artificial intelligence and uncertainty](https://www.redhat.com/en/blog/better-understanding-artificial-intelligence-uncertainty)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
