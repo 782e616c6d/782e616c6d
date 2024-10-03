@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate application upgrades with Amazon Q Developer agent for code transformation](https://aws.amazon.com/blogs/devops/accelerate-application-upgrades-with-amazon-q-developer-agent-for-code-transformation/)
+- [Red Hat Insights provides analytics for the IBM X-Force Cloud Threat Report](https://www.redhat.com/en/blog/red-hat-insights-provides-analytics-ibm-x-force-cloud-threat-report)
 - [What’s new in Event-Driven Ansible, part of Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/whats-new-event-driven-ansible-part-ansible-automation-platform-25)
 - [Call for Proposals now open for Red Hat Summit and AnsibleFest 2025](https://www.redhat.com/en/blog/red-hat-summit-and-ansiblefest-2025-call-proposals-now-open)
 - [Docker Best Practices: Using Tags and Labels to Manage Docker Image Sprawl](https://www.docker.com/blog/docker-best-practices-using-tags-and-labels-to-manage-docker-image-sprawl/)
-- [Deprecation of the macOS-12 Hosted Pipeline Image](https://devblogs.microsoft.com/devops/upcoming-deprecation-of-macos-12-hosted-pipeline-image/)
-- [A smarter way to manage malware with Red Hat Insights](https://www.redhat.com/en/blog/smarter-way-manage-malware-red-hat-insights)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
