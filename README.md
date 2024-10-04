@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Accelerate application upgrades with Amazon Q Developer agent for code transformation](https://aws.amazon.com/blogs/devops/accelerate-application-upgrades-with-amazon-q-developer-agent-for-code-transformation/)
-- [Red Hat Insights provides analytics for the IBM X-Force Cloud Threat Report](https://www.redhat.com/en/blog/red-hat-insights-provides-analytics-ibm-x-force-cloud-threat-report)
-- [What’s new in Event-Driven Ansible, part of Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/whats-new-event-driven-ansible-part-ansible-automation-platform-25)
-- [Call for Proposals now open for Red Hat Summit and AnsibleFest 2025](https://www.redhat.com/en/blog/red-hat-summit-and-ansiblefest-2025-call-proposals-now-open)
-- [Docker Best Practices: Using Tags and Labels to Manage Docker Image Sprawl](https://www.docker.com/blog/docker-best-practices-using-tags-and-labels-to-manage-docker-image-sprawl/)
+- [How to identify inactive users of Amazon Q Developer](https://aws.amazon.com/blogs/devops/how-to-identify-inactive-users-of-amazon-q-developer/)
+- [Use the latest AWS innovations with the new AWS Cloud Control provider for Pulumi](https://aws.amazon.com/blogs/devops/use-the-latest-aws-innovations-with-the-new-aws-cloud-control-provider-for-pulumi/)
+- [Observability throughout the software development lifecycle increases delivery performance](https://www.dynatrace.com/news/blog/observability-throughout-the-software-development-lifecycle/)
+- [RHEL 7 End of Maintenance &lpar;EOM&rpar;: Upgrade without upheaval](https://www.redhat.com/en/blog/rhel-7-end-maintenance-eom-upgrade-without-upheaval)
+- [Red Hat on Red Hat: How we use our AI solutions to power improved customer experience](https://www.redhat.com/en/blog/red-hat-red-hat-how-we-use-our-ai-solutions-power-improved-customer-experience)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
