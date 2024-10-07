@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using an AI Assistant to Script Tools](https://www.docker.com/blog/using-an-ai-assistant-to-script-tools/)
+- [How to use YAML with InstructLab](https://www.redhat.com/en/blog/how-use-yaml-instructlab)
 - [How to identify inactive users of Amazon Q Developer](https://aws.amazon.com/blogs/devops/how-to-identify-inactive-users-of-amazon-q-developer/)
 - [Use the latest AWS innovations with the new AWS Cloud Control provider for Pulumi](https://aws.amazon.com/blogs/devops/use-the-latest-aws-innovations-with-the-new-aws-cloud-control-provider-for-pulumi/)
 - [Observability throughout the software development lifecycle increases delivery performance](https://www.dynatrace.com/news/blog/observability-throughout-the-software-development-lifecycle/)
-- [RHEL 7 End of Maintenance &lpar;EOM&rpar;: Upgrade without upheaval](https://www.redhat.com/en/blog/rhel-7-end-maintenance-eom-upgrade-without-upheaval)
-- [Red Hat on Red Hat: How we use our AI solutions to power improved customer experience](https://www.redhat.com/en/blog/red-hat-red-hat-how-we-use-our-ai-solutions-power-improved-customer-experience)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
