@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [A New Era at Docker: How We’re Investing in Innovation and Customer Relationships](https://www.docker.com/blog/docker-investing-innovation-customer-relationships/)
+- [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
+- [Introducing the new Red Hat Ansible development tools: Streamlining the Ansible creator experience](https://www.redhat.com/en/blog/new-red-hat-ansible-development-tools)
+- [2024 enterprise trends: cloud meets AI](https://www.redhat.com/en/blog/2024-enterprise-trends-cloud-meets-ai)
 - [Using an AI Assistant to Script Tools](https://www.docker.com/blog/using-an-ai-assistant-to-script-tools/)
-- [How to use YAML with InstructLab](https://www.redhat.com/en/blog/how-use-yaml-instructlab)
-- [How to identify inactive users of Amazon Q Developer](https://aws.amazon.com/blogs/devops/how-to-identify-inactive-users-of-amazon-q-developer/)
-- [Use the latest AWS innovations with the new AWS Cloud Control provider for Pulumi](https://aws.amazon.com/blogs/devops/use-the-latest-aws-innovations-with-the-new-aws-cloud-control-provider-for-pulumi/)
-- [Observability throughout the software development lifecycle increases delivery performance](https://www.dynatrace.com/news/blog/observability-throughout-the-software-development-lifecycle/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
