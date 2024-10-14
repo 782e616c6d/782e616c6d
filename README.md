@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [5 reasons Red Hatters are excited about InstructLab](https://www.redhat.com/en/blog/5-reasons-red-hatters-are-excited-about-instructlab)
 - [Friday Five — October 11, 2024](https://www.redhat.com/en/blog/friday-five-october-11-2024-red-hat)
 - [Open source culture: 9 core principles and values](https://www.redhat.com/en/blog/open-source-culture-9-core-principles-and-values)
 - [How to Improve Your DevOps Automation](https://www.docker.com/blog/how-to-improve-your-devops-automation/)
 - [Accelerate Serverless Streamlit App Deployment with Terraform](https://aws.amazon.com/blogs/devops/accelerate-serverless-streamlit-app-deployment-with-terraform/)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
