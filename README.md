@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Organization Access Tokens](https://www.docker.com/blog/introducing-organization-access-tokens/)
+- [RHEL vs. RHEL AI: What&#39;s the difference?](https://www.redhat.com/en/blog/rhel-vs-rhel-ai-whats-difference)
+- [Red Hat Satellite 6.15.4.1 has been released](https://www.redhat.com/en/blog/red-hat-satellite-61541-has-been-released)
+- [Red Hat and the DEVCOM Army Research Laboratory collaborate to advance open API research](https://www.redhat.com/en/blog/red-hat-and-devcom-army-research-laboratory-collaborate-advance-open-api-research)
 - [5 reasons Red Hatters are excited about InstructLab](https://www.redhat.com/en/blog/5-reasons-red-hatters-are-excited-about-instructlab)
-- [Friday Five — October 11, 2024](https://www.redhat.com/en/blog/friday-five-october-11-2024-red-hat)
-- [Open source culture: 9 core principles and values](https://www.redhat.com/en/blog/open-source-culture-9-core-principles-and-values)
-- [How to Improve Your DevOps Automation](https://www.docker.com/blog/how-to-improve-your-devops-automation/)
-- [Accelerate Serverless Streamlit App Deployment with Terraform](https://aws.amazon.com/blogs/devops/accelerate-serverless-streamlit-app-deployment-with-terraform/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
