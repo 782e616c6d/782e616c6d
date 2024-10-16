@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Organization Access Tokens](https://www.docker.com/blog/introducing-organization-access-tokens/)
-- [RHEL vs. RHEL AI: What&#39;s the difference?](https://www.redhat.com/en/blog/rhel-vs-rhel-ai-whats-difference)
-- [Red Hat Satellite 6.15.4.1 has been released](https://www.redhat.com/en/blog/red-hat-satellite-61541-has-been-released)
-- [Red Hat and the DEVCOM Army Research Laboratory collaborate to advance open API research](https://www.redhat.com/en/blog/red-hat-and-devcom-army-research-laboratory-collaborate-advance-open-api-research)
-- [5 reasons Red Hatters are excited about InstructLab](https://www.redhat.com/en/blog/5-reasons-red-hatters-are-excited-about-instructlab)
+- [Enhance release control with AWS CodePipeline stage-level conditions](https://aws.amazon.com/blogs/devops/enhance-release-control-with-aws-codepipeline-stage-level-conditions/)
+- [Docker Best Practices: Using ARG and ENV in Your Dockerfiles](https://www.docker.com/blog/docker-best-practices-using-arg-and-env-in-your-dockerfiles/)
+- [How Docker IT Streamlined Docker Desktop Deployment Across the Global Team](https://www.docker.com/blog/how-docker-it-streamlined-docker-desktop-deployment/)
+- [Instant Well-Architected CDK Resources with Solutions Constructs Factories](https://aws.amazon.com/blogs/devops/instant-well-architected-cdk-resources-with-solutions-constructs-factories/)
+- [Five ways to optimize code with Amazon Q Developer](https://aws.amazon.com/blogs/devops/five-ways-to-optimize-code-with-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
