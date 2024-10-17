@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [New Docker Terraform Provider: Automate, Secure, and Scale with Ease](https://www.docker.com/blog/docker-terraform-provider/)
+- [Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/introducing-pull-request-annotation-for-codeql-and-dependency-scanning-in-github-advanced-security-for-azure-devops/)
+- [5 new key features and improvements in Red Hat Quay 3.13](https://www.redhat.com/en/blog/5-new-key-features-improvements-red-hat-quay-3.13)
 - [Enhance release control with AWS CodePipeline stage-level conditions](https://aws.amazon.com/blogs/devops/enhance-release-control-with-aws-codepipeline-stage-level-conditions/)
 - [Docker Best Practices: Using ARG and ENV in Your Dockerfiles](https://www.docker.com/blog/docker-best-practices-using-arg-and-env-in-your-dockerfiles/)
-- [How Docker IT Streamlined Docker Desktop Deployment Across the Global Team](https://www.docker.com/blog/how-docker-it-streamlined-docker-desktop-deployment/)
-- [Instant Well-Architected CDK Resources with Solutions Constructs Factories](https://aws.amazon.com/blogs/devops/instant-well-architected-cdk-resources-with-solutions-constructs-factories/)
-- [Five ways to optimize code with Amazon Q Developer](https://aws.amazon.com/blogs/devops/five-ways-to-optimize-code-with-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
