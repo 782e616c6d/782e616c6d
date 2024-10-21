@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using Docker AI Tools for Devs to Provide Context for Better Code Fixes](https://www.docker.com/blog/using-docker-ai-tools-for-devs-to-provide-context-for-better-code-fixes/)
+- [Announcing IBM Granite AI Models Now Available on Docker Hub](https://www.docker.com/blog/announcing-ibm-granite-ai-models-now-available-on-docker-hub/)
+- [5 steps to defining your automation strategy](https://www.redhat.com/en/blog/5-steps-defining-your-automation-strategy)
+- [4 reasons to train and certify on Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/4-reasons-train-and-certify-red-hat-ansible-automation-platform)
 - [Friday Five — October 18, 2024](https://www.redhat.com/en/blog/friday-five-october-18-2024-red-hat)
-- [5 reasons to choose Podman in 2025](https://www.redhat.com/en/blog/5-reasons-choose-podman-2025)
-- [New Docker Terraform Provider: Automate, Secure, and Scale with Ease](https://www.docker.com/blog/docker-terraform-provider/)
-- [Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/introducing-pull-request-annotation-for-codeql-and-dependency-scanning-in-github-advanced-security-for-azure-devops/)
-- [5 new key features and improvements in Red Hat Quay 3.13](https://www.redhat.com/en/blog/5-new-key-features-improvements-red-hat-quay-3.13)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
