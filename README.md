@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Using Docker AI Tools for Devs to Provide Context for Better Code Fixes](https://www.docker.com/blog/using-docker-ai-tools-for-devs-to-provide-context-for-better-code-fixes/)
-- [Announcing IBM Granite AI Models Now Available on Docker Hub](https://www.docker.com/blog/announcing-ibm-granite-ai-models-now-available-on-docker-hub/)
-- [5 steps to defining your automation strategy](https://www.redhat.com/en/blog/5-steps-defining-your-automation-strategy)
-- [4 reasons to train and certify on Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/4-reasons-train-and-certify-red-hat-ansible-automation-platform)
-- [Friday Five — October 18, 2024](https://www.redhat.com/en/blog/friday-five-october-18-2024-red-hat)
+- [Introducing the new Amazon Q Developer experience in AWS Lambda](https://aws.amazon.com/blogs/devops/introducing-the-new-amazon-q-developer-experience-in-aws-lambda/)
+- [Docker at Cloud Expo Asia: GenAI, Security, and New Innovations](https://www.docker.com/blog/docker-at-cloud-expo-asia-genai-security-and-new-innovations/)
+- [Secure design principles in the age of artificial intelligence](https://www.redhat.com/en/blog/secure-design-principles-age-artificial-intelligence)
+- [Red Hat powers up to help drive the future of energy grid modernization](https://www.redhat.com/en/blog/red-hat-powers-help-drive-future-energy-grid-modernization)
+- [Confidential Containers with IBM Secure Execution for Linux](https://www.redhat.com/en/blog/confidential-containers-ibm-secure-execution-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
