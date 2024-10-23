@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Model-Based Testing with Testcontainers and Jqwik](https://www.docker.com/blog/model-based-testing-testcontainers-jqwik/)
+- [Strengthen DevSecOps with Red Hat Trusted Software Supply Chain](https://www.redhat.com/en/blog/strengthen-devsecops-red-hat-trusted-software-supply-chain)
+- [Getting started with an automation community of practice](https://www.redhat.com/en/blog/getting-started-automation-community-practice)
 - [Introducing the new Amazon Q Developer experience in AWS Lambda](https://aws.amazon.com/blogs/devops/introducing-the-new-amazon-q-developer-experience-in-aws-lambda/)
 - [Docker at Cloud Expo Asia: GenAI, Security, and New Innovations](https://www.docker.com/blog/docker-at-cloud-expo-asia-genai-security-and-new-innovations/)
-- [Secure design principles in the age of artificial intelligence](https://www.redhat.com/en/blog/secure-design-principles-age-artificial-intelligence)
-- [Red Hat powers up to help drive the future of energy grid modernization](https://www.redhat.com/en/blog/red-hat-powers-help-drive-future-energy-grid-modernization)
-- [Confidential Containers with IBM Secure Execution for Linux](https://www.redhat.com/en/blog/confidential-containers-ibm-secure-execution-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
