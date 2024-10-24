@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using Entra profile information in Azure DevOps](https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops/)
 - [Model-Based Testing with Testcontainers and Jqwik](https://www.docker.com/blog/model-based-testing-testcontainers-jqwik/)
 - [Strengthen DevSecOps with Red Hat Trusted Software Supply Chain](https://www.redhat.com/en/blog/strengthen-devsecops-red-hat-trusted-software-supply-chain)
 - [Getting started with an automation community of practice](https://www.redhat.com/en/blog/getting-started-automation-community-practice)
 - [Introducing the new Amazon Q Developer experience in AWS Lambda](https://aws.amazon.com/blogs/devops/introducing-the-new-amazon-q-developer-experience-in-aws-lambda/)
-- [Docker at Cloud Expo Asia: GenAI, Security, and New Innovations](https://www.docker.com/blog/docker-at-cloud-expo-asia-genai-security-and-new-innovations/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
