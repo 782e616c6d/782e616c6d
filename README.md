@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [No new Azure DevOps OAuth apps beginning February 2025](https://devblogs.microsoft.com/devops/no-new-azure-devops-oauth-apps-beginning-february-2025/)
+- [Migrating VMs? 15 key resources to deepen your OpenShift Virtualization knowledge](https://www.redhat.com/en/blog/15-resources-to-migrate-virtual-machines-to-openshift)
 - [Friday Five — October 25, 2024](https://www.redhat.com/en/blog/friday-five-october-25-2024-red-hat)
 - [FIPS 140-3 changes for PKCS #12](https://www.redhat.com/en/blog/fips-140-3-changes-pkcs-12)
 - [Using Entra profile information in Azure DevOps](https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops/)
-- [Model-Based Testing with Testcontainers and Jqwik](https://www.docker.com/blog/model-based-testing-testcontainers-jqwik/)
-- [Strengthen DevSecOps with Red Hat Trusted Software Supply Chain](https://www.redhat.com/en/blog/strengthen-devsecops-red-hat-trusted-software-supply-chain)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
