@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [No new Azure DevOps OAuth apps beginning February 2025](https://devblogs.microsoft.com/devops/no-new-azure-devops-oauth-apps-beginning-february-2025/)
-- [Migrating VMs? 15 key resources to deepen your OpenShift Virtualization knowledge](https://www.redhat.com/en/blog/15-resources-to-migrate-virtual-machines-to-openshift)
-- [Friday Five — October 25, 2024](https://www.redhat.com/en/blog/friday-five-october-25-2024-red-hat)
-- [FIPS 140-3 changes for PKCS #12](https://www.redhat.com/en/blog/fips-140-3-changes-pkcs-12)
-- [Using Entra profile information in Azure DevOps](https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops/)
+- [Using Semantic Versioning to Simplify Release Management](https://aws.amazon.com/blogs/devops/using-semantic-versioning-to-simplify-release-management/)
+- [Leverage Amazon Q Developer and AWS Chatbot within Slack](https://aws.amazon.com/blogs/devops/leverage-amazon-q-developer-and-aws-chatbot-within-slack/)
+- [Diving Deeper into Projen: Exploring Advanced Features](https://aws.amazon.com/blogs/devops/diving-deeper-into-projen-exploring-advanced-features/)
+- [Introducing the next-level of AI-powered workflows with Amazon Q Developer inline chat](https://aws.amazon.com/blogs/devops/amazon-q-developer-inline-chat/)
+- [Open to options: How to build your modern virtualization strategy](https://www.redhat.com/en/blog/open-options-how-build-your-modern-virtualization-strategy)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
