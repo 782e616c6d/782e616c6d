@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the new normal: Disruption, displacement, and the dichotomy of balancing both](https://www.redhat.com/en/blog/understanding-new-normal-disruption)
+- [Understanding the AI landscape: A primer for executives](https://www.redhat.com/en/blog/understanding-ai-landscape)
+- [The open source advantage: Your catalyst for agility](https://www.redhat.com/en/blog/open-source-advantage)
 - [Using Semantic Versioning to Simplify Release Management](https://aws.amazon.com/blogs/devops/using-semantic-versioning-to-simplify-release-management/)
 - [Leverage Amazon Q Developer and AWS Chatbot within Slack](https://aws.amazon.com/blogs/devops/leverage-amazon-q-developer-and-aws-chatbot-within-slack/)
-- [Diving Deeper into Projen: Exploring Advanced Features](https://aws.amazon.com/blogs/devops/diving-deeper-into-projen-exploring-advanced-features/)
-- [Introducing the next-level of AI-powered workflows with Amazon Q Developer inline chat](https://aws.amazon.com/blogs/devops/amazon-q-developer-inline-chat/)
-- [Open to options: How to build your modern virtualization strategy](https://www.redhat.com/en/blog/open-options-how-build-your-modern-virtualization-strategy)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
