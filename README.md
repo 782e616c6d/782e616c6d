@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the new normal: Disruption, displacement, and the dichotomy of balancing both](https://www.redhat.com/en/blog/understanding-new-normal-disruption)
-- [Understanding the AI landscape: A primer for executives](https://www.redhat.com/en/blog/understanding-ai-landscape)
-- [The open source advantage: Your catalyst for agility](https://www.redhat.com/en/blog/open-source-advantage)
-- [Using Semantic Versioning to Simplify Release Management](https://aws.amazon.com/blogs/devops/using-semantic-versioning-to-simplify-release-management/)
-- [Leverage Amazon Q Developer and AWS Chatbot within Slack](https://aws.amazon.com/blogs/devops/leverage-amazon-q-developer-and-aws-chatbot-within-slack/)
+- [A new AWS CDK L2 construct for Amazon CloudFront Origin Access Control &lpar;OAC&rpar;](https://aws.amazon.com/blogs/devops/a-new-aws-cdk-l2-construct-for-amazon-cloudfront-origin-access-control-oac/)
+- [Reliability indicators that matter to your business: SLOs for all data types](https://www.dynatrace.com/news/blog/slos-for-all-data-types/)
+- [Unstoppable Linux: 3 things Red Hat Enterprise Linux has kept for 30 years](https://www.redhat.com/en/blog/unstoppable-linux-3-things-red-hat-enterprise-linux-has-kept-30-years)
+- [Red Hat Insights collaborated with Vulcan Cyber to provide a seamless integration for effective exposure management](https://www.redhat.com/en/blog/red-hat-insights-collaborated-vulcan-cyber-provide-seamless-integration-effective-exposure-management)
+- [From free software enthusiast to container connoisseur](https://www.redhat.com/en/blog/free-software-enthusiast-container-connoisseur)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
