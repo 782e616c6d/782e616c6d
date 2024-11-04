@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Desktop 4.35: Organization Access Tokens, Docker Home, Volumes Export, and Terminal in Docker Desktop](https://www.docker.com/blog/docker-desktop-4-35/)
+- [Maximizing Docker Desktop: How Signing In Unlocks Advanced Features](https://www.docker.com/blog/maximizing-docker-desktop/)
+- [Using AI Tools to Convert a PDF into Images](https://www.docker.com/blog/using-ai-tools-to-convert-a-pdf-into-images/)
 - [How Amazon Q reduced the time Amazon developers spent waiting for technical answers by 450k hours this year](https://aws.amazon.com/blogs/devops/reducing-time-spent-waiting-with-amazon-q/)
-- [Friday Five — November 1, 2024](https://www.redhat.com/en/blog/friday-five-november-1-2024-red-hat)
-- [A new AWS CDK L2 construct for Amazon CloudFront Origin Access Control &lpar;OAC&rpar;](https://aws.amazon.com/blogs/devops/a-new-aws-cdk-l2-construct-for-amazon-cloudfront-origin-access-control-oac/)
-- [Reliability indicators that matter to your business: SLOs for all data types](https://www.dynatrace.com/news/blog/slos-for-all-data-types/)
-- [Unstoppable Linux: 3 things Red Hat Enterprise Linux has kept for 30 years](https://www.redhat.com/en/blog/unstoppable-linux-3-things-red-hat-enterprise-linux-has-kept-30-years)
+- [Improve your Information Technology Infrastructure Library with automation](https://www.redhat.com/en/blog/improve-your-itil-automation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
