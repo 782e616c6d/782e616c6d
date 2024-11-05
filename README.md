@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Dockerize WordPress: Simplify Your Site’s Setup and Deployment](https://www.docker.com/blog/how-to-dockerize-wordpress/)
+- [Red Hat Insights expands its detection capabilities with CrowdStrike integration](https://www.redhat.com/en/blog/red-hat-insights-expands-its-detection-capabilities-crowdstrike-integration)
 - [Docker Desktop 4.35: Organization Access Tokens, Docker Home, Volumes Export, and Terminal in Docker Desktop](https://www.docker.com/blog/docker-desktop-4-35/)
 - [Maximizing Docker Desktop: How Signing In Unlocks Advanced Features](https://www.docker.com/blog/maximizing-docker-desktop/)
 - [Using AI Tools to Convert a PDF into Images](https://www.docker.com/blog/using-ai-tools-to-convert-a-pdf-into-images/)
-- [How Amazon Q reduced the time Amazon developers spent waiting for technical answers by 450k hours this year](https://aws.amazon.com/blogs/devops/reducing-time-spent-waiting-with-amazon-q/)
-- [Improve your Information Technology Infrastructure Library with automation](https://www.redhat.com/en/blog/improve-your-itil-automation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
