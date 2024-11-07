@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — November 8, 2024](https://www.redhat.com/en/blog/friday-five-november-8-2024-red-hat)
+- [Secure cloud bursting: Leveraging confidential computing for peace of mind](https://www.redhat.com/en/blog/secure-cloud-bursting-leveraging-confidential-computing-peace-mind)
+- [Recent improvements in Red Hat Enterprise Linux CoreOS security data](https://www.redhat.com/en/blog/recent-improvements-red-hat-enterprise-linux-coreos-security-data)
 - [Strengthening security of the software supply chain for LLVM](https://www.redhat.com/en/blog/strengthening-security-software-supply-chain-llvm)
 - [Dockerize WordPress: Simplify Your Site’s Setup and Deployment](https://www.docker.com/blog/how-to-dockerize-wordpress/)
-- [Red Hat Insights expands its detection capabilities with CrowdStrike integration](https://www.redhat.com/en/blog/red-hat-insights-expands-its-detection-capabilities-crowdstrike-integration)
-- [Docker Desktop 4.35: Organization Access Tokens, Docker Home, Volumes Export, and Terminal in Docker Desktop](https://www.docker.com/blog/docker-desktop-4-35/)
-- [Maximizing Docker Desktop: How Signing In Unlocks Advanced Features](https://www.docker.com/blog/maximizing-docker-desktop/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
