@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Friday Five — November 8, 2024](https://www.redhat.com/en/blog/friday-five-november-8-2024-red-hat)
-- [Secure cloud bursting: Leveraging confidential computing for peace of mind](https://www.redhat.com/en/blog/secure-cloud-bursting-leveraging-confidential-computing-peace-mind)
-- [Recent improvements in Red Hat Enterprise Linux CoreOS security data](https://www.redhat.com/en/blog/recent-improvements-red-hat-enterprise-linux-coreos-security-data)
-- [Strengthening security of the software supply chain for LLVM](https://www.redhat.com/en/blog/strengthening-security-software-supply-chain-llvm)
-- [Dockerize WordPress: Simplify Your Site’s Setup and Deployment](https://www.docker.com/blog/how-to-dockerize-wordpress/)
+- [Telenor offers a slice of 5G at the edge for AI apps](https://www.redhat.com/en/blog/telenor-offers-slice-5g-edge-ai-apps)
+- [Red Hat Named a Leader in 2024 Gartner® Magic Quadrant™ for Cloud Application Platforms](https://www.redhat.com/en/blog/red-hat-named-leader-2024-gartnerr-magic-quadranttm-cloud-application-platforms)
+- [Join Red Hat Ansible Automation Platform at AutoCon 2](https://www.redhat.com/en/blog/red-hat-ansible-will-be-autocon2)
+- [Red Hat Advanced Cluster Management for Kubernetes 2.12: Elevating multicluster operations and governance](https://www.redhat.com/en/blog/red-hat-advanced-cluster-management-kubernetes-212-elevating-multicluster-operations-and-governance)
+- [Network observability: Optimized anomaly detection with AI/ML](https://www.redhat.com/en/blog/network-observability-optimized-anomaly-detection-aiml)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
