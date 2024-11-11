@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Peek inside your AWS CloudFormation Deployments with timeline view](https://aws.amazon.com/blogs/devops/peek-inside-your-aws-cloudformation-deployments-with-timeline-view/)
+- [Red Hat OpenShift Lightspeed is now available as a technology preview](https://www.redhat.com/en/blog/red-hat-openshift-lightspeed-now-available-technology-preview)
+- [OpenSSL in Red Hat Enterprise Linux 10: From engines to providers](https://www.redhat.com/en/blog/openssl-3-providers-rhel-10)
+- [Get ready for Red Hat Summit 2025: What past speakers want you to know](https://www.redhat.com/en/blog/get-ready-red-hat-summit-2025-what-past-speakers-want-you-know)
 - [Telenor offers a slice of 5G at the edge for AI apps](https://www.redhat.com/en/blog/telenor-offers-slice-5g-edge-ai-apps)
-- [Red Hat Named a Leader in 2024 Gartner® Magic Quadrant™ for Cloud Application Platforms](https://www.redhat.com/en/blog/red-hat-named-leader-2024-gartnerr-magic-quadranttm-cloud-application-platforms)
-- [Join Red Hat Ansible Automation Platform at AutoCon 2](https://www.redhat.com/en/blog/red-hat-ansible-will-be-autocon2)
-- [Red Hat Advanced Cluster Management for Kubernetes 2.12: Elevating multicluster operations and governance](https://www.redhat.com/en/blog/red-hat-advanced-cluster-management-kubernetes-212-elevating-multicluster-operations-and-governance)
-- [Network observability: Optimized anomaly detection with AI/ML](https://www.redhat.com/en/blog/network-observability-optimized-anomaly-detection-aiml)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
