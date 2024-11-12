@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Peek inside your AWS CloudFormation Deployments with timeline view](https://aws.amazon.com/blogs/devops/peek-inside-your-aws-cloudformation-deployments-with-timeline-view/)
-- [Red Hat OpenShift Lightspeed is now available as a technology preview](https://www.redhat.com/en/blog/red-hat-openshift-lightspeed-now-available-technology-preview)
-- [OpenSSL in Red Hat Enterprise Linux 10: From engines to providers](https://www.redhat.com/en/blog/openssl-3-providers-rhel-10)
-- [Get ready for Red Hat Summit 2025: What past speakers want you to know](https://www.redhat.com/en/blog/get-ready-red-hat-summit-2025-what-past-speakers-want-you-know)
-- [Telenor offers a slice of 5G at the edge for AI apps](https://www.redhat.com/en/blog/telenor-offers-slice-5g-edge-ai-apps)
+- [Better Together: Understanding the Difference Between Sign-In Enforcement and SSO](https://www.docker.com/blog/sign-in-enforcement-and-sso/)
+- [Accelerating AI Development with the Docker AI Catalog](https://www.docker.com/blog/accelerating-ai-development-with-the-docker-ai-catalog/)
+- [Red Hat OpenShift Incident Detection uses analytics to help you quickly detect issues](https://www.redhat.com/en/blog/openshift-incident-detection-uses-analytics-help-you-quickly-detect-issues)
+- [Red Hat OpenShift 4.17: What you need to know](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-417)
+- [Red Hat Device Edge for Industrial Applications: A Journey from Datacenter to Plant Floor](https://www.redhat.com/en/blog/red-hat-device-edge-industrial-applications-journey-datacenter-plant-floor)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
