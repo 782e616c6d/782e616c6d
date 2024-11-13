@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Better Together: Understanding the Difference Between Sign-In Enforcement and SSO](https://www.docker.com/blog/sign-in-enforcement-and-sso/)
-- [Accelerating AI Development with the Docker AI Catalog](https://www.docker.com/blog/accelerating-ai-development-with-the-docker-ai-catalog/)
-- [Red Hat OpenShift Incident Detection uses analytics to help you quickly detect issues](https://www.redhat.com/en/blog/openshift-incident-detection-uses-analytics-help-you-quickly-detect-issues)
-- [Red Hat OpenShift 4.17: What you need to know](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-417)
-- [Red Hat Device Edge for Industrial Applications: A Journey from Datacenter to Plant Floor](https://www.redhat.com/en/blog/red-hat-device-edge-industrial-applications-journey-datacenter-plant-floor)
+- [Learn How to Optimize Docker Hub Costs With Our Usage Dashboards](https://www.docker.com/blog/hubdashboards/)
+- [The State of Platform Engineering in the Age of AI](https://www.redhat.com/en/blog/state-platform-engineering-age-ai)
+- [Tame complexity with Red Hat Enterprise Linux 9.5](https://www.redhat.com/en/blog/red-hat-enterprise-linux-95-release)
+- [Docling: The missing document processing companion for generative AI](https://www.redhat.com/en/blog/docling-missing-document-processing-companion-generative-ai)
+- [Deploy Red Hat OpenShift Dedicated with short-lived, least privileged access credentials using GCP Workload Identity Federation](https://www.redhat.com/en/blog/deploy-red-hat-openshift-dedicated-short-lived-least-privileged-access-credentials-using-gcp-workload-identity-federation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
