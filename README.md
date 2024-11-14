@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Why Testcontainers Cloud Is a Game-Changer Compared to Docker-in-Docker for Testing Scenarios](https://www.docker.com/blog/testcontainers-cloud-vs-docker-in-docker-for-testing-scenarios/)
+- [Amazon Q Developer plugins now generally available for the AWS Management Console](https://aws.amazon.com/blogs/devops/amazon-q-developer-plugins-now-generally-available/)
+- [Red Hat to Contribute Comprehensive Container Tools Collection to Cloud Native Computing Foundation](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
+- [Red Hat Enterprise Linux for SAP Solutions comes to public cloud marketplaces](https://www.redhat.com/en/blog/rhel-for-sap-in-public-cloud-marketplaces)
 - [Learn How to Optimize Docker Hub Costs With Our Usage Dashboards](https://www.docker.com/blog/hubdashboards/)
-- [The State of Platform Engineering in the Age of AI](https://www.redhat.com/en/blog/state-platform-engineering-age-ai)
-- [Tame complexity with Red Hat Enterprise Linux 9.5](https://www.redhat.com/en/blog/red-hat-enterprise-linux-95-release)
-- [Docling: The missing document processing companion for generative AI](https://www.redhat.com/en/blog/docling-missing-document-processing-companion-generative-ai)
-- [Deploy Red Hat OpenShift Dedicated with short-lived, least privileged access credentials using GCP Workload Identity Federation](https://www.redhat.com/en/blog/deploy-red-hat-openshift-dedicated-short-lived-least-privileged-access-credentials-using-gcp-workload-identity-federation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
