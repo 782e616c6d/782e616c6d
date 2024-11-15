@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Hardening your operating system? Red Hat Enterprise Linux to the rescue!](https://www.redhat.com/en/blog/hardening-your-operating-system-red-hat-enterprise-linux-rescue)
+- [Friday Five — November 15, 2024](https://www.redhat.com/en/blog/friday-five-november-15-2024-red-hat)
+- [Expanding your HPC cluster capacity with Red Hat Enterprise Linux for HPC in Azure](https://www.redhat.com/en/blog/expand-compute-capacity-with-rhel-for-hpc-in-azure)
 - [Why Testcontainers Cloud Is a Game-Changer Compared to Docker-in-Docker for Testing Scenarios](https://www.docker.com/blog/testcontainers-cloud-vs-docker-in-docker-for-testing-scenarios/)
 - [Amazon Q Developer plugins now generally available for the AWS Management Console](https://aws.amazon.com/blogs/devops/amazon-q-developer-plugins-now-generally-available/)
-- [Red Hat to Contribute Comprehensive Container Tools Collection to Cloud Native Computing Foundation](https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation)
-- [Red Hat Enterprise Linux for SAP Solutions comes to public cloud marketplaces](https://www.redhat.com/en/blog/rhel-for-sap-in-public-cloud-marketplaces)
-- [Learn How to Optimize Docker Hub Costs With Our Usage Dashboards](https://www.docker.com/blog/hubdashboards/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
