@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Extending the Interaction Between AI Agents and Editors](https://www.docker.com/blog/extending-the-interaction-between-ai-agents-and-editors/)
+- [Announcing the General Availability of Managed DevOps Pools &lpar;MDP&rpar; for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools-ga/)
+- [Security of LLMs and LLM systems: Key risks and safeguards](https://www.redhat.com/en/blog/llm-and-llm-system-risks-and-safeguards)
+- [Celebrating Red Hat&#39;s origin story: No one innovates alone](https://www.redhat.com/en/blog/celebrating-red-hats-origin-story-no-one-innovates-alone)
 - [Hardening your operating system? Red Hat Enterprise Linux to the rescue!](https://www.redhat.com/en/blog/hardening-your-operating-system-red-hat-enterprise-linux-rescue)
-- [Friday Five — November 15, 2024](https://www.redhat.com/en/blog/friday-five-november-15-2024-red-hat)
-- [Expanding your HPC cluster capacity with Red Hat Enterprise Linux for HPC in Azure](https://www.redhat.com/en/blog/expand-compute-capacity-with-rhel-for-hpc-in-azure)
-- [Why Testcontainers Cloud Is a Game-Changer Compared to Docker-in-Docker for Testing Scenarios](https://www.docker.com/blog/testcontainers-cloud-vs-docker-in-docker-for-testing-scenarios/)
-- [Amazon Q Developer plugins now generally available for the AWS Management Console](https://aws.amazon.com/blogs/devops/amazon-q-developer-plugins-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
