@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Extending the Interaction Between AI Agents and Editors](https://www.docker.com/blog/extending-the-interaction-between-ai-agents-and-editors/)
-- [Announcing the General Availability of Managed DevOps Pools &lpar;MDP&rpar; for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools-ga/)
-- [Security of LLMs and LLM systems: Key risks and safeguards](https://www.redhat.com/en/blog/llm-and-llm-system-risks-and-safeguards)
-- [Celebrating Red Hat&#39;s origin story: No one innovates alone](https://www.redhat.com/en/blog/celebrating-red-hats-origin-story-no-one-innovates-alone)
-- [Hardening your operating system? Red Hat Enterprise Linux to the rescue!](https://www.redhat.com/en/blog/hardening-your-operating-system-red-hat-enterprise-linux-rescue)
+- [Expanded resource awareness in Amazon Q Developer](https://aws.amazon.com/blogs/devops/expanded-resource-awareness-in-amazon-q-developer/)
+- [Getting the most out of Azure DevOps and GitHub](https://devblogs.microsoft.com/devops/getting-the-most-out-of-azure-devops-and-github/)
+- [Red Hat announces 2024 North America Public Sector Partner Pinnacle Award winners](https://www.redhat.com/en/blog/red-hat-announces-2024-north-america-public-sector-partner-pinnacle-award-winners)
+- [Managed Identity and Workload Identity support in Azure Red Hat OpenShift](https://www.redhat.com/en/blog/managed-identity-and-workload-identity-support-azure-red-hat-openshift)
+- [Landing Zone for Red Hat Enterprise Linux on Azure](https://www.redhat.com/en/blog/landing-zone-red-hat-enterprise-linux-azure)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
