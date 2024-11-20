@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Proactively validate your AWS CloudFormation templates with AWS Lambda](https://aws.amazon.com/blogs/devops/proactively-validate-your-aws-cloudformation-templates-with-aws-lambda/)
+- [Introducing a managed hook for Guard](https://aws.amazon.com/blogs/devops/introducing-a-managed-hook-for-guard/)
+- [The EU Cyber Resilience Act - what you need to know](https://www.redhat.com/en/blog/eu-cyber-resilience-act-what-you-need-know)
+- [Rationalizing virtualized workloads: Load balancers and reverse proxies](https://www.redhat.com/en/blog/rationalizing-virtualized-workloads-load-balancers-and-reverse-proxies)
 - [Expanded resource awareness in Amazon Q Developer](https://aws.amazon.com/blogs/devops/expanded-resource-awareness-in-amazon-q-developer/)
-- [Getting the most out of Azure DevOps and GitHub](https://devblogs.microsoft.com/devops/getting-the-most-out-of-azure-devops-and-github/)
-- [Red Hat announces 2024 North America Public Sector Partner Pinnacle Award winners](https://www.redhat.com/en/blog/red-hat-announces-2024-north-america-public-sector-partner-pinnacle-award-winners)
-- [Managed Identity and Workload Identity support in Azure Red Hat OpenShift](https://www.redhat.com/en/blog/managed-identity-and-workload-identity-support-azure-red-hat-openshift)
-- [Landing Zone for Red Hat Enterprise Linux on Azure](https://www.redhat.com/en/blog/landing-zone-red-hat-enterprise-linux-azure)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
