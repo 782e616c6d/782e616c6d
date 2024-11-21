@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Your DevOps and Developer Productivity guide to 2024 re:Invent](https://aws.amazon.com/blogs/devops/your-devops-and-developer-productivity-guide-to-2024-reinvent/)
+- [Introducing AWS CloudFormation Hooks invoked via AWS Cloud Control API &lpar;CCAPI&rpar;](https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-hooks-invoked-via-aws-cloud-control-api-ccapi/)
+- [What Are the Latest Docker Desktop Enterprise-Grade Performance Optimizations?](https://www.docker.com/blog/what-are-the-latest-docker-desktop-enterprise-grade-performance-optimizations/)
+- [InstructLab tutorial: Installing and fine-tuning your first AI model &lpar;part 1&rpar;](https://www.redhat.com/en/blog/instructlab-tutorial-installing-and-fine-tuning-your-first-ai-model-part-1)
 - [Proactively validate your AWS CloudFormation templates with AWS Lambda](https://aws.amazon.com/blogs/devops/proactively-validate-your-aws-cloudformation-templates-with-aws-lambda/)
-- [Introducing a managed hook for Guard](https://aws.amazon.com/blogs/devops/introducing-a-managed-hook-for-guard/)
-- [The EU Cyber Resilience Act - what you need to know](https://www.redhat.com/en/blog/eu-cyber-resilience-act-what-you-need-know)
-- [Rationalizing virtualized workloads: Load balancers and reverse proxies](https://www.redhat.com/en/blog/rationalizing-virtualized-workloads-load-balancers-and-reverse-proxies)
-- [Expanded resource awareness in Amazon Q Developer](https://aws.amazon.com/blogs/devops/expanded-resource-awareness-in-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
