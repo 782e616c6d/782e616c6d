@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Dissecting the Performance Gains in Amazon Q Developer agent for code transformation](https://aws.amazon.com/blogs/devops/dissecting-the-performance-gains-in-amazon-q-developer-agent-for-code-transformation/)
+- [Docker Desktop 4.36: New Enterprise Administration Features, WSL 2, and ECI Enhancements](https://www.docker.com/blog/docker-desktop-4-36/)
+- [Friday Five — November 22, 2024](https://www.redhat.com/en/blog/friday-five-november-22-2024)
+- [Doing more with less: LLM quantization &lpar;part 2&rpar;](https://www.redhat.com/en/blog/doing-more-less-llm-quantization-part-2)
 - [Your DevOps and Developer Productivity guide to 2024 re:Invent](https://aws.amazon.com/blogs/devops/your-devops-and-developer-productivity-guide-to-2024-reinvent/)
-- [Introducing AWS CloudFormation Hooks invoked via AWS Cloud Control API &lpar;CCAPI&rpar;](https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-hooks-invoked-via-aws-cloud-control-api-ccapi/)
-- [What Are the Latest Docker Desktop Enterprise-Grade Performance Optimizations?](https://www.docker.com/blog/what-are-the-latest-docker-desktop-enterprise-grade-performance-optimizations/)
-- [InstructLab tutorial: Installing and fine-tuning your first AI model &lpar;part 1&rpar;](https://www.redhat.com/en/blog/instructlab-tutorial-installing-and-fine-tuning-your-first-ai-model-part-1)
-- [Proactively validate your AWS CloudFormation templates with AWS Lambda](https://aws.amazon.com/blogs/devops/proactively-validate-your-aws-cloudformation-templates-with-aws-lambda/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
