@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing your AWS Cost Explorer data with Amazon Q Developer: Now Generally Available](https://aws.amazon.com/blogs/devops/analyzing-your-aws-cost-explorer-data-with-amazon-q-developer-now-generally-available/)
+- [How SmugMug Increased Data Modeling Productivity with Amazon Q Developer](https://aws.amazon.com/blogs/devops/how-smugmug-increased-data-modeling-productivity-with-amazon-q-developer/)
+- [InstructLab tutorial: Installing and fine-tuning your first AI model &lpar;part 2&rpar;](https://www.redhat.com/en/blog/instructlab-tutorial-installing-and-fine-tuning-your-first-ai-model-part-2)
 - [Enhancing Container Security with Docker Scout and Secure Repositories](https://www.docker.com/blog/enhancing-container-security-with-docker-scout-and-secure-repositories/)
 - [Dissecting the Performance Gains in Amazon Q Developer agent for code transformation](https://aws.amazon.com/blogs/devops/dissecting-the-performance-gains-in-amazon-q-developer-agent-for-code-transformation/)
-- [Docker Desktop 4.36: New Enterprise Administration Features, WSL 2, and ECI Enhancements](https://www.docker.com/blog/docker-desktop-4-36/)
-- [Friday Five — November 22, 2024](https://www.redhat.com/en/blog/friday-five-november-22-2024)
-- [Doing more with less: LLM quantization &lpar;part 2&rpar;](https://www.redhat.com/en/blog/doing-more-less-llm-quantization-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
