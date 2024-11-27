@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Leverage powerful generative-AI capabilities for Java development in the Eclipse IDE public preview](https://aws.amazon.com/blogs/devops/amazon-q-developer-eclipse-preview/)
 - [Analyzing your AWS Cost Explorer data with Amazon Q Developer: Now Generally Available](https://aws.amazon.com/blogs/devops/analyzing-your-aws-cost-explorer-data-with-amazon-q-developer-now-generally-available/)
 - [How SmugMug Increased Data Modeling Productivity with Amazon Q Developer](https://aws.amazon.com/blogs/devops/how-smugmug-increased-data-modeling-productivity-with-amazon-q-developer/)
 - [InstructLab tutorial: Installing and fine-tuning your first AI model &lpar;part 2&rpar;](https://www.redhat.com/en/blog/instructlab-tutorial-installing-and-fine-tuning-your-first-ai-model-part-2)
 - [Enhancing Container Security with Docker Scout and Secure Repositories](https://www.docker.com/blog/enhancing-container-security-with-docker-scout-and-secure-repositories/)
-- [Dissecting the Performance Gains in Amazon Q Developer agent for code transformation](https://aws.amazon.com/blogs/devops/dissecting-the-performance-gains-in-amazon-q-developer-agent-for-code-transformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
