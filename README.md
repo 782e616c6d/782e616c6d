@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — November 29, 2024](https://www.redhat.com/en/blog/friday-five-november-29-2024-red-hat)
+- [Shaping the future with open source innovation](https://www.redhat.com/en/blog/shaping-future-open-source-innovation)
 - [Leverage powerful generative-AI capabilities for Java development in the Eclipse IDE public preview](https://aws.amazon.com/blogs/devops/amazon-q-developer-eclipse-preview/)
 - [Analyzing your AWS Cost Explorer data with Amazon Q Developer: Now Generally Available](https://aws.amazon.com/blogs/devops/analyzing-your-aws-cost-explorer-data-with-amazon-q-developer-now-generally-available/)
 - [How SmugMug Increased Data Modeling Productivity with Amazon Q Developer](https://aws.amazon.com/blogs/devops/how-smugmug-increased-data-modeling-productivity-with-amazon-q-developer/)
-- [InstructLab tutorial: Installing and fine-tuning your first AI model &lpar;part 2&rpar;](https://www.redhat.com/en/blog/instructlab-tutorial-installing-and-fine-tuning-your-first-ai-model-part-2)
-- [Enhancing Container Security with Docker Scout and Secure Repositories](https://www.docker.com/blog/enhancing-container-security-with-docker-scout-and-secure-repositories/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
