@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Building Outdoor Light Shows Synchronized to Music with Open Source Tools](https://www.docker.com/blog/a-beginners-guide-to-building-outdoor-light-shows-open-source-tools/)
+- [Red Hat Ansible Automation Platform Service on AWS now available in the AWS Marketplace](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-service-aws-now-available-aws-marketplace)
+- [Announcing the Open Container InitiativeReferrers API on Quay.io: A step towards enhanced security and compliance](https://www.redhat.com/en/blog/announcing-open-container-initiativereferrers-api-quayio-step-towards-enhanced-security-and-compliance)
 - [Friday Five — November 29, 2024](https://www.redhat.com/en/blog/friday-five-november-29-2024-red-hat)
 - [Shaping the future with open source innovation](https://www.redhat.com/en/blog/shaping-future-open-source-innovation)
-- [Leverage powerful generative-AI capabilities for Java development in the Eclipse IDE public preview](https://aws.amazon.com/blogs/devops/amazon-q-developer-eclipse-preview/)
-- [Analyzing your AWS Cost Explorer data with Amazon Q Developer: Now Generally Available](https://aws.amazon.com/blogs/devops/analyzing-your-aws-cost-explorer-data-with-amazon-q-developer-now-generally-available/)
-- [How SmugMug Increased Data Modeling Productivity with Amazon Q Developer](https://aws.amazon.com/blogs/devops/how-smugmug-increased-data-modeling-productivity-with-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
