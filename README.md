@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft DevLabs Extensions](https://devblogs.microsoft.com/devops/microsoft-devlabs-extensions/)
+- [Beyond Containers: Unveiling the Full Potential of Docker for Cloud-Native Development](https://www.docker.com/blog/what-does-docker-do/)
+- [Migrating Windows virtual machines to OpenShift Virtualization on Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/migrating-windows-virtual-machines-openshift-virtualization-red-hat-openshift-service-aws)
+- [Achieve better large language model inference with fewer GPUs](https://www.redhat.com/en/blog/achieve-better-large-language-model-inference-fewer-gpus)
 - [A Beginner’s Guide to Building Outdoor Light Shows Synchronized to Music with Open Source Tools](https://www.docker.com/blog/a-beginners-guide-to-building-outdoor-light-shows-open-source-tools/)
-- [Red Hat Ansible Automation Platform Service on AWS now available in the AWS Marketplace](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-service-aws-now-available-aws-marketplace)
-- [Announcing the Open Container InitiativeReferrers API on Quay.io: A step towards enhanced security and compliance](https://www.redhat.com/en/blog/announcing-open-container-initiativereferrers-api-quayio-step-towards-enhanced-security-and-compliance)
-- [Friday Five — November 29, 2024](https://www.redhat.com/en/blog/friday-five-november-29-2024-red-hat)
-- [Shaping the future with open source innovation](https://www.redhat.com/en/blog/shaping-future-open-source-innovation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
