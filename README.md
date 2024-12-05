@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Asia Pacific joins SEMI SEA to help lead the charge in Southeast Asia’s semiconductor boom](https://www.redhat.com/en/blog/red-hat-asia-pacific-joins-semi-sea-help-lead-charge-southeast-asias-semiconductor-boom)
+- [Confidential cluster: Running Red Hat OpenShift clusters on confidential nodes](https://www.redhat.com/en/blog/confidential-cluster-running-red-hat-openshift-clusters-confidential-nodes)
+- [A year of telco transformation: reflections on 2024 and looking ahead to 2025](https://www.redhat.com/en/blog/year-telco-transformation-reflections-2024-and-looking-ahead-2025)
 - [Automating AWS Well-Architected Framework validations with Dynatrace CloudFormation templates](https://www.dynatrace.com/news/blog/dynatrace-cloudformation-templates-for-aws-well-architected-framework/)
 - [IT Automation: a key enabler for enterprise AI adoption](https://www.redhat.com/en/blog/it-automation-key-enabler-enterprise-ai-adoption)
-- [Microsoft DevLabs Extensions](https://devblogs.microsoft.com/devops/microsoft-devlabs-extensions/)
-- [Beyond Containers: Unveiling the Full Potential of Docker for Cloud-Native Development](https://www.docker.com/blog/what-does-docker-do/)
-- [Migrating Windows virtual machines to OpenShift Virtualization on Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/migrating-windows-virtual-machines-openshift-virtualization-red-hat-openshift-service-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
