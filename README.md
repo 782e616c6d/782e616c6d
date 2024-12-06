@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Open RAN revolution: The power of collaborative ecosystems](https://www.redhat.com/en/blog/open-ran-revolution-power-collaborative-ecosystems)
+- [Virtualization in retail: Options for virtualizing small, medium and large store systems](https://www.redhat.com/en/blog/virtualization-retail-options-virtualizing-small-medium-and-large-store-systems)
+- [Friday Five — December 6, 2024](https://www.redhat.com/en/blog/friday-five-december-6-2024-red-hat)
 - [Red Hat Asia Pacific joins SEMI SEA to help lead the charge in Southeast Asia’s semiconductor boom](https://www.redhat.com/en/blog/red-hat-asia-pacific-joins-semi-sea-help-lead-charge-southeast-asias-semiconductor-boom)
-- [Confidential cluster: Running Red Hat OpenShift clusters on confidential nodes](https://www.redhat.com/en/blog/confidential-cluster-running-red-hat-openshift-clusters-confidential-nodes)
-- [A year of telco transformation: reflections on 2024 and looking ahead to 2025](https://www.redhat.com/en/blog/year-telco-transformation-reflections-2024-and-looking-ahead-2025)
-- [Automating AWS Well-Architected Framework validations with Dynatrace CloudFormation templates](https://www.dynatrace.com/news/blog/dynatrace-cloudformation-templates-for-aws-well-architected-framework/)
-- [IT Automation: a key enabler for enterprise AI adoption](https://www.redhat.com/en/blog/it-automation-key-enabler-enterprise-ai-adoption)
+- [EMEA Blog | Deutsche Telekom, Red Hat and IBM collaborate on successful O-Cloud trial for Open RAN](https://www.redhat.com/en/blog/deutsche-telekom-red-hat-and-ibm-collaborate-successful-o-cloud-trial-open-ran)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
