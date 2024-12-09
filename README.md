@@ -54,10 +54,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Open RAN revolution: The power of collaborative ecosystems](https://www.redhat.com/en/blog/open-ran-revolution-power-collaborative-ecosystems)
+- [Using migration hooks in migration toolkit for virtualization](https://www.redhat.com/en/blog/using-migration-hooks-migration-toolkit-virtualization)
+- [Top 10 security architecture patterns for LLM applications](https://www.redhat.com/en/blog/top-10-security-architecture-patterns-llm-applications)
 - [Virtualization in retail: Options for virtualizing small, medium and large store systems](https://www.redhat.com/en/blog/virtualization-retail-options-virtualizing-small-medium-and-large-store-systems)
 - [Friday Five — December 6, 2024](https://www.redhat.com/en/blog/friday-five-december-6-2024-red-hat)
-- [Red Hat Asia Pacific joins SEMI SEA to help lead the charge in Southeast Asia’s semiconductor boom](https://www.redhat.com/en/blog/red-hat-asia-pacific-joins-semi-sea-help-lead-charge-southeast-asias-semiconductor-boom)
-- [EMEA Blog | Deutsche Telekom, Red Hat and IBM collaborate on successful O-Cloud trial for Open RAN](https://www.redhat.com/en/blog/deutsche-telekom-red-hat-and-ibm-collaborate-successful-o-cloud-trial-open-ran)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
