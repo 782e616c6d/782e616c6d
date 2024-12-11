@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [New Boards Hub Rollout Expectations](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-expectations/)
+- [Now available: Red Hat Enterprise Linux 10 Beta](https://www.redhat.com/en/blog/red-hat-enterprise-linux-10-beta-now-available)
+- [Jumpstart GitOps with image mode](https://www.redhat.com/en/blog/jumpstart-gitops-image-mode)
 - [How to Dockerize a React App: A Step-by-Step Guide for Developers](https://www.docker.com/blog/how-to-dockerize-react-app/)
 - [Open RAN revolution: The power of collaborative ecosystems](https://www.redhat.com/en/blog/open-ran-revolution-power-collaborative-ecosystems)
-- [Measuring the success and impact of an automation community of practice](https://www.redhat.com/en/blog/measuring-success-and-impact-automation-community-practice)
-- [Do software security features matter in the world of vulnerability remediation?](https://www.redhat.com/en/blog/security-features-and-vulnerability-remediation)
-- [Using migration hooks in migration toolkit for virtualization](https://www.redhat.com/en/blog/using-migration-hooks-migration-toolkit-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
