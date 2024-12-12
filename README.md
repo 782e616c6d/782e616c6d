@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [New Boards Hub Rollout Expectations](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-expectations/)
-- [Now available: Red Hat Enterprise Linux 10 Beta](https://www.redhat.com/en/blog/red-hat-enterprise-linux-10-beta-now-available)
-- [Jumpstart GitOps with image mode](https://www.redhat.com/en/blog/jumpstart-gitops-image-mode)
-- [How to Dockerize a React App: A Step-by-Step Guide for Developers](https://www.docker.com/blog/how-to-dockerize-react-app/)
-- [Open RAN revolution: The power of collaborative ecosystems](https://www.redhat.com/en/blog/open-ran-revolution-power-collaborative-ecosystems)
+- [Let’s Get Containerized: Simplifying Complexity for Modern Businesses](https://www.docker.com/blog/lets-get-containerized/)
+- [User experience and its importance in adoption of democratized AI](https://www.redhat.com/en/blog/user-experience-and-its-importance-adoption-democratized-ai)
+- [RHEL AI 1.3 Docling context aware chunking: What you need to know](https://www.redhat.com/en/blog/rhel-13-docling-context-aware-chunking-what-you-need-know)
+- [Build RHEL 10 Beta with Insights Image Builder](https://www.redhat.com/en/blog/build-rhel-10-beta-insights-image-builder)
+- [5 ways to maximize your cloud value with Red Hat solutions on AWS Marketplace](https://www.redhat.com/en/blog/maximize-cloud-value-red-hat-aws-marketplace)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
