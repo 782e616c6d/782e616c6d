@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Let’s Get Containerized: Simplifying Complexity for Modern Businesses](https://www.docker.com/blog/lets-get-containerized/)
-- [User experience and its importance in adoption of democratized AI](https://www.redhat.com/en/blog/user-experience-and-its-importance-adoption-democratized-ai)
-- [RHEL AI 1.3 Docling context aware chunking: What you need to know](https://www.redhat.com/en/blog/rhel-13-docling-context-aware-chunking-what-you-need-know)
-- [Build RHEL 10 Beta with Insights Image Builder](https://www.redhat.com/en/blog/build-rhel-10-beta-insights-image-builder)
-- [5 ways to maximize your cloud value with Red Hat solutions on AWS Marketplace](https://www.redhat.com/en/blog/maximize-cloud-value-red-hat-aws-marketplace)
+- [From Legacy to Cloud-Native: How Docker Simplifies Complexity and Boosts Developer Productivity](https://www.docker.com/blog/from-legacy-to-cloud-native-how-docker-simplifies-complexity-and-boosts-developer-productivity/)
+- [Tackle These Key Software Engineering Challenges to Boost Efficiency with Docker](https://www.docker.com/blog/tackle-software-engineering-challenges-to-boost-efficiency/)
+- [Infusing AI into IT operations](https://www.redhat.com/en/blog/infusing-ai-it-operations)
+- [Friday Five — December 13, 2024](https://www.redhat.com/en/blog/friday-five-december-13-2024-red-hat)
+- [Embedding agile culture as an engagement lead in Japan](https://www.redhat.com/en/blog/embedding-agile-culture-engagement-lead-japan)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
