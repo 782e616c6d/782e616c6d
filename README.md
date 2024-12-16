@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Create and Use an AI Git Agent](https://www.docker.com/blog/how-to-create-and-use-an-ai-git-agent/)
+- [How AI Assistants Can Decode GitHub Repos for UI Writers](https://www.docker.com/blog/ai-for-ui-writers/)
+- [Automatically acquire and renew certificates using mod_md and Automated Certificate Management Environment &lpar;ACME&rpar; in Identity Management &lpar;IdM&rpar;](https://www.redhat.com/en/blog/automatically-acquire-and-renew-certificates-using-modmd-and-automated-certificate-management-environment-acme-identity-management-idm)
+- [AI use cases: Preparing for your first AI pilot project](https://www.redhat.com/en/blog/ai-use-cases-preparing-your-first-ai-pilot-project)
 - [From Legacy to Cloud-Native: How Docker Simplifies Complexity and Boosts Developer Productivity](https://www.docker.com/blog/from-legacy-to-cloud-native-how-docker-simplifies-complexity-and-boosts-developer-productivity/)
-- [Tackle These Key Software Engineering Challenges to Boost Efficiency with Docker](https://www.docker.com/blog/tackle-software-engineering-challenges-to-boost-efficiency/)
-- [Infusing AI into IT operations](https://www.redhat.com/en/blog/infusing-ai-it-operations)
-- [Friday Five — December 13, 2024](https://www.redhat.com/en/blog/friday-five-december-13-2024-red-hat)
-- [Embedding agile culture as an engagement lead in Japan](https://www.redhat.com/en/blog/embedding-agile-culture-engagement-lead-japan)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
