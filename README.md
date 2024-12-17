@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker 2024 Highlights: Innovations in AI, Security, and Empowering Development Teams](https://www.docker.com/blog/docker-2024-highlights/)
+- [Streamline lifecycle management of 5G Core CNFs on Red Hat OpenShift](https://www.redhat.com/en/blog/streamline-lifecycle-management-5g-core-cnfs-red-hat-openshift)
+- [Red Hat OpenStack Services on OpenShift: Rethinking storage design in pod-based architectures](https://www.redhat.com/en/blog/red-hat-openstack-services-openshift-rethinking-storage-design-pod-based-architectures)
 - [How to Create and Use an AI Git Agent](https://www.docker.com/blog/how-to-create-and-use-an-ai-git-agent/)
 - [How AI Assistants Can Decode GitHub Repos for UI Writers](https://www.docker.com/blog/ai-for-ui-writers/)
-- [Automatically acquire and renew certificates using mod_md and Automated Certificate Management Environment &lpar;ACME&rpar; in Identity Management &lpar;IdM&rpar;](https://www.redhat.com/en/blog/automatically-acquire-and-renew-certificates-using-modmd-and-automated-certificate-management-environment-acme-identity-management-idm)
-- [AI use cases: Preparing for your first AI pilot project](https://www.redhat.com/en/blog/ai-use-cases-preparing-your-first-ai-pilot-project)
-- [From Legacy to Cloud-Native: How Docker Simplifies Complexity and Boosts Developer Productivity](https://www.docker.com/blog/from-legacy-to-cloud-native-how-docker-simplifies-complexity-and-boosts-developer-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
