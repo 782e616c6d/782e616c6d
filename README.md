@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker 2024 Highlights: Innovations in AI, Security, and Empowering Development Teams](https://www.docker.com/blog/docker-2024-highlights/)
-- [Streamline lifecycle management of 5G Core CNFs on Red Hat OpenShift](https://www.redhat.com/en/blog/streamline-lifecycle-management-5g-core-cnfs-red-hat-openshift)
-- [Red Hat OpenStack Services on OpenShift: Rethinking storage design in pod-based architectures](https://www.redhat.com/en/blog/red-hat-openstack-services-openshift-rethinking-storage-design-pod-based-architectures)
-- [How to Create and Use an AI Git Agent](https://www.docker.com/blog/how-to-create-and-use-an-ai-git-agent/)
-- [How AI Assistants Can Decode GitHub Repos for UI Writers](https://www.docker.com/blog/ai-for-ui-writers/)
+- [Docker Desktop 4.37: AI Catalog and Command-Line Efficiency](https://www.docker.com/blog/docker-desktop-4-37/)
+- [Accelerate Your Docker Builds Using AWS CodeBuild and Docker Build Cloud](https://www.docker.com/blog/accelerate-your-docker-builds-using-aws-codebuild-and-docker-build-cloud/)
+- [Top 10 blog posts about the open source community in 2024](https://www.redhat.com/en/blog/top-10-open-source-community-posts-2024)
+- [Red Hat Government Symposium 2024: Today’s Decisions, Tomorrow’s Advantage](https://www.redhat.com/en/blog/red-hat-government-symposium-2024-todays-decisions-tomorrows-advantage)
+- [10 must-read application development blog posts from this year](https://www.redhat.com/en/blog/top-10-application-development-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
