@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Building Trust into Your Software with Verified Components](https://www.docker.com/blog/building-trust-into-your-software-with-verified-components/)
-- [10 essential cloud articles to read in 2024](https://www.redhat.com/en/blog/10-cloud-articles-2024)
-- [10 AI articles to read before the end of 2024](https://www.redhat.com/en/blog/best-of-ai-2024)
-- [Docker Desktop 4.37: AI Catalog and Command-Line Efficiency](https://www.docker.com/blog/docker-desktop-4-37/)
-- [Accelerate Your Docker Builds Using AWS CodeBuild and Docker Build Cloud](https://www.docker.com/blog/accelerate-your-docker-builds-using-aws-codebuild-and-docker-build-cloud/)
+- [Recipe for Efficient Development: Simplify Collaboration and Security with Docker](https://www.docker.com/blog/recipe-for-efficient-development-simplify-collaboration-security-with-docker/)
+- [What’s new in OpenShift Virtualization 4.17](https://www.redhat.com/en/blog/whats-new-openshift-virtualization-417)
+- [Top 10 edge blog posts of 2024](https://www.redhat.com/en/blog/top-10-edge-articles-2024)
+- [Friday Five — December 20, 2024](https://www.redhat.com/en/blog/friday-five-december-20-2024-red-hat)
+- [10 Linux blog posts to bookmark now](https://www.redhat.com/en/blog/top-10-linux-articles-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
