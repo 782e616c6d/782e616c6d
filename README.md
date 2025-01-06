@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Reducing personal access token &lpar;PAT&rpar; usage across Azure DevOps](https://devblogs.microsoft.com/devops/reducing-pat-usage-across-azure-devops/)
 - [Important: Switching CDN providers](https://devblogs.microsoft.com/devops/important-switching-cdn-providers/)
 - [Mastering Peak Software Development Efficiency with Docker](https://www.docker.com/blog/mastering-software-development-efficiency/)
 - [Friday Five — January 3, 2025](https://www.redhat.com/en/blog/friday-five-january-3-2025-red-hat)
 - [The most visited DevOps and Developer Productivity blog posts in 2024](https://aws.amazon.com/blogs/devops/the-most-visited-devops-and-developer-productivity-blog-posts-in-2024-copy/)
-- [re:Invent 2024 DevOps and Developer Productivity Playlist](https://aws.amazon.com/blogs/devops/reinvent-2024-devops-and-developer-productivity-playlist/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
