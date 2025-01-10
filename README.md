@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking AWS Console: Diagnosing Errors with Amazon Q Developer](https://aws.amazon.com/blogs/devops/unlocking-aws-console-diagnosing-errors-with-amazon-q-developer/)
+- [Friday Five — January 10, 2025](https://www.redhat.com/en/blog/friday-five-january-10-2025-red-hat)
+- [An introduction to using tcpdump at the Linux command line](https://www.redhat.com/en/blog/introduction-using-tcpdump-linux-command-line)
 - [Incident Update: Docker Desktop for Mac](https://www.docker.com/blog/incident-update-docker-desktop-for-mac/)
 - [9 essential questions to ask before a virtual machine migration: Challenges, strategies, and real-world insights](https://www.redhat.com/en/blog/9-essential-questions-ask-virtual-machine-migration-challenges-strategies-and-real-world-insights)
-- [How to Dockerize a Django App: Step-by-Step Guide for Beginners](https://www.docker.com/blog/how-to-dockerize-django-app/)
-- [Unlocking Efficiency with Docker for AI and Cloud-Native Development](https://www.docker.com/blog/unlocking-efficiency-with-docker-for-ai-and-cloud-native-development/)
-- [Is your organization ready for the future? Why skills matter](https://www.redhat.com/en/blog/your-organization-ready-future-why-skills-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
