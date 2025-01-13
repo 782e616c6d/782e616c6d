@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Meet Gordon: An AI Agent for Docker](https://www.docker.com/blog/meet-gordon-an-ai-agent-for-docker/)
+- [What image mode means for users of RHEL for edge](https://www.redhat.com/en/blog/what-image-mode-means-users-rhel-edge)
+- [Red Hat OpenStack Services on OpenShift: Rethinking storage design in pod-based architectures](https://www.redhat.com/en/blog/red-hat-openstack-services-on-openshift-rethinking-storage-design-pod-based-architectures)
+- [11 Red Hat AI videos you may have missed](https://www.redhat.com/en/blog/11-red-hat-ai-videos-you-may-have-missed)
 - [Unlocking AWS Console: Diagnosing Errors with Amazon Q Developer](https://aws.amazon.com/blogs/devops/unlocking-aws-console-diagnosing-errors-with-amazon-q-developer/)
-- [Friday Five — January 10, 2025](https://www.redhat.com/en/blog/friday-five-january-10-2025-red-hat)
-- [An introduction to using tcpdump at the Linux command line](https://www.redhat.com/en/blog/introduction-using-tcpdump-linux-command-line)
-- [Incident Update: Docker Desktop for Mac](https://www.docker.com/blog/incident-update-docker-desktop-for-mac/)
-- [9 essential questions to ask before a virtual machine migration: Challenges, strategies, and real-world insights](https://www.redhat.com/en/blog/9-essential-questions-ask-virtual-machine-migration-challenges-strategies-and-real-world-insights)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
