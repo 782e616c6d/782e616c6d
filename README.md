@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Effortlessly execute AWS CLI commands using natural language with Amazon Q Developer](https://aws.amazon.com/blogs/devops/effortlessly-execute-aws-cli-commands-using-natural-language-with-amazon-q-developer/)
+- [What’s new in cloud automation: Red Hat Ansible Certified Content Collection for amazon.aws 9.0.0](https://www.redhat.com/en/blog/whats-new-cloud-automation-red-hat-ansible-certified-content-collection-amazonaws-900)
 - [Meet Gordon: An AI Agent for Docker](https://www.docker.com/blog/meet-gordon-an-ai-agent-for-docker/)
 - [What image mode means for users of RHEL for edge](https://www.redhat.com/en/blog/what-image-mode-means-users-rhel-edge)
 - [Red Hat OpenStack Services on OpenShift: Rethinking storage design in pod-based architectures](https://www.redhat.com/en/blog/red-hat-openstack-services-on-openshift-rethinking-storage-design-pod-based-architectures)
-- [11 Red Hat AI videos you may have missed](https://www.redhat.com/en/blog/11-red-hat-ai-videos-you-may-have-missed)
-- [Unlocking AWS Console: Diagnosing Errors with Amazon Q Developer](https://aws.amazon.com/blogs/devops/unlocking-aws-console-diagnosing-errors-with-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
