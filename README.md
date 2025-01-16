@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Simplify AI Development with the Model Context Protocol and Docker](https://www.docker.com/blog/simplify-ai-development-with-the-model-context-protocol-and-docker/)
-- [Why developer experience is more important than productivity](https://www.atlassian.com/blog/devops/developer-experience-more-important)
-- [Introducing Red Hat OpenShift Virtualization Engine: OpenShift for your virtual machines](https://www.redhat.com/en/blog/introducing-red-hat-openshift-virtualization-engine)
-- [Effortlessly execute AWS CLI commands using natural language with Amazon Q Developer](https://aws.amazon.com/blogs/devops/effortlessly-execute-aws-cli-commands-using-natural-language-with-amazon-q-developer/)
-- [What’s new in cloud automation: Red Hat Ansible Certified Content Collection for amazon.aws 9.0.0](https://www.redhat.com/en/blog/whats-new-cloud-automation-red-hat-ansible-certified-content-collection-amazonaws-900)
+- [Friday Five — January 17, 2025](https://www.redhat.com/en/blog/friday-five-january-17-2025-red-hat)
+- [Mastering Docker and Jenkins: Build Robust CI/CD Pipelines Efficiently](https://www.docker.com/blog/docker-and-jenkins-build-robust-ci-cd-pipelines/)
+- [Protecting the Software Supply Chain: The Art of Continuous Improvement](https://www.docker.com/blog/software-supply-chain-art-of-continuous-improvement/)
+- [Registration for Red Hat Summit and AnsibleFest 2025 now open](https://www.redhat.com/en/blog/registration-red-hat-summit-and-ansiblefest-2025-now-open)
+- [Automation in 2025: 10 articles to read now](https://www.redhat.com/en/blog/automation-2025-10-articles-read-now)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
