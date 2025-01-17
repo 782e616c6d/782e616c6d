@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying and optimizing Red Hat OpenShift on OpenStack with hosted control planes](https://www.redhat.com/en/blog/openshift-openstack-hosted-control-planes)
+- [Passwords: a thin line between love and hate](https://www.redhat.com/en/blog/passwords-love-hate)
 - [Friday Five — January 17, 2025](https://www.redhat.com/en/blog/friday-five-january-17-2025-red-hat)
 - [Mastering Docker and Jenkins: Build Robust CI/CD Pipelines Efficiently](https://www.docker.com/blog/docker-and-jenkins-build-robust-ci-cd-pipelines/)
 - [Protecting the Software Supply Chain: The Art of Continuous Improvement](https://www.docker.com/blog/software-supply-chain-art-of-continuous-improvement/)
-- [Registration for Red Hat Summit and AnsibleFest 2025 now open](https://www.redhat.com/en/blog/registration-red-hat-summit-and-ansiblefest-2025-now-open)
-- [Automation in 2025: 10 articles to read now](https://www.redhat.com/en/blog/automation-2025-10-articles-read-now)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
