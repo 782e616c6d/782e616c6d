@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [EMEA blog [DUTCH] | Red Hat closes Master Agreement with SLM Rijk to strengthen digital autonomy within Dutch government](https://www.redhat.com/en/blog/red-hat-closes-master-agreement-with-slm-rijk-to-strengthen-digital-autonomy-within-dutch-government-nl)
+- [Introducing confidential containers on bare metal](https://www.redhat.com/en/blog/introducing-confidential-containers-bare-metal)
+- [Improve your Information Technology Infrastructure Library with automation: Incident and problem management](https://www.redhat.com/en/blog/improve-your-information-technology-infrastructure-library-automation-incident-problem-management)
 - [Simplifying and optimizing Red Hat OpenShift on OpenStack with hosted control planes](https://www.redhat.com/en/blog/openshift-openstack-hosted-control-planes)
 - [Passwords: a thin line between love and hate](https://www.redhat.com/en/blog/passwords-love-hate)
-- [Friday Five — January 17, 2025](https://www.redhat.com/en/blog/friday-five-january-17-2025-red-hat)
-- [Mastering Docker and Jenkins: Build Robust CI/CD Pipelines Efficiently](https://www.docker.com/blog/docker-and-jenkins-build-robust-ci-cd-pipelines/)
-- [Protecting the Software Supply Chain: The Art of Continuous Improvement](https://www.docker.com/blog/software-supply-chain-art-of-continuous-improvement/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
