@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Write your first Containerfile for Podman](https://www.redhat.com/en/blog/write-your-first-containerfile-podman)
+- [Why open source is critical to the future of AI](https://www.redhat.com/en/blog/why-open-source-critical-future-ai)
 - [EMEA blog [DUTCH] | Red Hat closes Master Agreement with SLM Rijk to strengthen digital autonomy within Dutch government](https://www.redhat.com/en/blog/red-hat-closes-master-agreement-with-slm-rijk-to-strengthen-digital-autonomy-within-dutch-government-nl)
 - [Introducing confidential containers on bare metal](https://www.redhat.com/en/blog/introducing-confidential-containers-bare-metal)
 - [Improve your Information Technology Infrastructure Library with automation: Incident and problem management](https://www.redhat.com/en/blog/improve-your-information-technology-infrastructure-library-automation-incident-problem-management)
-- [Simplifying and optimizing Red Hat OpenShift on OpenStack with hosted control planes](https://www.redhat.com/en/blog/openshift-openstack-hosted-control-planes)
-- [Passwords: a thin line between love and hate](https://www.redhat.com/en/blog/passwords-love-hate)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
