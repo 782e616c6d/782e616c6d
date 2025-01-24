@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Jumpstart and expand automation across your IT operation](https://www.redhat.com/en/blog/jumpstart-and-expand-automation-across-your-it-operation)
-- [Monitoring GitHub-hosted runners with Dynatrace](https://www.dynatrace.com/news/blog/monitoring-github-hosted-runners-with-dynatrace/)
-- [How Docker Streamlines the  Onboarding Process and Sets Up Developers for Success](https://www.docker.com/blog/how-docker-streamlines-the-onboarding-process-and-sets-up-developers-for-success/)
-- [Data versioning in Red Hat OpenShift AI with lakeFS](https://www.redhat.com/en/blog/data-versioning-red-hat-openshift-ai-lakefs)
-- [Write your first Containerfile for Podman](https://www.redhat.com/en/blog/write-your-first-containerfile-podman)
+- [Sending alerts to PagerDuty](https://www.redhat.com/en/blog/sending-alerts-pagerduty)
+- [Red Hat Enterprise Linux in 2025: Making Linux do more](https://www.redhat.com/en/blog/red-hat-enterprise-linux-2025-making-linux-do-more)
+- [Red Hat Academy Day: Accelerating skills and innovation across Indonesia](https://www.redhat.com/en/blog/red-hat-academy-day-accelerating-skills-and-innovation-across-indonesia)
+- [10 reasons to get started with enterprise Linux in 2025](https://www.redhat.com/en/blog/10-reasons-get-started-enterprise-linux-2025)
+- [Friday Five — January 24, 2025](https://www.redhat.com/en/blog/friday-five-january-24-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
