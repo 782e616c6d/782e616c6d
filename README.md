@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat announces latest updates to global partner engagement experience](https://www.redhat.com/en/blog/red-hat-announces-latest-updates-global-partner-engagement-experience)
+- [Learn why Red Hat customer MAPFRE chose Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/learn-why-red-hat-customer-mapfre-chose-red-hat-ansible-automation-platform)
+- [Building trust: Foundations of security, safety and transparency in AI](https://www.redhat.com/en/blog/building-trust-foundations-security-safety-and-transparency-ai)
 - [Sending alerts to PagerDuty](https://www.redhat.com/en/blog/sending-alerts-pagerduty)
 - [Red Hat Enterprise Linux in 2025: Making Linux do more](https://www.redhat.com/en/blog/red-hat-enterprise-linux-2025-making-linux-do-more)
-- [Red Hat Academy Day: Accelerating skills and innovation across Indonesia](https://www.redhat.com/en/blog/red-hat-academy-day-accelerating-skills-and-innovation-across-indonesia)
-- [10 reasons to get started with enterprise Linux in 2025](https://www.redhat.com/en/blog/10-reasons-get-started-enterprise-linux-2025)
-- [Friday Five — January 24, 2025](https://www.redhat.com/en/blog/friday-five-january-24-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
