@@ -53,11 +53,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat announces latest updates to global partner engagement experience](https://www.redhat.com/en/blog/red-hat-announces-latest-updates-global-partner-engagement-experience)
-- [Learn why Red Hat customer MAPFRE chose Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/learn-why-red-hat-customer-mapfre-chose-red-hat-ansible-automation-platform)
-- [Building trust: Foundations of security, safety and transparency in AI](https://www.redhat.com/en/blog/building-trust-foundations-security-safety-and-transparency-ai)
-- [Sending alerts to PagerDuty](https://www.redhat.com/en/blog/sending-alerts-pagerduty)
-- [Red Hat Enterprise Linux in 2025: Making Linux do more](https://www.redhat.com/en/blog/red-hat-enterprise-linux-2025-making-linux-do-more)
+- [Upcoming support lifecycle milestones for older on-premises products](https://devblogs.microsoft.com/devops/upcoming-support-lifecycle-milestones-for-older-on-premises-products/)
+- [Changes to provisioning Azure DevOps projects using the Azure DevOps Demo Generator](https://devblogs.microsoft.com/devops/changes-to-provisioning-azure-devops-projects-using-the-azure-devops-demo-generator/)
+- [Top 5 edge computing challenges solved by Red Hat OpenShift observability](https://www.redhat.com/en/blog/top-5-edge-computing-challenges-solved-red-hat-openshift-observability)
+- [The ethics of open and public AI: Balancing transparency and safety](https://www.redhat.com/en/blog/ethics-open-and-public-ai-balancing-transparency-and-safety)
+- [Evolving IT and embracing AI](https://www.redhat.com/en/blog/evolving-it-and-embracing-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
