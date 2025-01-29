@@ -12,9 +12,6 @@
   <a href="https://t.me/x1tech1x">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="90px"/>
   </a>
- <a href="https://twitter.com/Adson_A1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="90px"/>
-  </a>
 </div>
 
 <div id="header" align="center">
