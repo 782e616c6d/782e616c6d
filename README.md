@@ -23,8 +23,7 @@
     <p>
       majQa'! DuqlIjDaq yI'el!
     </p>
-    <div class="tenor-gif-embed" data-postid="3442846212888940511" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/work-working-laptop-computer-wifi-gif-3442846212888940511">Work Working Sticker</a>from <a href="https://tenor.com/search/work-stickers">Work Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+    <img src="https://media.tenor.com/L8dyY7-LT98AAAAi/work-working.gif" width="230px"/>
 </h1>
 </div>
   
