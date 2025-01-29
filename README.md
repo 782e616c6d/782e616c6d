@@ -19,6 +19,9 @@
   <h1>
     <img src="https://media4.giphy.com/media/Q8sozM0tPmwIPnPcj4/200w.webp?cid=ecf05e47vnzkua786gg148olyvc08pbdti52cpbpp88eic1v&rid=200w.webp&ct=s" width="30px"/>
   👋  Hey Guys! 👋
+    <p>
+      majQa'! DuqlIjDaq yI'el!
+    </p>
     <img src="https://media4.giphy.com/media/Q8sozM0tPmwIPnPcj4/200w.webp?cid=ecf05e47vnzkua786gg148olyvc08pbdti52cpbpp88eic1v&rid=200w.webp&ct=s" width="30px"/>
 </h1>
 </div>
