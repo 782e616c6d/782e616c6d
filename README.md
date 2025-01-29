@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the AWS CDK Glue L2 Construct](https://aws.amazon.com/blogs/devops/announcing-the-aws-cdk-glue-l2-construct/)
+- [Streamline the connectivity between your environment and Red Hat Insights services](https://www.redhat.com/en/blog/streamline-connectivity-between-your-environment-and-red-hat-insights-services)
+- [Nominations now open for the OpenShift Superhero Awards](https://www.redhat.com/en/blog/nominations-now-open-openshift-superhero-awards)
 - [Upcoming support lifecycle milestones for older on-premises products](https://devblogs.microsoft.com/devops/upcoming-support-lifecycle-milestones-for-older-on-premises-products/)
 - [Changes to provisioning Azure DevOps projects using the Azure DevOps Demo Generator](https://devblogs.microsoft.com/devops/changes-to-provisioning-azure-devops-projects-using-the-azure-devops-demo-generator/)
-- [Top 5 edge computing challenges solved by Red Hat OpenShift observability](https://www.redhat.com/en/blog/top-5-edge-computing-challenges-solved-red-hat-openshift-observability)
-- [The ethics of open and public AI: Balancing transparency and safety](https://www.redhat.com/en/blog/ethics-open-and-public-ai-balancing-transparency-and-safety)
-- [Evolving IT and embracing AI](https://www.redhat.com/en/blog/evolving-it-and-embracing-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
