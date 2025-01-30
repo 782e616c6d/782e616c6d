@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Upskilling and reskilling in 2025: Advance your career with Red Hat Training and Certification](https://www.redhat.com/en/blog/upskilling-and-reskilling-2025-advance-your-career-red-hat-training-and-certification)
+- [Monitoring Red Hat Ansible Automation Platform using Performance Co-Pilot](https://www.redhat.com/en/blog/monitoring-red-hat-ansible-automation-platform-using-performance-co-pilot)
 - [Announcing the AWS CDK Glue L2 Construct](https://aws.amazon.com/blogs/devops/announcing-the-aws-cdk-glue-l2-construct/)
 - [Streamline the connectivity between your environment and Red Hat Insights services](https://www.redhat.com/en/blog/streamline-connectivity-between-your-environment-and-red-hat-insights-services)
 - [Nominations now open for the OpenShift Superhero Awards](https://www.redhat.com/en/blog/nominations-now-open-openshift-superhero-awards)
-- [Upcoming support lifecycle milestones for older on-premises products](https://devblogs.microsoft.com/devops/upcoming-support-lifecycle-milestones-for-older-on-premises-products/)
-- [Changes to provisioning Azure DevOps projects using the Azure DevOps Demo Generator](https://devblogs.microsoft.com/devops/changes-to-provisioning-azure-devops-projects-using-the-azure-devops-demo-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
