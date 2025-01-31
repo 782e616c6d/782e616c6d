@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Upskilling and reskilling in 2025: Advance your career with Red Hat Training and Certification](https://www.redhat.com/en/blog/upskilling-and-reskilling-2025-advance-your-career-red-hat-training-and-certification)
-- [Monitoring Red Hat Ansible Automation Platform using Performance Co-Pilot](https://www.redhat.com/en/blog/monitoring-red-hat-ansible-automation-platform-using-performance-co-pilot)
-- [Announcing the AWS CDK Glue L2 Construct](https://aws.amazon.com/blogs/devops/announcing-the-aws-cdk-glue-l2-construct/)
-- [Streamline the connectivity between your environment and Red Hat Insights services](https://www.redhat.com/en/blog/streamline-connectivity-between-your-environment-and-red-hat-insights-services)
-- [Nominations now open for the OpenShift Superhero Awards](https://www.redhat.com/en/blog/nominations-now-open-openshift-superhero-awards)
+- [Enhancing Code Generation with Real-Time Execution in Amazon Q Developer](https://aws.amazon.com/blogs/devops/enhancing-code-generation-with-real-time-execution-in-amazon-q-developer/)
+- [The strategic importance of platform engineering in modern software development](https://www.redhat.com/en/blog/strategic-importance-platform-engineering-modern-software-development)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Friday Five — January 31, 2025](https://www.redhat.com/en/blog/friday-five-january-31-2025)
+- [Elevating Jawwy telco architecture: a path to excellence with Red Hat OpenShift](https://www.redhat.com/en/blog/elevating-jawwy-telco-architecture-path-excellence-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
