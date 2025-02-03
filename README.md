@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Code Generation with Real-Time Execution in Amazon Q Developer](https://aws.amazon.com/blogs/devops/enhancing-code-generation-with-real-time-execution-in-amazon-q-developer/)
-- [The strategic importance of platform engineering in modern software development](https://www.redhat.com/en/blog/strategic-importance-platform-engineering-modern-software-development)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Friday Five — January 31, 2025](https://www.redhat.com/en/blog/friday-five-january-31-2025)
-- [Elevating Jawwy telco architecture: a path to excellence with Red Hat OpenShift](https://www.redhat.com/en/blog/elevating-jawwy-telco-architecture-path-excellence-red-hat-openshift)
+- [Update to Azure DevOps Allowed IP addresses](https://devblogs.microsoft.com/devops/update-to-ado-allowed-ip-addresses/)
+- [Unlocking the potential of 5G at the edge](https://www.redhat.com/en/blog/unlocking-potential-5g-edge)
+- [Open source AI: Red Hat’s point-of-view](https://www.redhat.com/en/blog/open-source-ai-red-hats-point-view)
+- [Common Vulnerability Scoring System &lpar;CVSS&rpar; vs. Risk: Why are we still having this conversation?](https://www.redhat.com/en/blog/common-vulnerability-scoring-system-cvss-vs-risk-why-are-we-still-having-conversation)
+- [AI in the life sciences: building the platform, growing the ecosystem](https://www.redhat.com/en/blog/ai-life-sciences-building-platform-growing-ecosystem-0)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
