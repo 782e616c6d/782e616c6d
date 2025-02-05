@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Bake is Now Generally Available in Docker Desktop 4.38!](https://www.docker.com/blog/ga-launch-docker-bake/)
+- [Docker Desktop 4.38: New AI Agent, Multi-Node Kubernetes, and Bake in GA](https://www.docker.com/blog/docker-desktop-4-38/)
+- [Introducing the Beta Launch of Docker’s AI Agent, Transforming Development Experiences](https://www.docker.com/blog/beta-launch-docker-ai-agent/)
 - [Full web support for conditional access policies across Azure DevOps and partner web properties](https://devblogs.microsoft.com/devops/full-web-support-for-conditional-access-policies-across-azure-devops-and-partner-web-properties/)
 - [Platform engineering and self-service: simplifying complexity with Red Hat Developer Hub](https://www.redhat.com/en/blog/platform-engineering-and-self-service-simplifying-complexity-red-hat-developer-hub)
-- [Connecting your systems using the Insights proxy](https://www.redhat.com/en/blog/connecting-your-systems-using-insights-proxy)
-- [Beyond the AI pilot project: Building a foundation for generative AI](https://www.redhat.com/en/blog/beyond-ai-pilot-project-building-foundation-generative-ai)
-- [Accelerating Azure AI with Ansible Automation Platform: from subscriptions to AI models](https://www.redhat.com/en/blog/accelerating-azure-ai-ansible-automation-platform-subscriptions-ai-models)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
