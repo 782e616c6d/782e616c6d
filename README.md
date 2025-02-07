@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Learning AWS best practices from Amazon Q in the Console](https://aws.amazon.com/blogs/devops/learning-aws-best-practices-from-amazon-q-in-the-console/)
+- [Friday Five — February 7, 2025](https://www.redhat.com/en/blog/friday-five-february-7-2025-red-hat)
+- [DORA is here: is financial services prepared to continue innovating in balance with compliance requirements?](https://www.redhat.com/en/blog/dora-is-here-is-financial-services-prepared-to%20continue-innovating-in-balance-with-compliance-requirements)
 - [Introducing AWS CloudFormation Stack Refactoring](https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring/)
 - [Migration toolkit for virtualization: FAQs from the field](https://www.redhat.com/en/blog/migration-toolkit-virtualization-faqs-field)
-- [Evolving our middleware strategy](https://www.redhat.com/en/blog/evolving-our-middleware-strategy)
-- [Docker Bake is Now Generally Available in Docker Desktop 4.38!](https://www.docker.com/blog/ga-launch-docker-bake/)
-- [Docker Desktop 4.38: New AI Agent, Multi-Node Kubernetes, and Bake in GA](https://www.docker.com/blog/docker-desktop-4-38/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
