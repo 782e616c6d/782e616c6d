@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [What’s new on docs.redhat.com](https://www.redhat.com/en/blog/whats-new-docsredhatcom)
+- [SELinux and RHEL: A technical exploration of security hardening](https://www.redhat.com/en/blog/selinux-and-rhel-technical-exploration-security-hardening)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [How to adopt platform engineering in 2025](https://www.redhat.com/en/blog/how-adopt-platform-engineering-2025)
 - [Learning AWS best practices from Amazon Q in the Console](https://aws.amazon.com/blogs/devops/learning-aws-best-practices-from-amazon-q-in-the-console/)
-- [Friday Five — February 7, 2025](https://www.redhat.com/en/blog/friday-five-february-7-2025-red-hat)
-- [DORA is here: is financial services prepared to continue innovating in balance with compliance requirements?](https://www.redhat.com/en/blog/dora-is-here-is-financial-services-prepared-to%20continue-innovating-in-balance-with-compliance-requirements)
-- [Introducing AWS CloudFormation Stack Refactoring](https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring/)
-- [Migration toolkit for virtualization: FAQs from the field](https://www.redhat.com/en/blog/migration-toolkit-virtualization-faqs-field)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
