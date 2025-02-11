@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [February Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-4/)
+- [Leading an effective Static Application Security Testing &lpar;SAST&rpar; program](https://www.redhat.com/en/blog/leading-effective-static-application-security-testing-sast-program)
 - [What’s new on docs.redhat.com](https://www.redhat.com/en/blog/whats-new-docsredhatcom)
 - [SELinux and RHEL: A technical exploration of security hardening](https://www.redhat.com/en/blog/selinux-and-rhel-technical-exploration-security-hardening)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [How to adopt platform engineering in 2025](https://www.redhat.com/en/blog/how-adopt-platform-engineering-2025)
-- [Learning AWS best practices from Amazon Q in the Console](https://aws.amazon.com/blogs/devops/learning-aws-best-practices-from-amazon-q-in-the-console/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
