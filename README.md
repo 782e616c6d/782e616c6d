@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [February Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-4/)
-- [Leading an effective Static Application Security Testing &lpar;SAST&rpar; program](https://www.redhat.com/en/blog/leading-effective-static-application-security-testing-sast-program)
-- [What’s new on docs.redhat.com](https://www.redhat.com/en/blog/whats-new-docsredhatcom)
-- [SELinux and RHEL: A technical exploration of security hardening](https://www.redhat.com/en/blog/selinux-and-rhel-technical-exploration-security-hardening)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Unlocking the Effective Context Length: Benchmarking the Granite-3.1-8b Model](https://www.redhat.com/en/blog/unlocking-effective-context-length-benchmarking-granite-31-8b-model)
+- [Navigating an era of perpetual change: a fresh perspective for telecommunications](https://www.redhat.com/en/blog/navigating-era-perpetual-change-fresh-perspective-telecommunications)
+- [Introducing RHEL AI 1.4: Powering the Next Wave of Generative AI Innovation](https://www.redhat.com/en/blog/introducing-rhel-ai-14-powering-next-wave-generative-ai-innovation)
+- [Empowering non-technical users to contribute knowledge and enhance model responses](https://www.redhat.com/en/blog/empowering-non-technical-users-contribute-knowledge-and-enhance-model-responses)
+- [A toolkit for your toolkit: 7 learning resources to migrate to OpenShift Virtualization](https://www.redhat.com/en/blog/learning-resources-migrate-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
