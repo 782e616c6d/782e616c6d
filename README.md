@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [EPMS: the cornerstone of cybersecurity in defense operations](https://www.redhat.com/en/blog/epms-cornerstone-cybersecurity-defense-operations)
+- [Democratize security processes in your software development lifecycle](https://www.redhat.com/en/blog/democratize-security-processes-your-software-development-lifecycle)
 - [Unlocking the Effective Context Length: Benchmarking the Granite-3.1-8b Model](https://www.redhat.com/en/blog/unlocking-effective-context-length-benchmarking-granite-31-8b-model)
 - [Navigating an era of perpetual change: a fresh perspective for telecommunications](https://www.redhat.com/en/blog/navigating-era-perpetual-change-fresh-perspective-telecommunications)
 - [Introducing RHEL AI 1.4: Powering the Next Wave of Generative AI Innovation](https://www.redhat.com/en/blog/introducing-rhel-ai-14-powering-next-wave-generative-ai-innovation)
-- [Empowering non-technical users to contribute knowledge and enhance model responses](https://www.redhat.com/en/blog/empowering-non-technical-users-contribute-knowledge-and-enhance-model-responses)
-- [A toolkit for your toolkit: 7 learning resources to migrate to OpenShift Virtualization](https://www.redhat.com/en/blog/learning-resources-migrate-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
