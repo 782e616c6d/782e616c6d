@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Powered by Docker: Streamlining Engineering Operations as a Platform Engineer](https://www.docker.com/blog/streamlining-engineering-operations-as-platform-engineer/)
+- [Getting started with Red Hat Ansible Lightspeed with IBM watsonx Code Assistant](https://www.redhat.com/en/blog/getting-started-red-hat-ansible-lightspeed-ibm-watsonx-code-assistant)
 - [AWS CloudFormation: 2024 Year in Review](https://aws.amazon.com/blogs/devops/aws-cloudformation-2024-year-in-review/)
 - [Streamline Development with New Amazon Q Developer Agents](https://aws.amazon.com/blogs/devops/streamline-development-with-new-amazon-q-developer-agents/)
 - [Deploying and Managing Application Configurations using AWS AppConfig](https://aws.amazon.com/blogs/devops/deploying-and-managing-application-configurations-using-aws-appconfig/)
-- [Friday Five — February 14, 2025](https://www.redhat.com/en/blog/friday-five-february-14-2025-red-hat)
-- [Virtualization in 2025 and beyond](https://www.redhat.com/en/blog/virtualization-2025-and-beyond)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
