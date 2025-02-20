@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — February 21, 2025](https://www.redhat.com/en/blog/friday-five-february-21-2025-red-hat)
+- [Event-driven architecture for modern applications](https://www.redhat.com/en/blog/event-driven-architecture-modern-applications)
 - [GitHub Copilot for Azure DevOps users](https://devblogs.microsoft.com/devops/github-copilot-for-azure-devops-users/)
 - [How Red Hat OpenShift AI can help transform public services and infrastructure in the UK](https://www.redhat.com/en/blog/how-red-hat-openshift-ai-can-help-transform-public-services-and-infrastructure-uk)
 - [Powered by Docker: Streamlining Engineering Operations as a Platform Engineer](https://www.docker.com/blog/streamlining-engineering-operations-as-platform-engineer/)
-- [Getting started with Red Hat Ansible Lightspeed with IBM watsonx Code Assistant](https://www.redhat.com/en/blog/getting-started-red-hat-ansible-lightspeed-ibm-watsonx-code-assistant)
-- [AWS CloudFormation: 2024 Year in Review](https://aws.amazon.com/blogs/devops/aws-cloudformation-2024-year-in-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
