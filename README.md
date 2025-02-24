@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Transitioning Red Hat’s Operational and IT leadership](https://www.redhat.com/en/blog/transitioning-red-hats-operational-and-it-leadership)
+- [Putting the GAMES architecture into practice](https://www.redhat.com/en/blog/putting-games-architecture-practice)
+- [Griot and Grits is preserving Black history through AI](https://www.redhat.com/en/blog/griot-and-grits-preserving-black-history-through-ai)
 - [Revisiting Docker Hub Policies: Prioritizing Developer Experience](https://www.docker.com/blog/revisiting-docker-hub-policies-prioritizing-developer-experience/)
 - [Announcing CDK Garbage Collection](https://aws.amazon.com/blogs/devops/announcing-cdk-garbage-collection/)
-- [Friday Five — February 21, 2025](https://www.redhat.com/en/blog/friday-five-february-21-2025-red-hat)
-- [Event-driven architecture for modern applications](https://www.redhat.com/en/blog/event-driven-architecture-modern-applications)
-- [GitHub Copilot for Azure DevOps users](https://devblogs.microsoft.com/devops/github-copilot-for-azure-devops-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
