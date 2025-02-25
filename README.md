@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Role-based access control enhancements in Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/role-based-access-control-enhancements-red-hat-ansible-automation-platform-25)
+- [Red Hat unveils OpenShift 4.18: Enhanced security and virtualization experience](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-418)
 - [Transitioning Red Hat’s Operational and IT leadership](https://www.redhat.com/en/blog/transitioning-red-hats-operational-and-it-leadership)
 - [Putting the GAMES architecture into practice](https://www.redhat.com/en/blog/putting-games-architecture-practice)
 - [Griot and Grits is preserving Black history through AI](https://www.redhat.com/en/blog/griot-and-grits-preserving-black-history-through-ai)
-- [Revisiting Docker Hub Policies: Prioritizing Developer Experience](https://www.docker.com/blog/revisiting-docker-hub-policies-prioritizing-developer-experience/)
-- [Announcing CDK Garbage Collection](https://aws.amazon.com/blogs/devops/announcing-cdk-garbage-collection/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
