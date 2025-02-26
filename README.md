@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [AWS Chatbot is now named Amazon Q Developer](https://aws.amazon.com/blogs/devops/aws-chatbot-is-now-named-amazon-q-developer/)
+- [What the telco industry needs from cloud computing](https://www.redhat.com/en/blog/what-telco-industry-needs-cloud-computing)
+- [Red Hat is now a CVE Numbering Authority of Last Resort in the CVE Program](https://www.redhat.com/en/blog/red-hat-now-cve-numbering-authority-last-resort-cve-program)
+- [Guide to observability with Red Hat OpenShift 4.18](https://www.redhat.com/en/blog/guide-observability-red-hat-openshift-418)
 - [Role-based access control enhancements in Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/role-based-access-control-enhancements-red-hat-ansible-automation-platform-25)
-- [Red Hat unveils OpenShift 4.18: Enhanced security and virtualization experience](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-418)
-- [Transitioning Red Hat’s Operational and IT leadership](https://www.redhat.com/en/blog/transitioning-red-hats-operational-and-it-leadership)
-- [Putting the GAMES architecture into practice](https://www.redhat.com/en/blog/putting-games-architecture-practice)
-- [Griot and Grits is preserving Black history through AI](https://www.redhat.com/en/blog/griot-and-grits-preserving-black-history-through-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
