@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [What’s New in OpenShift Virtualization 4.18](https://www.redhat.com/en/blog/whats-new-openshift-virtualization-4.18)
+- [Unleash the full potential of LLMs: Optimize for performance with vLLM](https://www.redhat.com/en/blog/unleash-full-potential-llms-optimize-performance-vllm)
+- [Announcing the general availability of cluster observability operator](https://www.redhat.com/en/blog/announcing-general-availability-cluster-observability-operator)
 - [AWS Chatbot is now named Amazon Q Developer](https://aws.amazon.com/blogs/devops/aws-chatbot-is-now-named-amazon-q-developer/)
 - [What the telco industry needs from cloud computing](https://www.redhat.com/en/blog/what-telco-industry-needs-cloud-computing)
-- [Red Hat is now a CVE Numbering Authority of Last Resort in the CVE Program](https://www.redhat.com/en/blog/red-hat-now-cve-numbering-authority-last-resort-cve-program)
-- [Guide to observability with Red Hat OpenShift 4.18](https://www.redhat.com/en/blog/guide-observability-red-hat-openshift-418)
-- [Role-based access control enhancements in Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/role-based-access-control-enhancements-red-hat-ansible-automation-platform-25)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
