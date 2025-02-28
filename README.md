@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps Basic usage included with GitHub Enterprise](https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise/)
+- [Docker Engine v28: Hardening Container Networking by Default](https://www.docker.com/blog/docker-engine-28-hardening-container-networking-by-default/)
+- [Friday Five — February 28, 2025](https://www.redhat.com/en/blog/friday-five-february-28-2025-red-hat)
 - [What’s New in OpenShift Virtualization 4.18](https://www.redhat.com/en/blog/whats-new-openshift-virtualization-4.18)
 - [Unleash the full potential of LLMs: Optimize for performance with vLLM](https://www.redhat.com/en/blog/unleash-full-potential-llms-optimize-performance-vllm)
-- [Announcing the general availability of cluster observability operator](https://www.redhat.com/en/blog/announcing-general-availability-cluster-observability-operator)
-- [AWS Chatbot is now named Amazon Q Developer](https://aws.amazon.com/blogs/devops/aws-chatbot-is-now-named-amazon-q-developer/)
-- [What the telco industry needs from cloud computing](https://www.redhat.com/en/blog/what-telco-industry-needs-cloud-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
