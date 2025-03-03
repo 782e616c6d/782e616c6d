@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for rapidly deploying Landing Zone Accelerator on AWS](https://aws.amazon.com/blogs/devops/best-practices-for-rapidly-deploying-landing-zone-accelerator-on-aws/)
+- [Turkcell’s Unified Telco Cloud with Red Hat is Future-Ready](https://www.redhat.com/en/blog/turkcells-unified-telco-cloud-red-hat-future-ready)
+- [Resilience and availability for telcos moving to the cloud](https://www.redhat.com/en/blog/resilience-and-availability-telcos-moving-cloud)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [Azure DevOps Basic usage included with GitHub Enterprise](https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise/)
-- [Docker Engine v28: Hardening Container Networking by Default](https://www.docker.com/blog/docker-engine-28-hardening-container-networking-by-default/)
-- [Friday Five — February 28, 2025](https://www.redhat.com/en/blog/friday-five-february-28-2025-red-hat)
-- [What’s New in OpenShift Virtualization 4.18](https://www.redhat.com/en/blog/whats-new-openshift-virtualization-4.18)
-- [Unleash the full potential of LLMs: Optimize for performance with vLLM](https://www.redhat.com/en/blog/unleash-full-potential-llms-optimize-performance-vllm)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
