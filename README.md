@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Thinking big, starting small: why focused AI is set to win in 2025](https://www.redhat.com/en/blog/thinking-big-starting-small-why-focused-ai-set-win-2025)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [Best practices for rapidly deploying Landing Zone Accelerator on AWS](https://aws.amazon.com/blogs/devops/best-practices-for-rapidly-deploying-landing-zone-accelerator-on-aws/)
 - [Turkcell’s Unified Telco Cloud with Red Hat is Future-Ready](https://www.redhat.com/en/blog/turkcells-unified-telco-cloud-red-hat-future-ready)
 - [Resilience and availability for telcos moving to the cloud](https://www.redhat.com/en/blog/resilience-and-availability-telcos-moving-cloud)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Azure DevOps Basic usage included with GitHub Enterprise](https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
