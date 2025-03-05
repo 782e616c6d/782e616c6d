@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using Oracle Cloud Infrastructure with bare metal and on-prem OpenShift](https://www.redhat.com/en/blog/using-oracle-cloud-infrastructure-bare-metal-and-prem-openshift)
+- [Automate the full lifecycle of virtual infrastructure operations](https://www.redhat.com/en/blog/automate-full-lifecycle-virtual-infrastructure-operations)
 - [Thinking big, starting small: why focused AI is set to win in 2025](https://www.redhat.com/en/blog/thinking-big-starting-small-why-focused-ai-set-win-2025)
+- [Session catalog and agenda builder for Red Hat Summit &amp; AnsibleFest 2025 now available](https://www.redhat.com/en/blog/session-catalog-and-agenda-builder-red-hat-summit-ansiblefest-2025-now-available)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Best practices for rapidly deploying Landing Zone Accelerator on AWS](https://aws.amazon.com/blogs/devops/best-practices-for-rapidly-deploying-landing-zone-accelerator-on-aws/)
-- [Turkcell’s Unified Telco Cloud with Red Hat is Future-Ready](https://www.redhat.com/en/blog/turkcells-unified-telco-cloud-red-hat-future-ready)
-- [Resilience and availability for telcos moving to the cloud](https://www.redhat.com/en/blog/resilience-and-availability-telcos-moving-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
