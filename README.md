@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Using Oracle Cloud Infrastructure with bare metal and on-prem OpenShift](https://www.redhat.com/en/blog/using-oracle-cloud-infrastructure-bare-metal-and-prem-openshift)
-- [Automate the full lifecycle of virtual infrastructure operations](https://www.redhat.com/en/blog/automate-full-lifecycle-virtual-infrastructure-operations)
-- [Thinking big, starting small: why focused AI is set to win in 2025](https://www.redhat.com/en/blog/thinking-big-starting-small-why-focused-ai-set-win-2025)
-- [Session catalog and agenda builder for Red Hat Summit &amp; AnsibleFest 2025 now available](https://www.redhat.com/en/blog/session-catalog-and-agenda-builder-red-hat-summit-ansiblefest-2025-now-available)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Desktop 4.39: Smarter AI Agent, Docker Desktop CLI in GA, and Effortless Multi-Platform Builds](https://www.docker.com/blog/docker-desktop-4-39/)
+- [A lightning fast, new agentic coding experience within the Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/introducing-the-enhanced-command-line-interface-in-amazon-q-developer/)
+- [Top 5 reasons to go with your team to Red Hat Summit 2025](https://www.redhat.com/en/blog/top-5-reasons-go-your-team-red-hat-summit-2025)
+- [Performance and energy consumption: comparing CPU virtualization and emulation efficiency](https://www.redhat.com/en/blog/performance-and-energy-consumption-comparing-cpu-virtualization-and-emulation-efficiency)
+- [How Ansible Automation Platform supports your automation community of practice](https://www.redhat.com/en/blog/how-ansible-automation-platform-supports-your-automation-community-practice)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
