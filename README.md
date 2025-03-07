@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Preparing for the DeepSeek moment in your industry: Adapt to change in 2025](https://www.redhat.com/en/blog/preparing-deepseek-moment-your-industry-adapt-change-2025)
+- [Friday Five — March 7, 2025](https://www.redhat.com/en/blog/friday-five-march-7-2025-red-hat)
 - [Desktop 4.39: Smarter AI Agent, Docker Desktop CLI in GA, and Effortless Multi-Platform Builds](https://www.docker.com/blog/docker-desktop-4-39/)
 - [A lightning fast, new agentic coding experience within the Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/introducing-the-enhanced-command-line-interface-in-amazon-q-developer/)
 - [Top 5 reasons to go with your team to Red Hat Summit 2025](https://www.redhat.com/en/blog/top-5-reasons-go-your-team-red-hat-summit-2025)
-- [Performance and energy consumption: comparing CPU virtualization and emulation efficiency](https://www.redhat.com/en/blog/performance-and-energy-consumption-comparing-cpu-virtualization-and-emulation-efficiency)
-- [How Ansible Automation Platform supports your automation community of practice](https://www.redhat.com/en/blog/how-ansible-automation-platform-supports-your-automation-community-practice)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
