@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat OpenShift enhances Vault integrations](https://www.redhat.com/en/blog/red-hat-openshift-enhances-vault-integrations)
-- [Preparing for the DeepSeek moment in your industry: Adapt to change in 2025](https://www.redhat.com/en/blog/preparing-deepseek-moment-your-industry-adapt-change-2025)
-- [Friday Five — March 7, 2025](https://www.redhat.com/en/blog/friday-five-march-7-2025-red-hat)
-- [Desktop 4.39: Smarter AI Agent, Docker Desktop CLI in GA, and Effortless Multi-Platform Builds](https://www.docker.com/blog/docker-desktop-4-39/)
-- [A lightning fast, new agentic coding experience within the Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/introducing-the-enhanced-command-line-interface-in-amazon-q-developer/)
+- [Announcing the end of support for Node.js 14.x and 16.x in AWS CDK](https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-14-x-and-16-x-in-aws-cdk/)
+- [March Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-3/)
+- [New Boards Hub Update](https://devblogs.microsoft.com/devops/new-boards-hub-update-spring-2025/)
+- [Take control of your code with Amazon Q Developer’s new context features](https://aws.amazon.com/blogs/devops/amazon-q-developers-new-context-features/)
+- [Insights into your Azure DevOps pipelines](https://www.dynatrace.com/news/blog/insights-into-your-azure-devops-pipelines/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
