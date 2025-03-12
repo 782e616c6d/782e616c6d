@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the end of support for Node.js 14.x and 16.x in AWS CDK](https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-14-x-and-16-x-in-aws-cdk/)
-- [March Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-3/)
-- [New Boards Hub Update](https://devblogs.microsoft.com/devops/new-boards-hub-update-spring-2025/)
-- [Take control of your code with Amazon Q Developer’s new context features](https://aws.amazon.com/blogs/devops/amazon-q-developers-new-context-features/)
-- [Insights into your Azure DevOps pipelines](https://www.dynatrace.com/news/blog/insights-into-your-azure-devops-pipelines/)
+- [Announcing support for upgrades to Java 21 in Amazon Q Developer](https://aws.amazon.com/blogs/devops/announcing-support-for-upgrades-to-java-21-in-amazon-q-developer/)
+- [Red Hat Academy learners gain access to courses from IBM SkillsBuild Cybersecurity curriculum](https://www.redhat.com/en/blog/red-hat-academy-learners-gain-access-courses-ibm-skillsbuild-cybersecurity-curriculum)
+- [Open discussion: AI strategies for banks](https://www.redhat.com/en/blog/open-discussion-ai-strategies-banks)
+- [Enhancing the Kubernetes pod network with user-defined networks](https://www.redhat.com/en/blog/enhancing-kubernetes-pod-network-user-defined-networks)
+- [Benefits of an open approach to manufacturing execution system modernization](https://www.redhat.com/en/blog/benefits-open-approach-manufacturing-execution-system-modernization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
