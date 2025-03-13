@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Announcing support for upgrades to Java 21 in Amazon Q Developer](https://aws.amazon.com/blogs/devops/announcing-support-for-upgrades-to-java-21-in-amazon-q-developer/)
-- [Red Hat Academy learners gain access to courses from IBM SkillsBuild Cybersecurity curriculum](https://www.redhat.com/en/blog/red-hat-academy-learners-gain-access-courses-ibm-skillsbuild-cybersecurity-curriculum)
+- [Markdown for large text fields &lpar;private preview&rpar;](https://devblogs.microsoft.com/devops/markdown-for-large-text-fields-private-preview/)
+- [Shift-Left Testing with Testcontainers: Catching Bugs Early with Local Integration Tests](https://www.docker.com/blog/shift-left-testing-with-testcontainers/)
+- [Watch the recordings from AWS Developer Day 2025](https://aws.amazon.com/blogs/devops/watch-the-recordings-from-aws-developer-day-2025/)
 - [Open discussion: AI strategies for banks](https://www.redhat.com/en/blog/open-discussion-ai-strategies-banks)
-- [Enhancing the Kubernetes pod network with user-defined networks](https://www.redhat.com/en/blog/enhancing-kubernetes-pod-network-user-defined-networks)
-- [Benefits of an open approach to manufacturing execution system modernization](https://www.redhat.com/en/blog/benefits-open-approach-manufacturing-execution-system-modernization)
+- [Announcing support for upgrades to Java 21 in Amazon Q Developer](https://aws.amazon.com/blogs/devops/announcing-support-for-upgrades-to-java-21-in-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
