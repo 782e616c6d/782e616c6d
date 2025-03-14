@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Watch the recordings from AWS Developer Day 2025](https://aws.amazon.com/blogs/devops/watch-the-recordings-from-aws-developer-day-2025/)
+- [Friday Five — March 14, 2025](https://www.redhat.com/en/blog/friday-five-march-14-2025)
 - [Markdown for large text fields &lpar;private preview&rpar;](https://devblogs.microsoft.com/devops/markdown-for-large-text-fields-private-preview/)
 - [Shift-Left Testing with Testcontainers: Catching Bugs Early with Local Integration Tests](https://www.docker.com/blog/shift-left-testing-with-testcontainers/)
-- [Watch the recordings from AWS Developer Day 2025](https://aws.amazon.com/blogs/devops/watch-the-recordings-from-aws-developer-day-2025/)
 - [Open discussion: AI strategies for banks](https://www.redhat.com/en/blog/open-discussion-ai-strategies-banks)
-- [Announcing support for upgrades to Java 21 in Amazon Q Developer](https://aws.amazon.com/blogs/devops/announcing-support-for-upgrades-to-java-21-in-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
