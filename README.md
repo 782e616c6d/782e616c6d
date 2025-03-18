@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Use feature flags for greater flexibility in your Red Hat Ansible Automation Platform deployments](https://www.redhat.com/en/blog/use-feature-flags-greater-flexibility-your-red-hat-ansible-automation-platform-deployments)
-- [Watch the recordings from AWS Developer Day 2025](https://aws.amazon.com/blogs/devops/watch-the-recordings-from-aws-developer-day-2025/)
-- [Friday Five — March 14, 2025](https://www.redhat.com/en/blog/friday-five-march-14-2025)
-- [Markdown for large text fields &lpar;private preview&rpar;](https://devblogs.microsoft.com/devops/markdown-for-large-text-fields-private-preview/)
-- [Shift-Left Testing with Testcontainers: Catching Bugs Early with Local Integration Tests](https://www.docker.com/blog/shift-left-testing-with-testcontainers/)
+- [Upcoming Updates for Azure Pipelines Agents Images](https://devblogs.microsoft.com/devops/upcoming-updates-for-azure-pipelines-agents-images/)
+- [Leveraging Docker with TensorFlow Models &amp; TensorFlow.js for a Snake AI Game](https://www.docker.com/blog/leveraging-docker-with-tensorflow/)
+- [Why financial market infrastructures are moving to the cloud–and what’s holding them back](https://www.redhat.com/en/blog/why-financial-market-infrastructures-are-moving-cloud-and-whats-holding-them-back)
+- [Top features for telco in the cloud](https://www.redhat.com/en/blog/top-features-telco-cloud)
+- [Secure AI inferencing: POC with NVIDIA NIM on CoCo with OpenShift AI](https://www.redhat.com/en/blog/secure-ai-inferencing-poc-nvidia-nim-coco-openshift-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
