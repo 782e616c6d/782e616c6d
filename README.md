@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Take our quiz: Curate your Red Hat Summit experience](https://www.redhat.com/en/blog/take-our-quiz-curate-your-red-hat-summit-experience)
+- [Red Hat Advanced Cluster Security 4.7 simplifies management, enhances workflows, and generates SBOMs](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-47-simplifies-management-enhances-workflows-and-generates-sboms)
+- [Accelerating AI value with Model-as-a-Service](https://www.redhat.com/en/blog/accelerating-ai-value-model-service)
 - [Upcoming Updates for Azure Pipelines Agents Images](https://devblogs.microsoft.com/devops/upcoming-updates-for-azure-pipelines-agents-images/)
 - [Leveraging Docker with TensorFlow Models &amp; TensorFlow.js for a Snake AI Game](https://www.docker.com/blog/leveraging-docker-with-tensorflow/)
-- [Why financial market infrastructures are moving to the cloud–and what’s holding them back](https://www.redhat.com/en/blog/why-financial-market-infrastructures-are-moving-cloud-and-whats-holding-them-back)
-- [Top features for telco in the cloud](https://www.redhat.com/en/blog/top-features-telco-cloud)
-- [Secure AI inferencing: POC with NVIDIA NIM on CoCo with OpenShift AI](https://www.redhat.com/en/blog/secure-ai-inferencing-poc-nvidia-nim-coco-openshift-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
