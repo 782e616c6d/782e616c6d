@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Ansible Automation Platform now available on Google Cloud Marketplace](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-now-available-on-google-cloud-marketplace)
+- [Mitigating threats against telco networks in the cloud](https://www.redhat.com/en/blog/mitigating-threats-against-telco-networks-cloud)
+- [How Red Hat partners can help meet your VM platform needs](https://www.redhat.com/en/blog/how-red-hat-partners-help-meet-your-vm-platform-needs)
+- [A no-cost introduction to Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/start-learning-red-hat-ansible-automation-platform-basics)
 - [Take our quiz: Curate your Red Hat Summit experience](https://www.redhat.com/en/blog/take-our-quiz-curate-your-red-hat-summit-experience)
-- [Red Hat Advanced Cluster Security 4.7 simplifies management, enhances workflows, and generates SBOMs](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-47-simplifies-management-enhances-workflows-and-generates-sboms)
-- [Accelerating AI value with Model-as-a-Service](https://www.redhat.com/en/blog/accelerating-ai-value-model-service)
-- [Upcoming Updates for Azure Pipelines Agents Images](https://devblogs.microsoft.com/devops/upcoming-updates-for-azure-pipelines-agents-images/)
-- [Leveraging Docker with TensorFlow Models &amp; TensorFlow.js for a Snake AI Game](https://www.docker.com/blog/leveraging-docker-with-tensorflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
