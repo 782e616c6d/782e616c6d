@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Java, JS and Python support in Test Plans](https://devblogs.microsoft.com/devops/introducing-java-javascript-and-python-support-in-azuredevops-test-plans/)
+- [Getting telco observability right with Red Hat](https://www.redhat.com/en/blog/getting-telco-observability-right-red-hat)
+- [Friday Five — March 21, 2025](https://www.redhat.com/en/blog/friday-five-march-21-2025-red-hat)
+- [Easy automation for Microsoft Windows Server and Azure with Ansible Automation Platform](https://www.redhat.com/en/blog/easy-automation-microsoft-windows-server-and-azure-ansible-automation-platform)
 - [Red Hat Ansible Automation Platform now available on Google Cloud Marketplace](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-now-available-on-google-cloud-marketplace)
-- [Mitigating threats against telco networks in the cloud](https://www.redhat.com/en/blog/mitigating-threats-against-telco-networks-cloud)
-- [How Red Hat partners can help meet your VM platform needs](https://www.redhat.com/en/blog/how-red-hat-partners-help-meet-your-vm-platform-needs)
-- [A no-cost introduction to Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/start-learning-red-hat-ansible-automation-platform-basics)
-- [Take our quiz: Curate your Red Hat Summit experience](https://www.redhat.com/en/blog/take-our-quiz-curate-your-red-hat-summit-experience)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
