@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [New and updated offerings for Red Hat Ansible Automation Platform Self-Managed on Microsoft Azure](https://www.redhat.com/en/blog/new-and-updated-offerings-red-hat-ansible-automation-platform-self-managed-microsoft-azure)
+- [In-service upgrades for telco 5G cloud-native core CaaS infrastructure with no service disruption](https://www.redhat.com/en/blog/service-upgrades-telco-5g-cloud-native-core-caas-infrastructure-no-service-disruption)
+- [High-performance storage for OpenShift Virtualization: A review of Lightbits Labs](https://www.redhat.com/en/blog/high-performance-storage-openshift-virtualization-review-lightbits-labs)
 - [Introducing Java, JS and Python support in Test Plans](https://devblogs.microsoft.com/devops/introducing-java-javascript-and-python-support-in-azuredevops-test-plans/)
 - [Getting telco observability right with Red Hat](https://www.redhat.com/en/blog/getting-telco-observability-right-red-hat)
-- [Friday Five — March 21, 2025](https://www.redhat.com/en/blog/friday-five-march-21-2025-red-hat)
-- [Easy automation for Microsoft Windows Server and Azure with Ansible Automation Platform](https://www.redhat.com/en/blog/easy-automation-microsoft-windows-server-and-azure-ansible-automation-platform)
-- [Red Hat Ansible Automation Platform now available on Google Cloud Marketplace](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-now-available-on-google-cloud-marketplace)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
