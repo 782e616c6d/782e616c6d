@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [8 Ways to Empower Engineering Teams to Balance Productivity, Security, and Innovation](https://www.docker.com/blog/empower-engineering-teams-to-balance-productivity-security-innovation/)
+- [Synthetic data: A secret ingredient for better language models](https://www.redhat.com/en/blog/synthetic-data-secret-ingredient-better-language-models)
+- [New Red Hat AI Foundations offers training on AI at no cost](https://www.redhat.com/en/blog/new-red-hat-ai-foundations-offers-training-ai-no-cost)
 - [New and updated offerings for Red Hat Ansible Automation Platform Self-Managed on Microsoft Azure](https://www.redhat.com/en/blog/new-and-updated-offerings-red-hat-ansible-automation-platform-self-managed-microsoft-azure)
 - [In-service upgrades for telco 5G cloud-native core CaaS infrastructure with no service disruption](https://www.redhat.com/en/blog/service-upgrades-telco-5g-cloud-native-core-caas-infrastructure-no-service-disruption)
-- [High-performance storage for OpenShift Virtualization: A review of Lightbits Labs](https://www.redhat.com/en/blog/high-performance-storage-openshift-virtualization-review-lightbits-labs)
-- [Introducing Java, JS and Python support in Test Plans](https://devblogs.microsoft.com/devops/introducing-java-javascript-and-python-support-in-azuredevops-test-plans/)
-- [Getting telco observability right with Red Hat](https://www.redhat.com/en/blog/getting-telco-observability-right-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
