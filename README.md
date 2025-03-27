@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the AWS CDK L2 Construct for Amazon Cognito Identity Pools](https://aws.amazon.com/blogs/devops/announcing-the-aws-cdk-l2-construct-for-amazon-cognito-identity-pools/)
+- [Managing Ansible Automation Platform workflow job templates at scale](https://www.redhat.com/en/blog/managing-ansible-automation-platform-workflow-job-templates-scale)
 - [New Overlapping Secrets on Azure DevOps OAuth](https://devblogs.microsoft.com/devops/new-overlapping-secrets-on-azure-devops-oauth/)
 - [Scalable and cost-effective fine-tuning for LLMs](https://www.redhat.com/en/blog/how-to-achieve-scalable-cost-effective-fine-tuning-llm)
 - [Optimizing GPU ROI: Inference by day, training by night](https://www.redhat.com/en/blog/optimizing-gpu-roi-inference-day-training-night)
-- [Alignment tuning and RAG: What you should know](https://www.redhat.com/en/blog/alignment-tuning-and-rag-what-you-should-know)
-- [8 Ways to Empower Engineering Teams to Balance Productivity, Security, and Innovation](https://www.docker.com/blog/empower-engineering-teams-to-balance-productivity-security-innovation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
