@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Adopting Amazon Q Developer in Enterprise Environments](https://aws.amazon.com/blogs/devops/adopting-amazon-q-developer-in-enterprise-environments/)
+- [Red Hat Advanced Cluster Management 2.13 expands hybrid cloud management capabilities](https://www.redhat.com/en/blog/red-hat-advanced-cluster-management-213-expands-hybrid-cloud-management-capabilities)
+- [Meet vLLM: For faster, more efficient LLM inference and serving](https://www.redhat.com/en/blog/meet-vllm-faster-more-efficient-llm-inference-and-serving)
 - [User defined networks in Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/user-defined-networks-red-hat-openshift-virtualization)
 - [Friday Five — March 28, 2025](https://www.redhat.com/en/blog/friday-five-march-28-2025-red-hat)
-- [Announcing the AWS CDK L2 Construct for Amazon Cognito Identity Pools](https://aws.amazon.com/blogs/devops/announcing-the-aws-cdk-l2-construct-for-amazon-cognito-identity-pools/)
-- [Managing Ansible Automation Platform workflow job templates at scale](https://www.redhat.com/en/blog/managing-ansible-automation-platform-workflow-job-templates-scale)
-- [New Overlapping Secrets on Azure DevOps OAuth](https://devblogs.microsoft.com/devops/new-overlapping-secrets-on-azure-devops-oauth/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
