@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Adopting Amazon Q Developer in Enterprise Environments](https://aws.amazon.com/blogs/devops/adopting-amazon-q-developer-in-enterprise-environments/)
-- [Red Hat Advanced Cluster Management 2.13 expands hybrid cloud management capabilities](https://www.redhat.com/en/blog/red-hat-advanced-cluster-management-213-expands-hybrid-cloud-management-capabilities)
-- [Meet vLLM: For faster, more efficient LLM inference and serving](https://www.redhat.com/en/blog/meet-vllm-faster-more-efficient-llm-inference-and-serving)
-- [User defined networks in Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/user-defined-networks-red-hat-openshift-virtualization)
-- [Friday Five — March 28, 2025](https://www.redhat.com/en/blog/friday-five-march-28-2025-red-hat)
+- [Red Hat OpenStack Services on OpenShift at the edge with Ceph](https://www.redhat.com/en/blog/red-hat-openstack-services-openshift-edge-ceph)
+- [Important Update: Server Name Indication &lpar;SNI&rpar; Now Mandatory for Azure DevOps Services](https://devblogs.microsoft.com/devops/sni-mandatory-for-azdo-services/)
+- [Docker Desktop 4.40: Model Runner to run LLMs locally, more powerful Docker AI Agent, and expanded AI Tools Catalog](https://www.docker.com/blog/docker-desktop-4-40/)
+- [Customizing C# and C++ with Amazon Q Developer](https://aws.amazon.com/blogs/devops/customizing-c-and-c-with-amazon-q-developer/)
+- [When bots commit: AI-generated code in open source projects](https://www.redhat.com/en/blog/when-bots-commit-ai-generated-code-open-source-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
