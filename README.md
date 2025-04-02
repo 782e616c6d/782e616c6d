@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [TFVC Policies Storage Updates](https://devblogs.microsoft.com/devops/tfvc-policies-storage-updates/)
+- [How generative AI is transforming developer workflows at Amazon](https://aws.amazon.com/blogs/devops/how-generative-ai-is-transforming-developer-workflows-at-amazon/)
+- [Validate Your Lambda Runtime with CloudFormation Lambda Hooks](https://aws.amazon.com/blogs/devops/validate-your-lambda-runtime-with-cloudformation-lambda-hooks/)
 - [Red Hat OpenStack Services on OpenShift at the edge with Ceph](https://www.redhat.com/en/blog/red-hat-openstack-services-openshift-edge-ceph)
-- [Important Update: Server Name Indication &lpar;SNI&rpar; Now Mandatory for Azure DevOps Services](https://devblogs.microsoft.com/devops/sni-mandatory-for-azdo-services/)
-- [Docker Desktop 4.40: Model Runner to run LLMs locally, more powerful Docker AI Agent, and expanded AI Tools Catalog](https://www.docker.com/blog/docker-desktop-4-40/)
-- [Customizing C# and C++ with Amazon Q Developer](https://aws.amazon.com/blogs/devops/customizing-c-and-c-with-amazon-q-developer/)
-- [When bots commit: AI-generated code in open source projects](https://www.redhat.com/en/blog/when-bots-commit-ai-generated-code-open-source-projects)
+- [Red Hat OpenShift and zero trust: Securing workloads with cert-manager and OpenShift Service Mesh](https://www.redhat.com/en/blog/red-hat-openshift-and-zero-trust-securing-workloads-cert-manager-and-openshift-service-mesh)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
