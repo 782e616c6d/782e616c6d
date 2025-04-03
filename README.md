@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [TFVC Policies Storage Updates](https://devblogs.microsoft.com/devops/tfvc-policies-storage-updates/)
-- [How generative AI is transforming developer workflows at Amazon](https://aws.amazon.com/blogs/devops/how-generative-ai-is-transforming-developer-workflows-at-amazon/)
-- [Validate Your Lambda Runtime with CloudFormation Lambda Hooks](https://aws.amazon.com/blogs/devops/validate-your-lambda-runtime-with-cloudformation-lambda-hooks/)
+- [Master Docker and VS Code: Supercharge Your Dev Workflow](https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/)
+- [CDN Domain URL change for Agents in Pipelines](https://devblogs.microsoft.com/devops/cdn-domain-url-change-for-agents-in-pipelines/)
+- [What’s next for core banking?](https://www.redhat.com/en/blog/whats-next-core-banking)
 - [Red Hat OpenStack Services on OpenShift at the edge with Ceph](https://www.redhat.com/en/blog/red-hat-openstack-services-openshift-edge-ceph)
-- [Red Hat OpenShift and zero trust: Securing workloads with cert-manager and OpenShift Service Mesh](https://www.redhat.com/en/blog/red-hat-openshift-and-zero-trust-securing-workloads-cert-manager-and-openshift-service-mesh)
+- [TFVC Policies Storage Updates](https://devblogs.microsoft.com/devops/tfvc-policies-storage-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
