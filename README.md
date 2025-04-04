@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Run LLMs Locally with Docker: A Quickstart Guide to Model Runner](https://www.docker.com/blog/run-llms-locally/)
+- [Boards Integration with GitHub Enterprise Cloud and Data Residency &lpar;Public Preview&rpar;](https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview/)
+- [Supercharge Your AI with OpenShift AI and Redis: Unleash speed and scalability](https://www.redhat.com/en/blog/supercharge-your-ai-openshift-ai-and-redis-unleash-speed-and-scalability)
+- [Friday Five — April 4, 2025](https://www.redhat.com/en/blog/friday-five-april-4-2025-red-hat)
 - [Master Docker and VS Code: Supercharge Your Dev Workflow](https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/)
-- [CDN Domain URL change for Agents in Pipelines](https://devblogs.microsoft.com/devops/cdn-domain-url-change-for-agents-in-pipelines/)
-- [What’s next for core banking?](https://www.redhat.com/en/blog/whats-next-core-banking)
-- [Red Hat OpenStack Services on OpenShift at the edge with Ceph](https://www.redhat.com/en/blog/red-hat-openstack-services-openshift-edge-ceph)
-- [TFVC Policies Storage Updates](https://devblogs.microsoft.com/devops/tfvc-policies-storage-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
