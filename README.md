@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the General Availability of the Amazon EventBridge Scheduler L2 Construct](https://aws.amazon.com/blogs/devops/announcing-the-general-availability-of-the-amazon-eventbridge-scheduler-l2-construct/)
+- [Converting embedded SQL in Java applications with Amazon Q Developer](https://aws.amazon.com/blogs/devops/converting-embedded-sql-in-java-applications-with-amazon-q-developer/)
+- [Introducing the quick start experience for Amazon Q Developer Pro](https://aws.amazon.com/blogs/devops/introducing-the-quick-start-experience-for-amazon-q-developer-pro/)
 - [Run LLMs Locally with Docker: A Quickstart Guide to Model Runner](https://www.docker.com/blog/run-llms-locally/)
 - [Boards Integration with GitHub Enterprise Cloud and Data Residency &lpar;Public Preview&rpar;](https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview/)
-- [Supercharge Your AI with OpenShift AI and Redis: Unleash speed and scalability](https://www.redhat.com/en/blog/supercharge-your-ai-openshift-ai-and-redis-unleash-speed-and-scalability)
-- [Friday Five — April 4, 2025](https://www.redhat.com/en/blog/friday-five-april-4-2025-red-hat)
-- [Master Docker and VS Code: Supercharge Your Dev Workflow](https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
