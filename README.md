@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the General Availability of the Amazon EventBridge Scheduler L2 Construct](https://aws.amazon.com/blogs/devops/announcing-the-general-availability-of-the-amazon-eventbridge-scheduler-l2-construct/)
-- [Converting embedded SQL in Java applications with Amazon Q Developer](https://aws.amazon.com/blogs/devops/converting-embedded-sql-in-java-applications-with-amazon-q-developer/)
-- [Introducing the quick start experience for Amazon Q Developer Pro](https://aws.amazon.com/blogs/devops/introducing-the-quick-start-experience-for-amazon-q-developer-pro/)
-- [Run LLMs Locally with Docker: A Quickstart Guide to Model Runner](https://www.docker.com/blog/run-llms-locally/)
-- [Boards Integration with GitHub Enterprise Cloud and Data Residency &lpar;Public Preview&rpar;](https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview/)
+- [April Patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-3/)
+- [Using the Amazon Q Developer command line transformation tool](https://aws.amazon.com/blogs/devops/using-amazon-q-developer-cli-for-custom-java-application-transformations/)
+- [Red Hat Enterprise Linux: A catalyst for business growth and innovation](https://www.redhat.com/en/blog/red-hat-enterprise-linux-catalyst-business-growth-and-innovation)
+- [Powering innovation with Red Hat Enterprise Linux on Google Cloud](https://www.redhat.com/en/blog/powering-innovation-red-hat-enterprise-linux-google-cloud)
+- [Building a scalable virtual private cloud with Red Hat OpenStack Services on OpenShift](https://www.redhat.com/en/blog/building-scalable-virtual-private-cloud-red-hat-openstack-services-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
