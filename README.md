@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [April Patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-3/)
-- [Using the Amazon Q Developer command line transformation tool](https://aws.amazon.com/blogs/devops/using-amazon-q-developer-cli-for-custom-java-application-transformations/)
-- [Red Hat Enterprise Linux: A catalyst for business growth and innovation](https://www.redhat.com/en/blog/red-hat-enterprise-linux-catalyst-business-growth-and-innovation)
-- [Powering innovation with Red Hat Enterprise Linux on Google Cloud](https://www.redhat.com/en/blog/powering-innovation-red-hat-enterprise-linux-google-cloud)
-- [Building a scalable virtual private cloud with Red Hat OpenStack Services on OpenShift](https://www.redhat.com/en/blog/building-scalable-virtual-private-cloud-red-hat-openstack-services-openshift)
+- [Run Gemma 3 with Docker Model Runner: Fully Local GenAI Developer Experience](https://www.docker.com/blog/run-gemma-3-locally-with-docker-model-runner/)
+- [Introducing Docker Model Runner: A Better Way to Build and Run GenAI Models Locally](https://www.docker.com/blog/introducing-docker-model-runner/)
+- [Stay focused, code faster: How Google Gemini Code Assist keeps developers in the zone](https://www.dynatrace.com/news/blog/how-google-gemini-code-assist-keeps-developers-in-the-zone/)
+- [Speaking Your Language: Expanded language support in Amazon Q Developer](https://aws.amazon.com/blogs/devops/amazon-q-developer-global-capabilities/)
+- [Repair the bridge before it cracks: Understanding vulnerabilities and weaknesses in modern IT](https://www.redhat.com/en/blog/repair-bridge-it-cracks-understanding-vulnerabilities-and-weaknesses-modern-it)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
