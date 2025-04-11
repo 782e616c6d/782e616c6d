@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Code Documentation with Amazon Q Developer](https://aws.amazon.com/blogs/devops/simplifying-code-documentation-with-amazon-q-developer/)
+- [New Docker Extension for Visual Studio Code](https://www.docker.com/blog/docker-dx-extension-for-vs-code/)
+- [vLLM roundup March 2025](https://www.redhat.com/en/blog/vllm-roundup-march-2025)
+- [Friday Five — April 11, 2025](https://www.redhat.com/en/blog/friday-five-april-11-2025-red-hat)
 - [Announcing inline chat in Eclipse with Amazon Q Developer](https://aws.amazon.com/blogs/devops/announcing-inline-chat-in-eclipse-with-amazon-q-developer/)
-- [Moving AI to the edge: Benefits, challenges and solutions](https://www.redhat.com/en/blog/moving-ai-edge-benefits-challenges-and-solutions)
-- [Run Gemma 3 with Docker Model Runner: Fully Local GenAI Developer Experience](https://www.docker.com/blog/run-gemma-3-locally-with-docker-model-runner/)
-- [Introducing Docker Model Runner: A Better Way to Build and Run GenAI Models Locally](https://www.docker.com/blog/introducing-docker-model-runner/)
-- [Stay focused, code faster: How Google Gemini Code Assist keeps developers in the zone](https://www.dynatrace.com/news/blog/how-google-gemini-code-assist-keeps-developers-in-the-zone/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
