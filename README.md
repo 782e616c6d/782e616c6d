@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the European region for Amazon Q Developer](https://aws.amazon.com/blogs/devops/amazon-q-developer-european-region/)
+- [Simplify RHEL AI management with Red Hat Insights](https://www.redhat.com/en/blog/simplify-rhel-ai-management-red-hat-insights)
+- [Managed Identity and Workload Identity on Azure Red Hat OpenShift in public preview](https://www.redhat.com/en/blog/managed-identity-workload-identity-azure)
 - [Simplifying Code Documentation with Amazon Q Developer](https://aws.amazon.com/blogs/devops/simplifying-code-documentation-with-amazon-q-developer/)
 - [New Docker Extension for Visual Studio Code](https://www.docker.com/blog/docker-dx-extension-for-vs-code/)
-- [vLLM roundup March 2025](https://www.redhat.com/en/blog/vllm-roundup-march-2025)
-- [Friday Five — April 11, 2025](https://www.redhat.com/en/blog/friday-five-april-11-2025-red-hat)
-- [Announcing inline chat in Eclipse with Amazon Q Developer](https://aws.amazon.com/blogs/devops/announcing-inline-chat-in-eclipse-with-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
