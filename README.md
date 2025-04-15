@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Desktop for Mac: QEMU Virtualization Option to be Deprecated in 90 Days](https://www.docker.com/blog/docker-desktop-for-mac-qemu-virtualization-option-to-be-deprecated-in-90-days/)
+- [Announcing Fedora 42](https://www.redhat.com/en/blog/announcing-fedora-42)
 - [Announcing the European region for Amazon Q Developer](https://aws.amazon.com/blogs/devops/amazon-q-developer-european-region/)
 - [Simplify RHEL AI management with Red Hat Insights](https://www.redhat.com/en/blog/simplify-rhel-ai-management-red-hat-insights)
 - [Managed Identity and Workload Identity on Azure Red Hat OpenShift in public preview](https://www.redhat.com/en/blog/managed-identity-workload-identity-azure)
-- [Simplifying Code Documentation with Amazon Q Developer](https://aws.amazon.com/blogs/devops/simplifying-code-documentation-with-amazon-q-developer/)
-- [New Docker Extension for Visual Studio Code](https://www.docker.com/blog/docker-dx-extension-for-vs-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
