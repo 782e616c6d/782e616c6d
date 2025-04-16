@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate large-scale modernization of .NET, mainframe, and VMware workloads using Amazon Q Developer](https://aws.amazon.com/blogs/devops/accelerate-large-scale-modernization-of-net-mainframe-and-vmware-workloads-using-amazon-q-developer/)
+- [Accelerating towards cable convergence with Red Hat and Intel](https://www.redhat.com/en/blog/accelerating-towards-cable-convergence-red-hat-and-intel)
 - [Docker Desktop for Mac: QEMU Virtualization Option to be Deprecated in 90 Days](https://www.docker.com/blog/docker-desktop-for-mac-qemu-virtualization-option-to-be-deprecated-in-90-days/)
+- [What&#39;s new at Red Hat Summit 2025](https://www.redhat.com/en/blog/whats-new-red-hat-summit-2025)
 - [Announcing Fedora 42](https://www.redhat.com/en/blog/announcing-fedora-42)
-- [Announcing the European region for Amazon Q Developer](https://aws.amazon.com/blogs/devops/amazon-q-developer-european-region/)
-- [Simplify RHEL AI management with Red Hat Insights](https://www.redhat.com/en/blog/simplify-rhel-ai-management-red-hat-insights)
-- [Managed Identity and Workload Identity on Azure Red Hat OpenShift in public preview](https://www.redhat.com/en/blog/managed-identity-workload-identity-azure)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
