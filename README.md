@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing General Availability of GitLab Duo with Amazon Q](https://aws.amazon.com/blogs/devops/announcing-general-availability-of-gitlab-duo-with-amazon-q/)
+- [By the numbers: Security insights from Red Hat and IBM](https://www.redhat.com/en/blog/numbers-security-insights-red-hat-and-ibm)
 - [Accelerate large-scale modernization of .NET, mainframe, and VMware workloads using Amazon Q Developer](https://aws.amazon.com/blogs/devops/accelerate-large-scale-modernization-of-net-mainframe-and-vmware-workloads-using-amazon-q-developer/)
 - [Accelerating towards cable convergence with Red Hat and Intel](https://www.redhat.com/en/blog/accelerating-towards-cable-convergence-red-hat-and-intel)
 - [Docker Desktop for Mac: QEMU Virtualization Option to be Deprecated in 90 Days](https://www.docker.com/blog/docker-desktop-for-mac-qemu-virtualization-option-to-be-deprecated-in-90-days/)
-- [What&#39;s new at Red Hat Summit 2025](https://www.redhat.com/en/blog/whats-new-red-hat-summit-2025)
-- [Announcing Fedora 42](https://www.redhat.com/en/blog/announcing-fedora-42)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
