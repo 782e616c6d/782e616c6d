@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Amazon introduces SWE-PolyBench, a multilingual benchmark for AI Coding Agents](https://aws.amazon.com/blogs/devops/amazon-introduces-swe-polybench-a-multi-lingual-benchmark-for-ai-coding-agents/)
+- [Spring Cleaning: A CTA for Azure DevOps OAuth Apps with expired or long-living secrets](https://devblogs.microsoft.com/devops/spring-cleaning-cta-for-azure-devops-oauth-apps-with-expired-or-long-living-secrets/)
 - [Dockerizing MCP – Bringing Discovery, Simplicity, and Trust to the Ecosystem](https://www.docker.com/blog/introducing-docker-mcp-catalog-and-toolkit/)
 - [Azure Boards + GitHub: Recent Updates](https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates/)
 - [Language and logic: Mustafa’s journey into AI research](https://www.redhat.com/en/blog/language-and-logic-mustafas-journey-ai-research)
-- [Friday Five — April 18, 2025](https://www.redhat.com/en/blog/friday-five-april-18-2025-red-hat)
-- [AI automation: How service providers are doing more with less](https://www.redhat.com/en/blog/automate-telco-networks-ai-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
