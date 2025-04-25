@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to build and deliver an MCP server for production](https://www.docker.com/blog/build-to-prod-mcp-servers-with-docker/)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Friday Five — April 25, 2025](https://www.redhat.com/en/blog/friday-five-april-25-2025)
 - [8 enterprise AI stories you don’t want to miss](https://www.redhat.com/en/blog/8-enterprise-ai-stories-you-dont-want-miss)
 - [Amazon introduces SWE-PolyBench, a multilingual benchmark for AI Coding Agents](https://aws.amazon.com/blogs/devops/amazon-introduces-swe-polybench-a-multi-lingual-benchmark-for-ai-coding-agents/)
-- [Spring Cleaning: A CTA for Azure DevOps OAuth Apps with expired or long-living secrets](https://devblogs.microsoft.com/devops/spring-cleaning-cta-for-azure-devops-oauth-apps-with-expired-or-long-living-secrets/)
-- [Dockerizing MCP – Bringing Discovery, Simplicity, and Trust to the Ecosystem](https://www.docker.com/blog/introducing-docker-mcp-catalog-and-toolkit/)
-- [Azure Boards + GitHub: Recent Updates](https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
