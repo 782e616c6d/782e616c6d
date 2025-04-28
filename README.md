@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Combining Snyk’s Insight with Amazon Q Developer’s Assistance to Streamline Secure Development](https://aws.amazon.com/blogs/devops/combining-snyks-insight-with-amazon-q-developers-assistance-to-streamline-secure-development/)
+- [The Rise of Small Language Models in Enterprise AI](https://www.redhat.com/en/blog/rise-small-language-models-enterprise-ai)
+- [IT modernization with Red Hat Enterprise Linux and Ansible Automation Platform: building a foundation ready for the future](https://www.redhat.com/en/blog/it-modernization-red-hat-enterprise-linux-and-ansible-automation-platform-building-foundation-ready-future)
 - [How to build and deliver an MCP server for production](https://www.docker.com/blog/build-to-prod-mcp-servers-with-docker/)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Friday Five — April 25, 2025](https://www.redhat.com/en/blog/friday-five-april-25-2025)
-- [8 enterprise AI stories you don’t want to miss](https://www.redhat.com/en/blog/8-enterprise-ai-stories-you-dont-want-miss)
-- [Amazon introduces SWE-PolyBench, a multilingual benchmark for AI Coding Agents](https://aws.amazon.com/blogs/devops/amazon-introduces-swe-polybench-a-multi-lingual-benchmark-for-ai-coding-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
