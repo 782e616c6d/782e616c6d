@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Desktop 4.41: Docker Model Runner supports Windows, Compose, and Testcontainers integrations, Docker Desktop on the Microsoft Store](https://www.docker.com/blog/docker-desktop-4-41/)
+- [Extend the Amazon Q Developer CLI with Model Context Protocol &lpar;MCP&rpar; for Richer Context](https://aws.amazon.com/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [Combining Snyk’s Insight with Amazon Q Developer’s Assistance to Streamline Secure Development](https://aws.amazon.com/blogs/devops/combining-snyks-insight-with-amazon-q-developers-assistance-to-streamline-secure-development/)
 - [The Rise of Small Language Models in Enterprise AI](https://www.redhat.com/en/blog/rise-small-language-models-enterprise-ai)
-- [IT modernization with Red Hat Enterprise Linux and Ansible Automation Platform: building a foundation ready for the future](https://www.redhat.com/en/blog/it-modernization-red-hat-enterprise-linux-and-ansible-automation-platform-building-foundation-ready-future)
-- [How to build and deliver an MCP server for production](https://www.docker.com/blog/build-to-prod-mcp-servers-with-docker/)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
