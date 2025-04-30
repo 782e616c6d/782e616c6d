@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker Desktop 4.41: Docker Model Runner supports Windows, Compose, and Testcontainers integrations, Docker Desktop on the Microsoft Store](https://www.docker.com/blog/docker-desktop-4-41/)
-- [Extend the Amazon Q Developer CLI with Model Context Protocol &lpar;MCP&rpar; for Richer Context](https://aws.amazon.com/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/)
+- [Update on the Docker DX extension for VS Code](https://www.docker.com/blog/docker-dx-extension-for-vs-code-update/)
+- [AWS’s Well-Architected Framework Transformed by Amazon Q Developer](https://aws.amazon.com/blogs/devops/awss-well-architected-framework-transformed-by-amazon-q-developer/)
+- [Migrating a CDK v1 Application to CDK v2 with Amazon Q Developer](https://aws.amazon.com/blogs/devops/migrating-a-cdk-v1-application-to-cdk-v2-with-amazon-q-developer/)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Combining Snyk’s Insight with Amazon Q Developer’s Assistance to Streamline Secure Development](https://aws.amazon.com/blogs/devops/combining-snyks-insight-with-amazon-q-developers-assistance-to-streamline-secure-development/)
-- [The Rise of Small Language Models in Enterprise AI](https://www.redhat.com/en/blog/rise-small-language-models-enterprise-ai)
+- [AI automation: Getting started with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/ai-automation-getting-started-red-hat-ansible-automation-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
