@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Azure DevOps ID Token Refresh and Terraform Task Version 5](https://devblogs.microsoft.com/devops/introducing-azure-devops-id-token-refresh-and-terraform-task-version-5/)
+- [Red Hat Summit &amp; AnsibleFest 2025: Ansible sessions you don’t want to miss](https://www.redhat.com/en/blog/red-hat-summit-ansiblefest-2025-ansible-sessions-you-dont-want-miss)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Friday Five — May 2, 2025](https://www.redhat.com/en/blog/friday-five-may-2-2025-red-hat)
 - [April 2025: A month of innovation for Amazon Q Developer](https://aws.amazon.com/blogs/devops/april-2025-amazon-q-developer/)
-- [Virtualization success story snapshots: Who’s building with OpenShift Virtualization?](https://www.redhat.com/en/blog/success-story-snapshots-whos-building-openshift-virtualization)
-- [Building and scaling AI models as a machine learning engineer](https://www.redhat.com/en/blog/building-and-scaling-ai-models-machine-learning-engineer)
-- [Update on the Docker DX extension for VS Code](https://www.docker.com/blog/docker-dx-extension-for-vs-code-update/)
-- [AWS’s Well-Architected Framework Transformed by Amazon Q Developer](https://aws.amazon.com/blogs/devops/awss-well-architected-framework-transformed-by-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
