@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Intelligent coding at your fingertips: Introducing an agentic coding experience in your IDE](https://aws.amazon.com/blogs/devops/amazon-q-developer-agentic-coding-experience/)
+- [Introducing Docker MCP Catalog and Toolkit: The Simple and Secure Way to Power AI Agents with MCP](https://www.docker.com/blog/announcing-docker-mcp-catalog-and-toolkit-beta/)
+- [Model Context Protocol: Discover the missing link in AI integration](https://www.redhat.com/en/blog/model-context-protocol-discover-missing-link-ai-integration)
 - [Introducing Azure DevOps ID Token Refresh and Terraform Task Version 5](https://devblogs.microsoft.com/devops/introducing-azure-devops-id-token-refresh-and-terraform-task-version-5/)
 - [Red Hat Summit &amp; AnsibleFest 2025: Ansible sessions you don’t want to miss](https://www.redhat.com/en/blog/red-hat-summit-ansiblefest-2025-ansible-sessions-you-dont-want-miss)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Friday Five — May 2, 2025](https://www.redhat.com/en/blog/friday-five-may-2-2025-red-hat)
-- [April 2025: A month of innovation for Amazon Q Developer](https://aws.amazon.com/blogs/devops/april-2025-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
