@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Intelligent coding at your fingertips: Introducing an agentic coding experience in your IDE](https://aws.amazon.com/blogs/devops/amazon-q-developer-agentic-coding-experience/)
-- [Introducing Docker MCP Catalog and Toolkit: The Simple and Secure Way to Power AI Agents with MCP](https://www.docker.com/blog/announcing-docker-mcp-catalog-and-toolkit-beta/)
-- [Model Context Protocol: Discover the missing link in AI integration](https://www.redhat.com/en/blog/model-context-protocol-discover-missing-link-ai-integration)
-- [Introducing Azure DevOps ID Token Refresh and Terraform Task Version 5](https://devblogs.microsoft.com/devops/introducing-azure-devops-id-token-refresh-and-terraform-task-version-5/)
-- [Red Hat Summit &amp; AnsibleFest 2025: Ansible sessions you don’t want to miss](https://www.redhat.com/en/blog/red-hat-summit-ansiblefest-2025-ansible-sessions-you-dont-want-miss)
+- [Securing Model Context Protocol: Safer Agentic AI with Containers](https://www.docker.com/blog/whats-next-for-mcp-security/)
+- [Accelerate development workflows to reduce release cycles using the Amazon Q Developer integration for GitHub &lpar;Preview&rpar;](https://aws.amazon.com/blogs/devops/accelerate-development-workflows-to-reduce-release-cycles-using-the-amazon-q-developer-integration-for-github-preview/)
+- [Virtualization success stories: Join Red Hat OpenShift Virtualization&#39;s momentum in 2025](https://www.redhat.com/en/blog/join-red-hat-openshift-virtualizations-momentum-2025)
+- [Trust and authenticity: In the kitchen and the software supply chain](https://www.redhat.com/en/blog/trust-authenticity-red-hat-trusted-software-supply-chain)
+- [The “No Math AI” podcast: demystifying the impact of the latest AI developments](https://www.redhat.com/en/blog/no-math-ai-podcast-demystifying-impact-latest-ai-developments)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
