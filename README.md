@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [From questions to clarity: empowering telco operations teams with better observability](https://www.redhat.com/en/blog/questions-clarity-empowering-telco-operations-teams-better-observability)
+- [Friday Five — May 9, 2025](https://www.redhat.com/en/blog/friday-five-may-9-2025-red-hat)
+- [Edge in telecommunications: 8 articles to read now](https://www.redhat.com/en/blog/edge-telecommunications-8-articles-read-now)
 - [Automating unplanned surprises out of your IT strategy](https://www.redhat.com/en/blog/automating-unplanned-surprises-it-strategy)
 - [The dual challenge: Security and compliance](https://www.redhat.com/en/blog/dual-challenge-security-and-compliance)
-- [The container foundation for tomorrow&#39;s AI](https://www.redhat.com/en/blog/container-foundation-tomorrows-ai)
-- [The AI paradox: Unlocking adoption through openness](https://www.redhat.com/en/blog/ai-paradox-unlocking-adoption-through-openness)
-- [Models-as-a-Service: Let’s use AI, not just talk about it](https://www.redhat.com/en/blog/models-service-lets-use-ai-not-just-talk-about-it)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
