@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Learning to ride the OpenShift Virtualization wave](https://www.redhat.com/en/blog/learning-ride-openshift-virtualization-wave)
+- [Crossroads: automotive software expansion and the evolving software developer talent pool](https://www.redhat.com/en/blog/crossroads-automotive-software-expansion-and-evolving-software-developer-talent-pool)
+- [Beyond tokens per second: Unlocking smarter enterprise AI with inference-time scaling](https://www.redhat.com/en/blog/smarter-enterprise-ai-inference-time-scaling)
+- [Announcing the winners of the 19th annual Red Hat Innovation Awards](https://www.redhat.com/en/blog/announcing-winners-19th-annual-red-hat-innovation-awards)
 - [Effectively achieving the software-defined-vehicle &lpar;SDV&rpar; transition means breaking old habits](https://www.redhat.com/en/blog/effectively-achieving-software-defined-vehicle-sdv-transition-means-breaking-old-habits)
-- [EDB and Red Hat: A powerful combination for the AI-driven enterprise](https://www.redhat.com/en/blog/ai-driven-enterprise-edb-red-hat-powerful-combination)
-- [A strategic approach to migrating virtualized workloads to Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/strategic-approach-migrating-virtualized-workloads-red-hat-openshift-virtualization)
-- [From questions to clarity: empowering telco operations teams with better observability](https://www.redhat.com/en/blog/questions-clarity-empowering-telco-operations-teams-better-observability)
-- [Friday Five — May 9, 2025](https://www.redhat.com/en/blog/friday-five-may-9-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
