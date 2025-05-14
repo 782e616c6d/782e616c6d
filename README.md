@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to enhance your application resiliency using Amazon Q Developer](https://aws.amazon.com/blogs/devops/how-to-enhance-your-application-resiliency-using-amazon-q-developer/)
+- [Using RHEL confidential virtual machines to protect AI workloads on Microsoft Azure](https://www.redhat.com/en/blog/rhel-confidential-virtual-machines-protect-ai-workloads-microsoft-azure)
+- [Introducing 90 day Red Hat Learning Subscription Trial](https://www.redhat.com/en/blog/introducing-90-day-red-hat-learning-subscription-trial)
+- [From strategy to scale: Bringing AI to life in the enterprise](https://www.redhat.com/en/blog/strategy-scale-bringing-ai-life-enterprise)
 - [Learning to ride the OpenShift Virtualization wave](https://www.redhat.com/en/blog/learning-ride-openshift-virtualization-wave)
-- [Crossroads: automotive software expansion and the evolving software developer talent pool](https://www.redhat.com/en/blog/crossroads-automotive-software-expansion-and-evolving-software-developer-talent-pool)
-- [Beyond tokens per second: Unlocking smarter enterprise AI with inference-time scaling](https://www.redhat.com/en/blog/smarter-enterprise-ai-inference-time-scaling)
-- [Announcing the winners of the 19th annual Red Hat Innovation Awards](https://www.redhat.com/en/blog/announcing-winners-19th-annual-red-hat-innovation-awards)
-- [Effectively achieving the software-defined-vehicle &lpar;SDV&rpar; transition means breaking old habits](https://www.redhat.com/en/blog/effectively-achieving-software-defined-vehicle-sdv-transition-means-breaking-old-habits)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
