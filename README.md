@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to enhance your application resiliency using Amazon Q Developer](https://aws.amazon.com/blogs/devops/how-to-enhance-your-application-resiliency-using-amazon-q-developer/)
-- [Using RHEL confidential virtual machines to protect AI workloads on Microsoft Azure](https://www.redhat.com/en/blog/rhel-confidential-virtual-machines-protect-ai-workloads-microsoft-azure)
-- [Introducing 90 day Red Hat Learning Subscription Trial](https://www.redhat.com/en/blog/introducing-90-day-red-hat-learning-subscription-trial)
-- [From strategy to scale: Bringing AI to life in the enterprise](https://www.redhat.com/en/blog/strategy-scale-bringing-ai-life-enterprise)
-- [Learning to ride the OpenShift Virtualization wave](https://www.redhat.com/en/blog/learning-ride-openshift-virtualization-wave)
+- [Docker at Microsoft Build 2025: Where Secure Software Meets Intelligent Innovation](https://www.docker.com/blog/docker-at-microsoft-build-2025/)
+- [Continue to take control over your code with Amazon Q Developer’s new context features](https://aws.amazon.com/blogs/devops/continue-to-take-control-over-your-code-with-amazon-q-developers-new-context-features/)
+- [What’s new in Red Hat OpenStack Services on OpenShift for virtualization users](https://www.redhat.com/en/blog/whats-new-openstack-services-virtualization-users)
+- [The secret to managing OpenStack at scale: Beyond basic monitoring](https://www.redhat.com/en/blog/secret-managing-openstack-scale-beyond-basic-monitoring)
+- [Build an efficient “software factory” with Red Hat, accelerating automotive innovation](https://www.redhat.com/en/blog/build-efficient-software-factory-with-red-hat-accelerating-automotive-innovation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
