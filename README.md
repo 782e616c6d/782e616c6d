@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker at Microsoft Build 2025: Where Secure Software Meets Intelligent Innovation](https://www.docker.com/blog/docker-at-microsoft-build-2025/)
-- [Continue to take control over your code with Amazon Q Developer’s new context features](https://aws.amazon.com/blogs/devops/continue-to-take-control-over-your-code-with-amazon-q-developers-new-context-features/)
-- [What’s new in Red Hat OpenStack Services on OpenShift for virtualization users](https://www.redhat.com/en/blog/whats-new-openstack-services-virtualization-users)
-- [The secret to managing OpenStack at scale: Beyond basic monitoring](https://www.redhat.com/en/blog/secret-managing-openstack-scale-beyond-basic-monitoring)
-- [Build an efficient “software factory” with Red Hat, accelerating automotive innovation](https://www.redhat.com/en/blog/build-efficient-software-factory-with-red-hat-accelerating-automotive-innovation)
+- [The Red Hat OpenShift advantage: Zero trust and sovereignty for cloud-native and AI workloads](https://www.redhat.com/en/blog/red-hat-openshift-advantage-zero-trust-cloud-sovereignty-ai-workloads)
+- [Run RHEL-certified apps on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/run-rhel-certified-apps-red-hat-openshift-virtualization)
+- [Red Hat OpenShift Virtualization on IBM Z and LinuxOne: bridging VMs and containers](https://www.redhat.com/en/blog/red-hat-openshift-virtualization-ibm-z-linuxone-bridging-vms-containers)
+- [Friday Five — May 16, 2025](https://www.redhat.com/en/blog/friday-five-may-16-2025-red-hat)
+- [Feast: The open source feature store for AI](https://www.redhat.com/en/blog/feast-open-source-feature-store-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
