@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The Red Hat OpenShift advantage: Zero trust and sovereignty for cloud-native and AI workloads](https://www.redhat.com/en/blog/red-hat-openshift-advantage-zero-trust-cloud-sovereignty-ai-workloads)
-- [Run RHEL-certified apps on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/run-rhel-certified-apps-red-hat-openshift-virtualization)
-- [Red Hat OpenShift Virtualization on IBM Z and LinuxOne: bridging VMs and containers](https://www.redhat.com/en/blog/red-hat-openshift-virtualization-ibm-z-linuxone-bridging-vms-containers)
-- [Friday Five — May 16, 2025](https://www.redhat.com/en/blog/friday-five-may-16-2025-red-hat)
-- [Feast: The open source feature store for AI](https://www.redhat.com/en/blog/feast-open-source-feature-store-ai)
+- [Mastering Amazon Q Developer Part 1: Crafting Effective Prompts](https://aws.amazon.com/blogs/devops/mastering-amazon-q-developer-part-1-crafting-effective-prompts/)
+- [Introducing Docker Hardened Images: Secure, Minimal, and Ready for Production](https://www.docker.com/blog/introducing-docker-hardened-images/)
+- [Zero trust workload identity manager now available in tech preview](https://www.redhat.com/en/blog/zero-trust-workload-identity-manager-now-available-tech-preview)
+- [Virtualization is evolving — Here&#39;s how organizations are shaping the future](https://www.redhat.com/en/blog/virtualization-evolving-heres-how-organizations-are-shaping-future)
+- [EMEA blog | Dutch | Red Hat OpenShift Comes Out Exceptionally Strong in Data Security Survey Results](https://www.redhat.com/en/blog/red-hat-openshift-comes-out-exceptionally-strong-in-data-security-survey-results)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
