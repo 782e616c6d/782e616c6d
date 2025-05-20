@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Amazon Q Developer Part 1: Crafting Effective Prompts](https://aws.amazon.com/blogs/devops/mastering-amazon-q-developer-part-1-crafting-effective-prompts/)
-- [Introducing Docker Hardened Images: Secure, Minimal, and Ready for Production](https://www.docker.com/blog/introducing-docker-hardened-images/)
-- [Zero trust workload identity manager now available in tech preview](https://www.redhat.com/en/blog/zero-trust-workload-identity-manager-now-available-tech-preview)
-- [Virtualization is evolving — Here&#39;s how organizations are shaping the future](https://www.redhat.com/en/blog/virtualization-evolving-heres-how-organizations-are-shaping-future)
-- [EMEA blog | Dutch | Red Hat OpenShift Comes Out Exceptionally Strong in Data Security Survey Results](https://www.redhat.com/en/blog/red-hat-openshift-comes-out-exceptionally-strong-in-data-security-survey-results)
+- [Exploring the latest features of the Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/exploring-the-latest-features-of-the-amazon-q-developer-cli/)
+- [What&#39;s next? Red Hat Enterprise Linux 10 and beyond](https://www.redhat.com/en/blog/whats-new-rhel-10)
+- [What&#39;s new in image builder for Red Hat Enterprise Linux 10](https://www.redhat.com/en/blog/whats-new-rhel-10-image-builder)
+- [Unleashing innovation in Red Hat Enterprise Linux with extensions repository](https://www.redhat.com/en/blog/unleashing-innovation-rhel-extensions-repository)
+- [Red Hat partners with SiFive for a RISC-V developer preview of Red Hat Enterprise Linux 10](https://www.redhat.com/en/blog/red-hat-partners-with-sifive-for-risc-v-developer-preview-for-red-hat-enterprise-linux-10)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
