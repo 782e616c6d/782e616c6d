@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the latest features of the Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/exploring-the-latest-features-of-the-amazon-q-developer-cli/)
-- [What&#39;s next? Red Hat Enterprise Linux 10 and beyond](https://www.redhat.com/en/blog/whats-new-rhel-10)
-- [What&#39;s new in image builder for Red Hat Enterprise Linux 10](https://www.redhat.com/en/blog/whats-new-rhel-10-image-builder)
-- [Unleashing innovation in Red Hat Enterprise Linux with extensions repository](https://www.redhat.com/en/blog/unleashing-innovation-rhel-extensions-repository)
-- [Red Hat partners with SiFive for a RISC-V developer preview of Red Hat Enterprise Linux 10](https://www.redhat.com/en/blog/red-hat-partners-with-sifive-for-risc-v-developer-preview-for-red-hat-enterprise-linux-10)
+- [Amazon Q Developer CLI supports image inputs in your terminal](https://aws.amazon.com/blogs/devops/amazon-q-developer-cli-supports-image-inputs-in-your-terminal/)
+- [Unleashing intelligent operations at the edge](https://www.redhat.com/en/blog/unleashing-intelligent-operations-edge)
+- [The road to quantum-safe cryptography in Red Hat OpenShift](https://www.redhat.com/en/blog/road-to-quantum-safe-cryptography-red-hat-openshift)
+- [The evolution of Red Hat Ansible Lightspeed](https://www.redhat.com/en/blog/evolution-red-hat-ansible-lightspeed)
+- [Save the date for Red Hat Summit 2026](https://www.redhat.com/en/blog/save-date-red-hat-summit-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
