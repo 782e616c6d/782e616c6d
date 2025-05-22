@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [New updates for Red Hat Enterprise Linux on confidential virtual machines](https://www.redhat.com/en/blog/new-updates-red-hat-enterprise-linux-confidential-virtual-machines)
 - [Amazon Q Developer CLI supports image inputs in your terminal](https://aws.amazon.com/blogs/devops/amazon-q-developer-cli-supports-image-inputs-in-your-terminal/)
 - [Unleashing intelligent operations at the edge](https://www.redhat.com/en/blog/unleashing-intelligent-operations-edge)
 - [The road to quantum-safe cryptography in Red Hat OpenShift](https://www.redhat.com/en/blog/road-to-quantum-safe-cryptography-red-hat-openshift)
-- [The evolution of Red Hat Ansible Lightspeed](https://www.redhat.com/en/blog/evolution-red-hat-ansible-lightspeed)
-- [Save the date for Red Hat Summit 2026](https://www.redhat.com/en/blog/save-date-red-hat-summit-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
