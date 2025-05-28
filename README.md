@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking what’s next: Everything we announced at Red Hat Summit 2025](https://www.redhat.com/en/blog/everything-we-announced-red-hat-summit-2025)
 - [Azure DevOps with GitHub Repositories – Your path to Agentic AI](https://devblogs.microsoft.com/devops/azure-devops-with-github-repositories-your-path-to-agentic-ai/)
 - [Unlocking the power of Amazon Q Developer: Metrics-driven strategies for better AI coding](https://aws.amazon.com/blogs/devops/unlocking-the-power-of-amazon-q-developer-metrics-driven-strategies-for-better-ai-coding/)
 - [Friday Five — May 23, 2025](https://www.redhat.com/en/blog/friday-five-may-23-2025-red-hat)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [New updates for Red Hat Enterprise Linux on confidential virtual machines](https://www.redhat.com/en/blog/new-updates-red-hat-enterprise-linux-confidential-virtual-machines)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
