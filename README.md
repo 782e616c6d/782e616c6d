@@ -54,7 +54,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [New and improved Amazon Q Developer experience in the AWS Management Console](https://aws.amazon.com/blogs/devops/new-and-improved-amazon-q-developer-experience-in-the-aws-management-console/)
+- [New and improved Amazon Q Developer experience in the AWS Management Console and chat applications](https://aws.amazon.com/blogs/devops/new-and-improved-amazon-q-developer-experience-in-the-aws-management-console/)
 - [Replicating success, not reinventing the wheel: AI in the public sector](https://www.redhat.com/en/blog/replicating-success-not-reinventing-wheel-ai-public-sector)
 - [Red Hat partners with SiFive for a RISC-V developer preview of Red Hat Enterprise Linux 10](https://www.redhat.com/en/blog/red-hat-partners-with-sifive-for-risc-v-developer-preview-for-red-hat-enterprise-linux-10)
 - [Pivoting OpenShift PTP operator development to a broader community](https://www.redhat.com/en/blog/pivoting-openshift-ptp-operator-development-broader-community)
