@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Secret Protection and GitHub Code Security for Azure DevOps](https://devblogs.microsoft.com/devops/github-secret-protection-and-github-code-security-for-azure-devops/)
+- [Announcing OLM v1: Next-Generation Operator Lifecycle Management](https://www.redhat.com/en/blog/announcing-olm-v1-next-generation-operator-lifecycle-management)
 - [New and improved Amazon Q Developer experience in the AWS Management Console and chat applications](https://aws.amazon.com/blogs/devops/new-and-improved-amazon-q-developer-experience-in-the-aws-management-console/)
 - [Replicating success, not reinventing the wheel: AI in the public sector](https://www.redhat.com/en/blog/replicating-success-not-reinventing-wheel-ai-public-sector)
 - [Red Hat partners with SiFive for a RISC-V developer preview of Red Hat Enterprise Linux 10](https://www.redhat.com/en/blog/red-hat-partners-with-sifive-for-risc-v-developer-preview-for-red-hat-enterprise-linux-10)
-- [Pivoting OpenShift PTP operator development to a broader community](https://www.redhat.com/en/blog/pivoting-openshift-ptp-operator-development-broader-community)
-- [Friday Five — May 30, 2025](https://www.redhat.com/en/blog/friday-five-may-30-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
