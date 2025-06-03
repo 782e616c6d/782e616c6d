@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Make an AI Chatbot from Scratch using Docker Model Runner](https://www.docker.com/blog/how-to-make-ai-chatbot-from-scratch/)
+- [Top 10 Linux blog posts that deserve a spot on your reading list](https://www.redhat.com/en/blog/top-10-linux-blog-posts-deserve-spot-your-reading-list)
+- [Settings Management for Docker Desktop now generally available in the Admin Console](https://www.docker.com/blog/settings-management-for-docker-desktop-now-generally-available-in-the-admin-console/)
 - [GitHub Secret Protection and GitHub Code Security for Azure DevOps](https://devblogs.microsoft.com/devops/github-secret-protection-and-github-code-security-for-azure-devops/)
 - [Announcing OLM v1: Next-Generation Operator Lifecycle Management](https://www.redhat.com/en/blog/announcing-olm-v1-next-generation-operator-lifecycle-management)
-- [New and improved Amazon Q Developer experience in the AWS Management Console and chat applications](https://aws.amazon.com/blogs/devops/new-and-improved-amazon-q-developer-experience-in-the-aws-management-console/)
-- [Replicating success, not reinventing the wheel: AI in the public sector](https://www.redhat.com/en/blog/replicating-success-not-reinventing-wheel-ai-public-sector)
-- [Red Hat partners with SiFive for a RISC-V developer preview of Red Hat Enterprise Linux 10](https://www.redhat.com/en/blog/red-hat-partners-with-sifive-for-risc-v-developer-preview-for-red-hat-enterprise-linux-10)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
