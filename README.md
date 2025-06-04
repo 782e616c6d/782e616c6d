@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Settings Management for Docker Desktop now generally available in the Admin Console](https://www.docker.com/blog/settings-management-for-docker-desktop-now-generally-available-in-the-admin-console/)
+- [Red Hat’s commitments for sovereign cloud: Your cloud, your rules](https://www.redhat.com/en/blog/red-hats-commitments-sovereign-cloud-your-cloud-your-rules)
 - [How to Make an AI Chatbot from Scratch using Docker Model Runner](https://www.docker.com/blog/how-to-make-ai-chatbot-from-scratch/)
 - [Top 10 Linux blog posts that deserve a spot on your reading list](https://www.redhat.com/en/blog/top-10-linux-blog-posts-deserve-spot-your-reading-list)
-- [Settings Management for Docker Desktop now generally available in the Admin Console](https://www.docker.com/blog/settings-management-for-docker-desktop-now-generally-available-in-the-admin-console/)
 - [GitHub Secret Protection and GitHub Code Security for Azure DevOps](https://devblogs.microsoft.com/devops/github-secret-protection-and-github-code-security-for-azure-devops/)
-- [Announcing OLM v1: Next-Generation Operator Lifecycle Management](https://www.redhat.com/en/blog/announcing-olm-v1-next-generation-operator-lifecycle-management)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
