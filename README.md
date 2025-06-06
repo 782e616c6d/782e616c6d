@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Access Claude Sonnet 4 in Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/access-claude-sonnet-4-in-amazon-q-developer-cli/)
+- [The 2024 Red Hat Product Security Risk Report: CVEs, XZ Backdoor, SSCAs, AI…oh my!](https://www.redhat.com/en/blog/2024-red-hat-product-security-risk-report-cves-xz-backdoor-sscas-aioh-my)
+- [Red Hat Insights planning for Red Hat Enterprise Linux is now generally available](https://www.redhat.com/en/blog/red-hat-insights-planning-red-hat-enterprise-linux-now-generally-available)
+- [Friday Five — June 6, 2025](https://www.redhat.com/en/blog/friday-five-june-6-2025)
 - [Streamline your Eclipse workflows with Amazon Q Developer, now generally available](https://aws.amazon.com/blogs/devops/streamline-your-eclipse-workflows-with-amazon-q-developer-now-generally-available/)
-- [Introducing an agentic coding experience in Visual Studio and JetBrains IDEs](https://aws.amazon.com/blogs/devops/introducing-an-agentic-coding-experience-in-visual-studio-and-jetbrains-ides/)
-- [Restricting PAT Creation in Azure DevOps Is Now in Preview](https://devblogs.microsoft.com/devops/restricting-pat-creation-in-azure-devops-is-now-in-preview/)
-- [Red Hat OpenShift: Powering innovation around DevOps](https://www.redhat.com/en/blog/red-hat-openshift-powering-innovation-around-devops)
-- [Settings Management for Docker Desktop now generally available in the Admin Console](https://www.docker.com/blog/settings-management-for-docker-desktop-now-generally-available-in-the-admin-console/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
