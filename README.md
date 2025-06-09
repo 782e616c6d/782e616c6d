@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The open source paradox: Unpacking risk, equity and acceptance](https://www.redhat.com/en/blog/open-source-paradox-unpacking-risk-equity-and-acceptance)
+- [Red Hat’s global impact on Linux security](https://www.redhat.com/en/blog/red-hats-global-impact-linux-security)
+- [How Centris and ipt used Red Hat OpenShift to build a reliable, repeatable and resilient deployment process](https://www.redhat.com/en/blog/how-centris-and-ipt-used-red-hat-openshift-build-reliable-repeatable-and-resilient-deployment-process)
 - [Access Claude Sonnet 4 in Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/access-claude-sonnet-4-in-amazon-q-developer-cli/)
 - [The 2024 Red Hat Product Security Risk Report: CVEs, XZ Backdoor, SSCAs, AI…oh my!](https://www.redhat.com/en/blog/2024-red-hat-product-security-risk-report-cves-xz-backdoor-sscas-aioh-my)
-- [Red Hat Insights planning for Red Hat Enterprise Linux is now generally available](https://www.redhat.com/en/blog/red-hat-insights-planning-red-hat-enterprise-linux-now-generally-available)
-- [Friday Five — June 6, 2025](https://www.redhat.com/en/blog/friday-five-june-6-2025)
-- [Streamline your Eclipse workflows with Amazon Q Developer, now generally available](https://aws.amazon.com/blogs/devops/streamline-your-eclipse-workflows-with-amazon-q-developer-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
