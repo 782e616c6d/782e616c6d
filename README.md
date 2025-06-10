@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [June Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-4/)
+- [Docker Desktop 4.42: Native IPv6, Built-In MCP, and Better Model Packaging](https://www.docker.com/blog/docker-desktop-4-42-native-ipv6-built-in-mcp-and-better-model-packaging/)
+- [Can you vibe code without knowing how to code?](https://www.redhat.com/en/blog/can-you-vibe-code-without-knowing-how-code)
+- [AI at scale, without the price tag: Why enterprises are turning to Models-as-a-Service](https://www.redhat.com/en/blog/ai-scale-without-price-tag-why-enterprises-are-turning-models-service)
 - [The open source paradox: Unpacking risk, equity and acceptance](https://www.redhat.com/en/blog/open-source-paradox-unpacking-risk-equity-and-acceptance)
-- [Red Hat’s global impact on Linux security](https://www.redhat.com/en/blog/red-hats-global-impact-linux-security)
-- [How Centris and ipt used Red Hat OpenShift to build a reliable, repeatable and resilient deployment process](https://www.redhat.com/en/blog/how-centris-and-ipt-used-red-hat-openshift-build-reliable-repeatable-and-resilient-deployment-process)
-- [Access Claude Sonnet 4 in Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/access-claude-sonnet-4-in-amazon-q-developer-cli/)
-- [The 2024 Red Hat Product Security Risk Report: CVEs, XZ Backdoor, SSCAs, AI…oh my!](https://www.redhat.com/en/blog/2024-red-hat-product-security-risk-report-cves-xz-backdoor-sscas-aioh-my)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
