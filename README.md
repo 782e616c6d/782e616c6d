@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Publishing AI models to Docker Hub](https://www.docker.com/blog/publish-ai-models-on-docker-hub/)
+- [The new telco playbook: 4 trends shaping 2025 and beyond](https://www.redhat.com/en/blog/new-telco-playbook-4-trends-shaping-2025-and-beyond)
+- [F5 NGINX Plus running on Red Hat Enterprise Linux is now FIPS 140-3 compliant](https://www.redhat.com/en/blog/f5-nginx-plus-running-red-hat-enterprise-linux-now-fips-140-3-compliant)
 - [June Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-4/)
 - [Docker Desktop 4.42: Native IPv6, Built-In MCP, and Better Model Packaging](https://www.docker.com/blog/docker-desktop-4-42-native-ipv6-built-in-mcp-and-better-model-packaging/)
-- [Can you vibe code without knowing how to code?](https://www.redhat.com/en/blog/can-you-vibe-code-without-knowing-how-code)
-- [AI at scale, without the price tag: Why enterprises are turning to Models-as-a-Service](https://www.redhat.com/en/blog/ai-scale-without-price-tag-why-enterprises-are-turning-models-service)
-- [The open source paradox: Unpacking risk, equity and acceptance](https://www.redhat.com/en/blog/open-source-paradox-unpacking-risk-equity-and-acceptance)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
