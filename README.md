@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Q Developer Java Upgrades: A Deep Dive into the New Selective Transformation Feature](https://aws.amazon.com/blogs/devops/amazon-q-developer-java-upgrades-a-deep-dive-into-new-selective-transformation-feature/)
+- [How to Build, Run, and Package AI Models Locally with Docker Model Runner](https://www.docker.com/blog/how-to-build-run-and-package-ai-models-locally-with-docker-model-runner/)
+- [Generative AI applications with Llama Stack: A notebook-guided journey to an intelligent operations agent](https://www.redhat.com/en/blog/generative-ai-applications-llama-stack-notebook-guided-journey-intelligent-operations-agent)
+- [Fast system overviews with PCP xsos on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/fast-system-overviews-pcp-xsos-red-hat-enterprise-linux)
 - [Publishing AI models to Docker Hub](https://www.docker.com/blog/publish-ai-models-on-docker-hub/)
-- [The new telco playbook: 4 trends shaping 2025 and beyond](https://www.redhat.com/en/blog/new-telco-playbook-4-trends-shaping-2025-and-beyond)
-- [F5 NGINX Plus running on Red Hat Enterprise Linux is now FIPS 140-3 compliant](https://www.redhat.com/en/blog/f5-nginx-plus-running-red-hat-enterprise-linux-now-fips-140-3-compliant)
-- [June Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-4/)
-- [Docker Desktop 4.42: Native IPv6, Built-In MCP, and Better Model Packaging](https://www.docker.com/blog/docker-desktop-4-42-native-ipv6-built-in-mcp-and-better-model-packaging/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
