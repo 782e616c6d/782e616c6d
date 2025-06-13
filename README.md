@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Java Upgrades: A Deep Dive into the New Selective Transformation Feature](https://aws.amazon.com/blogs/devops/amazon-q-developer-java-upgrades-a-deep-dive-into-new-selective-transformation-feature/)
-- [How to Build, Run, and Package AI Models Locally with Docker Model Runner](https://www.docker.com/blog/how-to-build-run-and-package-ai-models-locally-with-docker-model-runner/)
-- [Generative AI applications with Llama Stack: A notebook-guided journey to an intelligent operations agent](https://www.redhat.com/en/blog/generative-ai-applications-llama-stack-notebook-guided-journey-intelligent-operations-agent)
-- [Fast system overviews with PCP xsos on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/fast-system-overviews-pcp-xsos-red-hat-enterprise-linux)
-- [Publishing AI models to Docker Hub](https://www.docker.com/blog/publish-ai-models-on-docker-hub/)
+- [Use Model Context Protocol with Amazon Q Developer for context-aware IDE workflows](https://aws.amazon.com/blogs/devops/use-model-context-protocol-with-amazon-q-developer-for-context-aware-ide-workflows/)
+- [What&#39;s new in Red Hat Enterprise Linux 9.6?](https://www.redhat.com/en/blog/whats-new-red-hat-enterprise-linux-96)
+- [Red Hat&#39;s virtualization journey: innovation in an evolving landscape](https://www.redhat.com/en/blog/red-hats-virtualization-journey-innovation-evolving-landscape)
+- [Friday Five — June 13, 2025](https://www.redhat.com/en/blog/friday-five-june-13-2025-red-hat)
+- [EMEA Blog | dutch | Edge technology in The Hague&#39;s trams and buses: a future-proof fleet](https://www.redhat.com/en/blog/edge-technology-in-the-hauges-trams-and-buses-nl)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
