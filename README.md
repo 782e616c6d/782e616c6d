@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Updates to Red Hat Advanced Cluster Security for Kubernetes Cloud Service strengthen your security posture](https://www.redhat.com/en/blog/updates-red-hat-advanced-cluster-security-kubernetes-cloud-service-strengthen-your-security-posture)
+- [The spatial web: Ushering in a new era of digital interactions and opportunities for telecommunication service providers](https://www.redhat.com/en/blog/spatial-web-new-era-digital-interactions-opportunities-telco)
 - [Use Model Context Protocol with Amazon Q Developer for context-aware IDE workflows](https://aws.amazon.com/blogs/devops/use-model-context-protocol-with-amazon-q-developer-for-context-aware-ide-workflows/)
 - [What&#39;s new in Red Hat Enterprise Linux 9.6?](https://www.redhat.com/en/blog/whats-new-red-hat-enterprise-linux-96)
 - [Red Hat&#39;s virtualization journey: innovation in an evolving landscape](https://www.redhat.com/en/blog/red-hats-virtualization-journey-innovation-evolving-landscape)
-- [Friday Five — June 13, 2025](https://www.redhat.com/en/blog/friday-five-june-13-2025-red-hat)
-- [EMEA Blog | dutch | Edge technology in The Hague&#39;s trams and buses: a future-proof fleet](https://www.redhat.com/en/blog/edge-technology-in-the-hauges-trams-and-buses-nl)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
