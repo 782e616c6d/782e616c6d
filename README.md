@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps MCP Server, Public Preview](https://devblogs.microsoft.com/devops/azure-devops-mcp-server-public-preview/)
+- [Red Hat OpenShift 4.19 accelerates virtualization and enterprise AI innovation](https://www.redhat.com/en/blog/red-hat-openshift-419-accelerates-virtualization-and-enterprise-ai-innovation)
 - [Updates to Red Hat Advanced Cluster Security for Kubernetes Cloud Service strengthen your security posture](https://www.redhat.com/en/blog/updates-red-hat-advanced-cluster-security-kubernetes-cloud-service-strengthen-your-security-posture)
 - [The spatial web: Ushering in a new era of digital interactions and opportunities for telecommunication service providers](https://www.redhat.com/en/blog/spatial-web-new-era-digital-interactions-opportunities-telco)
 - [Use Model Context Protocol with Amazon Q Developer for context-aware IDE workflows](https://aws.amazon.com/blogs/devops/use-model-context-protocol-with-amazon-q-developer-for-context-aware-ide-workflows/)
-- [What&#39;s new in Red Hat Enterprise Linux 9.6?](https://www.redhat.com/en/blog/whats-new-red-hat-enterprise-linux-96)
-- [Red Hat&#39;s virtualization journey: innovation in an evolving landscape](https://www.redhat.com/en/blog/red-hats-virtualization-journey-innovation-evolving-landscape)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
