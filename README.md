@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Azure DevOps MCP Server, Public Preview](https://devblogs.microsoft.com/devops/azure-devops-mcp-server-public-preview/)
-- [Red Hat OpenShift 4.19 accelerates virtualization and enterprise AI innovation](https://www.redhat.com/en/blog/red-hat-openshift-419-accelerates-virtualization-and-enterprise-ai-innovation)
-- [Updates to Red Hat Advanced Cluster Security for Kubernetes Cloud Service strengthen your security posture](https://www.redhat.com/en/blog/updates-red-hat-advanced-cluster-security-kubernetes-cloud-service-strengthen-your-security-posture)
-- [The spatial web: Ushering in a new era of digital interactions and opportunities for telecommunication service providers](https://www.redhat.com/en/blog/spatial-web-new-era-digital-interactions-opportunities-telco)
-- [Use Model Context Protocol with Amazon Q Developer for context-aware IDE workflows](https://aws.amazon.com/blogs/devops/use-model-context-protocol-with-amazon-q-developer-for-context-aware-ide-workflows/)
+- [Docker State of App Dev: Security](https://www.docker.com/blog/docker-state-of-app-dev-security/)
+- [Why Docker Chose OCI Artifacts for AI Model Packaging](https://www.docker.com/blog/why-docker-chose-oci-artifacts-for-ai-model-packaging/)
+- [Behind the scenes: How we designed Docker Model Runner and what’s next](https://www.docker.com/blog/behind-the-scenes-how-we-designed-docker-model-runner-and-whats-next/)
+- [SiriusXM modernizes virtualization without missing a beat](https://www.redhat.com/en/blog/siriusxm-modernizes-virtualization-without-missing-beat)
+- [MLPerf Inference v5.0 results with Supermicro’s GH200 Grace Hopper Superchip-based Server and Red Hat OpenShift](https://www.redhat.com/en/blog/mlperf-inference-v50-results)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
