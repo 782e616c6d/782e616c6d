@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Streamline Operational Troubleshooting with Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/streamline-operational-troubleshooting-with-amazon-q-developer-cli/)
+- [Announcing the new AWS CDK EKS v2 L2 Constructs](https://aws.amazon.com/blogs/devops/announcing-the-new-aws-cdk-eks-v2-l2-constructs/)
+- [Accelerate development with secure access to Amazon Q Developer using PingIdentity](https://aws.amazon.com/blogs/devops/accelerate-development-with-secure-access-to-amazon-q-developer-using-pingidentity/)
+- [Cloud-native enablement of DPUs in Red Hat OpenShift](https://www.redhat.com/en/blog/cloud-native-enablement-dpus-red-hat-openshift)
 - [Docker State of App Dev: Security](https://www.docker.com/blog/docker-state-of-app-dev-security/)
-- [Why Docker Chose OCI Artifacts for AI Model Packaging](https://www.docker.com/blog/why-docker-chose-oci-artifacts-for-ai-model-packaging/)
-- [Behind the scenes: How we designed Docker Model Runner and what’s next](https://www.docker.com/blog/behind-the-scenes-how-we-designed-docker-model-runner-and-whats-next/)
-- [SiriusXM modernizes virtualization without missing a beat](https://www.redhat.com/en/blog/siriusxm-modernizes-virtualization-without-missing-beat)
-- [MLPerf Inference v5.0 results with Supermicro’s GH200 Grace Hopper Superchip-based Server and Red Hat OpenShift](https://www.redhat.com/en/blog/mlperf-inference-v50-results)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
