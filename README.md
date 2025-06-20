@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — June 20, 2025](https://www.redhat.com/en/blog/friday-five-june-20-2025-red-hat)
 - [Streamline Operational Troubleshooting with Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/streamline-operational-troubleshooting-with-amazon-q-developer-cli/)
 - [Announcing the new AWS CDK EKS v2 L2 Constructs](https://aws.amazon.com/blogs/devops/announcing-the-new-aws-cdk-eks-v2-l2-constructs/)
 - [Accelerate development with secure access to Amazon Q Developer using PingIdentity](https://aws.amazon.com/blogs/devops/accelerate-development-with-secure-access-to-amazon-q-developer-using-pingidentity/)
 - [Cloud-native enablement of DPUs in Red Hat OpenShift](https://www.redhat.com/en/blog/cloud-native-enablement-dpus-red-hat-openshift)
-- [Docker State of App Dev: Security](https://www.docker.com/blog/docker-state-of-app-dev-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
