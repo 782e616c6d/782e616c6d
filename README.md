@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [From the lab to the enterprise: translating observability innovations from research platforms to real-world business value with Red Hat OpenShift](https://www.redhat.com/en/blog/lab-enterprise-translating-observability-innovations-research-platforms-real-world-business-value-red-hat-openshift)
+- [Approaching OpenShift Virtualization: What customers wish they knew](https://www.redhat.com/en/blog/approaching-openshift-virtualization)
 - [Ansible Automation Platform and HashiCorp Terraform integration for infrastructure lifecycle management](https://www.redhat.com/en/blog/ansible-automation-platform-and-hashicorp-terraform-integration-infrastructure-lifecycle-management)
 - [4 takeaways from Red Hat Summit and AnsibleFest 2025](https://www.redhat.com/en/blog/4-takeaways-red-hat-summit-and-ansiblefest-2025)
 - [Friday Five — June 20, 2025](https://www.redhat.com/en/blog/friday-five-june-20-2025-red-hat)
-- [Streamline Operational Troubleshooting with Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/streamline-operational-troubleshooting-with-amazon-q-developer-cli/)
-- [Announcing the new AWS CDK EKS v2 L2 Constructs](https://aws.amazon.com/blogs/devops/announcing-the-new-aws-cdk-eks-v2-l2-constructs/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
