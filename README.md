@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Insights advisor in Red Hat Satellite](https://www.redhat.com/en/blog/red-hat-insights-advisor-red-hat-satellite)
+- [Red Hat Advanced Cluster Security 4.8 simplifies management, enhances workflows and offers deeper external IP visibility](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-48)
+- [How do you beta? With Jasper Wiegratz](https://www.redhat.com/en/blog/how-do-you-beta-jasper-wiegratz)
 - [Removing Azure Resource Manager reliance on Azure DevOps sign-ins](https://devblogs.microsoft.com/devops/removing-azure-resource-manager-reliance-on-azure-devops-sign-ins/)
 - [Docker State of App Dev: AI](https://www.docker.com/blog/docker-state-of-app-dev-ai/)
-- [From the lab to the enterprise: translating observability innovations from research platforms to real-world business value with Red Hat OpenShift](https://www.redhat.com/en/blog/lab-enterprise-translating-observability-innovations-research-platforms-real-world-business-value-red-hat-openshift)
-- [Approaching OpenShift Virtualization: What customers wish they knew](https://www.redhat.com/en/blog/approaching-openshift-virtualization)
-- [Ansible Automation Platform and HashiCorp Terraform integration for infrastructure lifecycle management](https://www.redhat.com/en/blog/ansible-automation-platform-and-hashicorp-terraform-integration-infrastructure-lifecycle-management)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
