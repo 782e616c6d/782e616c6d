@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Building an Easy Private AI Assistant with Goose and Docker Model Runner](https://www.docker.com/blog/building-an-ai-assistant-with-goose-and-docker-model-runner/)
+- [Improved user experience for Red Hat Insights remediations service](https://www.redhat.com/en/blog/improved-user-experience-red-hat-insights-remediations-service)
+- [Friday Five — June 27, 2025](https://www.redhat.com/en/blog/friday-five-june-27-2025-red-hat)
+- [Better together: The Red Hat Ansible Automation Platform provider for HashiCorp Terraform has been updated](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-provider-hashicorp-terraform-has-been-updated)
 - [Red Hat Insights advisor in Red Hat Satellite](https://www.redhat.com/en/blog/red-hat-insights-advisor-red-hat-satellite)
-- [Red Hat Advanced Cluster Security 4.8 simplifies management, enhances workflows and offers deeper external IP visibility](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-48)
-- [How do you beta? With Jasper Wiegratz](https://www.redhat.com/en/blog/how-do-you-beta-jasper-wiegratz)
-- [Removing Azure Resource Manager reliance on Azure DevOps sign-ins](https://devblogs.microsoft.com/devops/removing-azure-resource-manager-reliance-on-azure-devops-sign-ins/)
-- [Docker State of App Dev: AI](https://www.docker.com/blog/docker-state-of-app-dev-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
