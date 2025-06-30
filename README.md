@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Building an Easy Private AI Assistant with Goose and Docker Model Runner](https://www.docker.com/blog/building-an-ai-assistant-with-goose-and-docker-model-runner/)
-- [Improved user experience for Red Hat Insights remediations service](https://www.redhat.com/en/blog/improved-user-experience-red-hat-insights-remediations-service)
-- [Friday Five — June 27, 2025](https://www.redhat.com/en/blog/friday-five-june-27-2025-red-hat)
-- [Better together: The Red Hat Ansible Automation Platform provider for HashiCorp Terraform has been updated](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-provider-hashicorp-terraform-has-been-updated)
-- [Red Hat Insights advisor in Red Hat Satellite](https://www.redhat.com/en/blog/red-hat-insights-advisor-red-hat-satellite)
+- [Tool Calling with Local LLMs: A Practical Evaluation](https://www.docker.com/blog/local-llm-tool-calling-a-practical-evaluation/)
+- [What&#39;s new in Red Hat OpenShift Virtualization 4.19](https://www.redhat.com/en/blog/whats-new-red-hat-openshift-virtualization-419)
+- [The Sovereign Cloud Imperative](https://www.redhat.com/en/blog/sovereign-cloud-imperative)
+- [Manage Red Hat Enterprise Linux 10 with Red Hat Insights and Red Hat Satellite](https://www.redhat.com/en/blog/manage-red-hat-enterprise-linux-10-red-hat-insights-and-red-hat-satellite)
+- [LLM compression and optimization: Cheaper inference with fewer hardware resources](https://www.redhat.com/en/blog/llm-compression-and-optimization-cheaper-inference-fewer-hardware-resources)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
