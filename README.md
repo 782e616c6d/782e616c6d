@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using Gordon to Containerize Your Apps and Work with Containers](https://www.docker.com/blog/containerize-your-apps-with-ask-gordon/)
+- [Docker State of App Dev: Dev Ex &amp; Productivity](https://www.docker.com/blog/docker-state-of-app-dev-dev-ex-productivity/)
+- [Disaster recovery approaches for Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/disaster-recovery-approaches-red-hat-openshift-virtualization)
+- [Boosting support case summarization efficiency with AI: A Granite model success story](https://www.redhat.com/en/blog/support-case-summarization-efficiency-with-granite)
 - [The Docker MCP Catalog: the Secure Way to Discover and Run MCP Servers](https://www.docker.com/blog/docker-mcp-catalog-secure-way-to-discover-and-run-mcp-servers/)
-- [Modernizing virtualization in healthcare: a Red Hat and TEKSystems success story](https://www.redhat.com/en/blog/modernizing-virtualization-healthcare-red-hat-and-teksystems-success-story)
-- [Model Context Protocol &lpar;MCP&rpar;: Understanding security risks and controls](https://www.redhat.com/en/blog/model-context-protocol-mcp-understanding-security-risks-and-controls)
-- [Tool Calling with Local LLMs: A Practical Evaluation](https://www.docker.com/blog/local-llm-tool-calling-a-practical-evaluation/)
-- [What&#39;s new in Red Hat OpenShift Virtualization 4.19](https://www.redhat.com/en/blog/whats-new-red-hat-openshift-virtualization-419)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
