@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [5 Best Practices for Building, Testing, and Packaging MCP Servers](https://www.docker.com/blog/mcp-server-best-practices/)
+- [Docker Desktop 4.43: Expanded Model Runner, Reimagined MCP Catalog, MCP Server Submissions, and Smarter Gordon](https://www.docker.com/blog/docker-desktop-4-43/)
+- [Level up your skills: 5 reasons to try Red Hat Learning Subscription](https://www.redhat.com/en/blog/level-your-skills-5-reasons-try-red-hat-learning-subscription)
 - [Using Gordon to Containerize Your Apps and Work with Containers](https://www.docker.com/blog/containerize-your-apps-with-ask-gordon/)
 - [Docker State of App Dev: Dev Ex &amp; Productivity](https://www.docker.com/blog/docker-state-of-app-dev-dev-ex-productivity/)
-- [Disaster recovery approaches for Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/disaster-recovery-approaches-red-hat-openshift-virtualization)
-- [Boosting support case summarization efficiency with AI: A Granite model success story](https://www.redhat.com/en/blog/support-case-summarization-efficiency-with-granite)
-- [The Docker MCP Catalog: the Secure Way to Discover and Run MCP Servers](https://www.docker.com/blog/docker-mcp-catalog-secure-way-to-discover-and-run-mcp-servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
