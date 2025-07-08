@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Docker Hub MCP Server: A New Way to Discover, Inspect, and Manage Container Images](https://www.docker.com/blog/introducing-docker-hub-mcp-server/)
+- [Real-world OpenShift stories: Inspiration for your next OpenShift Commons Gathering talk](https://www.redhat.com/en/blog/real-world-openshift-stories-inspiration-your-next-openshift-commons-gathering-talk)
+- [Now available: Red Hat Enterprise Linux Security Select Add-On](https://www.redhat.com/en/blog/rhel-security-select-add-on)
 - [Markdown Support Arrives for Work Items](https://devblogs.microsoft.com/devops/markdown-support-arrives-for-work-items/)
 - [From Dev to Deploy: Compose as the Spine of the Application Lifecycle](https://www.docker.com/blog/docker-compose-powering-the-full-app-lifecycle/)
-- [Red Hat’s 2025 Summit features financial service innovators: Emirates NBD’s virtualization transformation](https://www.redhat.com/en/blog/red-hats-2025-summit-features-financial-service-innovators-emirates-nbds-virtualization-transformation)
-- [From chaos to cohesion: How NC State is rebuilding IT around Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/chaos-cohesion-how-nc-state-rebuilding-it-around-red-hat-openshift-virtualization)
-- [Friday Five — July 4, 2025](https://www.redhat.com/en/blog/friday-five-july-4-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
