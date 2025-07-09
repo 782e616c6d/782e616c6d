@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Docker Hub MCP Server: A New Way to Discover, Inspect, and Manage Container Images](https://www.docker.com/blog/introducing-docker-hub-mcp-server/)
-- [Real-world OpenShift stories: Inspiration for your next OpenShift Commons Gathering talk](https://www.redhat.com/en/blog/real-world-openshift-stories-inspiration-your-next-openshift-commons-gathering-talk)
-- [Now available: Red Hat Enterprise Linux Security Select Add-On](https://www.redhat.com/en/blog/rhel-security-select-add-on)
-- [Markdown Support Arrives for Work Items](https://devblogs.microsoft.com/devops/markdown-support-arrives-for-work-items/)
-- [From Dev to Deploy: Compose as the Spine of the Application Lifecycle](https://www.docker.com/blog/docker-compose-powering-the-full-app-lifecycle/)
+- [Unlock enhanced CI/CD insights in GitLab for pipeline visibility](https://www.dynatrace.com/news/blog/unlock-enhanced-ci-cd-insights-in-gitlab-for-pipeline-visibility/)
+- [July Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-2/)
+- [Compose your way with Provider services!](https://www.docker.com/blog/docker-compose-with-provider-services/)
+- [Docker MCP Gateway: Open Source, Secure Infrastructure for Agentic AI](https://www.docker.com/blog/docker-mcp-gateway-secure-infrastructure-for-agentic-ai/)
+- [Why agents are the new kingmakers](https://www.redhat.com/en/blog/why-agents-are-new-kingmakers)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
