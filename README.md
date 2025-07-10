@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The 2025 Docker State of Application Development Report](https://www.docker.com/blog/2025-docker-state-of-app-dev/)
+- [Docker Brings Compose to the Agent Era: Building AI Agents is Now Easy](https://www.docker.com/blog/build-ai-agents-with-docker-compose/)
+- [Red Hat: the customer’s choice on G2 and TrustRadius](https://www.redhat.com/en/blog/red-hat-customers-choice-g2-and-trustradius)
+- [Red Hat Advanced Cluster Security 4.8 simplifies management, enhances workflows and offers deeper external IP visibility](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-48)
 - [Unlock enhanced CI/CD insights in GitLab for pipeline visibility](https://www.dynatrace.com/news/blog/unlock-enhanced-ci-cd-insights-in-gitlab-for-pipeline-visibility/)
-- [July Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-2/)
-- [Compose your way with Provider services!](https://www.docker.com/blog/docker-compose-with-provider-services/)
-- [Docker MCP Gateway: Open Source, Secure Infrastructure for Agentic AI](https://www.docker.com/blog/docker-mcp-gateway-secure-infrastructure-for-agentic-ai/)
-- [Why agents are the new kingmakers](https://www.redhat.com/en/blog/why-agents-are-new-kingmakers)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
