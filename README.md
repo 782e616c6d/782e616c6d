@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Testing: Using Docker Model Runner with Microcks for Dynamic Mock APIs](https://www.docker.com/blog/ai-powered-mock-apis-for-testing-with-docker-and-microcks/)
+- [Managing Amazon Q Developer Profiles and Customizations in Large Organizations](https://aws.amazon.com/blogs/devops/managing-amazon-q-developer-profiles-and-customizations-in-large-organizations/)
+- [AI beyond the hype at Red Hat Summit: 7 key announcements](https://www.redhat.com/en/blog/ai-beyond-hype-red-hat-summit-7-key-announcements)
 - [Build a GenAI App With Java Using Spring AI and Docker Model Runner](https://www.docker.com/blog/build-genai-app-with-java-spring-ai-docker-model-runner/)
 - [What’s new in OpenShift Virtualization: 11 highlights from Red Hat Summit](https://www.redhat.com/en/blog/future-virtualization-unveiled-summit-blog-roundup)
-- [Migrate to innovate: technology platform migrations underpin resilience and power innovation](https://www.redhat.com/en/blog/migrate-innovate-technology-platform-migrations)
-- [Friday Five — July 11, 2025](https://www.redhat.com/en/blog/friday-five-july-11-2025-red-hat)
-- [The 2025 Docker State of Application Development Report](https://www.docker.com/blog/2025-docker-state-of-app-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
