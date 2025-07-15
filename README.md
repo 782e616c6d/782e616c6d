@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the end of support for Node.js 18.x in AWS CDK](https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-18-x-in-aws-cdk/)
+- [The Red Hat Ansible Certified Collection for Terraform has been updated to support HashiCorp Terraform](https://www.redhat.com/en/blog/red-hat-ansible-certified-collection-hashicorp-terraform)
+- [Open source and AI are transforming healthcare at Boston Children’s Hospital](https://www.redhat.com/en/blog/open-source-ai-transforming-healthcare-boston-Children-hospital)
+- [Accelerate virtual machine migrations with the migration toolkit for virtualization 2.9](https://www.redhat.com/en/redhat.com/en/blog/accelerate-virtual-machine-migration-with-mtv)
 - [AI-Powered Testing: Using Docker Model Runner with Microcks for Dynamic Mock APIs](https://www.docker.com/blog/ai-powered-mock-apis-for-testing-with-docker-and-microcks/)
-- [Managing Amazon Q Developer Profiles and Customizations in Large Organizations](https://aws.amazon.com/blogs/devops/managing-amazon-q-developer-profiles-and-customizations-in-large-organizations/)
-- [AI beyond the hype at Red Hat Summit: 7 key announcements](https://www.redhat.com/en/blog/ai-beyond-hype-red-hat-summit-7-key-announcements)
-- [Build a GenAI App With Java Using Spring AI and Docker Model Runner](https://www.docker.com/blog/build-genai-app-with-java-spring-ai-docker-model-runner/)
-- [What’s new in OpenShift Virtualization: 11 highlights from Red Hat Summit](https://www.redhat.com/en/blog/future-virtualization-unveiled-summit-blog-roundup)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
