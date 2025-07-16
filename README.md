@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Powering Local AI Together: Docker Model Runner on Hugging Face](https://www.docker.com/blog/docker-model-runner-on-hugging-face/)
+- [Tekton Pipelines 1.0 is a milestone for cloud-native CI/CD and Red Hat OpenShift Pipelines](https://www.redhat.com/en/tekton-pipelines-1.0-and-openshift-for-cicd)
+- [Simplify your Red Hat subscriptions with AWS License Manager](https://www.redhat.com/en/blog/simplify-red-hat-subscriptions-aws-license-manager)
+- [Prove gen AI value in weeks, not years](https://www.redhat.com/en/blog/prove-gen-ai-value-weeks-not-years)
 - [Announcing the end of support for Node.js 18.x in AWS CDK](https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-18-x-in-aws-cdk/)
-- [The Red Hat Ansible Certified Collection for Terraform has been updated to support HashiCorp Terraform](https://www.redhat.com/en/blog/red-hat-ansible-certified-collection-hashicorp-terraform)
-- [Open source and AI are transforming healthcare at Boston Children’s Hospital](https://www.redhat.com/en/blog/open-source-ai-transforming-healthcare-boston-Children-hospital)
-- [Accelerate virtual machine migrations with the migration toolkit for virtualization 2.9](https://www.redhat.com/en/redhat.com/en/blog/accelerate-virtual-machine-migration-with-mtv)
-- [AI-Powered Testing: Using Docker Model Runner with Microcks for Dynamic Mock APIs](https://www.docker.com/blog/ai-powered-mock-apis-for-testing-with-docker-and-microcks/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
