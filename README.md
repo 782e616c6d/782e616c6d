@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [GoFiber v3 + Testcontainers: Production-like Local Dev with Air](https://www.docker.com/blog/go-local-dev-fiber-v3-testcontainers/)
+- [GitOps continuous delivery with ArgoCD and EKS using natural language](https://aws.amazon.com/blogs/devops/gitops-continuous-delivery-with-argocd-and-eks-using-natural-language/)
+- [Reduce risk in Kubernetes: How to separate admin roles for safer, compliant operations](https://www.redhat.com/en/separate-admin-roles-with-confidential-containers)
 - [Powering Local AI Together: Docker Model Runner on Hugging Face](https://www.docker.com/blog/docker-model-runner-on-hugging-face/)
 - [Tekton Pipelines 1.0 is a milestone for cloud-native CI/CD and Red Hat OpenShift Pipelines](https://www.redhat.com/en/tekton-pipelines-1.0-and-openshift-for-cicd)
-- [Simplify your Red Hat subscriptions with AWS License Manager](https://www.redhat.com/en/blog/simplify-red-hat-subscriptions-aws-license-manager)
-- [Prove gen AI value in weeks, not years](https://www.redhat.com/en/blog/prove-gen-ai-value-weeks-not-years)
-- [Announcing the end of support for Node.js 18.x in AWS CDK](https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-18-x-in-aws-cdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
