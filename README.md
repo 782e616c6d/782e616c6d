@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Telco autonomous networks choosing: the right cloud and framework](https://www.redhat.com/en/blog/telco-autonomous-networks-choosing-the-right-cloud-and-framework)
+- [Making AI accessible to all: our collaboration with Teens in AI](https://www.redhat.com/en/blog/making-ai-accessible-to-all-our-collaboration-with-teens-in-ai)
+- [Getting started with Red Hat Ansible Lightspeed with IBM watsonx Code Assistant](https://www.redhat.com/en/blog/getting-started-red-hat-ansible-lightspeed-ibm-watsonx-code-assistant)
+- [Friday Five — July 18, 2025](https://www.redhat.com/en/blog/friday-five-july-18-2025)
 - [GoFiber v3 + Testcontainers: Production-like Local Dev with Air](https://www.docker.com/blog/go-local-dev-fiber-v3-testcontainers/)
-- [GitOps continuous delivery with ArgoCD and EKS using natural language](https://aws.amazon.com/blogs/devops/gitops-continuous-delivery-with-argocd-and-eks-using-natural-language/)
-- [Reduce risk in Kubernetes: How to separate admin roles for safer, compliant operations](https://www.redhat.com/en/separate-admin-roles-with-confidential-containers)
-- [Powering Local AI Together: Docker Model Runner on Hugging Face](https://www.docker.com/blog/docker-model-runner-on-hugging-face/)
-- [Tekton Pipelines 1.0 is a milestone for cloud-native CI/CD and Red Hat OpenShift Pipelines](https://www.redhat.com/en/tekton-pipelines-1.0-and-openshift-for-cicd)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
