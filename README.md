@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker MCP Catalog: Finding the Right AI Tools for Your Project](https://www.docker.com/blog/finding-the-right-ai-developer-tools-mcp-catalog/)
+- [What’s new in cloud automation: Red Hat Ansible AWS 10.0.0](https://www.redhat.com/en/blog/whats-new-in-cloud-automation-red-hat-ansible-aws-10.0.0)
+- [Red Hat boosts partner engagement with program updates and new Partner Demand Center](https://www.redhat.com/en/blog/red-hat-boosts-partner-engagement-program-updates-and-new-partner-demand-center)
 - [Compose Editing Evolved: Schema-Driven and Context-Aware](https://www.docker.com/blog/compose-editing-evolved-schema-driven-and-context-aware/)
 - [Splunk and Red Hat collaborate to automate response to observability alerts for improved AIOps](https://www.redhat.com/en/blog/splunk-redhat-collaborate-automate-response-observability-alerts-for-improved-aiops)
-- [9 articles Red Hat customers are reading after Red Hat Summit](https://www.redhat.com/en/blog/9-articles-red-hat-customers-are-reading-after-red-hat-summit)
-- [Docker Unveils the Future of Agentic Apps at WeAreDevelopers](https://www.docker.com/blog/wearedevelopers-docker-unveils-the-future-of-agentic-apps/)
-- [Azure Developer CLI: From Dev to Prod with One Click](https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-one-click/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
