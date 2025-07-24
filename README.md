@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat and Simudyne: Empowering stock exchanges with AI-driven market simulation](https://www.redhat.com/en/blog/red-hat-and-simudyne-empowering-stock-exchanges)
+- [Bringing Red Hat AI GitOps to Microsoft Azure SQL Database](https://www.redhat.com/en/blog/bringing-red-hat-ai-gitops-to-microsoft-azure-sql-database)
 - [Docker MCP Catalog: Finding the Right AI Tools for Your Project](https://www.docker.com/blog/finding-the-right-ai-developer-tools-mcp-catalog/)
 - [What’s new in cloud automation: Red Hat Ansible AWS 10.0.0](https://www.redhat.com/en/blog/whats-new-in-cloud-automation-red-hat-ansible-aws-10.0.0)
 - [Red Hat boosts partner engagement with program updates and new Partner Demand Center](https://www.redhat.com/en/blog/red-hat-boosts-partner-engagement-program-updates-and-new-partner-demand-center)
-- [Compose Editing Evolved: Schema-Driven and Context-Aware](https://www.docker.com/blog/compose-editing-evolved-schema-driven-and-context-aware/)
-- [Splunk and Red Hat collaborate to automate response to observability alerts for improved AIOps](https://www.redhat.com/en/blog/splunk-redhat-collaborate-automate-response-observability-alerts-for-improved-aiops)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
