@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate modernization and cloud migration](https://www.docker.com/blog/accelerate-modernization-and-cloud-migration/)
+- [Retiring Docker Content Trust](https://www.docker.com/blog/retiring-docker-content-trust/)
+- [Troubleshooting Elastic Beanstalk Environments with Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/troubleshooting-elastic-beanstalk-environments-with-amazon-q-developer-cli/)
+- [Digital Sovereignty is far more than compliance](https://www.redhat.com/en/blog/digital-severeignty-compliance)
 - [Beyond the Chatbot: Event-Driven Agents in Action](https://www.docker.com/blog/beyond-the-chatbot-event-driven-agents-in-action/)
-- [Hope, crash, iterate: One PM’s journey to make enterprise library content searchable, findable, and more useful - Part 1](https://www.redhat.com/en/blog/hope-crash-iterate-one-pms-journey-part1)
-- [From Manual Testing to AI-Generated Automation: Our Azure DevOps MCP + Playwright Success Story](https://devblogs.microsoft.com/devops/from-manual-testing-to-ai-generated-automation-our-azure-devops-mcp-playwright-success-story/)
-- [Red Hat and Simudyne: Empowering stock exchanges with AI-driven market simulation](https://www.redhat.com/en/blog/red-hat-and-simudyne-empowering-stock-exchanges)
-- [Friday Five — July 25, 2025](https://www.redhat.com/en/blog/friday-five-july-25-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
