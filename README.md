@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat named a Leader in The Forrester Wave™: Multicloud Container Platforms, Q3 2025](https://www.redhat.com/en/blog/red-hat-named-leader-forrester-wave-q3-2025)
+- [Deploy sensitive workloads with OpenShift confidential containers](https://www.redhat.com/en/blog/deploy-sensitive-workloads-with-openshift-confidential-containers)
+- [Confidential containers on Microsoft Azure with Red Hat OpenShift Sandboxed Containers 1.10 and Red Hat Build of Trustee](https://www.redhat.com/en/blog/confidential-containers-microsoft-azure-red-hat-openshift-sandboxed-containers-110-and-red-hat-build-trustee)
 - [Accelerate modernization and cloud migration](https://www.docker.com/blog/accelerate-modernization-and-cloud-migration/)
 - [Retiring Docker Content Trust](https://www.docker.com/blog/retiring-docker-content-trust/)
-- [Troubleshooting Elastic Beanstalk Environments with Amazon Q Developer CLI](https://aws.amazon.com/blogs/devops/troubleshooting-elastic-beanstalk-environments-with-amazon-q-developer-cli/)
-- [Digital Sovereignty is far more than compliance](https://www.redhat.com/en/blog/digital-severeignty-compliance)
-- [Beyond the Chatbot: Event-Driven Agents in Action](https://www.docker.com/blog/beyond-the-chatbot-event-driven-agents-in-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
