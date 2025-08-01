@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Five — August 1, 2025](https://www.redhat.com/en/blog/friday-five-august-1-2025-red-hat)
 - [Overcome development disarray with Amazon Q Developer CLI custom agents](https://aws.amazon.com/blogs/devops/overcome-development-disarray-with-amazon-q-developer-cli-custom-agents/)
 - [GenAI vs. Agentic AI: What Developers Need to Know](https://www.docker.com/blog/genai-vs-agentic-ai/)
 - [MCP Horror Stories: The Security Issues Threatening AI Infrastructure](https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/)
 - [AI-Driven Development Life Cycle: Reimagining Software Engineering](https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/)
-- [Improving performance of multiple I/O threads for OpenShift Virtualization](https://www.redhat.com/en/blog/Improving-performance-of-multiple-I/O-threads-for-red-hat-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
