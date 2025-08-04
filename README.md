@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Friday Five — August 1, 2025](https://www.redhat.com/en/blog/friday-five-august-1-2025-red-hat)
-- [Overcome development disarray with Amazon Q Developer CLI custom agents](https://aws.amazon.com/blogs/devops/overcome-development-disarray-with-amazon-q-developer-cli-custom-agents/)
-- [GenAI vs. Agentic AI: What Developers Need to Know](https://www.docker.com/blog/genai-vs-agentic-ai/)
-- [MCP Horror Stories: The Security Issues Threatening AI Infrastructure](https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/)
-- [AI-Driven Development Life Cycle: Reimagining Software Engineering](https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/)
+- [How Docker MCP Toolkit Works with VS Code Copilot Agent Mode](https://www.docker.com/blog/mcp-toolkit-and-vs-code-copilot-agent/)
+- [Hard Questions: What You Should Really Be Asking Your Hardened Image Provider Before You Press the Buy Button](https://www.docker.com/blog/container-security-hardened-images-questions/)
+- [Automate your open-source dependency scanning with Advanced Security](https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security/)
+- [Zero trust starts here: Validated patterns for confidential container deployment](https://www.redhat.com/en/blog/validated-patterns-confidential-container-deployment)
+- [The future is now: 13 top AI reads from Q2](https://www.redhat.com/en/blog/future-now-13-top-ai-reads-q2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
