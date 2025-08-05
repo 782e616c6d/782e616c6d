@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Everyone’s a Snowflake: Designing Hardened Image Processes for the Real World](https://www.docker.com/blog/hardened-image-best-practices/)
+- [Streamlined migration: updating Ansible Automation Platform workflows to work with Terraform Enterprise and HCP Terraform](https://www.redhat.com/en/blog/streamlined-migration-updating-ansible-automation-platform-workflows-work-terraform-enterprise-and-hcp-terraform)
+- [Introducing OpenShift Service Mesh 3.1](https://www.redhat.com/en/blog/introducing-openshift-service-mesh-31)
+- [Hope, crash, iterate: One PM’s journey to make enterprise library content searchable, findable, and useful - Part 2](https://www.redhat.com/en/blog/hope-crash-iterate-one-pms-journey)
 - [How Docker MCP Toolkit Works with VS Code Copilot Agent Mode](https://www.docker.com/blog/mcp-toolkit-and-vs-code-copilot-agent/)
-- [Hard Questions: What You Should Really Be Asking Your Hardened Image Provider Before You Press the Buy Button](https://www.docker.com/blog/container-security-hardened-images-questions/)
-- [Automate your open-source dependency scanning with Advanced Security](https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security/)
-- [Zero trust starts here: Validated patterns for confidential container deployment](https://www.redhat.com/en/blog/validated-patterns-confidential-container-deployment)
-- [The future is now: 13 top AI reads from Q2](https://www.redhat.com/en/blog/future-now-13-top-ai-reads-q2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
