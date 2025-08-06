@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Accelerating FedRAMP Compliance with Docker Hardened Images](https://www.docker.com/blog/fedramp-compliance-with-hardened-images/)
+- [The Next Evolution of Docker Hardened Images: Customizable, FedRAMP Ready, AI Migration Agent, and Deeper Integrations](https://www.docker.com/blog/the-next-evolution-of-docker-hardened-images/)
+- [My Experience with the Red Hat Academy Program](https://www.redhat.com/en/blog/my-experience-red-hat-academy-program)
 - [Everyone’s a Snowflake: Designing Hardened Image Processes for the Real World](https://www.docker.com/blog/hardened-image-best-practices/)
 - [Streamlined migration: updating Ansible Automation Platform workflows to work with Terraform Enterprise and HCP Terraform](https://www.redhat.com/en/blog/streamlined-migration-updating-ansible-automation-platform-workflows-work-terraform-enterprise-and-hcp-terraform)
-- [Introducing OpenShift Service Mesh 3.1](https://www.redhat.com/en/blog/introducing-openshift-service-mesh-31)
-- [Hope, crash, iterate: One PM’s journey to make enterprise library content searchable, findable, and useful - Part 2](https://www.redhat.com/en/blog/hope-crash-iterate-one-pms-journey)
-- [How Docker MCP Toolkit Works with VS Code Copilot Agent Mode](https://www.docker.com/blog/mcp-toolkit-and-vs-code-copilot-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
