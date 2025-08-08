@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Build a Recipe AI Agent with Koog and Docker](https://www.docker.com/blog/build-a-recipe-ai-agent-with-koog-and-docker/)
+- [Friday Five — August 8, 2025](https://www.redhat.com/en/blog/friday-five-august-8-2025-red-hat)
 - [MCP Horror Stories: The Supply Chain Attack](https://www.docker.com/blog/mcp-horror-stories-the-supply-chain-attack/)
 - [What’s new with Ansible Automation Platform content](https://www.redhat.com/en/blog/whats-new-ansible-automation-platform-content)
 - [Top 10 articles Red Hat customers are reading right now](https://www.redhat.com/en/blog/top-10-articles-red-hat-customers-are-reading-right-now)
-- [Red Hat Named a Leader in 2025 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms for the Second Consecutive Year](https://www.redhat.com/en/red-hat-named-leader-2025-cloud-native)
-- [Multicluster management secrets Bradesco revealed at Red Hat Summit 2025](https://www.redhat.com/en/blog/multicluster-management-secrets-bradesco-revealed-red-hat-summit-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
