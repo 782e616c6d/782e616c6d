@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Tooling ≠ Glue: Why changing AI workflows still feels like duct tape](https://www.docker.com/blog/why-changing-ai-workflows-still-feels-like-duct-tape/)
+- [The next evolution of Red Hat’s Developer options](https://www.redhat.com/en/blog/next-evolution-red-hats-developer-options)
+- [Red Hat Named a Leader in 2025 Gartner® Magic Quadrant™ for Container Management for the Third Consecutive Year](https://www.redhat.com/en/blog/red-hat-named-leader-2025-container-management)
+- [MCP server development: Make agentic AI your API’s &quot;customer zero&quot;](https://www.redhat.com/en/blog/mcp-server-development-make-agentic-ai-your-apis-customer-zero)
 - [Remocal and Minimum Viable Models: Why Right-Sized Models Beat API Overkill](https://www.docker.com/blog/remocal-minimum-viable-models-ai/)
-- [Build a Recipe AI Agent with Koog and Docker](https://www.docker.com/blog/build-a-recipe-ai-agent-with-koog-and-docker/)
-- [Friday Five — August 8, 2025](https://www.redhat.com/en/blog/friday-five-august-8-2025-red-hat)
-- [MCP Horror Stories: The Supply Chain Attack](https://www.docker.com/blog/mcp-horror-stories-the-supply-chain-attack/)
-- [What’s new with Ansible Automation Platform content](https://www.redhat.com/en/blog/whats-new-ansible-automation-platform-content)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
