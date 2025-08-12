@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Hunting Living Secrets: Secret Validity Checks Arrive in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/hunting-living-secrets-secret-validity-checks-arrive-in-github-advanced-security-for-azure-devops/)
+- [Building AI agents made easy with Goose and Docker](https://www.docker.com/blog/building-ai-agents-with-goose-and-docker/)
+- [Real-Time Security with Continuous Access Evaluation &lpar;CAE&rpar; comes to Azure DevOps](https://devblogs.microsoft.com/devops/real-time-security-with-continuous-access-evaluation-cae-comes-to-azure-devops/)
+- [Hope, crash, iterate: One PM’s journey to make enterprise library content searchable, findable, and useful - Part 3](https://www.redhat.com/en/blog/building-a-chatbot-with-red-hat-openShift-platform-plus-and-ai)
 - [Tooling ≠ Glue: Why changing AI workflows still feels like duct tape](https://www.docker.com/blog/why-changing-ai-workflows-still-feels-like-duct-tape/)
-- [The next evolution of Red Hat’s Developer options](https://www.redhat.com/en/blog/next-evolution-red-hats-developer-options)
-- [Red Hat Named a Leader in 2025 Gartner® Magic Quadrant™ for Container Management for the Third Consecutive Year](https://www.redhat.com/en/blog/red-hat-named-leader-2025-container-management)
-- [MCP server development: Make agentic AI your API’s &quot;customer zero&quot;](https://www.redhat.com/en/blog/mcp-server-development-make-agentic-ai-your-apis-customer-zero)
-- [Remocal and Minimum Viable Models: Why Right-Sized Models Beat API Overkill](https://www.docker.com/blog/remocal-minimum-viable-models-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
