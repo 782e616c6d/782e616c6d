@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Hunting Living Secrets: Secret Validity Checks Arrive in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/hunting-living-secrets-secret-validity-checks-arrive-in-github-advanced-security-for-azure-devops/)
-- [Building AI agents made easy with Goose and Docker](https://www.docker.com/blog/building-ai-agents-with-goose-and-docker/)
-- [Real-Time Security with Continuous Access Evaluation &lpar;CAE&rpar; comes to Azure DevOps](https://devblogs.microsoft.com/devops/real-time-security-with-continuous-access-evaluation-cae-comes-to-azure-devops/)
-- [Hope, crash, iterate: One PM’s journey to make enterprise library content searchable, findable, and useful - Part 3](https://www.redhat.com/en/blog/building-a-chatbot-with-red-hat-openShift-platform-plus-and-ai)
-- [Tooling ≠ Glue: Why changing AI workflows still feels like duct tape](https://www.docker.com/blog/why-changing-ai-workflows-still-feels-like-duct-tape/)
+- [Azure Developer CLI: From Dev to Prod with Azure DevOps Pipelines](https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-azure-devops-pipelines/)
+- [The GPT-5 Launch Broke the AI Internet &lpar;And Not in a Good Way&rpar;](https://www.docker.com/blog/gpt5-api-deprecation-ai-app-failure/)
+- [Azure DevOps OAuth Client Secrets Now Shown Only Once](https://devblogs.microsoft.com/devops/azure-devops-oauth-client-secrets-now-shown-only-once/)
+- [Introducing AWS Cloud Control API MCP Server: Natural Language Infrastructure Management on AWS](https://aws.amazon.com/blogs/devops/introducing-aws-cloud-control-api-mcp-server-natural-language-infrastructure-management-on-aws/)
+- [Flexibility to Framework: Building MCP Servers with Controlled Tool Orchestration](https://aws.amazon.com/blogs/devops/flexibility-to-framework-building-mcp-servers-with-controlled-tool-orchestration/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
