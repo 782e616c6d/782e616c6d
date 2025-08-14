@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Desktop 4.44: Smarter AI Modeling, Platform Stability, and Streamlined Kubernetes Workflows](https://www.docker.com/blog/docker-desktop-4-44/)
+- [MCP Horror Stories: The GitHub Prompt Injection Data Heist](https://www.docker.com/blog/mcp-horror-stories-github-prompt-injection/)
+- [What is llm-d and why do we need it?](https://www.redhat.com/en/blog/what-llm-d-and-why-do-we-need-it)
+- [Developing a standard AI OS: Unlocking production-grade AI at enterprise scale](https://www.redhat.com/en/blog/developing-standard-ai-os)
 - [Azure Developer CLI: From Dev to Prod with Azure DevOps Pipelines](https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-azure-devops-pipelines/)
-- [The GPT-5 Launch Broke the AI Internet &lpar;And Not in a Good Way&rpar;](https://www.docker.com/blog/gpt5-api-deprecation-ai-app-failure/)
-- [Azure DevOps OAuth Client Secrets Now Shown Only Once](https://devblogs.microsoft.com/devops/azure-devops-oauth-client-secrets-now-shown-only-once/)
-- [Introducing AWS Cloud Control API MCP Server: Natural Language Infrastructure Management on AWS](https://aws.amazon.com/blogs/devops/introducing-aws-cloud-control-api-mcp-server-natural-language-infrastructure-management-on-aws/)
-- [Flexibility to Framework: Building MCP Servers with Controlled Tool Orchestration](https://aws.amazon.com/blogs/devops/flexibility-to-framework-building-mcp-servers-with-controlled-tool-orchestration/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
