@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Enterprise Linux Common Criteria and FIPS certificates](https://www.redhat.com/en/blog/red-hat-enterprise-linux-common-criteria-and-fips-certificates)
 - [Docker @ Black Hat 2025: CVEs have everyone’s attention, here’s the path forward](https://www.docker.com/blog/docker-black-hat-2025-secure-software-supply-chain/)
 - [A practitioner’s view on how Docker enables security by default and makes developers work better](https://www.docker.com/blog/how-docker-enables-security-by-default/)
 - [Red Hat OpenShift AI: Designed for FIPS, delivering trust and innovation](https://www.redhat.com/en/blog/red-hat-openshift-ai-designed-fips-delivering-trust-and-innovation)
 - [Introducing Red Hat Technical Account Management Service for Product Security](https://www.redhat.com/en/blog/introducing-red-hat-technical-account-management-service-product-security)
-- [Friday Five — August 15, 2025](https://www.redhat.com/en/blog/friday-five-august-15-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
