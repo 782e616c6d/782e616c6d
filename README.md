@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat Enterprise Linux Common Criteria and FIPS certificates](https://www.redhat.com/en/blog/red-hat-enterprise-linux-common-criteria-and-fips-certificates)
-- [Docker @ Black Hat 2025: CVEs have everyone’s attention, here’s the path forward](https://www.docker.com/blog/docker-black-hat-2025-secure-software-supply-chain/)
-- [A practitioner’s view on how Docker enables security by default and makes developers work better](https://www.docker.com/blog/how-docker-enables-security-by-default/)
-- [Red Hat OpenShift AI: Designed for FIPS, delivering trust and innovation](https://www.redhat.com/en/blog/red-hat-openshift-ai-designed-fips-delivering-trust-and-innovation)
-- [Introducing Red Hat Technical Account Management Service for Product Security](https://www.redhat.com/en/blog/introducing-red-hat-technical-account-management-service-product-security)
+- [Announcing the end-of-support for the AWS SDK for .NET v3](https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-the-aws-sdk-for-net-v3/)
+- [Announcing the end-of-support for AWS Tools for PowerShell v4](https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-aws-tools-for-powershell-v4/)
+- [To Bitbucket from Jenkins: Enhancing Developer Experience](https://www.atlassian.com/blog/bitbucket/devex-bitbucket-pipelines-versus-jenkins)
+- [Streamline NGINX Configuration with Docker Desktop Extension](https://www.docker.com/blog/streamline-nginx-configuration-with-docker-desktop-extension/)
+- [Building AI Agents with Docker MCP Toolkit: A Developer’s Real-World Setup](https://www.docker.com/blog/docker-mcp-ai-agent-developer-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
