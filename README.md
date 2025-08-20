@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the end-of-support for the AWS SDK for .NET v3](https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-the-aws-sdk-for-net-v3/)
-- [Announcing the end-of-support for AWS Tools for PowerShell v4](https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-aws-tools-for-powershell-v4/)
-- [To Bitbucket from Jenkins: Enhancing Developer Experience](https://www.atlassian.com/blog/bitbucket/devex-bitbucket-pipelines-versus-jenkins)
-- [Streamline NGINX Configuration with Docker Desktop Extension](https://www.docker.com/blog/streamline-nginx-configuration-with-docker-desktop-extension/)
-- [Building AI Agents with Docker MCP Toolkit: A Developer’s Real-World Setup](https://www.docker.com/blog/docker-mcp-ai-agent-developer-setup/)
+- [Red Hat: a leader in driving sustainability efforts within the IT industry](https://www.redhat.com/en/blog/red-hat-energy-efficient-it-solutions-sustainability)
+- [The Supply Chain Paradox: When “Hardened” Images Become a Vendor Lock-in Trap](https://www.docker.com/blog/hardened-container-images-security-vendor-lock-in/)
+- [Production AI success: From gen AI promise to business impact](https://www.redhat.com/en/blog/production-ai-success)
+- [Optimizing application architectures for AI: From monoliths to intelligent agents - Part 1](https://www.redhat.com/en/blog/optimizing-application-architectures-ai-monoliths-intelligent-agents-part-1)
+- [Evolve your Citrix Infrastructure: Unlocking agility and efficiency with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/unlocking-agility-and-efficiency-red-hat-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
