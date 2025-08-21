@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Prototyping an AI Tutor with Docker Model Runner](https://www.docker.com/blog/how-to-build-an-ai-tutor-with-model-runner/)
 - [Red Hat: a leader in driving sustainability efforts within the IT industry](https://www.redhat.com/en/blog/red-hat-energy-efficient-it-solutions-sustainability)
-- [The Supply Chain Paradox: When “Hardened” Images Become a Vendor Lock-in Trap](https://www.docker.com/blog/hardened-container-images-security-vendor-lock-in/)
+- [An open world: Why Red Hat supports the United Nations Open Source Principles](https://www.redhat.com/en/blog/red-hat-endorses-united-nations-open-source-principles)
 - [Production AI success: From gen AI promise to business impact](https://www.redhat.com/en/blog/production-ai-success)
-- [Optimizing application architectures for AI: From monoliths to intelligent agents - Part 1](https://www.redhat.com/en/blog/optimizing-application-architectures-ai-monoliths-intelligent-agents-part-1)
-- [Evolve your Citrix Infrastructure: Unlocking agility and efficiency with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/unlocking-agility-and-efficiency-red-hat-openshift-virtualization)
+- [Announcing Red Hat Advanced Cluster Management 2.14](https://www.redhat.com/en/blog/announcing-red-hat-advanced-cluster-management)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
