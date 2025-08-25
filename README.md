@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Accelerating legacy code modernization: EPAM’s journey with Amazon Q Developer](https://aws.amazon.com/blogs/devops/accelerating-legacy-code-modernization-epams-journey-with-amazon-q-developer/)
+- [From core to tactical edge: A unified platform for defense innovation](https://www.redhat.com/en/blog/core-tactical-edge-unified-platform-defense-innovation)
+- [Accelerate issue resolution with a Dedicated Operations Technical Account Manager](https://www.redhat.com/en/blog/accelerate-issue-resolution-dedicated-operations-technical-account-manager)
 - [Optimize your virtualization platform: IBM Turbonomic now manages VMs on Red Hat OpenShift](https://www.redhat.com/en/blog/optimize-your-virtualization-platform-ibm-turbonomic-now-manages-vms-red-hat-openshift)
 - [Friday Five — August 22, 2025](https://www.redhat.com/en/blog/friday-five-august-22-2025-red-hat)
-- [DenizBank drives AI innovation with Red Hat OpenShift AI](https://www.redhat.com/en/blog/denizbank-drives-ai-innovation-red-hat-openshift-ai)
-- [Prototyping an AI Tutor with Docker Model Runner](https://www.docker.com/blog/how-to-build-an-ai-tutor-with-model-runner/)
-- [Red Hat: a leader in driving sustainability efforts within the IT industry](https://www.redhat.com/en/blog/red-hat-energy-efficient-it-solutions-sustainability)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
