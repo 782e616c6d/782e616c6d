@@ -54,7 +54,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating legacy code modernization: EPAM’s journey with Amazon Q Developer](https://aws.amazon.com/blogs/devops/accelerating-legacy-code-modernization-epams-journey-with-amazon-q-developer/)
+- [Accelerating 5G standalone rollout: continuous testing to enhance robustness, interoperability and efficiency](https://www.redhat.com/en/blog/accelerating-5g-red-hats-autonomous-continuous-testing-framework)
 - [From core to tactical edge: A unified platform for defense innovation](https://www.redhat.com/en/blog/core-tactical-edge-unified-platform-defense-innovation)
 - [Accelerate issue resolution with a Dedicated Operations Technical Account Manager](https://www.redhat.com/en/blog/accelerate-issue-resolution-dedicated-operations-technical-account-manager)
 - [Optimize your virtualization platform: IBM Turbonomic now manages VMs on Red Hat OpenShift](https://www.redhat.com/en/blog/optimize-your-virtualization-platform-ibm-turbonomic-now-manages-vms-red-hat-openshift)
