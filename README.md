@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Desktop Accelerates Innovation with Faster Release Cadence](https://www.docker.com/blog/docker-desktop-updates-every-two-weeks/)
+- [Simplify Linux management across your systems’ lifecycles with Red Hat Insights](https://www.redhat.com/en/blog/simplify-linux-management-across-your-systems-lifecycles-red-hat-insights)
 - [Accelerating 5G standalone rollout: continuous testing to enhance robustness, interoperability and efficiency](https://www.redhat.com/en/blog/accelerating-5g-red-hats-autonomous-continuous-testing-framework)
 - [From core to tactical edge: A unified platform for defense innovation](https://www.redhat.com/en/blog/core-tactical-edge-unified-platform-defense-innovation)
 - [Accelerate issue resolution with a Dedicated Operations Technical Account Manager](https://www.redhat.com/en/blog/accelerate-issue-resolution-dedicated-operations-technical-account-manager)
-- [Optimize your virtualization platform: IBM Turbonomic now manages VMs on Red Hat OpenShift](https://www.redhat.com/en/blog/optimize-your-virtualization-platform-ibm-turbonomic-now-manages-vms-red-hat-openshift)
-- [Friday Five — August 22, 2025](https://www.redhat.com/en/blog/friday-five-august-22-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
