@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Secure by Design: A Shift-Left Approach with Testcontainers, Docker Scout, and Hardened Images](https://www.docker.com/blog/a-shift-left-approach-with-docker/)
+- [Mastering Amazon Q Developer with Rules](https://aws.amazon.com/blogs/devops/mastering-amazon-q-developer-with-rules/)
+- [Red Hat contributes Trustify project to OpenSSF’s GUAC community](https://www.redhat.com/en/blog/red-hat-contributes-trustify-project-openssfs-guac-community)
 - [Docker Desktop Accelerates Innovation with Faster Release Cadence](https://www.docker.com/blog/docker-desktop-updates-every-two-weeks/)
 - [Simplify Linux management across your systems’ lifecycles with Red Hat Insights](https://www.redhat.com/en/blog/simplify-linux-management-across-your-systems-lifecycles-red-hat-insights)
-- [Accelerating 5G standalone rollout: continuous testing to enhance robustness, interoperability and efficiency](https://www.redhat.com/en/blog/accelerating-5g-red-hats-autonomous-continuous-testing-framework)
-- [From core to tactical edge: A unified platform for defense innovation](https://www.redhat.com/en/blog/core-tactical-edge-unified-platform-defense-innovation)
-- [Accelerate issue resolution with a Dedicated Operations Technical Account Manager](https://www.redhat.com/en/blog/accelerate-issue-resolution-dedicated-operations-technical-account-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
