@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Secure by Design: A Shift-Left Approach with Testcontainers, Docker Scout, and Hardened Images](https://www.docker.com/blog/a-shift-left-approach-with-docker/)
-- [Mastering Amazon Q Developer with Rules](https://aws.amazon.com/blogs/devops/mastering-amazon-q-developer-with-rules/)
-- [Red Hat contributes Trustify project to OpenSSF’s GUAC community](https://www.redhat.com/en/blog/red-hat-contributes-trustify-project-openssfs-guac-community)
-- [Docker Desktop Accelerates Innovation with Faster Release Cadence](https://www.docker.com/blog/docker-desktop-updates-every-two-weeks/)
-- [Simplify Linux management across your systems’ lifecycles with Red Hat Insights](https://www.redhat.com/en/blog/simplify-linux-management-across-your-systems-lifecycles-red-hat-insights)
+- [Boost Your Copilot with SonarQube via Docker MCP Toolkit and Gateway](https://www.docker.com/blog/blog-sonarqube-copilot-docker-mcp-toolkit/)
+- [Your essential reading list: Top 10 articles for your IT strategy](https://www.redhat.com/en/blog/your-essential-reading-list-top-10-articles-your-it-strategy)
+- [Why you should be using portable zero-touch provisioning on the edge](https://www.redhat.com/en/blog/why-you-should-be-using-portable-zero-touch-provisioning-edge)
+- [Red Hat Trusted Artifact Signer can now be hosted on RHEL](https://www.redhat.com/en/blog/red-hat-trusted-artifact-signer-can-now-be-hosted-rhel)
+- [Friday Five — August 29, 2025](https://www.redhat.com/en/blog/friday-five-august-29-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
