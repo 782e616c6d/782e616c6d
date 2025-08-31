@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Broadcom’s New Bitnami Restrictions? Migrate Easily with Docker](https://www.docker.com/blog/broadcoms-new-bitnami-restrictions-migrate-easily-with-docker/)
 - [Boost Your Copilot with SonarQube via Docker MCP Toolkit and Gateway](https://www.docker.com/blog/blog-sonarqube-copilot-docker-mcp-toolkit/)
 - [Your essential reading list: Top 10 articles for your IT strategy](https://www.redhat.com/en/blog/your-essential-reading-list-top-10-articles-your-it-strategy)
 - [Why you should be using portable zero-touch provisioning on the edge](https://www.redhat.com/en/blog/why-you-should-be-using-portable-zero-touch-provisioning-edge)
 - [Red Hat Trusted Artifact Signer can now be hosted on RHEL](https://www.redhat.com/en/blog/red-hat-trusted-artifact-signer-can-now-be-hosted-rhel)
-- [Friday Five — August 29, 2025](https://www.redhat.com/en/blog/friday-five-august-29-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
