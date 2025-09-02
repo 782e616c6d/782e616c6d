@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Broadcom’s New Bitnami Restrictions? Migrate Easily with Docker](https://www.docker.com/blog/broadcoms-new-bitnami-restrictions-migrate-easily-with-docker/)
-- [Boost Your Copilot with SonarQube via Docker MCP Toolkit and Gateway](https://www.docker.com/blog/blog-sonarqube-copilot-docker-mcp-toolkit/)
-- [Your essential reading list: Top 10 articles for your IT strategy](https://www.redhat.com/en/blog/your-essential-reading-list-top-10-articles-your-it-strategy)
-- [Why you should be using portable zero-touch provisioning on the edge](https://www.redhat.com/en/blog/why-you-should-be-using-portable-zero-touch-provisioning-edge)
-- [Red Hat Trusted Artifact Signer can now be hosted on RHEL](https://www.redhat.com/en/blog/red-hat-trusted-artifact-signer-can-now-be-hosted-rhel)
+- [Why defence organisations need resilience beyond sovereignty](https://www.redhat.com/en/blog/why-defence-organisations-need-resilience-beyond-sovereignty)
+- [What’s new with data science pipelines in Red Hat OpenShift AI](https://www.redhat.com/en/blog/whats-new-data-science-pipelines-red-hat-openshift-ai)
+- [The Metadata Assistant: How Red Hat is using generative AI to make web content easier to find and use](https://www.redhat.com/en/blog/red-hat-metadata-assistant-improving-content-findability)
+- [Protect and unify with Commvault and Red Hat OpenShift: A modern approach to disaster recovery for VMs and containers](https://www.redhat.com/en/blog/protect-and-unify-commvault-and-red-hat-openshift-modern-approach-disaster-recovery-vms-and-containers)
+- [EMEA’s cloud sovereignty puzzle takes shape](https://www.redhat.com/en/blog/emeas-cloud-sovereignty-puzzle-takes-shape)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
