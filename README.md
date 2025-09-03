@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Why defence organisations need resilience beyond sovereignty](https://www.redhat.com/en/blog/why-defence-organisations-need-resilience-beyond-sovereignty)
-- [What’s new with data science pipelines in Red Hat OpenShift AI](https://www.redhat.com/en/blog/whats-new-data-science-pipelines-red-hat-openshift-ai)
+- [You are Doing MCP Wrong: 3 Big Misconceptions](https://www.docker.com/blog/mcp-misconceptions-tools-agents-not-api/)
+- [Understanding AI agent types: A guide to categorizing complexity](https://www.redhat.com/en/blog/understanding-ai-agent-types-simple-complex)
 - [The Metadata Assistant: How Red Hat is using generative AI to make web content easier to find and use](https://www.redhat.com/en/blog/red-hat-metadata-assistant-improving-content-findability)
-- [Protect and unify with Commvault and Red Hat OpenShift: A modern approach to disaster recovery for VMs and containers](https://www.redhat.com/en/blog/protect-and-unify-commvault-and-red-hat-openshift-modern-approach-disaster-recovery-vms-and-containers)
-- [EMEA’s cloud sovereignty puzzle takes shape](https://www.redhat.com/en/blog/emeas-cloud-sovereignty-puzzle-takes-shape)
+- [Security beyond the model: Introducing AI system cards](https://www.redhat.com/en/blog/security-beyond-model-introducing-ai-system-cards)
+- [Learn about confidential clusters](https://www.redhat.com/en/blog/learn-about-confidential-clusters)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
