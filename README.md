@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Measuring Developer Productivity with Amazon Q Developer and Jellyfish](https://aws.amazon.com/blogs/devops/measuring-developer-productivity-with-amazon-q-developer-and-jellyfish/)
+- [Docker Acquisition of MCP Defender Helps Meet Challenges of Securing the Agentic Future](https://www.docker.com/blog/docker-acquires-mcp-defender-ai-agent-security/)
+- [Friday Five — September 5, 2025](https://www.redhat.com/en/blog/friday-five-september-5-2025)
+- [Beyond the docs: Kartik&#39;s journey to Brno and Red Hat](https://www.redhat.com/en/blog/beyond-docs-kartiks-journey-brno-and-red-hat)
 - [Hybrid AI Isn’t the Future — It’s Here &lpar;and It Runs in Docker&rpar;](https://www.docker.com/blog/hybrid-ai-and-how-it-runs-in-docker/)
-- [New Test Run Hub in Azure Test Plans](https://devblogs.microsoft.com/devops/new-test-run-hub/)
-- [You are Doing MCP Wrong: 3 Big Misconceptions](https://www.docker.com/blog/mcp-misconceptions-tools-agents-not-api/)
-- [Understanding AI agent types: A guide to categorizing complexity](https://www.redhat.com/en/blog/understanding-ai-agent-types-simple-complex)
-- [The Metadata Assistant: How Red Hat is using generative AI to make web content easier to find and use](https://www.redhat.com/en/blog/red-hat-metadata-assistant-improving-content-findability)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
