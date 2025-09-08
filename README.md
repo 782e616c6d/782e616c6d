@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Measuring Developer Productivity with Amazon Q Developer and Jellyfish](https://aws.amazon.com/blogs/devops/measuring-developer-productivity-with-amazon-q-developer-and-jellyfish/)
-- [Docker Acquisition of MCP Defender Helps Meet Challenges of Securing the Agentic Future](https://www.docker.com/blog/docker-acquires-mcp-defender-ai-agent-security/)
-- [Friday Five — September 5, 2025](https://www.redhat.com/en/blog/friday-five-september-5-2025)
-- [Beyond the docs: Kartik&#39;s journey to Brno and Red Hat](https://www.redhat.com/en/blog/beyond-docs-kartiks-journey-brno-and-red-hat)
-- [Hybrid AI Isn’t the Future — It’s Here &lpar;and It Runs in Docker&rpar;](https://www.docker.com/blog/hybrid-ai-and-how-it-runs-in-docker/)
+- [Introducing an Interactive Code Review Experience with Amazon Q Developer in GitHub](https://aws.amazon.com/blogs/devops/introducing-an-interactive-code-review-experience-with-amazon-q-developer-in-github/)
+- [Taming hybrid cloud complexity: A path to true agility](https://www.redhat.com/en/blog/taming-hybrid-cloud-complexity-path-true-agility)
+- [Is your RHEL installation getting old? Here&#39;s what to do](https://www.redhat.com/en/blog/your-rhel-installation-getting-old-heres-what-do)
+- [Establishing a sustainable automation community of practice](https://www.redhat.com/en/blog/establishing-sustainable-automation-community-practice)
+- [Accelerate your Red Hat Enterprise Linux 10 skills with Red Hat Learning Subscription](https://www.redhat.com/en/blog/accelerate-your-red-hat-enterprise-linux-10-skills-red-hat-learning-subscription)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
