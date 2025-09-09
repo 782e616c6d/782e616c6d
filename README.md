@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Senior Machine Learning Engineer on Red Hat&#39;s AI Inference Team](https://www.redhat.com/en/blog/senior-machine-learning-engineer-red-hats-ai-inference-team)
 - [Introducing an Interactive Code Review Experience with Amazon Q Developer in GitHub](https://aws.amazon.com/blogs/devops/introducing-an-interactive-code-review-experience-with-amazon-q-developer-in-github/)
+- [Why upgrade to Red Hat Enterprise Linux 9.6 or 10 now](https://www.redhat.com/en/blog/why-upgrade-red-hat-enterprise-linux-96-or-10-now)
 - [Taming hybrid cloud complexity: A path to true agility](https://www.redhat.com/en/blog/taming-hybrid-cloud-complexity-path-true-agility)
 - [Is your RHEL installation getting old? Here&#39;s what to do](https://www.redhat.com/en/blog/your-rhel-installation-getting-old-heres-what-do)
-- [Establishing a sustainable automation community of practice](https://www.redhat.com/en/blog/establishing-sustainable-automation-community-practice)
-- [Accelerate your Red Hat Enterprise Linux 10 skills with Red Hat Learning Subscription](https://www.redhat.com/en/blog/accelerate-your-red-hat-enterprise-linux-10-skills-red-hat-learning-subscription)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
