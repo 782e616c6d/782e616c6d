@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Senior Machine Learning Engineer on Red Hat&#39;s AI Inference Team](https://www.redhat.com/en/blog/senior-machine-learning-engineer-red-hats-ai-inference-team)
-- [Introducing an Interactive Code Review Experience with Amazon Q Developer in GitHub](https://aws.amazon.com/blogs/devops/introducing-an-interactive-code-review-experience-with-amazon-q-developer-in-github/)
-- [Why upgrade to Red Hat Enterprise Linux 9.6 or 10 now](https://www.redhat.com/en/blog/why-upgrade-red-hat-enterprise-linux-96-or-10-now)
-- [Taming hybrid cloud complexity: A path to true agility](https://www.redhat.com/en/blog/taming-hybrid-cloud-complexity-path-true-agility)
-- [Is your RHEL installation getting old? Here&#39;s what to do](https://www.redhat.com/en/blog/your-rhel-installation-getting-old-heres-what-do)
+- [AWS Cloud Development Kit &lpar;CDK&rpar; Launches Refactor](https://aws.amazon.com/blogs/devops/aws-cloud-development-kit-cdk-launches-refactor/)
+- [From Hallucinations to Prompt Injection: Securing AI Workflows at Runtime](https://www.docker.com/blog/secure-ai-agents-runtime-security/)
+- [Red Hat OpenShift AI achieves ISO 42001 AI certification, reinforcing Red Hat&#39;s leadership in responsible AI](https://www.redhat.com/en/blog/red-hat-openshift-ai-achieves-iso-42001-ai-certification)
+- [Red Hat joins LF Energy to help shape a more efficient energy grid](https://www.redhat.com/en/blog/red-hat-joins-lf-energy-help-shape-more-efficient-energy-grid)
+- [Enhancing your migration experience with migration toolkit for virtualization 2.9&#39;s UI updates](https://www.redhat.com/en/blog/migration-toolkit-virtualization-2.9-new-ui-vm-migrations)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
