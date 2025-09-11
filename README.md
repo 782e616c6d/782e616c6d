@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud Development Kit &lpar;CDK&rpar; Launches Refactor](https://aws.amazon.com/blogs/devops/aws-cloud-development-kit-cdk-launches-refactor/)
-- [From Hallucinations to Prompt Injection: Securing AI Workflows at Runtime](https://www.docker.com/blog/secure-ai-agents-runtime-security/)
-- [Red Hat OpenShift AI achieves ISO 42001 AI certification, reinforcing Red Hat&#39;s leadership in responsible AI](https://www.redhat.com/en/blog/red-hat-openshift-ai-achieves-iso-42001-ai-certification)
-- [Red Hat joins LF Energy to help shape a more efficient energy grid](https://www.redhat.com/en/blog/red-hat-joins-lf-energy-help-shape-more-efficient-energy-grid)
-- [Enhancing your migration experience with migration toolkit for virtualization 2.9&#39;s UI updates](https://www.redhat.com/en/blog/migration-toolkit-virtualization-2.9-new-ui-vm-migrations)
+- [Introducing universal installers for AWS CLI v2 on macOS](https://aws.amazon.com/blogs/devops/introducing-universal-installers-for-aws-cli-v2-on-macos/)
+- [The virtualization game has changed: A new playbook for IT leaders](https://www.redhat.com/en/blog/new-virtualization-playbook)
+- [Streamlining migration to OpenShift Virtualization with automation and expert guidance](https://www.redhat.com/en/blog/streamlining-migration-red-hat-openshift-virtualization-automation-and-expert-guidance)
+- [Seamless hybrid cloud storage: NetApp’s certified OpenShift operator for Trident](https://www.redhat.com/en/blog/seamless-hybrid-cloud-storage-netapps-certified-openshift-operator-trident)
+- [Navigating AI risk: Building a trusted foundation with Red Hat](https://www.redhat.com/en/blog/navigating-ai-risk-building-trusted-foundation-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
