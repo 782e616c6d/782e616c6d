@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The EU Cyber Resilience Act&#39;s impact on open source security](https://www.redhat.com/en/blog/eu-cyber-resilience-acts-impact-open-source-security)
+- [Red Hat OpenShift: Where vision meets execution](https://www.redhat.com/en/blog/openshift-vision-and-execution)
+- [Navigating complexity, delivering value: our take on why Forrester named Red Hat OpenShift a Leader](https://www.redhat.com/en/blog/navigating-complexity-delivering-value)
+- [Friday Five — September 12, 2025](https://www.redhat.com/en/blog/friday-five-september-12-2025-red-hat)
 - [Introducing universal installers for AWS CLI v2 on macOS](https://aws.amazon.com/blogs/devops/introducing-universal-installers-for-aws-cli-v2-on-macos/)
-- [The virtualization game has changed: A new playbook for IT leaders](https://www.redhat.com/en/blog/new-virtualization-playbook)
-- [Streamlining migration to OpenShift Virtualization with automation and expert guidance](https://www.redhat.com/en/blog/streamlining-migration-red-hat-openshift-virtualization-automation-and-expert-guidance)
-- [Seamless hybrid cloud storage: NetApp’s certified OpenShift operator for Trident](https://www.redhat.com/en/blog/seamless-hybrid-cloud-storage-netapps-certified-openshift-operator-trident)
-- [Navigating AI risk: Building a trusted foundation with Red Hat](https://www.redhat.com/en/blog/navigating-ai-risk-building-trusted-foundation-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
