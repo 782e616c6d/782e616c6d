@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The Nine Rules of AI PoC Success: How to Build Demos That Actually Ship](https://www.docker.com/blog/ai-poc-success-rules/)
-- [Preparing your organization for the quantum future](https://www.redhat.com/en/blog/preparing-your-organization-quantum-future)
-- [AI-assisted development: Supercharging the open source way](https://www.redhat.com/en/blog/ai-assisted-development-supercharging-open-source-way)
-- [A strategic approach to AI inference performance](https://www.redhat.com/en/blog/strategic-approach-ai-inference-performance)
-- [The EU Cyber Resilience Act&#39;s impact on open source security](https://www.redhat.com/en/blog/eu-cyber-resilience-acts-impact-open-source-security)
+- [MCP Security: A Developer’s Guide](https://www.docker.com/blog/mcp-security-explained/)
+- [Azure Boards integration with GitHub Copilot &lpar;Private Preview&rpar;](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-private-preview/)
+- [Use the RHEL command-line assistant offline with this new developer preview](https://www.redhat.com/en/blog/use-rhel-command-line-assistant-offline-new-developer-preview)
+- [Unlocking AI innovation: GPU-as-a-Service with Red Hat](https://www.redhat.com/en/blog/unlocking-ai-innovation-gpu-service-red-hat)
+- [Fedora 43 Beta now available](https://www.redhat.com/en/blog/fedora-43-beta-now-available)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
