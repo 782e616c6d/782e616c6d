@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Secure AI Coding Agents with Cerebras and Docker Compose](https://www.docker.com/blog/cerebras-docker-compose-secure-ai-coding-agents/)
 - [MCP Security: A Developer’s Guide](https://www.docker.com/blog/mcp-security-explained/)
 - [Azure Boards integration with GitHub Copilot &lpar;Private Preview&rpar;](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-private-preview/)
 - [Use the RHEL command-line assistant offline with this new developer preview](https://www.redhat.com/en/blog/use-rhel-command-line-assistant-offline-new-developer-preview)
 - [Unlocking AI innovation: GPU-as-a-Service with Red Hat](https://www.redhat.com/en/blog/unlocking-ai-innovation-gpu-service-red-hat)
-- [Fedora 43 Beta now available](https://www.redhat.com/en/blog/fedora-43-beta-now-available)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
