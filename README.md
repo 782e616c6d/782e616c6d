@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Secure AI Coding Agents with Cerebras and Docker Compose](https://www.docker.com/blog/cerebras-docker-compose-secure-ai-coding-agents/)
-- [MCP Security: A Developer’s Guide](https://www.docker.com/blog/mcp-security-explained/)
-- [Azure Boards integration with GitHub Copilot &lpar;Private Preview&rpar;](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-private-preview/)
-- [Use the RHEL command-line assistant offline with this new developer preview](https://www.redhat.com/en/blog/use-rhel-command-line-assistant-offline-new-developer-preview)
-- [Unlocking AI innovation: GPU-as-a-Service with Red Hat](https://www.redhat.com/en/blog/unlocking-ai-innovation-gpu-service-red-hat)
+- [Build and Distribute AI Agents and Workflows with cagent](https://www.docker.com/blog/cagent-build-and-distribute-ai-agents-and-workflows/)
+- [Docker and CNCF: Partnering to Power the Future of Open Source](https://www.docker.com/blog/docker-cncf-partnership/)
+- [Docker Model Runner General Availability](https://www.docker.com/blog/announcing-docker-model-runner-ga/)
+- [Reducing bias in AI models through open source](https://www.redhat.com/en/blog/reducing-bias-ai-models-through-open-source)
+- [Red Hat Customer Portal recognized by the Association of Support Professionals as one the Best Support Websites of 2025](https://www.redhat.com/en/blog/red-hat-customer-portal-recognized-association-support-professionals-one-best-support-websites-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
