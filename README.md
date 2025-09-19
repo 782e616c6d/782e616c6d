@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Build and Distribute AI Agents and Workflows with cagent](https://www.docker.com/blog/cagent-build-and-distribute-ai-agents-and-workflows/)
-- [Docker and CNCF: Partnering to Power the Future of Open Source](https://www.docker.com/blog/docker-cncf-partnership/)
-- [Docker Model Runner General Availability](https://www.docker.com/blog/announcing-docker-model-runner-ga/)
-- [Reducing bias in AI models through open source](https://www.redhat.com/en/blog/reducing-bias-ai-models-through-open-source)
-- [Red Hat Customer Portal recognized by the Association of Support Professionals as one the Best Support Websites of 2025](https://www.redhat.com/en/blog/red-hat-customer-portal-recognized-association-support-professionals-one-best-support-websites-2025)
+- [AWS named as a Leader in the 2025 Gartner Magic Quadrant for AI Code Assistants](https://aws.amazon.com/blogs/devops/aws-named-as-a-leader-in-the-2025-gartner-magic-quadrant-for-ai-code-assistants/)
+- [Silent Component Updates &amp; Redesigned Update Experience](https://www.docker.com/blog/docker-desktop-silent-component-updates/)
+- [Beyond Containers: llama.cpp Now Pulls GGUF Models Directly from Docker Hub](https://www.docker.com/blog/llama-cpp-pulls-gguf-models-from-docker-hub/)
+- [Top 10 must-reads: Open source innovation at Red Hat](https://www.redhat.com/en/blog/top-10-must-reads-open-source-innovation-red-hat)
+- [Friday Five — September 19, 2025](https://www.redhat.com/en/blog/friday-five-september-19-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
