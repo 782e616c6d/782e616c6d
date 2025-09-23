@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [MCP Horror Stories: The Drive-By Localhost Breach](https://www.docker.com/blog/mpc-horror-stories-cve-2025-49596-local-host-breach/)
+- [Building an adaptable enterprise: A guide to AI readiness](https://www.redhat.com/en/blog/building-adaptable-enterprise-guide-ai-readiness)
+- [AI and Red Hat: Powering the future of cable providers](https://www.redhat.com/en/blog/ai-and-red-hat-powering-future-cable-providers)
 - [Worldpay&#39;s Platform as a Product: Revolutionizing development with Red Hat OpenShift](https://www.redhat.com/en/blog/revolutionizing-development-red-hat-openshift)
 - [AWS named as a Leader in the 2025 Gartner Magic Quadrant for AI Code Assistants](https://aws.amazon.com/blogs/devops/aws-named-as-a-leader-in-the-2025-gartner-magic-quadrant-for-ai-code-assistants/)
-- [Silent Component Updates &amp; Redesigned Update Experience](https://www.docker.com/blog/docker-desktop-silent-component-updates/)
-- [Beyond Containers: llama.cpp Now Pulls GGUF Models Directly from Docker Hub](https://www.docker.com/blog/llama-cpp-pulls-gguf-models-from-docker-hub/)
-- [Top 10 must-reads: Open source innovation at Red Hat](https://www.redhat.com/en/blog/top-10-must-reads-open-source-innovation-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
