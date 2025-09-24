@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The evolution of Red Hat Ansible Lightspeed](https://www.redhat.com/en/blog/evolution-red-hat-ansible-lightspeed)
+- [DxEnterprise operator for high availability now certified for RHEL 9.6](https://www.redhat.com/en/blog/dxenterprise-operator-high-availability-now-certified-rhel-96)
+- [New Red Hat Ansible Certified Content Collections for HashiCorp Terraform and HashiCorp Vault](https://www.redhat.com/en/blog/new-ansible-certified-content-hashicorp-terraformvault)
 - [MCP Horror Stories: The Drive-By Localhost Breach](https://www.docker.com/blog/mpc-horror-stories-cve-2025-49596-local-host-breach/)
 - [Building an adaptable enterprise: A guide to AI readiness](https://www.redhat.com/en/blog/building-adaptable-enterprise-guide-ai-readiness)
-- [AI and Red Hat: Powering the future of cable providers](https://www.redhat.com/en/blog/ai-and-red-hat-powering-future-cable-providers)
-- [Worldpay&#39;s Platform as a Product: Revolutionizing development with Red Hat OpenShift](https://www.redhat.com/en/blog/revolutionizing-development-red-hat-openshift)
-- [AWS named as a Leader in the 2025 Gartner Magic Quadrant for AI Code Assistants](https://aws.amazon.com/blogs/devops/aws-named-as-a-leader-in-the-2025-gartner-magic-quadrant-for-ai-code-assistants/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
