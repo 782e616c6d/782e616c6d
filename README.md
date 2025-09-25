@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The evolution of Red Hat Ansible Lightspeed](https://www.redhat.com/en/blog/evolution-red-hat-ansible-lightspeed)
-- [DxEnterprise operator for high availability now certified for RHEL 9.6](https://www.redhat.com/en/blog/dxenterprise-operator-high-availability-now-certified-rhel-96)
-- [New Red Hat Ansible Certified Content Collections for HashiCorp Terraform and HashiCorp Vault](https://www.redhat.com/en/blog/new-ansible-certified-content-hashicorp-terraformvault)
-- [MCP Horror Stories: The Drive-By Localhost Breach](https://www.docker.com/blog/mpc-horror-stories-cve-2025-49596-local-host-breach/)
-- [Building an adaptable enterprise: A guide to AI readiness](https://www.redhat.com/en/blog/building-adaptable-enterprise-guide-ai-readiness)
+- [Controlling AWS API Calls from Amazon Q Developer: Enterprise Governance with Built-in User Agent Markers](https://aws.amazon.com/blogs/devops/controlling-aws-api-calls-from-amazon-q-developer-enterprise-governance-with-built-in-user-agent-markers/)
+- [Multi Agent Collaboration with Strands](https://aws.amazon.com/blogs/devops/multi-agent-collaboration-with-strands/)
+- [Introducing the Docker Premium Support and TAM service](https://www.docker.com/blog/introducing-the-docker-premium-support-and-tam-service/)
+- [Run, Test, and Evaluate Models and MCP Locally with Docker + Promptfoo](https://www.docker.com/blog/evaluate-models-and-mcp-with-promptfoo-docker/)
+- [Red Hat and O-RAN Alliance accelerating cloud adoption at the Edge](https://www.redhat.com/en/blog/red-hat-and-o-ran-alliance-accelerating-cloud-adoption-edge)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
