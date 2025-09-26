@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Controlling AWS API Calls from Amazon Q Developer: Enterprise Governance with Built-in User Agent Markers](https://aws.amazon.com/blogs/devops/controlling-aws-api-calls-from-amazon-q-developer-enterprise-governance-with-built-in-user-agent-markers/)
+- [The Trust Paradox: When Your AI Gets Catfished](https://www.docker.com/blog/mcp-prompt-injection-trust-paradox/)
+- [Vodafone revolutionizes telco cloud with OpenShift, validated patterns, and GitOps](https://www.redhat.com/en/blog/vodafone-revolutionizes-telco-cloud-openshift-and-gitops)
+- [Friday Five — September 26, 2025](https://www.redhat.com/en/blog/friday-five-september-26-2025-red-hat)
 - [Multi Agent Collaboration with Strands](https://aws.amazon.com/blogs/devops/multi-agent-collaboration-with-strands/)
 - [Introducing the Docker Premium Support and TAM service](https://www.docker.com/blog/introducing-the-docker-premium-support-and-tam-service/)
-- [Run, Test, and Evaluate Models and MCP Locally with Docker + Promptfoo](https://www.docker.com/blog/evaluate-models-and-mcp-with-promptfoo-docker/)
-- [Red Hat and O-RAN Alliance accelerating cloud adoption at the Edge](https://www.redhat.com/en/blog/red-hat-and-o-ran-alliance-accelerating-cloud-adoption-edge)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
