@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The Trust Paradox: When Your AI Gets Catfished](https://www.docker.com/blog/mcp-prompt-injection-trust-paradox/)
-- [Vodafone revolutionizes telco cloud with OpenShift, validated patterns, and GitOps](https://www.redhat.com/en/blog/vodafone-revolutionizes-telco-cloud-openshift-and-gitops)
-- [Friday Five — September 26, 2025](https://www.redhat.com/en/blog/friday-five-september-26-2025-red-hat)
-- [Multi Agent Collaboration with Strands](https://aws.amazon.com/blogs/devops/multi-agent-collaboration-with-strands/)
-- [Introducing the Docker Premium Support and TAM service](https://www.docker.com/blog/introducing-the-docker-premium-support-and-tam-service/)
+- [Expanding Docker Hardened Images: Secure Helm Charts for Deployments](https://www.docker.com/blog/docker-hardened-images-helm-charts-beta/)
+- [Docker MCP Toolkit: MCP Servers That Just Work](https://www.docker.com/blog/mcp-toolkit-mcp-servers-that-just-work/)
+- [Simplify virtualization deployments with the Assisted Installer](https://www.redhat.com/en/blog/simplify-virtualization-deployments-assisted-installer)
+- [Red Hat Device Edge: Decision framework](https://www.redhat.com/en/blog/red-hat-device-edge-decision-framework)
+- [Migrating to Red Hat OpenShift Virtualization with NetApp FlexPod](https://www.redhat.com/en/blog/migrating-red-hat-openshift-virtualization-netapp-flexpod)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
