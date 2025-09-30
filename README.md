@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [What you don’t see could cost you: Why open source matters in enterprise AI](https://www.redhat.com/en/blog/why-open-source-matters-enterprise-ai)
+- [Optimizing application architectures for AI: From monoliths to intelligent agents &lpar;2 of 2 blogs series&rpar;](https://www.redhat.com/en/blog/optimizing-application-architectures-ai-monoliths-intelligent-agents-2-2-blogs-series)
+- [Ireland’s next steps for effective AI delivery](https://www.redhat.com/en/blog/irelands-next-steps-effective-ai-delivery)
 - [Expanding Docker Hardened Images: Secure Helm Charts for Deployments](https://www.docker.com/blog/docker-hardened-images-helm-charts-beta/)
 - [Docker MCP Toolkit: MCP Servers That Just Work](https://www.docker.com/blog/mcp-toolkit-mcp-servers-that-just-work/)
-- [Simplify virtualization deployments with the Assisted Installer](https://www.redhat.com/en/blog/simplify-virtualization-deployments-assisted-installer)
-- [Red Hat Device Edge: Decision framework](https://www.redhat.com/en/blog/red-hat-device-edge-decision-framework)
-- [Migrating to Red Hat OpenShift Virtualization with NetApp FlexPod](https://www.redhat.com/en/blog/migrating-red-hat-openshift-virtualization-netapp-flexpod)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
