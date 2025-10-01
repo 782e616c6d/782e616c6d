@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Summit 2026 call for proposals is now open](https://www.redhat.com/en/blog/red-hat-summit-2026-call-proposals-now-open)
+- [Llama Stack and the case for an open “run-anywhere” contract for agents](https://www.redhat.com/en/blog/llama-stack-and-case-open-run-anywhere-contract-agents)
+- [Searching for the 2026 Red Hat Certified Professional of the Year](https://www.redhat.com/en/blog/2026-red-hat-certified-professional-year-award)
+- [Accelerating AWS Infrastructure Deployment: A Practical Guide to Console-to-Code](https://aws.amazon.com/blogs/devops/accelerating-aws-infrastructure-deployment-a-practical-guide-to-console-to-code/)
 - [What you don’t see could cost you: Why open source matters in enterprise AI](https://www.redhat.com/en/blog/why-open-source-matters-enterprise-ai)
-- [Optimizing application architectures for AI: From monoliths to intelligent agents &lpar;2 of 2 blogs series&rpar;](https://www.redhat.com/en/blog/optimizing-application-architectures-ai-monoliths-intelligent-agents-2-2-blogs-series)
-- [Ireland’s next steps for effective AI delivery](https://www.redhat.com/en/blog/irelands-next-steps-effective-ai-delivery)
-- [Expanding Docker Hardened Images: Secure Helm Charts for Deployments](https://www.docker.com/blog/docker-hardened-images-helm-charts-beta/)
-- [Docker MCP Toolkit: MCP Servers That Just Work](https://www.docker.com/blog/mcp-toolkit-mcp-servers-that-just-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
