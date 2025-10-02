@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat Summit 2026 call for proposals is now open](https://www.redhat.com/en/blog/red-hat-summit-2026-call-proposals-now-open)
-- [Llama Stack and the case for an open “run-anywhere” contract for agents](https://www.redhat.com/en/blog/llama-stack-and-case-open-run-anywhere-contract-agents)
-- [Searching for the 2026 Red Hat Certified Professional of the Year](https://www.redhat.com/en/blog/2026-red-hat-certified-professional-year-award)
-- [Accelerating AWS Infrastructure Deployment: A Practical Guide to Console-to-Code](https://aws.amazon.com/blogs/devops/accelerating-aws-infrastructure-deployment-a-practical-guide-to-console-to-code/)
-- [What you don’t see could cost you: Why open source matters in enterprise AI](https://www.redhat.com/en/blog/why-open-source-matters-enterprise-ai)
+- [From Shell Scripts to Science Agents: How AI Agents Are Transforming Research Workflows](https://www.docker.com/blog/ai-science-agents-research-workflows/)
+- [Fine-Tuning Local Models with Docker Offload and Unsloth](https://www.docker.com/blog/fine-tuning-models-with-offload-and-unsloth/)
+- [How Red Hat can support your journey to a standard operating environment](https://www.redhat.com/en/blog/simplify-standardization-journey-red-hat-technologies)
+- [Security update: Incident related to Red Hat Consulting GitLab instance](https://www.redhat.com/en/blog/security-update-incident-related-red-hat-consulting-gitlab-instance)
+- [Red Hat Learning Subscription: Expert chat for premium and standard users](https://www.redhat.com/en/blog/red-hat-learning-subscription-expert-chat-premium-and-standard-users)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
