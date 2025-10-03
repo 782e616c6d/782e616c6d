@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [From Shell Scripts to Science Agents: How AI Agents Are Transforming Research Workflows](https://www.docker.com/blog/ai-science-agents-research-workflows/)
-- [Fine-Tuning Local Models with Docker Offload and Unsloth](https://www.docker.com/blog/fine-tuning-models-with-offload-and-unsloth/)
-- [How Red Hat can support your journey to a standard operating environment](https://www.redhat.com/en/blog/simplify-standardization-journey-red-hat-technologies)
-- [Security update: Incident related to Red Hat Consulting GitLab instance](https://www.redhat.com/en/blog/security-update-incident-related-red-hat-consulting-gitlab-instance)
-- [Red Hat Learning Subscription: Expert chat for premium and standard users](https://www.redhat.com/en/blog/red-hat-learning-subscription-expert-chat-premium-and-standard-users)
+- [Reduce Docker image build time on AWS CodeBuild using Amazon ECR as a remote cache](https://aws.amazon.com/blogs/devops/reduce-docker-image-build-time-on-aws-codebuild-using-amazon-ecr-as-a-remote-cache/)
+- [Multi-Cloud Code Deployments using Amazon Q Developer with Echo3D](https://aws.amazon.com/blogs/devops/multi-cloud-code-deployments-using-amazon-q-developer-with-echo3d/)
+- [Introducing Red Hat OpenStack VMware migration toolkit](https://www.redhat.com/en/blog/red-hat-openstack-vmware-migration-toolkit-simplify-your-journey-openshift)
+- [Friday Five — October 3, 2025](https://www.redhat.com/en/blog/friday-five-october-3-2025-red-hat)
+- [Evolving our ServiceNow integration: Sunsetting the Notification Service for more capable alternatives](https://www.redhat.com/en/blog/evolving-our-servicenow-integration-sunsetting-notification-service-more-capable-alternatives)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
