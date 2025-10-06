@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Reduce Docker image build time on AWS CodeBuild using Amazon ECR as a remote cache](https://aws.amazon.com/blogs/devops/reduce-docker-image-build-time-on-aws-codebuild-using-amazon-ecr-as-a-remote-cache/)
-- [Multi-Cloud Code Deployments using Amazon Q Developer with Echo3D](https://aws.amazon.com/blogs/devops/multi-cloud-code-deployments-using-amazon-q-developer-with-echo3d/)
-- [Introducing Red Hat OpenStack VMware migration toolkit](https://www.redhat.com/en/blog/red-hat-openstack-vmware-migration-toolkit-simplify-your-journey-openshift)
-- [Friday Five — October 3, 2025](https://www.redhat.com/en/blog/friday-five-october-3-2025-red-hat)
-- [Evolving our ServiceNow integration: Sunsetting the Notification Service for more capable alternatives](https://www.redhat.com/en/blog/evolving-our-servicenow-integration-sunsetting-notification-service-more-capable-alternatives)
+- [Beyond Bootstrap: Bootstrapless CDK Deployments at GoDaddy](https://aws.amazon.com/blogs/devops/beyond-bootstrap-bootstrapless-cdk-deployments-at-godaddy/)
+- [IBM Granite 4.0 Models Now Available on Docker Hub](https://www.docker.com/blog/ibm-granite-4-0-models-now-available-on-docker-hub/)
+- [Unlimited access to Docker Hardened Images: Because security should be affordable, always](https://www.docker.com/blog/unlimited-access-to-docker-hardened-images-because-security-should-be-affordable-always/)
+- [Docker at AI Engineer Paris: Build and Secure AI Agents with Docker](https://www.docker.com/blog/ai-engineer-paris-build-secure-ai-agents/)
+- [Llama.cpp Gets an Upgrade: Resumable Model Downloads](https://www.docker.com/blog/llama-cpp-resumable-gguf-downloads/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
