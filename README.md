@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the new Azure DevOps Server RC Release](https://devblogs.microsoft.com/devops/announcing-the-new-azure-devops-server-rc-release/)
-- [Powered by Docker: How Open Source Genius Cut Entropy Debt with Docker MCP Toolkit and Claude Desktop](https://www.docker.com/blog/open-source-genius-cut-entropy-debt-docker-mcp-claude/)
-- [Moeve: Controlling resource deployment at scale with AWS CloudFormation Guard Hooks](https://aws.amazon.com/blogs/devops/moeve-controlling-resource-deployment-at-scale-with-aws-cloudformation-guard-hooks/)
-- [SQL Server 2025 Preview now supports Red Hat Enterprise Linux 10](https://www.redhat.com/en/blog/sql-server-2025-preview-now-supports-red-hat-enterprise-linux-10)
-- [Red Hat OpenStack VMware Migration toolkit deep-dive](https://www.redhat.com/en/blog/red-hat-openstack-vmware-migration-toolkit-deep-dive)
+- [StackSets Deployment Strategies: Balancing Speed, Safety, and Scale to Optimize Deployments for Different Organizational Needs](https://aws.amazon.com/blogs/devops/stacksets-deployment-strategies-balancing-speed-safety-and-scale-to-optimize-deployments-for-different-organizational-needs/)
+- [From the Captain’s Chair: Pradumna Saraf](https://www.docker.com/blog/from-the-captains-chair-pradumna-saraf/)
+- [Unlocking Local AI on Any GPU: Docker Model Runner Now with Vulkan Support](https://www.docker.com/blog/docker-model-runner-vulkan-gpu-support/)
+- [Your Red Hat OpenShift AI models are waiting at the door. Who’s knocking?](https://www.redhat.com/en/blog/your-red-hat-openshift-ai-models-are-waiting-door-whos-knocking)
+- [What’s new in Red Hat Ansible Automation Platform 2.6](https://www.redhat.com/en/blog/whats-new-in-ansible-automation-platform-2.6)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
