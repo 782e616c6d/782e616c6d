@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [LoRA Explained: Faster, More Efficient Fine-Tuning with Docker](https://www.docker.com/blog/lora-explained/)
+- [Simplify your cloud-native transition with Oracle WebLogic Server on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/simplify-your-cloud-native-transition-oracle-weblogic-server-red-hat-openshift-virtualization)
+- [Enterprise AI survey: ambition, the value gap, and the importance of open source](https://www.redhat.com/en/blog/enterprise-ai-survey-ambition-value-gap-and-importance-open-source)
+- [Boost developer productivity and modernization with a Red Hat developer experience assessment](https://www.redhat.com/en/blog/boost-developer-productivity-red-hat-developer-experience-assessment)
 - [StackSets Deployment Strategies: Balancing Speed, Safety, and Scale to Optimize Deployments for Different Organizational Needs](https://aws.amazon.com/blogs/devops/stacksets-deployment-strategies-balancing-speed-safety-and-scale-to-optimize-deployments-for-different-organizational-needs/)
-- [From the Captain’s Chair: Pradumna Saraf](https://www.docker.com/blog/from-the-captains-chair-pradumna-saraf/)
-- [Unlocking Local AI on Any GPU: Docker Model Runner Now with Vulkan Support](https://www.docker.com/blog/docker-model-runner-vulkan-gpu-support/)
-- [Your Red Hat OpenShift AI models are waiting at the door. Who’s knocking?](https://www.redhat.com/en/blog/your-red-hat-openshift-ai-models-are-waiting-door-whos-knocking)
-- [What’s new in Red Hat Ansible Automation Platform 2.6](https://www.redhat.com/en/blog/whats-new-in-ansible-automation-platform-2.6)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
