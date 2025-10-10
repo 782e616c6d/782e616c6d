@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [LoRA Explained: Faster, More Efficient Fine-Tuning with Docker](https://www.docker.com/blog/lora-explained/)
-- [Simplify your cloud-native transition with Oracle WebLogic Server on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/simplify-your-cloud-native-transition-oracle-weblogic-server-red-hat-openshift-virtualization)
-- [Enterprise AI survey: ambition, the value gap, and the importance of open source](https://www.redhat.com/en/blog/enterprise-ai-survey-ambition-value-gap-and-importance-open-source)
-- [Boost developer productivity and modernization with a Red Hat developer experience assessment](https://www.redhat.com/en/blog/boost-developer-productivity-red-hat-developer-experience-assessment)
-- [StackSets Deployment Strategies: Balancing Speed, Safety, and Scale to Optimize Deployments for Different Organizational Needs](https://aws.amazon.com/blogs/devops/stacksets-deployment-strategies-balancing-speed-safety-and-scale-to-optimize-deployments-for-different-organizational-needs/)
+- [Boosting Unit Test Automation at Audible with Amazon Q Developer](https://aws.amazon.com/blogs/devops/boosting-unit-test-automation-at-audible-with-amazon-q-developer/)
+- [How to Add MCP Servers to Claude Code with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-servers-to-claude-code-with-mcp-toolkit/)
+- [The open source engine driving AI from experiment to production and why inference is everything](https://www.redhat.com/en/blog/open-source-engine-driving-ai-experiment-production-and-why-inference-everything)
+- [Reducing cognitive load in enterprise Kubernetes: 5 strategic tenets](https://www.redhat.com/en/blog/reducing-cognitive-load-enterprise-kubernetes-5-strategic-tenets)
+- [Friday Five — October 10, 2025](https://www.redhat.com/en/blog/friday-five-october-10-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
