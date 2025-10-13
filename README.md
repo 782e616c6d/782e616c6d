@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [100% Transparency and Five Pillars](https://www.docker.com/blog/100-transparency-and-five-pillars/)
+- [Azure DevOps local MCP Server is generally available](https://devblogs.microsoft.com/devops/azure-devops-local-mcp-server-generally-available/)
+- [What to know before you install or upgrade to Red Hat Ansible Automation Platform 2.6](https://www.redhat.com/en/blog/installation-and-upgrade-guide-ansible-automation-platform-26)
+- [How Red Hat, NetApp, and Cisco simplify IT modernization](https://www.redhat.com/en/blog/how-red-hat-netapp-and-cisco-simplify-it-modernization)
 - [Boosting Unit Test Automation at Audible with Amazon Q Developer](https://aws.amazon.com/blogs/devops/boosting-unit-test-automation-at-audible-with-amazon-q-developer/)
-- [How to Add MCP Servers to Claude Code with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-servers-to-claude-code-with-mcp-toolkit/)
-- [The open source engine driving AI from experiment to production and why inference is everything](https://www.redhat.com/en/blog/open-source-engine-driving-ai-experiment-production-and-why-inference-everything)
-- [Reducing cognitive load in enterprise Kubernetes: 5 strategic tenets](https://www.redhat.com/en/blog/reducing-cognitive-load-enterprise-kubernetes-5-strategic-tenets)
-- [Friday Five — October 10, 2025](https://www.redhat.com/en/blog/friday-five-october-10-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
