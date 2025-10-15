@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Modernizing Authentication for Legacy Visual Studio Clients](https://devblogs.microsoft.com/devops/modernizing-authentication-for-legacy-visual-studio-clients/)
-- [Build a Multi-Agent System in 5 Minutes with cagent](https://www.docker.com/blog/how-to-build-a-multi-agent-system/)
-- [Join Us in Rebooting the Docker Model Runner Community!](https://www.docker.com/blog/rebooting-model-runner-community/)
-- [Docker Model Runner on the new NVIDIA DGX Spark: a new paradigm for developing AI locally](https://www.docker.com/blog/new-nvidia-dgx-spark-docker-model-runner/)
-- [Why standardization is the key to agentic AI success: How a unified platform spurs innovation](https://www.redhat.com/en/blog/why-standardization-key-agentic-ai-success-how-unified-platform-spurs-innovation)
+- [Docker Hardened Images: crafted by humans, protected by AI](https://www.docker.com/blog/docker-hardened-images-crafted-by-humans-protected-by-ai/)
+- [How to add MCP Servers to Gemini CLI with Docker MCP Toolkit](https://www.docker.com/blog/how-to-set-up-gemini-cli-with-mcp-toolkit/)
+- [Measure impact and unlock greater value with Red Hat Ansible Automation Dashboard](https://www.redhat.com/en/blog/unlocking-value-ansible-automation-dashboard-red-hat-ansible-automation-platform-26)
+- [From bottleneck to breakthrough: How Citizens Bank modernized integration with Red Hat OpenShift](https://www.redhat.com/en/blog/modernizing-integration-red-hat-openshift-citizens-bank-case-study)
+- [Automation unlocks 5G&#39;s full potential: One New Zealand&#39;s journey](https://www.redhat.com/en/blog/automation-unlocks-5gs-full-potential-one-new-zealands-journey)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
