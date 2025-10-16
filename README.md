@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Debug Docker Builds with Visual Studio Code](https://www.docker.com/blog/debug-docker-builds-with-visual-studio-code/)
+- [Simplified patching with Red Hat Enterprise Linux and Red Hat Insights](https://www.redhat.com/en/blog/simplified-patching-red-hat-enterprise-linux-and-red-hat-insights)
 - [Docker Hardened Images: crafted by humans, protected by AI](https://www.docker.com/blog/docker-hardened-images-crafted-by-humans-protected-by-ai/)
 - [How to add MCP Servers to Gemini CLI with Docker MCP Toolkit](https://www.docker.com/blog/how-to-set-up-gemini-cli-with-mcp-toolkit/)
 - [Measure impact and unlock greater value with Red Hat Ansible Automation Dashboard](https://www.redhat.com/en/blog/unlocking-value-ansible-automation-dashboard-red-hat-ansible-automation-platform-26)
-- [From bottleneck to breakthrough: How Citizens Bank modernized integration with Red Hat OpenShift](https://www.redhat.com/en/blog/modernizing-integration-red-hat-openshift-citizens-bank-case-study)
-- [Automation unlocks 5G&#39;s full potential: One New Zealand&#39;s journey](https://www.redhat.com/en/blog/automation-unlocks-5gs-full-potential-one-new-zealands-journey)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
