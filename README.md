@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker Model Runner Meets Open WebUI: A Simpler Way to Run Local AI Models](https://www.docker.com/blog/open-webui-docker-desktop-model-runner/)
-- [How to add MCP Servers to OpenAI’s Codex with Docker MCP Toolkit](https://www.docker.com/blog/connect-codex-to-mcp-servers-mcp-toolkit/)
-- [Why I Still Use jQuery](https://www.docker.com/blog/why-i-still-use-jquery-2025/)
-- [Friday Five — October 17, 2025](https://www.redhat.com/en/blog/friday-five-october-17-2025-red-hat)
-- [Optimizing energy efficiency on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/energy-efficient-computing-server-platforms-red-hat-enterprise-linux)
+- [Introducing a Richer ”docker model run” Experience](https://www.docker.com/blog/docker-model-run-prompt/)
+- [Infrastructure as Code at Thomson Reuters with AWS CDK](https://aws.amazon.com/blogs/devops/infrastructure-as-code-at-thomson-reuters-with-aws-cdk/)
+- [Overcoming the cost and complexity of AI inference at scale](https://www.redhat.com/en/blog/overcoming-cost-and-complexity-ai-inference-scale)
+- [Learn Red Hat OpenShift Virtualization concepts from a VMware Admin Background with this learning path](https://www.redhat.com/en/blog/learn-red-hat-openshift-virtualization-vmware-admin)
+- [How Discover cut $1.4 million from its annual AWS budget in two game days](https://www.redhat.com/en/blog/how-discover-cut-aws-budget-in-two-days)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
