@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker + E2B: Building the Future of Trusted AI](https://www.docker.com/blog/docker-e2b-building-the-future-of-trusted-ai/)
+- [Migration toolkit for applications 8: Bringing modernized applications to market faster](https://www.redhat.com/en/blog/migration-toolkit-applications-8-bringing-modernized-applications-market-faster)
 - [Getting Started with Offload: Automating Everyday Workflows with Docker](https://www.docker.com/blog/getting-started-docker-offload/)
-- [Accelerating legacy code modernization: EPAM’s journey with Amazon Q Developer](https://aws.amazon.com/blogs/devops/accelerating-legacy-code-modernization-epams-journey-with-amazon-q-developer/)
 - [The Path to Digital Sovereignty: Why an Open Ecosystem is the Key for Europe](https://www.redhat.com/en/blog/path-digital-sovereignty-why-open-ecosystem-key-europe)
 - [From tokens to caches: How llm-d improves LLM observability in Red Hat OpenShift AI 3.0](https://www.redhat.com/en/blog/tokens-caches-how-llm-d-improves-llm-observability-red-hat-openshift-ai-3.0)
-- [Modernize: Migrate from SUSE Rancher RKE1 to Red Hat OpenShift](https://www.redhat.com/en/blog/migrate-suse-rancher-rke1-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
