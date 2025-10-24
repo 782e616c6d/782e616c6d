@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker + E2B: Building the Future of Trusted AI](https://www.docker.com/blog/docker-e2b-building-the-future-of-trusted-ai/)
-- [Migration toolkit for applications 8: Bringing modernized applications to market faster](https://www.redhat.com/en/blog/migration-toolkit-applications-8-bringing-modernized-applications-market-faster)
-- [Getting Started with Offload: Automating Everyday Workflows with Docker](https://www.docker.com/blog/getting-started-docker-offload/)
-- [The Path to Digital Sovereignty: Why an Open Ecosystem is the Key for Europe](https://www.redhat.com/en/blog/path-digital-sovereignty-why-open-ecosystem-key-europe)
-- [From tokens to caches: How llm-d improves LLM observability in Red Hat OpenShift AI 3.0](https://www.redhat.com/en/blog/tokens-caches-how-llm-d-improves-llm-observability-red-hat-openshift-ai-3.0)
+- [Docker Hub Incident Report – October 20, 2025](https://www.docker.com/blog/docker-hub-incident-report-october-20-2025/)
+- [Your Org, Your Tools: Building a Custom MCP Catalog](https://www.docker.com/blog/build-custom-mcp-catalog/)
+- [How to Simplify Multi-Account Deployments Monitoring: Centralized Logs for AWS CloudFormation StackSets](https://aws.amazon.com/blogs/devops/how-to-simplify-multi-account-deployments-monitoring-centralized-logs-for-aws-cloudformation-stacksets/)
+- [Why More People Are Taking Control of Their Digital Lives with Self-Hosted Alternatives](https://www.docker.com/blog/self-hosted-alternatives-control-your-data/)
+- [AI Guide to the Galaxy: MCP Toolkit and Gateway, Explained](https://www.docker.com/blog/mcp-toolkit-gateway-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
