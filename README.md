@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Connect MCP Servers to Claude Desktop with Docker MCP Toolkit](https://www.docker.com/blog/connect-mcp-servers-to-claude-desktop-with-mcp-toolkit/)
+- [Unlocking telecommunication transformation with Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/unlocking-telecommunication-transformation-red-hat-openshift-service-aws)
 - [Docker Hub Incident Report – October 20, 2025](https://www.docker.com/blog/docker-hub-incident-report-october-20-2025/)
 - [Your Org, Your Tools: Building a Custom MCP Catalog](https://www.docker.com/blog/build-custom-mcp-catalog/)
 - [How to Simplify Multi-Account Deployments Monitoring: Centralized Logs for AWS CloudFormation StackSets](https://aws.amazon.com/blogs/devops/how-to-simplify-multi-account-deployments-monitoring-centralized-logs-for-aws-cloudformation-stacksets/)
-- [Why More People Are Taking Control of Their Digital Lives with Self-Hosted Alternatives](https://www.docker.com/blog/self-hosted-alternatives-control-your-data/)
-- [AI Guide to the Galaxy: MCP Toolkit and Gateway, Explained](https://www.docker.com/blog/mcp-toolkit-gateway-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
