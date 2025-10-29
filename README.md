@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The State of Missouri Scales Automation, Unlocks Time for Innovation](https://www.redhat.com/en/blog/state-missouri-scales-automation-unlocks-time-innovation)
+- [HPE Alletra Storage MP B10000 for Red Hat OpenShift](https://www.redhat.com/en/blog/hpe-alletra-storage-mp-b10000-red-hat-openshift)
+- [Median time from submission to publication: 2.5 weeks From banking success, to a new future in tech: Bradley’s Red Hat journey so far](https://www.redhat.com/en/blog/banking-tech-bradleys-red-hat-journey)
 - [The power of confidential containers on Red Hat OpenShift with NVIDIA GPUs](https://www.redhat.com/en/blog/power-confidential-containers-red-hat-openshift-nvidia-gpus)
 - [Take a fail-fast approach for developing RHEL upgrade automation](https://www.redhat.com/en/blog/take-fail-fast-approach-developing-rhel-upgrade-automation)
-- [Red Hat to distribute NVIDIA CUDA across Red Hat AI, RHEL and OpenShift](https://www.redhat.com/en/blog/red-hat-distribute-nvidia-cuda-across-red-hat-ai-rhel-and-openshift)
-- [Red Hat AI: Modular building blocks for scalable, repeatable model customization](https://www.redhat.com/en/blog/red-hat-ai-modular-building-blocks-scalable-repeatable-model-customization)
-- [Introducing Red Hat’s STIG-hardened UBI for NVIDIA GPUs on Red Hat OpenShift](https://www.redhat.com/en/blog/introducing-red-hats-stig-hardened-ubi-nvidia-gpus-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
