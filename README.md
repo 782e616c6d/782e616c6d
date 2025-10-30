@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management](https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed)
+- [theCUBE Research economic validation of Docker’s development platform](https://www.docker.com/blog/thecube-research-economic-validation-of-docker-development-platform/)
+- [Not your grandfather&#39;s VMs: Renewing backup for Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/netapp-backup-and-recovery-red-hat-openshift-virtualization)
 - [The State of Missouri Scales Automation, Unlocks Time for Innovation](https://www.redhat.com/en/blog/state-missouri-scales-automation-unlocks-time-innovation)
 - [HPE Alletra Storage MP B10000 for Red Hat OpenShift](https://www.redhat.com/en/blog/hpe-alletra-storage-mp-b10000-red-hat-openshift)
-- [Median time from submission to publication: 2.5 weeks From banking success, to a new future in tech: Bradley’s Red Hat journey so far](https://www.redhat.com/en/blog/banking-tech-bradleys-red-hat-journey)
-- [The power of confidential containers on Red Hat OpenShift with NVIDIA GPUs](https://www.redhat.com/en/blog/power-confidential-containers-red-hat-openshift-nvidia-gpus)
-- [Take a fail-fast approach for developing RHEL upgrade automation](https://www.redhat.com/en/blog/take-fail-fast-approach-developing-rhel-upgrade-automation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
