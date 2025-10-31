@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management](https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed)
+- [Security Doesn’t Have to Hurt](https://www.docker.com/blog/security-shadow-it-collaboration/)
+- [Mr. Bones: A Pirate-Voiced Halloween Chatbot Powered by Docker Model Runner](https://www.docker.com/blog/talking-skeleton-docker-llm/)
+- [Friday Five — October 31, 2025](https://www.redhat.com/en/blog/friday-five-october-31-2025-red-hat)
+- [Efficient and reproducible LLM inference: Inside Red Hat’s MLPerf Inference v5.1 submissions](https://www.redhat.com/en/blog/efficient-and-reproducible-llm-inference-red-hat-mlperf-inference-v51-results)
 - [theCUBE Research economic validation of Docker’s development platform](https://www.docker.com/blog/thecube-research-economic-validation-of-docker-development-platform/)
-- [Not your grandfather&#39;s VMs: Renewing backup for Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/netapp-backup-and-recovery-red-hat-openshift-virtualization)
-- [The State of Missouri Scales Automation, Unlocks Time for Innovation](https://www.redhat.com/en/blog/state-missouri-scales-automation-unlocks-time-innovation)
-- [HPE Alletra Storage MP B10000 for Red Hat OpenShift](https://www.redhat.com/en/blog/hpe-alletra-storage-mp-b10000-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
