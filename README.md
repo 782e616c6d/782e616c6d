@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Multi-Account Infrastructure with AWS CloudFormation StackSets and AWS CDK](https://aws.amazon.com/blogs/devops/streamlining-multi-account-infrastructure-with-aws-cloudformation-stacksets-and-aws-cdk/)
+- [How to Use Multimodal AI Models With Docker Model Runner](https://www.docker.com/blog/how-to-use-multimodel-ai-with-model-runner/)
+- [Navigating the industrial edge: How a platform approach unlocks business value](https://www.redhat.com/en/blog/navigating-industrial-edge-how-platform-approach-unlocks-business-value)
 - [Security Doesn’t Have to Hurt](https://www.docker.com/blog/security-shadow-it-collaboration/)
 - [Mr. Bones: A Pirate-Voiced Halloween Chatbot Powered by Docker Model Runner](https://www.docker.com/blog/talking-skeleton-docker-llm/)
-- [Friday Five — October 31, 2025](https://www.redhat.com/en/blog/friday-five-october-31-2025-red-hat)
-- [Efficient and reproducible LLM inference: Inside Red Hat’s MLPerf Inference v5.1 submissions](https://www.redhat.com/en/blog/efficient-and-reproducible-llm-inference-red-hat-mlperf-inference-v51-results)
-- [theCUBE Research economic validation of Docker’s development platform](https://www.docker.com/blog/thecube-research-economic-validation-of-docker-development-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
