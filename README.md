@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Azure Developer CLI: Azure Container Apps Dev-to-Prod Deployment with Layered Infrastructure](https://devblogs.microsoft.com/devops/azure-developer-cli-azure-container-apps-dev-to-prod-deployment-with-layered-infrastructure/)
+- [Introducing Red Hat Satellite 6.18: New AI, management, and system health capabilities](https://www.redhat.com/en/blog/red-hat-satellite-618-new-ai-management-and-security-capabilities)
+- [Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management](https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed)
 - [Streamlining Multi-Account Infrastructure with AWS CloudFormation StackSets and AWS CDK](https://aws.amazon.com/blogs/devops/streamlining-multi-account-infrastructure-with-aws-cloudformation-stacksets-and-aws-cdk/)
 - [How to Use Multimodal AI Models With Docker Model Runner](https://www.docker.com/blog/how-to-use-multimodel-ai-with-model-runner/)
-- [Navigating the industrial edge: How a platform approach unlocks business value](https://www.redhat.com/en/blog/navigating-industrial-edge-how-platform-approach-unlocks-business-value)
-- [Security Doesn’t Have to Hurt](https://www.docker.com/blog/security-shadow-it-collaboration/)
-- [Mr. Bones: A Pirate-Voiced Halloween Chatbot Powered by Docker Model Runner](https://www.docker.com/blog/talking-skeleton-docker-llm/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
