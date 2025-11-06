@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic MCPs with Docker: Stop Hardcoding Your Agents’ World](https://www.docker.com/blog/dynamic-mcps-stop-hardcoding-your-agents-world/)
+- [Partner with Atlassian and unlock your next wave of growth](https://www.atlassian.com/blog/enterprise/partner-with-atlassian-and-unlock-your-next-wave-of-growth)
 - [Multi-cluster GitOps with the Argo CD Agent Technology Preview](https://www.redhat.com/en/blog/multi-cluster-gitops-argo-cd-agent-openshift-gitops)
 - [Azure Developer CLI: Azure Container Apps Dev-to-Prod Deployment with Layered Infrastructure](https://devblogs.microsoft.com/devops/azure-developer-cli-azure-container-apps-dev-to-prod-deployment-with-layered-infrastructure/)
 - [Introducing Red Hat Satellite 6.18: New AI, management, and system health capabilities](https://www.redhat.com/en/blog/red-hat-satellite-618-new-ai-management-and-security-capabilities)
-- [Red Hat Insights is now Red Hat Lightspeed: Accelerating AI-powered management](https://www.redhat.com/en/blog/red-hat-insights-now-red-hat-lightspeed)
-- [Streamlining Multi-Account Infrastructure with AWS CloudFormation StackSets and AWS CDK](https://aws.amazon.com/blogs/devops/streamlining-multi-account-infrastructure-with-aws-cloudformation-stacksets-and-aws-cdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
