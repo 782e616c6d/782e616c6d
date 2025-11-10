@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Most DevSecOps Advice Is Useless without Context—Here’s What Actually Works](https://www.docker.com/blog/context-aware-devsecops-what-works/)
-- [Friday Five — November 7, 2025](https://www.redhat.com/en/blog/friday-five-november-7-2025-red-hat)
-- [Dynamic MCPs with Docker: Stop Hardcoding Your Agents’ World](https://www.docker.com/blog/dynamic-mcps-stop-hardcoding-your-agents-world/)
-- [Partner with Atlassian and unlock your next wave of growth](https://www.atlassian.com/blog/enterprise/partner-with-atlassian-and-unlock-your-next-wave-of-growth)
-- [Multi-cluster GitOps with the Argo CD Agent Technology Preview](https://www.redhat.com/en/blog/multi-cluster-gitops-argo-cd-agent-openshift-gitops)
+- [Help Define the Future of Development – Take the Docker State of Application Development Survey 2025](https://www.docker.com/blog/state-of-application-development-survey-2025/)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Red Hat Developer Hub 1.8 delivers context-aware AI, faster self-service and scalable governance](https://www.redhat.com/en/blog/red-hat-developer-hub-18-delivers-context-aware-ai-faster-self-service-and-scalable-governance)
+- [Red Hat OpenShift is joining the Kueue](https://www.redhat.com/en/blog/openshift-joining-kueue)
+- [GPU-as-a-Service for AI at scale: Practical strategies with Red Hat OpenShift AI](https://www.redhat.com/en/blog/gpu-service-ai-scale-practical-strategies-red-hat-openshift-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
