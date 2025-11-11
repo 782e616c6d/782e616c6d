@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Help Define the Future of Development – Take the Docker State of Application Development Survey 2025](https://www.docker.com/blog/state-of-application-development-survey-2025/)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Red Hat Developer Hub 1.8 delivers context-aware AI, faster self-service and scalable governance](https://www.redhat.com/en/blog/red-hat-developer-hub-18-delivers-context-aware-ai-faster-self-service-and-scalable-governance)
-- [Red Hat OpenShift is joining the Kueue](https://www.redhat.com/en/blog/openshift-joining-kueue)
-- [GPU-as-a-Service for AI at scale: Practical strategies with Red Hat OpenShift AI](https://www.redhat.com/en/blog/gpu-service-ai-scale-practical-strategies-red-hat-openshift-ai)
+- [Prepare for a post-quantum future with RHEL 9.7](https://www.redhat.com/en/blog/prepare-post-quantum-future-rhel-97)
+- [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-2/)
+- [Docker Engine v29: Foundational Updates for the Future](https://www.docker.com/blog/docker-engine-version-29/)
+- [Connect to Remote MCP Servers with OAuth in Docker](https://www.docker.com/blog/connect-to-remote-mcp-servers-with-oauth/)
+- [The strategic shift: How Ford and Emirates NBD stopped paying the complexity tax for virtualization](https://www.redhat.com/en/blog/strategic-shift-how-ford-and-emirates-nbd-stopped-paying-complexity-tax-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
