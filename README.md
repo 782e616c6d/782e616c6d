@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Prepare for a post-quantum future with RHEL 9.7](https://www.redhat.com/en/blog/prepare-post-quantum-future-rhel-97)
-- [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-2/)
-- [Docker Engine v29: Foundational Updates for the Future](https://www.docker.com/blog/docker-engine-version-29/)
-- [Connect to Remote MCP Servers with OAuth in Docker](https://www.docker.com/blog/connect-to-remote-mcp-servers-with-oauth/)
-- [The strategic shift: How Ford and Emirates NBD stopped paying the complexity tax for virtualization](https://www.redhat.com/en/blog/strategic-shift-how-ford-and-emirates-nbd-stopped-paying-complexity-tax-virtualization)
+- [Docker Desktop 4.50: Indispensable for Daily Development](https://www.docker.com/blog/docker-desktop-4-50/)
+- [Your complete guide for getting started with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/your-complete-guide-getting-started-red-hat-openshift-virtualization)
+- [What&#39;s new in RHEL 10.1: Offline assistance, convenient AI accelerators, and more](https://www.redhat.com/en/blog/what-s-new-rhel-101-offline-assistance-convenient-ai-accelerators-and-more)
+- [Stop fighting with Ingress: NGINX Gateway Fabric is now certified for Red Hat OpenShift](https://www.redhat.com/en/blog/nginx-gateway-fabric-certified-red-hat-openshift-0)
+- [Introducing Red Hat Enterprise Linux 9.7](https://www.redhat.com/en/blog/now-available-red-hat-enterprise-linux-97)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
