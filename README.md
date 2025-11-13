@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker Desktop 4.50: Indispensable for Daily Development](https://www.docker.com/blog/docker-desktop-4-50/)
-- [Your complete guide for getting started with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/your-complete-guide-getting-started-red-hat-openshift-virtualization)
-- [What&#39;s new in RHEL 10.1: Offline assistance, convenient AI accelerators, and more](https://www.redhat.com/en/blog/what-s-new-rhel-101-offline-assistance-convenient-ai-accelerators-and-more)
-- [Stop fighting with Ingress: NGINX Gateway Fabric is now certified for Red Hat OpenShift](https://www.redhat.com/en/blog/nginx-gateway-fabric-certified-red-hat-openshift-0)
-- [Introducing Red Hat Enterprise Linux 9.7](https://www.redhat.com/en/blog/now-available-red-hat-enterprise-linux-97)
+- [AI’s biggest impact isn’t cranking out more code: Why DevEx matters](https://www.dynatrace.com/news/blog/ais-biggest-impact-isnt-cranking-out-more-code-why-devex-matters/)
+- [Cagent Comes to Docker Desktop with Built-In IDE Support through ACP](https://www.docker.com/blog/cagent-comes-to-docker-desktop-with-built-in-ide-support-through-acp/)
+- [MCP Horror Stories: The WhatsApp Data Exfiltration Attack](https://www.docker.com/blog/mcp-horror-stories-whatsapp-data-exfiltration-issue/)
+- [Listening, learning, and leading: How customer feedback shapes the future of Red Hat Learning Subscription](https://www.redhat.com/en/blog/listening-learning-and-leading-how-customer-feedback-shapes-future-red-hat-learning-subscription)
+- [Improving modern software supply chain security: From AI models to container images](https://www.redhat.com/en/blog/securing-modern-software-supply-chain-ai-models-container-images)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
