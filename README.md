@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [AI’s biggest impact isn’t cranking out more code: Why DevEx matters](https://www.dynatrace.com/news/blog/ais-biggest-impact-isnt-cranking-out-more-code-why-devex-matters/)
-- [Cagent Comes to Docker Desktop with Built-In IDE Support through ACP](https://www.docker.com/blog/cagent-comes-to-docker-desktop-with-built-in-ide-support-through-acp/)
-- [MCP Horror Stories: The WhatsApp Data Exfiltration Attack](https://www.docker.com/blog/mcp-horror-stories-whatsapp-data-exfiltration-issue/)
-- [Listening, learning, and leading: How customer feedback shapes the future of Red Hat Learning Subscription](https://www.redhat.com/en/blog/listening-learning-and-leading-how-customer-feedback-shapes-future-red-hat-learning-subscription)
-- [Improving modern software supply chain security: From AI models to container images](https://www.redhat.com/en/blog/securing-modern-software-supply-chain-ai-models-container-images)
+- [Making the Most of Your Docker Hardened Images Trial – Part 1](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-trial-part-1/)
+- [Investigating the Great AI Productivity Divide: Why Are Some Developers 5x Faster?](https://www.docker.com/blog/ai-productivity-divide-developers-5x-faster/)
+- [Red Hat Advanced Cluster Security 4.9: Security built with your workflows in mind](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-kubernetes-49-release)
+- [Friday Five — November 14, 2025](https://www.redhat.com/en/blog/friday-five-november-14-2025-red-hat)
+- [DxOperator from DH2i is now certified for Red Hat OpenShift 4.19](https://www.redhat.com/en/blog/dxoperator-dh2i-now-certified-red-hat-openshift-419)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
