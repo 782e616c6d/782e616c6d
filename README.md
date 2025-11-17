@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Introducing OpenShift Service Mesh 3.2 with Istio’s ambient mode](https://www.redhat.com/en/blog/introducing-openshift-service-mesh-32-istios-ambient-mode)
+- [Unlock enterprise-grade virtualization at the edge with two-node Red Hat OpenShift and Arctera&#39;s InfoScale](https://www.redhat.com/en/blog/unlock-enterprise-grade-virtualization-edge-two-node-red-hat-openshift-and-arcteras-infoscale)
+- [Behind the queues: How Kueue reimagines scheduling in Red Hat OpenShift](https://www.redhat.com/en/blog/behind-queues-how-kueue-reimagines-scheduling-red-hat-openshift)
+- [Alliander modernises its electricity grid with Red Hat for long-term reliability in balance with rapid innovation](https://www.redhat.com/en/blog/alliander-modernises-its-electricity-grid-red-hat-long-term-reliability-balance-rapid-innovation)
 - [Making the Most of Your Docker Hardened Images Trial – Part 1](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-trial-part-1/)
-- [Investigating the Great AI Productivity Divide: Why Are Some Developers 5x Faster?](https://www.docker.com/blog/ai-productivity-divide-developers-5x-faster/)
-- [Red Hat Advanced Cluster Security 4.9: Security built with your workflows in mind](https://www.redhat.com/en/blog/red-hat-advanced-cluster-security-kubernetes-49-release)
-- [Friday Five — November 14, 2025](https://www.redhat.com/en/blog/friday-five-november-14-2025-red-hat)
-- [DxOperator from DH2i is now certified for Red Hat OpenShift 4.19](https://www.redhat.com/en/blog/dxoperator-dh2i-now-certified-red-hat-openshift-419)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
