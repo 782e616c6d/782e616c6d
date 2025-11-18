@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Introducing OpenShift Service Mesh 3.2 with Istio’s ambient mode](https://www.redhat.com/en/blog/introducing-openshift-service-mesh-32-istios-ambient-mode)
-- [Unlock enterprise-grade virtualization at the edge with two-node Red Hat OpenShift and Arctera&#39;s InfoScale](https://www.redhat.com/en/blog/unlock-enterprise-grade-virtualization-edge-two-node-red-hat-openshift-and-arcteras-infoscale)
-- [Behind the queues: How Kueue reimagines scheduling in Red Hat OpenShift](https://www.redhat.com/en/blog/behind-queues-how-kueue-reimagines-scheduling-red-hat-openshift)
-- [Alliander modernises its electricity grid with Red Hat for long-term reliability in balance with rapid innovation](https://www.redhat.com/en/blog/alliander-modernises-its-electricity-grid-red-hat-long-term-reliability-balance-rapid-innovation)
-- [Making the Most of Your Docker Hardened Images Trial – Part 1](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-trial-part-1/)
+- [Docker + Unsloth: Build Custom Models, Faster](https://www.docker.com/blog/docker-unsloth-build-custom-models-faster/)
+- [Azure DevOps and GitHub Repositories — Next Steps in the Path to Agentic AI](https://devblogs.microsoft.com/devops/azure-devops-and-github-repositories-next-steps-in-the-path-to-agentic-ai/)
+- [Launch a Chat UI Agent with Docker and the Vercel AI SDK](https://www.docker.com/blog/launch-chat-ui-agent-docker-vercel-ai-sdk/)
+- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Red Hat Enterprise Linux delivers deterministic performance for time-sensitive networking](https://www.redhat.com/en/blog/red-hat-enterprise-linux-delivers-deterministic-performance-industrial-tsn)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
