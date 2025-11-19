@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker + Unsloth: Build Custom Models, Faster](https://www.docker.com/blog/docker-unsloth-build-custom-models-faster/)
-- [Azure DevOps and GitHub Repositories — Next Steps in the Path to Agentic AI](https://devblogs.microsoft.com/devops/azure-devops-and-github-repositories-next-steps-in-the-path-to-agentic-ai/)
-- [Launch a Chat UI Agent with Docker and the Vercel AI SDK](https://www.docker.com/blog/launch-chat-ui-agent-docker-vercel-ai-sdk/)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Red Hat Enterprise Linux delivers deterministic performance for time-sensitive networking](https://www.redhat.com/en/blog/red-hat-enterprise-linux-delivers-deterministic-performance-industrial-tsn)
+- [Announcing CloudFormation IDE Experience: End-to-End Development in Your IDE](https://aws.amazon.com/blogs/devops/announcing-cloudformation-ide-experience-end-to-end-development-in-your-ide/)
+- [Amazon introduces two benchmark datasets for evaluating AI agents’ ability on code migration](https://aws.amazon.com/blogs/devops/amazon-introduces-two-benchmark-datasets-for-evaluating-ai-agents-ability-on-code-migration/)
+- [Safely Handle Configuration Drift with CloudFormation Drift-Aware Change Sets](https://aws.amazon.com/blogs/devops/safely-handle-configuration-drift-with-cloudformation-drift-aware-change-sets/)
+- [Why I joined Docker: security at the center of the software supply chain](https://www.docker.com/blog/why-i-joined-docker-security-at-the-center-of-the-software-supply-chain/)
+- [6 Must-Have MCP Servers &lpar;and How to Use Them&rpar;](https://www.docker.com/blog/top-mcp-servers-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
