@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Announcing CloudFormation IDE Experience: End-to-End Development in Your IDE](https://aws.amazon.com/blogs/devops/announcing-cloudformation-ide-experience-end-to-end-development-in-your-ide/)
-- [Amazon introduces two benchmark datasets for evaluating AI agents’ ability on code migration](https://aws.amazon.com/blogs/devops/amazon-introduces-two-benchmark-datasets-for-evaluating-ai-agents-ability-on-code-migration/)
-- [Safely Handle Configuration Drift with CloudFormation Drift-Aware Change Sets](https://aws.amazon.com/blogs/devops/safely-handle-configuration-drift-with-cloudformation-drift-aware-change-sets/)
-- [Why I joined Docker: security at the center of the software supply chain](https://www.docker.com/blog/why-i-joined-docker-security-at-the-center-of-the-software-supply-chain/)
-- [6 Must-Have MCP Servers &lpar;and How to Use Them&rpar;](https://www.docker.com/blog/top-mcp-servers-2025/)
+- [How to build workflows that catch bugs early and keep code moving](https://www.dynatrace.com/news/blog/how-to-build-workflows-that-catch-bugs-early-and-keep-code-moving/)
+- [Docker Model Runner Integrates vLLM for High-Throughput Inference](https://www.docker.com/blog/docker-model-runner-integrates-vllm/)
+- [Why is OpenShift Virtualization becoming the strategic platform for virtualization customers?](https://www.redhat.com/en/blog/red-hat-openshift-virtualization-strategic-platform-virtualization-customers)
+- [Integrating Red Hat Lightspeed in 2025: From observability to actionable automation](https://www.redhat.com/en/blog/red-hat-lightspeed-2025-observability-actionable-automation)
+- [More than meets the eye: Behind the scenes of Red Hat Enterprise Linux 10 &lpar;Part 3&rpar;](https://www.redhat.com/en/blog/behind-scenes-rhel-10-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
