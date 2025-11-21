@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to build workflows that catch bugs early and keep code moving](https://www.dynatrace.com/news/blog/how-to-build-workflows-that-catch-bugs-early-and-keep-code-moving/)
-- [Docker Model Runner Integrates vLLM for High-Throughput Inference](https://www.docker.com/blog/docker-model-runner-integrates-vllm/)
-- [Why is OpenShift Virtualization becoming the strategic platform for virtualization customers?](https://www.redhat.com/en/blog/red-hat-openshift-virtualization-strategic-platform-virtualization-customers)
-- [Integrating Red Hat Lightspeed in 2025: From observability to actionable automation](https://www.redhat.com/en/blog/red-hat-lightspeed-2025-observability-actionable-automation)
-- [More than meets the eye: Behind the scenes of Red Hat Enterprise Linux 10 &lpar;Part 3&rpar;](https://www.redhat.com/en/blog/behind-scenes-rhel-10-part-3)
+- [The Rising Importance of Governance at SwampUP Berlin 2025](https://www.docker.com/blog/the-rising-importance-of-governance-at-swampup-berlin-2025/)
+- [Take fine-grained control of your AWS CloudFormation StackSets Deployment with StackSet Dependencies](https://aws.amazon.com/blogs/devops/take-fine-grained-control-of-your-aws-cloudformation-stacksets-deployment-with-stackset-dependencies/)
+- [How Docker Hardened Images Patches Vulnerabilities in 24 hours](https://www.docker.com/blog/how-docker-hardened-images-patch-cves-in-24-hours/)
+- [Beyond the Hype: How to Use AI to Actually Increase Your Productivity as a Dev](https://www.docker.com/blog/ai-developer-productivity-workflow/)
+- [Friday Five — November 21, 2025](https://www.redhat.com/en/blog/friday-five-november-21-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
