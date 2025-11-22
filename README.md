@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Rovo Dev agent, now available in the CLI](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface)
+- [Introducing AWS CloudFormation Stack Refactoring Console Experience: Reorganize Your Infrastructure Without Disruption](https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring-reorganize-your-infrastructure-without-disruption/)
 - [The Rising Importance of Governance at SwampUP Berlin 2025](https://www.docker.com/blog/the-rising-importance-of-governance-at-swampup-berlin-2025/)
 - [Take fine-grained control of your AWS CloudFormation StackSets Deployment with StackSet Dependencies](https://aws.amazon.com/blogs/devops/take-fine-grained-control-of-your-aws-cloudformation-stacksets-deployment-with-stackset-dependencies/)
 - [How Docker Hardened Images Patches Vulnerabilities in 24 hours](https://www.docker.com/blog/how-docker-hardened-images-patch-cves-in-24-hours/)
-- [Beyond the Hype: How to Use AI to Actually Increase Your Productivity as a Dev](https://www.docker.com/blog/ai-developer-productivity-workflow/)
-- [Friday Five — November 21, 2025](https://www.redhat.com/en/blog/friday-five-november-21-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
