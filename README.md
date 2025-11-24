@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Rovo Dev agent, now available in the CLI](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface)
-- [Introducing AWS CloudFormation Stack Refactoring Console Experience: Reorganize Your Infrastructure Without Disruption](https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring-reorganize-your-infrastructure-without-disruption/)
-- [The Rising Importance of Governance at SwampUP Berlin 2025](https://www.docker.com/blog/the-rising-importance-of-governance-at-swampup-berlin-2025/)
-- [Take fine-grained control of your AWS CloudFormation StackSets Deployment with StackSet Dependencies](https://aws.amazon.com/blogs/devops/take-fine-grained-control-of-your-aws-cloudformation-stacksets-deployment-with-stackset-dependencies/)
-- [How Docker Hardened Images Patches Vulnerabilities in 24 hours](https://www.docker.com/blog/how-docker-hardened-images-patch-cves-in-24-hours/)
+- [Security that moves fast: Docker’s response to Shai Hulud 2.0](https://www.docker.com/blog/security-that-moves-fast-dockers-response-to-shai-hulud-2-0/)
+- [The Future of AWS CodeCommit](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
+- [Want to catch the AI native wave? Learn the lessons of the cloud-native shift](https://www.dynatrace.com/news/blog/want-to-catch-the-ai-native-wave-learn-the-lessons-of-the-cloud-native-shift/)
+- [Your Guide to the Developer Tools Track at AWS re:Invent 2025](https://aws.amazon.com/blogs/devops/your-guide-to-the-developer-tools-track-at-aws-reinvent-2025/)
+- [Unifying multivendor DPUs in Red Hat OpenShift](https://www.redhat.com/en/blog/unifying-multivendor-dpus-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
