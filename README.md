@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [A New Approach for Coding Agent Safety](https://www.docker.com/blog/docker-sandboxes-a-new-approach-for-coding-agent-safety/)
+- [Securing the software supply chain shouldn’t be hard. According to theCUBE Research, Docker makes it simple](https://www.docker.com/blog/securing-the-software-supply-chain-shouldnt-be-hard-according-to-thecube-research-docker-makes-it-simple/)
+- [Beyond the bot: How Red Hat Training makes you a better IT professional](https://www.redhat.com/en/blog/beyond-bot-how-red-hat-training-makes-you-better-it-professional)
+- [9 strategic articles defining the open hybrid cloud and AI future](https://www.redhat.com/en/blog/9-strategic-articles-defining-the-open-hybrid-cloud-and-AI-future)
 - [Security that moves fast: Docker’s response to Shai Hulud 2.0](https://www.docker.com/blog/security-that-moves-fast-dockers-response-to-shai-hulud-2-0/)
-- [The Future of AWS CodeCommit](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
-- [Want to catch the AI native wave? Learn the lessons of the cloud-native shift](https://www.dynatrace.com/news/blog/want-to-catch-the-ai-native-wave-learn-the-lessons-of-the-cloud-native-shift/)
-- [Your Guide to the Developer Tools Track at AWS re:Invent 2025](https://aws.amazon.com/blogs/devops/your-guide-to-the-developer-tools-track-at-aws-reinvent-2025/)
-- [Unifying multivendor DPUs in Red Hat OpenShift](https://www.redhat.com/en/blog/unifying-multivendor-dpus-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
