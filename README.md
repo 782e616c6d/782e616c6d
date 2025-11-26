@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Security that strengthens the ecosystem: Docker’s upstream approach to CVE-2025-12735](https://www.docker.com/blog/security-that-strengthens-the-ecosystem-dockers-upstream-approach-to-cve-2025-12735/)
+- [How educators and Red Hat Academy help shape the next generation of IT leaders](https://www.redhat.com/en/blog/red-hat-academy-transforming-education-it-leadership)
+- [Tracking event-driven automation with Red Hat Lightspeed and Red Hat Ansible Automation Platform 2.6](https://www.redhat.com/en/blog/tracking-event-driven-automation-red-hat-lightspeed-and-red-hat-ansible-automation-platform-26)
 - [A New Approach for Coding Agent Safety](https://www.docker.com/blog/docker-sandboxes-a-new-approach-for-coding-agent-safety/)
 - [Securing the software supply chain shouldn’t be hard. According to theCUBE Research, Docker makes it simple](https://www.docker.com/blog/securing-the-software-supply-chain-shouldnt-be-hard-according-to-thecube-research-docker-makes-it-simple/)
-- [Beyond the bot: How Red Hat Training makes you a better IT professional](https://www.redhat.com/en/blog/beyond-bot-how-red-hat-training-makes-you-better-it-professional)
-- [9 strategic articles defining the open hybrid cloud and AI future](https://www.redhat.com/en/blog/9-strategic-articles-defining-the-open-hybrid-cloud-and-AI-future)
-- [Security that moves fast: Docker’s response to Shai Hulud 2.0](https://www.docker.com/blog/security-that-moves-fast-dockers-response-to-shai-hulud-2-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
