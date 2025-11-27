@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Sovereignty emerges as the defining cloud challenge for EMEA enterprises](https://www.redhat.com/en/blog/sovereignty-emerges-defining-cloud-challenge-emea-enterprises)
+- [Deterministic performance: Why Red Hat Enterprise Linux is the engine for industrial edge](https://www.redhat.com/en/blog/deterministic-performance-red-hat-enterprise-linux-industrial-edge)
 - [Security that strengthens the ecosystem: Docker’s upstream approach to CVE-2025-12735](https://www.docker.com/blog/security-that-strengthens-the-ecosystem-dockers-upstream-approach-to-cve-2025-12735/)
 - [How educators and Red Hat Academy help shape the next generation of IT leaders](https://www.redhat.com/en/blog/red-hat-academy-transforming-education-it-leadership)
 - [Tracking event-driven automation with Red Hat Lightspeed and Red Hat Ansible Automation Platform 2.6](https://www.redhat.com/en/blog/tracking-event-driven-automation-red-hat-lightspeed-and-red-hat-ansible-automation-platform-26)
-- [A New Approach for Coding Agent Safety](https://www.docker.com/blog/docker-sandboxes-a-new-approach-for-coding-agent-safety/)
-- [Securing the software supply chain shouldn’t be hard. According to theCUBE Research, Docker makes it simple](https://www.docker.com/blog/securing-the-software-supply-chain-shouldnt-be-hard-according-to-thecube-research-docker-makes-it-simple/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
