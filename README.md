@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the AWS Infrastructure as Code MCP Server: AI-Powered CDK and CloudFormation Assistance](https://aws.amazon.com/blogs/devops/introducing-the-aws-infrastructure-as-code-mcp-server-ai-powered-cdk-and-cloudformation-assistance/)
+- [You Want Microservices, But Do You Really Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
+- [Friday Five — November 28, 2025](https://www.redhat.com/en/blog/friday-five-november-28-2025-red-hat)
 - [Sovereignty emerges as the defining cloud challenge for EMEA enterprises](https://www.redhat.com/en/blog/sovereignty-emerges-defining-cloud-challenge-emea-enterprises)
 - [Deterministic performance: Why Red Hat Enterprise Linux is the engine for industrial edge](https://www.redhat.com/en/blog/deterministic-performance-red-hat-enterprise-linux-industrial-edge)
-- [Security that strengthens the ecosystem: Docker’s upstream approach to CVE-2025-12735](https://www.docker.com/blog/security-that-strengthens-the-ecosystem-dockers-upstream-approach-to-cve-2025-12735/)
-- [How educators and Red Hat Academy help shape the next generation of IT leaders](https://www.redhat.com/en/blog/red-hat-academy-transforming-education-it-leadership)
-- [Tracking event-driven automation with Red Hat Lightspeed and Red Hat Ansible Automation Platform 2.6](https://www.redhat.com/en/blog/tracking-event-driven-automation-red-hat-lightspeed-and-red-hat-ansible-automation-platform-26)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
