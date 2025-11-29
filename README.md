@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Building with AI-DLC using Amazon Q Developer](https://aws.amazon.com/blogs/devops/building-with-ai-dlc-using-amazon-q-developer/)
+- [Open-Sourcing Adaptive Workflows for AI-Driven Development Life Cycle &lpar;AI-DLC&rpar;](https://aws.amazon.com/blogs/devops/open-sourcing-adaptive-workflows-for-ai-driven-development-life-cycle-ai-dlc/)
 - [Introducing the AWS Infrastructure as Code MCP Server: AI-Powered CDK and CloudFormation Assistance](https://aws.amazon.com/blogs/devops/introducing-the-aws-infrastructure-as-code-mcp-server-ai-powered-cdk-and-cloudformation-assistance/)
 - [You Want Microservices, But Do You Really Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
 - [Friday Five — November 28, 2025](https://www.redhat.com/en/blog/friday-five-november-28-2025-red-hat)
-- [Sovereignty emerges as the defining cloud challenge for EMEA enterprises](https://www.redhat.com/en/blog/sovereignty-emerges-defining-cloud-challenge-emea-enterprises)
-- [Deterministic performance: Why Red Hat Enterprise Linux is the engine for industrial edge](https://www.redhat.com/en/blog/deterministic-performance-red-hat-enterprise-linux-industrial-edge)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
