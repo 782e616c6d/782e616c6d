@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Run Embedding Models and Unlock Semantic Search with Docker Model Runner](https://www.docker.com/blog/run-embedding-models-for-semantic-search/)
+- [Frequently asked questions about Red Hat Ansible Automation Platform 2.6](https://www.redhat.com/en/blog/frequently-asked-questions-about-red-hat-ansible-automation-platform-26)
+- [Confidential computing on AWS Nitro Enclave with Red Hat Enterprise Linux](https://www.redhat.com/en/blog/deploy-confidential-computing-aws-nitro-enclaves-red-hat-enterprise-linux)
+- [Demystifying llm-d and vLLM: On the Right Track](https://www.redhat.com/en/blog/demystifying-llm-d-and-vllm-race-production)
 - [Building with AI-DLC using Amazon Q Developer](https://aws.amazon.com/blogs/devops/building-with-ai-dlc-using-amazon-q-developer/)
-- [Open-Sourcing Adaptive Workflows for AI-Driven Development Life Cycle &lpar;AI-DLC&rpar;](https://aws.amazon.com/blogs/devops/open-sourcing-adaptive-workflows-for-ai-driven-development-life-cycle-ai-dlc/)
-- [Introducing the AWS Infrastructure as Code MCP Server: AI-Powered CDK and CloudFormation Assistance](https://aws.amazon.com/blogs/devops/introducing-the-aws-infrastructure-as-code-mcp-server-ai-powered-cdk-and-cloudformation-assistance/)
-- [You Want Microservices, But Do You Really Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
-- [Friday Five — November 28, 2025](https://www.redhat.com/en/blog/friday-five-november-28-2025-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
