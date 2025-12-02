@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Supercharging Rovo: how Unito’s Connectors in the Atlassian Marketplace transform AI intelligence](https://www.atlassian.com/blog/artificial-intelligence/supercharging-rovo-with-unito-connectors-in-the-atlassian-marketplace)
+- [Building AI agents shouldn’t be hard. According to theCUBE Research, Docker makes it easy](https://www.docker.com/blog/building-ai-agents-shouldnt-be-hard-according-to-thecube-research-docker-makes-it-easy/)
+- [Optimizing cloud spend with Red Hat OpenShift Service on AWS &lpar;ROSA&rpar;](https://www.redhat.com/en/blog/optimize-cloud-costs-red-hat-openshift-virtualization-and-rosa-aws)
 - [Run Embedding Models and Unlock Semantic Search with Docker Model Runner](https://www.docker.com/blog/run-embedding-models-for-semantic-search/)
 - [Frequently asked questions about Red Hat Ansible Automation Platform 2.6](https://www.redhat.com/en/blog/frequently-asked-questions-about-red-hat-ansible-automation-platform-26)
-- [Confidential computing on AWS Nitro Enclave with Red Hat Enterprise Linux](https://www.redhat.com/en/blog/deploy-confidential-computing-aws-nitro-enclaves-red-hat-enterprise-linux)
-- [Demystifying llm-d and vLLM: On the Right Track](https://www.redhat.com/en/blog/demystifying-llm-d-and-vllm-race-production)
-- [Building with AI-DLC using Amazon Q Developer](https://aws.amazon.com/blogs/devops/building-with-ai-dlc-using-amazon-q-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
