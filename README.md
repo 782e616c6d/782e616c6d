@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with OpenShift Virtualization](https://www.redhat.com/en/blog/getting-started-with-openshift-virtualization)
+- [Optimizing AI ROI from DevOps and IT Operations: The rising need for AI/LLM observability](https://www.dynatrace.com/news/blog/optimizing-ai-roi-from-devops-and-it-operations/)
+- [Securing the Docker MCP Catalog: Commit Pinning, Agentic Auditing, and Publisher Trust Levels](https://www.docker.com/blog/enhancing-mcp-trust-with-the-docker-mcp-catalog/)
+- [Red Hat OpenShift Service on AWS supports Capacity Reservations and Capacity Blocks for Machine Learning](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-rosa-now-supports-demand-capacity-reservations-ml-workloads)
 - [Supercharging Rovo: how Unito’s Connectors in the Atlassian Marketplace transform AI intelligence](https://www.atlassian.com/blog/artificial-intelligence/supercharging-rovo-with-unito-connectors-in-the-atlassian-marketplace)
-- [Building AI agents shouldn’t be hard. According to theCUBE Research, Docker makes it easy](https://www.docker.com/blog/building-ai-agents-shouldnt-be-hard-according-to-thecube-research-docker-makes-it-easy/)
-- [Optimizing cloud spend with Red Hat OpenShift Service on AWS &lpar;ROSA&rpar;](https://www.redhat.com/en/blog/optimize-cloud-costs-red-hat-openshift-virtualization-and-rosa-aws)
-- [Run Embedding Models and Unlock Semantic Search with Docker Model Runner](https://www.docker.com/blog/run-embedding-models-for-semantic-search/)
-- [Frequently asked questions about Red Hat Ansible Automation Platform 2.6](https://www.redhat.com/en/blog/frequently-asked-questions-about-red-hat-ansible-automation-platform-26)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
