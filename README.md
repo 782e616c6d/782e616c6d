@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate autonomous incident resolutions using the Datadog MCP server and AWS DevOps agent &lpar;in preview&rpar;](https://aws.amazon.com/blogs/devops/accelerate-autonomous-incident-resolutions-using-the-datadog-mcp-server-and-aws-devops-agent-in-preview/)
+- [Solving tool overload, one automation step at a time](https://www.redhat.com/en/blog/solving-tool-overload-one-automation-step-time)
+- [Red Hat OpenShift sandboxed containers 1.11 and Red Hat build of Trustee 1.0 accelerate confidential computing across the hybrid cloud](https://www.redhat.com/en/blog/red-hat-openshift-sandboxed-containers-111-and-red-hat-build-trustee-10-accelerate-confidential-computing-across-hybrid-cloud)
 - [Getting Started with OpenShift Virtualization](https://www.redhat.com/en/blog/getting-started-with-openshift-virtualization)
-- [Optimizing AI ROI from DevOps and IT Operations: The rising need for AI/LLM observability](https://www.dynatrace.com/news/blog/optimizing-ai-roi-from-devops-and-it-operations/)
-- [Securing the Docker MCP Catalog: Commit Pinning, Agentic Auditing, and Publisher Trust Levels](https://www.docker.com/blog/enhancing-mcp-trust-with-the-docker-mcp-catalog/)
-- [Red Hat OpenShift Service on AWS supports Capacity Reservations and Capacity Blocks for Machine Learning](https://www.redhat.com/en/blog/red-hat-openshift-service-aws-rosa-now-supports-demand-capacity-reservations-ml-workloads)
-- [Supercharging Rovo: how Unito’s Connectors in the Atlassian Marketplace transform AI intelligence](https://www.atlassian.com/blog/artificial-intelligence/supercharging-rovo-with-unito-connectors-in-the-atlassian-marketplace)
+- [CIS publishes hardening guidance for Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/cis-publishes-hardening-guidance-red-hat-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
