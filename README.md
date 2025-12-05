@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker, JetBrains, and Zed: Building a Common Language for Agents and IDEs](https://www.docker.com/blog/docker-jetbrains-and-zed-building-a-common-language-for-agents-and-ides/)
+- [Announcing vLLM v0.12.0, Ministral 3 and DeepSeek-V3.2 for Docker Model Runner](https://www.docker.com/blog/docker-model-runner-vllm-ministral-deepseek/)
+- [Meet the latest Red Hat OpenShift Superheroes](https://www.redhat.com/en/blog/meet-latest-red-hat-openshift-superheroes)
+- [Friday Five — December 5, 2025](https://www.redhat.com/en/blog/friday-five-december-5-2025-red-hat)
 - [Accelerate autonomous incident resolutions using the Datadog MCP server and AWS DevOps agent &lpar;in preview&rpar;](https://aws.amazon.com/blogs/devops/accelerate-autonomous-incident-resolutions-using-the-datadog-mcp-server-and-aws-devops-agent-in-preview/)
-- [Solving tool overload, one automation step at a time](https://www.redhat.com/en/blog/solving-tool-overload-one-automation-step-time)
-- [Red Hat OpenShift sandboxed containers 1.11 and Red Hat build of Trustee 1.0 accelerate confidential computing across the hybrid cloud](https://www.redhat.com/en/blog/red-hat-openshift-sandboxed-containers-111-and-red-hat-build-trustee-10-accelerate-confidential-computing-across-hybrid-cloud)
-- [Getting Started with OpenShift Virtualization](https://www.redhat.com/en/blog/getting-started-with-openshift-virtualization)
-- [CIS publishes hardening guidance for Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/cis-publishes-hardening-guidance-red-hat-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
