@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [From Compose to Kubernetes to Cloud: Designing and Operating Infrastructure with Kanvas](https://www.docker.com/blog/compose-to-kubernetes-to-cloud-kanvas/)
+- [Key considerations for 2026 planning: Insights from IDC](https://www.redhat.com/en/blog/key-considerations-2026-planning-insights-idc)
+- [Accelerating open source development with AI](https://www.redhat.com/en/blog/accelerating-open-source-development-ai)
 - [Docker, JetBrains, and Zed: Building a Common Language for Agents and IDEs](https://www.docker.com/blog/docker-jetbrains-and-zed-building-a-common-language-for-agents-and-ides/)
 - [Announcing vLLM v0.12.0, Ministral 3 and DeepSeek-V3.2 for Docker Model Runner](https://www.docker.com/blog/docker-model-runner-vllm-ministral-deepseek/)
-- [Meet the latest Red Hat OpenShift Superheroes](https://www.redhat.com/en/blog/meet-latest-red-hat-openshift-superheroes)
-- [Friday Five — December 5, 2025](https://www.redhat.com/en/blog/friday-five-december-5-2025-red-hat)
-- [Accelerate autonomous incident resolutions using the Datadog MCP server and AWS DevOps agent &lpar;in preview&rpar;](https://aws.amazon.com/blogs/devops/accelerate-autonomous-incident-resolutions-using-the-datadog-mcp-server-and-aws-devops-agent-in-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
