@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Azure DevOps Server General Availability](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-general-availability/)
+- [Docker Joins the Agentic AI Foundation](https://www.docker.com/blog/docker-joins-the-agentic-ai-foundation/)
+- [Don’t just automate, validate: How to measure and grow your return on investment](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-measuring-business-impact-dashboard-and-analytics)
+- [How Red Hat OpenShift AI simplifies trust and compliance](https://www.redhat.com/en/blog/how-red-hat-openshift-ai-simplifies-trust-and-compliance)
 - [From Compose to Kubernetes to Cloud: Designing and Operating Infrastructure with Kanvas](https://www.docker.com/blog/compose-to-kubernetes-to-cloud-kanvas/)
-- [Key considerations for 2026 planning: Insights from IDC](https://www.redhat.com/en/blog/key-considerations-2026-planning-insights-idc)
-- [Accelerating open source development with AI](https://www.redhat.com/en/blog/accelerating-open-source-development-ai)
-- [Docker, JetBrains, and Zed: Building a Common Language for Agents and IDEs](https://www.docker.com/blog/docker-jetbrains-and-zed-building-a-common-language-for-agents-and-ides/)
-- [Announcing vLLM v0.12.0, Ministral 3 and DeepSeek-V3.2 for Docker Model Runner](https://www.docker.com/blog/docker-model-runner-vllm-ministral-deepseek/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
