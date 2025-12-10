@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Resolve and prevent operational incidents with AWS DevOps Agent and New Relic](https://aws.amazon.com/blogs/devops/resolve-and-prevent-operational-incidents-with-aws-devops-agent-and-new-relic/)
+- [AI’s surprising role in chaos engineering](https://www.dynatrace.com/news/blog/ais-surprising-role-in-chaos-engineering/)
+- [Slash VM provisioning time on Red Hat Openshift Virtualization using Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/accelerate-it-service-delivery-red-hats-integrated-toolset)
 - [Announcing Azure DevOps Server General Availability](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-general-availability/)
 - [Docker Joins the Agentic AI Foundation](https://www.docker.com/blog/docker-joins-the-agentic-ai-foundation/)
-- [Don’t just automate, validate: How to measure and grow your return on investment](https://www.redhat.com/en/blog/red-hat-ansible-automation-platform-measuring-business-impact-dashboard-and-analytics)
-- [How Red Hat OpenShift AI simplifies trust and compliance](https://www.redhat.com/en/blog/how-red-hat-openshift-ai-simplifies-trust-and-compliance)
-- [From Compose to Kubernetes to Cloud: Designing and Operating Infrastructure with Kanvas](https://www.docker.com/blog/compose-to-kubernetes-to-cloud-kanvas/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
