@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Resolve and prevent operational incidents with AWS DevOps Agent and New Relic](https://aws.amazon.com/blogs/devops/resolve-and-prevent-operational-incidents-with-aws-devops-agent-and-new-relic/)
-- [AI’s surprising role in chaos engineering](https://www.dynatrace.com/news/blog/ais-surprising-role-in-chaos-engineering/)
-- [Slash VM provisioning time on Red Hat Openshift Virtualization using Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/accelerate-it-service-delivery-red-hats-integrated-toolset)
-- [Announcing Azure DevOps Server General Availability](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-general-availability/)
-- [Docker Joins the Agentic AI Foundation](https://www.docker.com/blog/docker-joins-the-agentic-ai-foundation/)
+- [Docker Model Runner now supports vLLM on Windows](https://www.docker.com/blog/docker-model-runner-vllm-windows/)
+- [Breaking Free From AI Vendor Lock-in: Integrating GitHub Models with Docker cagent](https://www.docker.com/blog/configure-cagent-github-models/)
+- [Solving the scaling challenge: 3 proven strategies for your AI infrastructure](https://www.redhat.com/en/blog/solving-scaling-challenge-3-proven-strategies-your-ai-infrastructure)
+- [Introducing the Red Hat Ansible Lightspeed intelligent assistant](https://www.redhat.com/en/blog/evolution-red-hat-ansible-lightspeed)
+- [From incident responder to security steward: My journey to understanding Red Hat&#39;s open approach to vulnerability management](https://www.redhat.com/en/blog/incident-responder-security-steward-my-journey-understanding-red-hats-open-approach-vulnerability-management)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
