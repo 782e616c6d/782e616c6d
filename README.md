@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker Model Runner now supports vLLM on Windows](https://www.docker.com/blog/docker-model-runner-vllm-windows/)
-- [Breaking Free From AI Vendor Lock-in: Integrating GitHub Models with Docker cagent](https://www.docker.com/blog/configure-cagent-github-models/)
-- [Solving the scaling challenge: 3 proven strategies for your AI infrastructure](https://www.redhat.com/en/blog/solving-scaling-challenge-3-proven-strategies-your-ai-infrastructure)
-- [Introducing the Red Hat Ansible Lightspeed intelligent assistant](https://www.redhat.com/en/blog/evolution-red-hat-ansible-lightspeed)
-- [From incident responder to security steward: My journey to understanding Red Hat&#39;s open approach to vulnerability management](https://www.redhat.com/en/blog/incident-responder-security-steward-my-journey-understanding-red-hats-open-approach-vulnerability-management)
+- [Highlights from AWS re:Invent: Supercharging Kiro with Docker Sandboxes and MCP Catalog](https://www.docker.com/blog/aws-reinvent-kiro-docker-sandboxes-mcp-catalog/)
+- [Retirement of Global Personal Access Tokens in Azure DevOps](https://devblogs.microsoft.com/devops/retirement-of-global-personal-access-tokens-in-azure-devops/)
+- [Is AI the New Insider Threat?](https://www.docker.com/blog/ai-insider-threat-shadow-ai-risk-controls/)
+- [How to Add MCP Servers to ChatGPT with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-server-to-chatgpt/)
+- [Implementing best practices: Controlled network environment for Ray clusters in Red Hat OpenShift AI 3.0](https://www.redhat.com/en/blog/implementing-best-practices-controlled-network-environment-ray-clusters-red-hat-openshift-ai-30)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
