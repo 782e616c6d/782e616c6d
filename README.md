@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Private MCP Catalogs and the Path to Composable Enterprise AI](https://www.docker.com/blog/private-mcp-catalogs-oci-composable-enterprise-ai/)
 - [Highlights from AWS re:Invent: Supercharging Kiro with Docker Sandboxes and MCP Catalog](https://www.docker.com/blog/aws-reinvent-kiro-docker-sandboxes-mcp-catalog/)
 - [Retirement of Global Personal Access Tokens in Azure DevOps](https://devblogs.microsoft.com/devops/retirement-of-global-personal-access-tokens-in-azure-devops/)
 - [Is AI the New Insider Threat?](https://www.docker.com/blog/ai-insider-threat-shadow-ai-risk-controls/)
 - [How to Add MCP Servers to ChatGPT with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-server-to-chatgpt/)
-- [Implementing best practices: Controlled network environment for Ray clusters in Red Hat OpenShift AI 3.0](https://www.redhat.com/en/blog/implementing-best-practices-controlled-network-environment-ray-clusters-red-hat-openshift-ai-30)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
