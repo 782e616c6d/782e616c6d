@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Harden your AI systems: Applying industry standards in the real world](https://www.redhat.com/en/blog/harden-your-ai-systems-applying-industry-standards-real-world)
-- [Private MCP Catalogs and the Path to Composable Enterprise AI](https://www.docker.com/blog/private-mcp-catalogs-oci-composable-enterprise-ai/)
-- [Highlights from AWS re:Invent: Supercharging Kiro with Docker Sandboxes and MCP Catalog](https://www.docker.com/blog/aws-reinvent-kiro-docker-sandboxes-mcp-catalog/)
-- [Retirement of Global Personal Access Tokens in Azure DevOps](https://devblogs.microsoft.com/devops/retirement-of-global-personal-access-tokens-in-azure-devops/)
-- [Is AI the New Insider Threat?](https://www.docker.com/blog/ai-insider-threat-shadow-ai-risk-controls/)
+- [Enterprise automation resilience with EDB and Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/enterprise-automation-resilience-edb-and-ansible-automation-platform)
+- [Develop and deploy voice AI apps using Docker](https://www.docker.com/blog/develop-deploy-voice-ai-apps/)
+- [Azure Boards integration with GitHub Copilot](https://devblogs.microsoft.com/devops/github-copilot-for-azure-boards/)
+- [Docker Model Runner now included with the Universal Blue family](https://www.docker.com/blog/docker-model-runner-universal-blue/)
+- [Red Hat to acquire Chatterbox Labs: Frequently Asked Questions](https://www.redhat.com/en/blog/red-hat-acquire-chatterbox-labs-frequently-asked-questions)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
