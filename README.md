@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
+- [Run containerized AI models locally with RamaLama](https://www.redhat.com/en/blog/run-containerized-ai-models-locally-ramalama)
+- [More than meets the eye: Behind the scenes of Red Hat Enterprise Linux 10 &lpar;Part 4&rpar;](https://www.redhat.com/en/blog/more-meets-eye-behind-scenes-red-hat-enterprise-linux-10-part-4)
 - [Enterprise automation resilience with EDB and Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/enterprise-automation-resilience-edb-and-ansible-automation-platform)
-- [Develop and deploy voice AI apps using Docker](https://www.docker.com/blog/develop-deploy-voice-ai-apps/)
-- [Azure Boards integration with GitHub Copilot](https://devblogs.microsoft.com/devops/github-copilot-for-azure-boards/)
-- [Docker Model Runner now included with the Universal Blue family](https://www.docker.com/blog/docker-model-runner-universal-blue/)
-- [Red Hat to acquire Chatterbox Labs: Frequently Asked Questions](https://www.redhat.com/en/blog/red-hat-acquire-chatterbox-labs-frequently-asked-questions)
+- [Beyond modularity and other upgrades: The game-changer for your IT planning](https://www.redhat.com/en/blog/simplifying-red-hat-enterprise-linux-planning-removal-modularity-red-hat-enterprise-linux-11)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
