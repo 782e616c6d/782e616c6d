@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
-- [Run containerized AI models locally with RamaLama](https://www.redhat.com/en/blog/run-containerized-ai-models-locally-ramalama)
-- [More than meets the eye: Behind the scenes of Red Hat Enterprise Linux 10 &lpar;Part 4&rpar;](https://www.redhat.com/en/blog/more-meets-eye-behind-scenes-red-hat-enterprise-linux-10-part-4)
-- [Enterprise automation resilience with EDB and Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/enterprise-automation-resilience-edb-and-ansible-automation-platform)
-- [Beyond modularity and other upgrades: The game-changer for your IT planning](https://www.redhat.com/en/blog/simplifying-red-hat-enterprise-linux-planning-removal-modularity-red-hat-enterprise-linux-11)
+- [How Kaltura Accelerates CI/CD Using AWS CodeBuild-hosted Runners](https://aws.amazon.com/blogs/devops/how-kaltura-accelerates-ci-cd-using-aws-codebuild-hosted-runners/)
+- [RPM and DNF features and enhancements in Red Hat Enterprise Linux 10.1](https://www.redhat.com/en/blog/rpm-and-dnf-features-and-enhancements-red-hat-enterprise-linux-101)
+- [Resilient model training on Red Hat OpenShift AI with Kubeflow Trainer](https://www.redhat.com/en/blog/resilient-model-training-red-hat-openshift-ai-kubeflow-trainer)
+- [10 must-read articles to master modern hybrid cloud security and scale](https://www.redhat.com/en/blog/master-modern-hybrid-cloud-security-and-scale-red-hat-updates)
+- [F5 BIG-IP Virtual Edition is now validated for Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/f5-big-ip-virtual-edition-now-validated-red-hat-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
