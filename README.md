@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How Kaltura Accelerates CI/CD Using AWS CodeBuild-hosted Runners](https://aws.amazon.com/blogs/devops/how-kaltura-accelerates-ci-cd-using-aws-codebuild-hosted-runners/)
-- [RPM and DNF features and enhancements in Red Hat Enterprise Linux 10.1](https://www.redhat.com/en/blog/rpm-and-dnf-features-and-enhancements-red-hat-enterprise-linux-101)
-- [Resilient model training on Red Hat OpenShift AI with Kubeflow Trainer](https://www.redhat.com/en/blog/resilient-model-training-red-hat-openshift-ai-kubeflow-trainer)
-- [10 must-read articles to master modern hybrid cloud security and scale](https://www.redhat.com/en/blog/master-modern-hybrid-cloud-security-and-scale-red-hat-updates)
-- [F5 BIG-IP Virtual Edition is now validated for Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/f5-big-ip-virtual-edition-now-validated-red-hat-openshift-virtualization)
+- [Work item linking for Advanced Security alerts now available](https://devblogs.microsoft.com/devops/work-item-linking-for-advanced-security-alerts-now-available/)
+- [From the Captain’s Chair: Igor Aleksandrov](https://www.docker.com/blog/from-the-captains-chair-igor-aleksandrov/)
+- [Docker Hardened Images: Security Independently Validated by SRLabs](https://www.docker.com/blog/docker-hardened-images-security-independently-validated-by-srlabs/)
+- [Why should your organization standardize on Red Hat Enterprise Linux today?](https://www.redhat.com/en/blog/why-should-your-organization-standardize-red-hat-enterprise-linux-today)
+- [Red Hat OpenShift expands support for VMware vSphere Foundation 9 and VMware Cloud Foundation 9](https://www.redhat.com/en/blog/ga-support-red-hat-openshift-vmware-vsphere-foundation-9-and-vmware-cloud-foundation-9)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
