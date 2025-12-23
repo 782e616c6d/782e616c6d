@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Is it vibe coding if you know what you’re doing?](https://www.dynatrace.com/news/blog/is-it-vibe-coding-if-you-know-what-youre-doing/)
 - [The New Test Run Hub is Going Generally Available!](https://devblogs.microsoft.com/devops/the-new-test-run-hub-is-going-generally-available/)
 - [2025 Recap: The Year Software Development Changed Shape](https://www.docker.com/blog/2025-recap-the-year-software-development-changed-shape/)
 - [Work item linking for Advanced Security alerts now available](https://devblogs.microsoft.com/devops/work-item-linking-for-advanced-security-alerts-now-available/)
 - [From the Captain’s Chair: Igor Aleksandrov](https://www.docker.com/blog/from-the-captains-chair-igor-aleksandrov/)
-- [Docker Hardened Images: Security Independently Validated by SRLabs](https://www.docker.com/blog/docker-hardened-images-security-independently-validated-by-srlabs/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
