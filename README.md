@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Deterministic AI Testing with Session Recording in cagent](https://www.docker.com/blog/deterministic-ai-testing-with-session-recording-in-cagent/)
+- [Red Hat&#39;s commitment to the EU Cyber Resilience Act: Shaping the future of cybersecurity standards](https://www.redhat.com/en/blog/red-hats-commitment-eu-cyber-resilience-act-shaping-future-cybersecurity-standards)
+- [Red Hat Hybrid Cloud Console: Your questions answered](https://www.redhat.com/en/blog/red-hat-hybrid-cloud-console-your-questions-answered)
 - [The AI resolution that will still matter in 2030](https://www.redhat.com/en/blog/ai-resolution-will-still-matter-2030)
-- [Accelerating success with the Red Hat Partner Program](https://www.redhat.com/en/blog/accelerating-success-red-hat-partner-program)
-- [Is it vibe coding if you know what you’re doing?](https://www.dynatrace.com/news/blog/is-it-vibe-coding-if-you-know-what-youre-doing/)
-- [The New Test Run Hub is Going Generally Available!](https://devblogs.microsoft.com/devops/the-new-test-run-hub-is-going-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
