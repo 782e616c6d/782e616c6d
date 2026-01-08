@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Automating AWS SDK for Java v1 to v2 Upgrades with AWS Transform](https://aws.amazon.com/blogs/devops/automating-aws-sdk-for-java-v1-to-v2-upgrades-with-aws-transform/)
+- [Smarter troubleshooting with the new MCP server for Red Hat Enterprise Linux &lpar;now in developer preview&rpar;](https://www.redhat.com/en/blog/smarter-troubleshooting-new-mcp-server-red-hat-enterprise-linux-now-developer-preview)
+- [Navigating secure AI deployment: Architecture for enhancing AI system security and safety](https://www.redhat.com/en/blog/navigating-secure-ai-deployment-architecture-enhancing-ai-system-security-and-safety)
 - [Deterministic AI Testing with Session Recording in cagent](https://www.docker.com/blog/deterministic-ai-testing-with-session-recording-in-cagent/)
-- [Red Hat&#39;s commitment to the EU Cyber Resilience Act: Shaping the future of cybersecurity standards](https://www.redhat.com/en/blog/red-hats-commitment-eu-cyber-resilience-act-shaping-future-cybersecurity-standards)
-- [Red Hat Hybrid Cloud Console: Your questions answered](https://www.redhat.com/en/blog/red-hat-hybrid-cloud-console-your-questions-answered)
-- [The AI resolution that will still matter in 2030](https://www.redhat.com/en/blog/ai-resolution-will-still-matter-2030)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
