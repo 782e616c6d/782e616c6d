@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Security Is a Developer Experience Problem, Rooted in Our Foundations](https://www.docker.com/blog/security-is-a-developer-experience-problem-rooted-in-our-foundations/)
+- [Friday Five — January 9, 2026](https://www.redhat.com/en/blog/friday-five-january-9-2026-red-hat)
 - [Automating AWS SDK for Java v1 to v2 Upgrades with AWS Transform](https://aws.amazon.com/blogs/devops/automating-aws-sdk-for-java-v1-to-v2-upgrades-with-aws-transform/)
 - [Smarter troubleshooting with the new MCP server for Red Hat Enterprise Linux &lpar;now in developer preview&rpar;](https://www.redhat.com/en/blog/smarter-troubleshooting-new-mcp-server-red-hat-enterprise-linux-now-developer-preview)
-- [Navigating secure AI deployment: Architecture for enhancing AI system security and safety](https://www.redhat.com/en/blog/navigating-secure-ai-deployment-architecture-enhancing-ai-system-security-and-safety)
-- [Deterministic AI Testing with Session Recording in cagent](https://www.docker.com/blog/deterministic-ai-testing-with-session-recording-in-cagent/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
