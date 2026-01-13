@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Red Hat names Kevin Kennedy as global leader for the Red Hat partner ecosystem](https://www.redhat.com/en/blog/red-hat-names-kevin-kennedy-global-leader-red-hat-partner-ecosystem)
 - [Accelerate readiness. Reduce risk. Build skills that scale.](https://www.redhat.com/en/blog/accelerate-readiness-reduce-risk-build-skills-scale)
 - [Manage clusters and applications at scale with Argo CD Agent on Red Hat OpenShift GitOps](https://www.redhat.com/en/blog/manage-clusters-and-applications-scale-argo-cd-agent-red-hat-openshift-gitops)
 - [Red Hat OpenShift Service on AWS with hosted control planes in AWS GovCloud is FedRAMP High Authorized](https://www.redhat.com/en/blog/fedramp-high-authorized-red-hat-openshift-service-aws-govcloud)
-- [Accelerate readiness. Reduce risk. Build skills that scale.](https://www.redhat.com/en/blog/accelerate-readiness-reduce-risk-build-skills-scale-0)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
