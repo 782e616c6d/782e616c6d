@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Safer Docker Hub Pulls via a Sonatype-Protected Proxy](https://www.docker.com/blog/safer-docker-hub-pulls-via-a-sonatype-protected-proxy/)
-- [Registration is now open for Red Hat Summit 2026](https://www.redhat.com/en/blog/registration-now-open-red-hat-summit-2026)
-- [Improving VirtOps: Manage, migrate or modernize with Red Hat and Cisco](https://www.redhat.com/en/blog/improving-virtops-manage-migrate-or-modernize-red-hat-and-cisco)
-- [Red Hat names Kevin Kennedy as global leader for the Red Hat partner ecosystem](https://www.redhat.com/en/blog/red-hat-names-kevin-kennedy-global-leader-red-hat-partner-ecosystem)
+- [From AI agent prototype to product: Lessons from building AWS DevOps Agent](https://aws.amazon.com/blogs/devops/from-ai-agent-prototype-to-product-lessons-from-building-aws-devops-agent/)
+- [Permission-Aware RAG: End-to-End Testing with the SpiceDB Testcontainer](https://www.docker.com/blog/rag-permission-testing-testcontainers-spicedb/)
+- [OpenCode with Docker Model Runner for Private AI Coding](https://www.docker.com/blog/opencode-docker-model-runner-private-ai-coding/)
+- [Revolutionizing learning: How Ford&#39;s Kubernetes community sparks technological innovation](https://www.redhat.com/en/blog/revolutionizing-learning-how-fords-kubernetes-community-sparks-technological-innovation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
