@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [From AI agent prototype to product: Lessons from building AWS DevOps Agent](https://aws.amazon.com/blogs/devops/from-ai-agent-prototype-to-product-lessons-from-building-aws-devops-agent/)
-- [Permission-Aware RAG: End-to-End Testing with the SpiceDB Testcontainer](https://www.docker.com/blog/rag-permission-testing-testcontainers-spicedb/)
-- [OpenCode with Docker Model Runner for Private AI Coding](https://www.docker.com/blog/opencode-docker-model-runner-private-ai-coding/)
-- [Revolutionizing learning: How Ford&#39;s Kubernetes community sparks technological innovation](https://www.redhat.com/en/blog/revolutionizing-learning-how-fords-kubernetes-community-sparks-technological-innovation)
+- [What’s new with Azure Repos?](https://devblogs.microsoft.com/devops/whats-new-with-azure-repos/)
+- [Making &lpar;Very&rpar; Small LLMs Smarter](https://www.docker.com/blog/making-small-llms-smarter/)
+- [Friday Five — January 16, 2026](https://www.redhat.com/en/blog/friday-five-january-16-2026)
+- [Empowering federated learning with multicluster management](https://www.redhat.com/en/blog/empowering-federated-learning-multicluster-management)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
