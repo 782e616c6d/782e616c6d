@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Azure Boards additional field filters &lpar;private preview&rpar;](https://devblogs.microsoft.com/devops/azure-boards-additional-field-filters-private-preview/)
 - [How tech leaders can turn AI hype into real team productivity](https://www.atlassian.com/blog/devops/how-tech-leaders-can-turn-ai-hype-into-real-team-productivity)
 - [What’s new with Azure Repos?](https://devblogs.microsoft.com/devops/whats-new-with-azure-repos/)
 - [Making &lpar;Very&rpar; Small LLMs Smarter](https://www.docker.com/blog/making-small-llms-smarter/)
-- [Friday Five — January 16, 2026](https://www.redhat.com/en/blog/friday-five-january-16-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
