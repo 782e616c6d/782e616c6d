@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Azure Boards additional field filters &lpar;private preview&rpar;](https://devblogs.microsoft.com/devops/azure-boards-additional-field-filters-private-preview/)
-- [How tech leaders can turn AI hype into real team productivity](https://www.atlassian.com/blog/devops/how-tech-leaders-can-turn-ai-hype-into-real-team-productivity)
-- [What’s new with Azure Repos?](https://devblogs.microsoft.com/devops/whats-new-with-azure-repos/)
-- [Making &lpar;Very&rpar; Small LLMs Smarter](https://www.docker.com/blog/making-small-llms-smarter/)
+- [Shadow-Soft shares top challenges holding organizations back from virtualization modernization](https://www.redhat.com/en/blog/shadow-soft-shares-top-challenges-holding-organizations-back-virtualization-modernization)
+- [From manual to agentic: streamlining IT processes with Red Hat OpenShift AI](https://www.redhat.com/en/blog/manual-agentic-streamlining-it-processes-red-hat-openshift-ai)
+- [Event-Driven Ansible: Simplified event routing with Event Streams](https://www.redhat.com/en/blog/event-driven-ansible-simplified-event-routing-event-streams)
+- [Dell Technologies modernizes the developer experience with Red Hat OpenShift Dev Spaces](https://www.redhat.com/en/blog/dell-technologies-modernizes-developer-experience-red-hat-openshift-dev-spaces)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
