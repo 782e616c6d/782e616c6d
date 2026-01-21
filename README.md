@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Shadow-Soft shares top challenges holding organizations back from virtualization modernization](https://www.redhat.com/en/blog/shadow-soft-shares-top-challenges-holding-organizations-back-virtualization-modernization)
-- [From manual to agentic: streamlining IT processes with Red Hat OpenShift AI](https://www.redhat.com/en/blog/manual-agentic-streamlining-it-processes-red-hat-openshift-ai)
-- [Event-Driven Ansible: Simplified event routing with Event Streams](https://www.redhat.com/en/blog/event-driven-ansible-simplified-event-routing-event-streams)
-- [Dell Technologies modernizes the developer experience with Red Hat OpenShift Dev Spaces](https://www.redhat.com/en/blog/dell-technologies-modernizes-developer-experience-red-hat-openshift-dev-spaces)
+- [Unlocking the power of 5G: How Red Hat OpenShift and Oracle’s 5G Core Control Plane streamline global deployments](https://www.redhat.com/en/blog/unlocking-power-5g-how-red-hat-openshift-and-oracles-5g-core-control-plane-streamline-global-deployments)
+- [Extend and enhance your Red Hat Enterprise Linux support: A guide to lifecycle add-ons](https://www.redhat.com/en/blog/extend-and-enhance-your-red-hat-enterprise-linux-support-guide-lifecycle-add-ons)
+- [2025 was a year of transformative customer success with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/2025-was-year-transformative-customer-success-red-hat-ansible-automation-platform)
+- [2025 Red Hat Ansible Automation Platform: A year in review](https://www.redhat.com/en/blog/2025-red-hat-ansible-automation-platform-year-review)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
