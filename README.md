@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Unlocking the power of 5G: How Red Hat OpenShift and Oracle’s 5G Core Control Plane streamline global deployments](https://www.redhat.com/en/blog/unlocking-power-5g-how-red-hat-openshift-and-oracles-5g-core-control-plane-streamline-global-deployments)
-- [Extend and enhance your Red Hat Enterprise Linux support: A guide to lifecycle add-ons](https://www.redhat.com/en/blog/extend-and-enhance-your-red-hat-enterprise-linux-support-guide-lifecycle-add-ons)
-- [2025 was a year of transformative customer success with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/2025-was-year-transformative-customer-success-red-hat-ansible-automation-platform)
-- [2025 Red Hat Ansible Automation Platform: A year in review](https://www.redhat.com/en/blog/2025-red-hat-ansible-automation-platform-year-review)
+- [Using MCP Servers: From Quick Tools to Multi-Agent Systems](https://www.docker.com/blog/mcp-servers-docker-toolkit-cagent-gateway/)
+- [Your Dependencies Don’t Care About Your FIPS Configuration](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
+- [Understanding security embargoes at Red Hat](https://www.redhat.com/en/blog/Understanding-security-embargoes-at-Red-Hat)
+- [New observability features in Red Hat OpenShift 4.20 and Red Hat Advanced Cluster Management 2.15](https://www.redhat.com/en/blog/new-observability-features-red-hat-openshift-420-and-red-hat-advanced-cluster-management-215)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
