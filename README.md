@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [Using MCP Servers: From Quick Tools to Multi-Agent Systems](https://www.docker.com/blog/mcp-servers-docker-toolkit-cagent-gateway/)
-- [Your Dependencies Don’t Care About Your FIPS Configuration](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
-- [Understanding security embargoes at Red Hat](https://www.redhat.com/en/blog/Understanding-security-embargoes-at-Red-Hat)
-- [New observability features in Red Hat OpenShift 4.20 and Red Hat Advanced Cluster Management 2.15](https://www.redhat.com/en/blog/new-observability-features-red-hat-openshift-420-and-red-hat-advanced-cluster-management-215)
+- [How to Automate Arm Migration with Docker MCP Toolkit, VS Code, and GitHub Copilot](https://www.docker.com/blog/automate-arm-migration-docker-mcp-copilot/)
+- [Zero trust workload identity manager generally available on Red Hat OpenShift](https://www.redhat.com/en/blog/zero-trust-workload-identity-manager-generally-available-red-hat-openshift)
+- [Northrop Grumman scales enterprise Kubernetes for AI and hybrid cloud with Red Hat OpenShift](https://www.redhat.com/en/blog/northrop-grumman-scales-enterprise-kubernetes-ai-and-hybrid-cloud-red-hat-openshift)
+- [Friday Five — January 23, 2026](https://www.redhat.com/en/blog/friday-five-january-23-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
