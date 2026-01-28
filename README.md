@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
+- [Best Practices for Deploying AWS DevOps Agent in Production](https://aws.amazon.com/blogs/devops/best-practices-for-deploying-aws-devops-agent-in-production/)
+- [AWS CloudFormation 2025 Year In Review](https://aws.amazon.com/blogs/devops/aws-cloudformation-2025-year-in-review/)
 - [Sovereign AI architecture: Scaling distributed training with Kubeflow Trainer and Feast on Red Hat OpenShift AI](https://www.redhat.com/en/blog/sovereign-ai-architecture-scaling-distributed-training-kubeflow-trainer-and-feast-red-hat-openshift-ai)
 - [Clawdbot with Docker Model Runner, a Private Personal AI Assistant](https://www.docker.com/blog/clawdbot-docker-model-runner-private-personal-ai/)
-- [Run Claude Code Locally with Docker Model Runner](https://www.docker.com/blog/run-claude-code-locally-docker-model-runner/)
-- [Red Hat Enterprise Linux now available on the AWS European Sovereign Cloud](https://www.redhat.com/en/blog/red-hat-enterprise-linux-now-available-aws-european-sovereign-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
