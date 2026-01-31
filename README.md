@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Sandboxes: Run Claude Code and Other Coding Agents Unsupervised &lpar;but Safely&rpar;](https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/)
 - [Friday Five — January 30, 2026](https://www.redhat.com/en/blog/friday-five-january-30-2026-red-hat)
 - [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
 - [How Banco do Brasil uses hyperautomation and platform engineering to drive efficiency](https://www.redhat.com/en/blog/how-banco-do-brasil-uses-hyperautomation-and-platform-engineering-drive-efficiency)
 - [From if to how: A year of post-quantum reality](https://www.redhat.com/en/blog/if-how-year-post-quantum-reality)
-- [Context as architecture: A practical look at retrieval-augmented generation](https://www.redhat.com/en/blog/context-architecture-practical-look-retrieval-augmented-generation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
