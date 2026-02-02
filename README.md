@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker Sandboxes: Run Claude Code and Other Coding Agents Unsupervised &lpar;but Safely&rpar;](https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/)
-- [Friday Five — January 30, 2026](https://www.redhat.com/en/blog/friday-five-january-30-2026-red-hat)
-- [Red Hat Performance and Scale Engineering](https://www.redhat.com/en/blog/red-hat-performance-and-scale-engineering)
-- [How Banco do Brasil uses hyperautomation and platform engineering to drive efficiency](https://www.redhat.com/en/blog/how-banco-do-brasil-uses-hyperautomation-and-platform-engineering-drive-efficiency)
-- [From if to how: A year of post-quantum reality](https://www.redhat.com/en/blog/if-how-year-post-quantum-reality)
+- [IT automation with agentic AI: Introducing the MCP server for Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/it-automation-agentic-ai-introducing-mcp-server-red-hat-ansible-automation-platform)
+- [General Availability for managed identity and workload identity on Microsoft Azure Red Hat OpenShift](https://www.redhat.com/en/blog/general-availability-managed-identity-and-workload-identity-microsoft-azure-red-hat-openshift)
+- [Fast and simple AI deployment on Intel Xeon with Red Hat OpenShift](https://www.redhat.com/en/blog/fast-and-simple-ai-deployment-intel-xeon-red-hat-openshift)
+- [Cracking the inference code: 3 proven strategies for high-performance AI](https://www.redhat.com/en/blog/cracking-inference-code)
+- [Announcing general availability of SQL Server 2025 on Red Hat Enterprise Linux 10](https://www.redhat.com/en/blog/announcing-general-availability-sql-server-2025-red-hat-enterprise-linux-10)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
