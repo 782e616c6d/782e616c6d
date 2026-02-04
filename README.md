@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Evolution to a sovereign TechCo: Embracing Polycloud, agentic AI, and digital trust](https://www.redhat.com/en/blog/evolution-sovereign-techco-embracing-polycloud-agentic-ai-and-digital-trust)
+- [Azure Boards integration with GitHub Copilot includes custom agent support](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-includes-custom-agent-support/)
+- [Get Started with the Atlassian Rovo MCP Server Using Docker](https://www.docker.com/blog/atlassian-remote-mcp-server-getting-started-with-docker/)
+- [The 3Cs: A Framework for AI Agent Security](https://www.docker.com/blog/the-3cs-a-framework-for-ai-agent-security/)
+- [What’s new in post-quantum cryptography in RHEL 10.1](https://www.redhat.com/en/blog/whats-new-post-quantum-cryptography-rhel-101)
 - [Achieve more with Red Hat OpenShift 4.21](https://www.redhat.com/en/blog/achieve-more-red-hat-openshift-421)
-- [IT automation with agentic AI: Introducing the MCP server for Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/it-automation-agentic-ai-introducing-mcp-server-red-hat-ansible-automation-platform)
-- [General Availability for managed identity and workload identity on Microsoft Azure Red Hat OpenShift](https://www.redhat.com/en/blog/general-availability-managed-identity-and-workload-identity-microsoft-azure-red-hat-openshift)
-- [Fast and simple AI deployment on Intel Xeon with Red Hat OpenShift](https://www.redhat.com/en/blog/fast-and-simple-ai-deployment-intel-xeon-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
