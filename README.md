@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [AWS Transform custom: AI-driven Java modernization to reduce tech debt](https://aws.amazon.com/blogs/devops/aws-transform-custom-ai-driven-java-modernization-to-reduce-tech-debt/)
-- [AI insights with actionable automation accelerate the journey to autonomous networks](https://www.redhat.com/en/blog/ai-insights-with-actionable-automation-accelerate-the-journey-to-autonomous-networks)
-- [Azure Boards integration with GitHub Copilot includes custom agent support](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-includes-custom-agent-support/)
-- [Get Started with the Atlassian Rovo MCP Server Using Docker](https://www.docker.com/blog/atlassian-remote-mcp-server-getting-started-with-docker/)
-- [The 3Cs: A Framework for AI Agent Security](https://www.docker.com/blog/the-3cs-a-framework-for-ai-agent-security/)
+- [Building a scalable code modernization solution with AWS Transform custom](https://aws.amazon.com/blogs/devops/building-a-scalable-code-modernization-solution-with-aws-transform-custom/)
+- [More than meets the eye: Behind the scenes of Red Hat Enterprise Linux 10 &lpar;Part 5&rpar;](https://www.redhat.com/en/blog/more-meets-eye-behind-scenes-red-hat-enterprise-linux-10-part-5)
+- [Friday Five — February 6, 2026](https://www.redhat.com/en/blog/friday-five-february-6-2026-red-hat)
+- [Accelerating VM migration to Red Hat OpenShift Virtualization: Hitachi storage offload delivers faster data movement](https://www.redhat.com/en/blog/accelerating-vm-migration-red-hat-openshift-virtualization-hitachi-storage-offload-delivers-faster-data-movement)
+- [Reduce Vulnerability Noise with VEX: Wiz + Docker Hardened Images](https://www.docker.com/blog/reduce-vulnerability-noise-with-vex-wiz-docker-hardened-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
