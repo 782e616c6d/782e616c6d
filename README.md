@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Choosing between Amazon ECS Blue/Green Native or AWS CodeDeploy in AWS CDK](https://aws.amazon.com/blogs/devops/choosing-between-amazon-ecs-blue-green-native-or-aws-codedeploy-in-aws-cdk/)
+- [Simplifying modern defence operations with Red Hat Edge Manager](https://www.redhat.com/en/blog/simplifying-modern-defence-operations-red-hat-edge-manager)
 - [February Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-5/)
 - [Hardened Images Are Free. Now What?](https://www.docker.com/blog/hardened-images-free-now-what/)
 - [Maximizing your experience: Top 6 benefits of having a Red Hat account](https://www.redhat.com/en/blog/maximizing-your-experience-top-6-benefits-having-red-hat-account)
-- [AI insights with actionable automation accelerate the journey to autonomous networks](https://www.redhat.com/en/blog/ai-insights-with-actionable-automation-accelerate-the-journey-to-autonomous-networks)
-- [Building a scalable code modernization solution with AWS Transform custom](https://aws.amazon.com/blogs/devops/building-a-scalable-code-modernization-solution-with-aws-transform-custom/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
