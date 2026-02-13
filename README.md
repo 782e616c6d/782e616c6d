@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [From challenge to champion: Elevate your vulnerability management strategy](https://www.redhat.com/en/blog/elevate-your-vulnerability-management-strategy-red-hat)
-- [Building bridges to European Digital Sovereignty](https://www.redhat.com/en/blog/building-bridges-european-digital-sovereignty)
-- [Choosing between Amazon ECS Blue/Green Native or AWS CodeDeploy in AWS CDK](https://aws.amazon.com/blogs/devops/choosing-between-amazon-ecs-blue-green-native-or-aws-codedeploy-in-aws-cdk/)
-- [Simplifying modern defence operations with Red Hat Edge Manager](https://www.redhat.com/en/blog/simplifying-modern-defence-operations-red-hat-edge-manager)
-- [February Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-5/)
+- [How to solve the context size issues with context packing with Docker Model Runner and Agentic Compose](https://www.docker.com/blog/context-packing-context-window/)
+- [Zero CVEs: The symptom of a larger problem](https://www.redhat.com/en/blog/zero-cves-symptom-larger-problem)
+- [PNC’s infrastructure modernization journey with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/pncs-infrastructure-modernization-journey-red-hat-openshift-virtualization)
+- [Friday Five — February 13, 2026](https://www.redhat.com/en/blog/friday-five-february-13-2026-red-hat)
+- [Extend trust across the software supply chain with Red Hat trusted libraries](https://www.redhat.com/en/blog/extend-trust-across-software-supply-chain-red-hat-trusted-libraries)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
