@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to solve the context size issues with context packing with Docker Model Runner and Agentic Compose](https://www.docker.com/blog/context-packing-context-window/)
-- [Zero CVEs: The symptom of a larger problem](https://www.redhat.com/en/blog/zero-cves-symptom-larger-problem)
-- [PNC’s infrastructure modernization journey with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/pncs-infrastructure-modernization-journey-red-hat-openshift-virtualization)
-- [Friday Five — February 13, 2026](https://www.redhat.com/en/blog/friday-five-february-13-2026-red-hat)
-- [Extend trust across the software supply chain with Red Hat trusted libraries](https://www.redhat.com/en/blog/extend-trust-across-software-supply-chain-red-hat-trusted-libraries)
+- [Condensed views on Kanban and Sprint boards](https://devblogs.microsoft.com/devops/condensed-views-on-kanban-and-sprint-boards/)
+- [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
+- [How sovereign is your strategy? Introducing the Red Hat Sovereignty Readiness Assessment tool](https://www.redhat.com/en/blog/how-sovereign-your-strategy-introducing-red-hat-sovereignty-readiness-assessment-tool)
+- [From legacy VMs to the network brain: Why 2026 is the year of the common telco cloud](https://www.redhat.com/en/blog/legacy-vms-network-brain-why-2026-year-common-telco-cloud)
+- [Building the foundation for an AI-driven, sovereign future with Red Hat partners](https://www.redhat.com/en/blog/building-foundation-ai-driven-sovereign-future-red-hat-partners)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
