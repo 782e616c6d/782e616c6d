@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Multi-Model Database for AI Agents: Deploy SurrealDB with Docker Extension](https://www.docker.com/blog/deploy-surrealdb-docker-desktop-extension/)
+- [Redefining automation governance: From execution to observability at Bradesco](https://www.redhat.com/en/blog/redefining-automation-governance-execution-observability-bradesco)
+- [Introducing Red Hat build of Podman Desktop: Enterprise-ready local container development environments](https://www.redhat.com/en/blog/introducing-red-hat-build-podman-desktop-enterprise-ready-local-container-development-environments)
 - [Condensed views on Kanban and Sprint boards](https://devblogs.microsoft.com/devops/condensed-views-on-kanban-and-sprint-boards/)
 - [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
-- [How sovereign is your strategy? Introducing the Red Hat Sovereignty Readiness Assessment tool](https://www.redhat.com/en/blog/how-sovereign-your-strategy-introducing-red-hat-sovereignty-readiness-assessment-tool)
-- [From legacy VMs to the network brain: Why 2026 is the year of the common telco cloud](https://www.redhat.com/en/blog/legacy-vms-network-brain-why-2026-year-common-telco-cloud)
-- [Building the foundation for an AI-driven, sovereign future with Red Hat partners](https://www.redhat.com/en/blog/building-foundation-ai-driven-sovereign-future-red-hat-partners)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
