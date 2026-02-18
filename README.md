@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [TFVC Remove Existing Obsolete Policies ASAP](https://devblogs.microsoft.com/devops/tfvc-remove-existing-obsolete-policies-asap/)
+- [Simplify Red Hat Enterprise Linux provisioning in image builder with new Red Hat Lightspeed security and management integrations](https://www.redhat.com/en/blog/simplify-red-hat-enterprise-linux-provisioning-image-builder-new-red-hat-lightspeed-security-and-management-integrations)
+- [Red Hat Learning Subscription Course reimagines virtual training](https://www.redhat.com/en/blog/red-hat-learning-reinvents-virtual-training)
+- [How llm-d brings critical resource optimization with SoftBank’s AI-RAN orchestrator](https://www.redhat.com/en/blog/how-llm-d-brings-critical-resource-optimization-softbanks-ai-ran-orchestrator)
 - [The Multi-Model Database for AI Agents: Deploy SurrealDB with Docker Extension](https://www.docker.com/blog/deploy-surrealdb-docker-desktop-extension/)
-- [Redefining automation governance: From execution to observability at Bradesco](https://www.redhat.com/en/blog/redefining-automation-governance-execution-observability-bradesco)
-- [Introducing Red Hat build of Podman Desktop: Enterprise-ready local container development environments](https://www.redhat.com/en/blog/introducing-red-hat-build-podman-desktop-enterprise-ready-local-container-development-environments)
-- [Condensed views on Kanban and Sprint boards](https://devblogs.microsoft.com/devops/condensed-views-on-kanban-and-sprint-boards/)
-- [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
