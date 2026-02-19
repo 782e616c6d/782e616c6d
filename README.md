@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How Medplum Secured Their Healthcare Platform with Docker Hardened Images &lpar;DHI&rpar;](https://www.docker.com/blog/medplum-healthcare-docker-hardened-images/)
+- [Production-ready: Red Hat’s blueprint for 2026](https://www.redhat.com/en/blog/production-ready-red-hats-blueprint-2026)
+- [Innovation is a team sport: Top 10 stories from across the Red Hat ecosystem](https://www.redhat.com/en/blog/innovation-team-sport-top-10-stories-across-red-hat-ecosystem)
 - [TFVC Remove Existing Obsolete Policies ASAP](https://devblogs.microsoft.com/devops/tfvc-remove-existing-obsolete-policies-asap/)
 - [Simplify Red Hat Enterprise Linux provisioning in image builder with new Red Hat Lightspeed security and management integrations](https://www.redhat.com/en/blog/simplify-red-hat-enterprise-linux-provisioning-image-builder-new-red-hat-lightspeed-security-and-management-integrations)
-- [Red Hat Learning Subscription Course reimagines virtual training](https://www.redhat.com/en/blog/red-hat-learning-reinvents-virtual-training)
-- [How llm-d brings critical resource optimization with SoftBank’s AI-RAN orchestrator](https://www.redhat.com/en/blog/how-llm-d-brings-critical-resource-optimization-softbanks-ai-ran-orchestrator)
-- [The Multi-Model Database for AI Agents: Deploy SurrealDB with Docker Extension](https://www.docker.com/blog/deploy-surrealdb-docker-desktop-extension/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
