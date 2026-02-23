@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Gordon: Docker’s AI Agent Just Got an Update](https://www.docker.com/blog/gordon-dockers-ai-agent-just-got-an-update/)
+- [Run OpenClaw Securely in Docker Sandboxes](https://www.docker.com/blog/run-openclaw-securely-in-docker-sandboxes/)
+- [Strengthening the sovereign enterprise with new training from Red Hat](https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat)
+- [Metrics that matter: How to prove the business value of DevEx](https://www.redhat.com/en/blog/metrics-matter-how-prove-business-value-devex)
 - [State of Agentic AI Report: Key Findings](https://www.docker.com/blog/state-of-agentic-ai-key-findings/)
-- [Small models, big impact: The future of scaling enterprise AI agents](https://www.redhat.com/en/blog/small-models-big-impact-future-scaling-enterprise-ai-agents)
-- [Red Hat OpenShift 4.21 brings Kubernetes to Oracle Database Appliance](https://www.redhat.com/en/blog/red-hat-openshift-421-brings-kubernetes-oracle-database-appliance)
-- [Friday Five — February 20, 2026](https://www.redhat.com/en/blog/friday-five-february-20-2026-red-hat)
-- [How Medplum Secured Their Healthcare Platform with Docker Hardened Images &lpar;DHI&rpar;](https://www.docker.com/blog/medplum-healthcare-docker-hardened-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
