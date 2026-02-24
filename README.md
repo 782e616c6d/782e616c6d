@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Gordon: Docker’s AI Agent Just Got an Update](https://www.docker.com/blog/gordon-dockers-ai-agent-just-got-an-update/)
-- [Run OpenClaw Securely in Docker Sandboxes](https://www.docker.com/blog/run-openclaw-securely-in-docker-sandboxes/)
-- [Strengthening the sovereign enterprise with new training from Red Hat](https://www.redhat.com/en/blog/strengthening-sovereign-enterprise-new-training-red-hat)
-- [Metrics that matter: How to prove the business value of DevEx](https://www.redhat.com/en/blog/metrics-matter-how-prove-business-value-devex)
-- [State of Agentic AI Report: Key Findings](https://www.docker.com/blog/state-of-agentic-ai-key-findings/)
+- [From the Captain’s Chair: Kristiyan Velkov](https://www.docker.com/blog/from-the-captains-chair-kristiyan-velkov/)
+- [Red Hat AI Enterprise: Bridging the gap from experimentation to production scale](https://www.redhat.com/en/blog/red-hat-ai-enterprise-bridging-gap-experimentation-production-scale)
+- [Predictable AI: Announcing the January and February validated model batches](https://www.redhat.com/en/blog/predictable-ai-announcing-january-and-february-validated-model-batches)
+- [Migrate your VMs faster with the migration toolkit for virtualization 2.11](https://www.redhat.com/en/blog/migrate-your-vms-faster-migration-toolkit-virtualization-211)
+- [Gordon &lpar;Beta&rpar;: Docker’s AI Agent Just Got an Update](https://www.docker.com/blog/gordon-dockers-ai-agent-just-got-an-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
