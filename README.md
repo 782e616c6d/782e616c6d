@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Open WebUI + Docker Model Runner: Self-Hosted Models, Zero Configuration](https://www.docker.com/blog/openwebui-docker-model-runner/)
+- [Refactoring isn’t just technical—it’s an economic hedge](https://www.redhat.com/en/blog/refactoring-isnt-just-technical-its-economic-hedge)
+- [MCP security: The current situation](https://www.redhat.com/en/blog/mcp-security-current-situation)
 - [From the Captain’s Chair: Kristiyan Velkov](https://www.docker.com/blog/from-the-captains-chair-kristiyan-velkov/)
 - [Red Hat AI Enterprise: Bridging the gap from experimentation to production scale](https://www.redhat.com/en/blog/red-hat-ai-enterprise-bridging-gap-experimentation-production-scale)
-- [Predictable AI: Announcing the January and February validated model batches](https://www.redhat.com/en/blog/predictable-ai-announcing-january-and-february-validated-model-batches)
-- [Migrate your VMs faster with the migration toolkit for virtualization 2.11](https://www.redhat.com/en/blog/migrate-your-vms-faster-migration-toolkit-virtualization-211)
-- [Gordon &lpar;Beta&rpar;: Docker’s AI Agent Just Got an Update](https://www.docker.com/blog/gordon-dockers-ai-agent-just-got-an-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
