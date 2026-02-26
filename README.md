@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Open WebUI + Docker Model Runner: Self-Hosted Models, Zero Configuration](https://www.docker.com/blog/openwebui-docker-model-runner/)
-- [Refactoring isn’t just technical—it’s an economic hedge](https://www.redhat.com/en/blog/refactoring-isnt-just-technical-its-economic-hedge)
-- [MCP security: The current situation](https://www.redhat.com/en/blog/mcp-security-current-situation)
-- [From the Captain’s Chair: Kristiyan Velkov](https://www.docker.com/blog/from-the-captains-chair-kristiyan-velkov/)
-- [Red Hat AI Enterprise: Bridging the gap from experimentation to production scale](https://www.redhat.com/en/blog/red-hat-ai-enterprise-bridging-gap-experimentation-production-scale)
+- [Why exceptions matter: Elevating your distributed tracing investigations](https://www.dynatrace.com/news/blog/why-exceptions-matter-elevating-your-distributed-tracing-investigations/)
+- [Docker Model Runner Brings vLLM to macOS with Apple Silicon](https://www.docker.com/blog/docker-model-runner-vllm-metal-macos/)
+- [The nervous system gets a soul: why sovereign cloud is telco’s real second act](https://www.redhat.com/en/blog/nervous-system-gets-soul-why-sovereign-cloud-telcos-real-second-act)
+- [Streamline your network operations with Red Hat Ansible Automation Platform and Cisco Meraki](https://www.redhat.com/en/blog/streamline-your-network-with-red-hat-ansible-automation-platform-and-cisco-meraki)
+- [AI in telco – the catalyst for scaling digital business](https://www.redhat.com/en/blog/ai-telco-catalyst-scaling-digital-business)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
