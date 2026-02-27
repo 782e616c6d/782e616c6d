@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Updates to Team Calendar extension](https://devblogs.microsoft.com/devops/updates-to-team-calendar-extension/)
+- [More than meets the eye: Behind the scenes of Red Hat Enterprise Linux 10 &lpar;Part 6&rpar;](https://www.redhat.com/en/blog/more-meets-eye-behind-scenes-red-hat-enterprise-linux-10-part-6)
+- [From operations to outcomes: The business value of automation](https://www.redhat.com/en/blog/operations-outcomes-business-value-automation)
+- [Friday Five — February 27, 2026](https://www.redhat.com/en/blog/friday-five-february-27-2026-red-hat)
 - [Why exceptions matter: Elevating your distributed tracing investigations](https://www.dynatrace.com/news/blog/why-exceptions-matter-elevating-your-distributed-tracing-investigations/)
-- [Docker Model Runner Brings vLLM to macOS with Apple Silicon](https://www.docker.com/blog/docker-model-runner-vllm-metal-macos/)
-- [The nervous system gets a soul: why sovereign cloud is telco’s real second act](https://www.redhat.com/en/blog/nervous-system-gets-soul-why-sovereign-cloud-telcos-real-second-act)
-- [Streamline your network operations with Red Hat Ansible Automation Platform and Cisco Meraki](https://www.redhat.com/en/blog/streamline-your-network-with-red-hat-ansible-automation-platform-and-cisco-meraki)
-- [AI in telco – the catalyst for scaling digital business](https://www.redhat.com/en/blog/ai-telco-catalyst-scaling-digital-business)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
