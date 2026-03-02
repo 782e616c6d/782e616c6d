@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Updates to Team Calendar extension](https://devblogs.microsoft.com/devops/updates-to-team-calendar-extension/)
-- [More than meets the eye: Behind the scenes of Red Hat Enterprise Linux 10 &lpar;Part 6&rpar;](https://www.redhat.com/en/blog/more-meets-eye-behind-scenes-red-hat-enterprise-linux-10-part-6)
-- [From operations to outcomes: The business value of automation](https://www.redhat.com/en/blog/operations-outcomes-business-value-automation)
-- [Friday Five — February 27, 2026](https://www.redhat.com/en/blog/friday-five-february-27-2026-red-hat)
-- [Why exceptions matter: Elevating your distributed tracing investigations](https://www.dynatrace.com/news/blog/why-exceptions-matter-elevating-your-distributed-tracing-investigations/)
+- [Automate AWS Lambda Runtime Upgrades with AWS Transform custom](https://aws.amazon.com/blogs/devops/automate-aws-lambda-runtime-upgrades-with-aws-transform-custom/)
+- [Strategic momentum: The new era of Red Hat and HPE Juniper network automation](https://www.redhat.com/en/blog/strategic-momentum-new-era-red-hat-and-hpe-juniper-network-automation)
+- [Digital sovereignty in the banking industry](https://www.redhat.com/en/blog/digital-sovereignty-banking-industry)
+- [AI trust through open collaboration: A new chapter for responsible innovation](https://www.redhat.com/en/blog/ai-trust-through-open-collaboration-new-chapter-responsible-innovation)
+- [I taught AI, but AI didn’t write this: A workshop reflection](https://www.redhat.com/en/blog/i-taught-ai-ai-didnt-write-workshop-reflection)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
