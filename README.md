@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Automate AWS Lambda Runtime Upgrades with AWS Transform custom](https://aws.amazon.com/blogs/devops/automate-aws-lambda-runtime-upgrades-with-aws-transform-custom/)
-- [Strategic momentum: The new era of Red Hat and HPE Juniper network automation](https://www.redhat.com/en/blog/strategic-momentum-new-era-red-hat-and-hpe-juniper-network-automation)
-- [Digital sovereignty in the banking industry](https://www.redhat.com/en/blog/digital-sovereignty-banking-industry)
-- [AI trust through open collaboration: A new chapter for responsible innovation](https://www.redhat.com/en/blog/ai-trust-through-open-collaboration-new-chapter-responsible-innovation)
-- [I taught AI, but AI didn’t write this: A workshop reflection](https://www.redhat.com/en/blog/i-taught-ai-ai-didnt-write-workshop-reflection)
+- [Announcing Docker Hardened System Packages](https://www.docker.com/blog/announcing-docker-hardened-system-packages/)
+- [GPT-5.3 Instant System Card](https://openai.com/index/gpt-5-3-instant-system-card)
+- [GPT-5.3 Instant: Smoother, more useful everyday conversations](https://openai.com/index/gpt-5-3-instant)
+- [What’s new with Red Hat OpenShift AI 3.3 UI: Moving from pilot to production](https://www.redhat.com/en/blog/whats-new-red-hat-openshift-ai-33-ui-moving-pilot-production)
+- [The speed of trust: How global leaders are moving AI from lab to lifecycle](https://www.redhat.com/en/blog/speed-trust-how-global-leaders-are-moving-ai-lab-lifecycle)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
