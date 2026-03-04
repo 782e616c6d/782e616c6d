@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Docker Hardened System Packages](https://www.docker.com/blog/announcing-docker-hardened-system-packages/)
-- [GPT-5.3 Instant System Card](https://openai.com/index/gpt-5-3-instant-system-card)
-- [GPT-5.3 Instant: Smoother, more useful everyday conversations](https://openai.com/index/gpt-5-3-instant)
-- [What’s new with Red Hat OpenShift AI 3.3 UI: Moving from pilot to production](https://www.redhat.com/en/blog/whats-new-red-hat-openshift-ai-33-ui-moving-pilot-production)
-- [The speed of trust: How global leaders are moving AI from lab to lifecycle](https://www.redhat.com/en/blog/speed-trust-how-global-leaders-are-moving-ai-lab-lifecycle)
+- [Extending single-minus amplitudes to gravitons](https://openai.com/index/extending-single-minus-amplitudes-to-gravitons)
+- [Open data and the AI resilience premium](https://www.redhat.com/en/blog/open-data-and-ai-resilience-premium)
+- [New observability features in Red Hat OpenShift 4.21 and Red Hat Advanced Cluster Management for Kubernetes 2.16](https://www.redhat.com/en/blog/new-observability-features-red-hat-openshift-421-and-red-hat-advanced-cluster-management-kubernetes-216)
+- [Understanding AI and learning outcomes](https://openai.com/index/understanding-ai-and-learning-outcomes)
+- [How Axios uses AI to help deliver high-impact local journalism](https://openai.com/index/axios-allison-murphy)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
