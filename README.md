@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Extending single-minus amplitudes to gravitons](https://openai.com/index/extending-single-minus-amplitudes-to-gravitons)
-- [Open data and the AI resilience premium](https://www.redhat.com/en/blog/open-data-and-ai-resilience-premium)
-- [New observability features in Red Hat OpenShift 4.21 and Red Hat Advanced Cluster Management for Kubernetes 2.16](https://www.redhat.com/en/blog/new-observability-features-red-hat-openshift-421-and-red-hat-advanced-cluster-management-kubernetes-216)
-- [Understanding AI and learning outcomes](https://openai.com/index/understanding-ai-and-learning-outcomes)
-- [How Axios uses AI to help deliver high-impact local journalism](https://openai.com/index/axios-allison-murphy)
+- [Standardizing construct properties with AWS CDK Property Injection](https://aws.amazon.com/blogs/devops/standardizing-construct-properties-with-aws-cdk-property-injection/)
+- [Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4)
+- [Reasoning models struggle to control their chains of thought, and that’s good](https://openai.com/index/reasoning-models-chain-of-thought-controllability)
+- [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card)
+- [Ensuring AI use in education leads to opportunity](https://openai.com/index/ai-education-opportunity)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
