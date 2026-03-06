@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Standardizing construct properties with AWS CDK Property Injection](https://aws.amazon.com/blogs/devops/standardizing-construct-properties-with-aws-cdk-property-injection/)
-- [Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4)
-- [Reasoning models struggle to control their chains of thought, and that’s good](https://openai.com/index/reasoning-models-chain-of-thought-controllability)
-- [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card)
-- [Ensuring AI use in education leads to opportunity](https://openai.com/index/ai-education-opportunity)
+- [Celebrating Women in AI: 3 Questions with Cecilia Liu on Leading Docker’s MCP Strategy](https://www.docker.com/blog/women-in-ai-cecilia-liu-docker-mcp-strategy/)
+- [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview)
+- [How Descript enables multilingual video dubbing at scale](https://openai.com/index/descript)
+- [How Balyasny Asset Management built an AI research engine for investing](https://openai.com/index/balyasny-asset-management)
+- [Planning the design of your production-grade RAG system](https://www.redhat.com/en/blog/planning-design-your-production-grade-rag-system)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
