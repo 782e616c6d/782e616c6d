@@ -55,8 +55,8 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Celebrating Women in AI: 3 Questions with Cecilia Liu on Leading Docker’s MCP Strategy](https://www.docker.com/blog/women-in-ai-cecilia-liu-docker-mcp-strategy/)
-- [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview)
 - [How Descript enables multilingual video dubbing at scale](https://openai.com/index/descript)
+- [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview)
 - [How Balyasny Asset Management built an AI research engine for investing](https://openai.com/index/balyasny-asset-management)
 - [Planning the design of your production-grade RAG system](https://www.redhat.com/en/blog/planning-design-your-production-grade-rag-system)
 <!-- BLOG-POST-LIST:END -->
