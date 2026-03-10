@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI to acquire Promptfoo](https://openai.com/index/openai-to-acquire-promptfoo)
-- [Celebrating Women in AI: 3 Questions with Cecilia Liu on Leading Docker’s MCP Strategy](https://www.docker.com/blog/women-in-ai-cecilia-liu-docker-mcp-strategy/)
-- [How Descript enables multilingual video dubbing at scale](https://openai.com/index/descript)
-- [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview)
-- [How Balyasny Asset Management built an AI research engine for investing](https://openai.com/index/balyasny-asset-management)
+- [What’s Holding Back AI Agents? It’s Still Security](https://www.docker.com/blog/whats-holding-back-ai-agents-its-still-security/)
+- [Improving instruction hierarchy in frontier LLMs](https://openai.com/index/instruction-hierarchy-challenge)
+- [New ways to learn math and science in ChatGPT](https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt)
+- [Safe data discovery with EDB&#39;s Data Governance Co-Pilot AI quickstart](https://www.redhat.com/en/blog/safe-data-discovery-edbs-data-governance-co-pilot-ai-quickstart)
+- [Red Hat Summit 2026 session catalog now available](https://www.redhat.com/en/blog/red-hat-summit-2026-session-catalog-now-available)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
