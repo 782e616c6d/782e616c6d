@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [What’s Holding Back AI Agents? It’s Still Security](https://www.docker.com/blog/whats-holding-back-ai-agents-its-still-security/)
-- [Improving instruction hierarchy in frontier LLMs](https://openai.com/index/instruction-hierarchy-challenge)
-- [New ways to learn math and science in ChatGPT](https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt)
-- [Safe data discovery with EDB&#39;s Data Governance Co-Pilot AI quickstart](https://www.redhat.com/en/blog/safe-data-discovery-edbs-data-governance-co-pilot-ai-quickstart)
-- [Red Hat Summit 2026 session catalog now available](https://www.redhat.com/en/blog/red-hat-summit-2026-session-catalog-now-available)
+- [Building AI Teams: How Docker Sandboxes and Docker Agent Transform Development](https://www.docker.com/blog/building-ai-teams-docker-sandboxes-agent/)
+- [Rakuten fixes issues twice as fast with Codex](https://openai.com/index/rakuten)
+- [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection)
+- [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment)
+- [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
