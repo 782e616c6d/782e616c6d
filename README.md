@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Flexibility Over Lock-In: The Enterprise Shift in Agent Strategy](https://www.docker.com/blog/enterprise-shift-in-agent-strategy/)
+- [Enable intelligent insights with Red Hat Satellite MCP Server](https://www.redhat.com/en/blog/enable-intelligent-insights-red-hat-satellite-mcp-server)
+- [Temporary rollback: build identities can access Advanced Security: read alerts again](https://devblogs.microsoft.com/devops/temporary-rollback-build-identities-can-access-advanced-security-read-alerts-again/)
 - [Building AI Teams: How Docker Sandboxes and Docker Agent Transform Development](https://www.docker.com/blog/building-ai-teams-docker-sandboxes-agent/)
 - [Rakuten fixes issues twice as fast with Codex](https://openai.com/index/rakuten)
-- [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection)
-- [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment)
-- [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
