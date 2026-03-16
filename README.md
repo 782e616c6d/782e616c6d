@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [March Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-4/)
-- [10 things I learned writing 49,000 words about vibe coding](https://www.dynatrace.com/news/blog/10-things-i-learned-writing-49000-words-about-vibe-coding/)
-- [Achieving Test Reliability for Native E2E Testing: Beyond Fixing Broken Tests](https://www.docker.com/blog/native-e2e-test-reliability/)
-- [How to Run Claude Code with Docker: Local Models, MCP Servers, and Secure Sandboxes](https://www.docker.com/blog/run-claude-code-with-docker/)
-- [Secure Agent Execution with NanoClaw and Docker Sandboxes](https://www.docker.com/blog/nanoclaw-docker-sandboxes-agent-security/)
+- [Red Hat and NVIDIA collaborate for a more secure foundation for the agent-ready workforce](https://www.redhat.com/en/blog/red-hat-and-nvidia-collaborate-more-secure-foundation-agent-ready-workforce)
+- [Operationalizing &quot;Bring Your Own Agent&quot; on Red Hat AI, the OpenClaw edition](https://www.redhat.com/en/blog/operationalizing-bring-your-own-agent-red-hat-ai-openclaw-edition)
+- [Building the hybrid AI factory of the future: Red Hat achieves AI Cloud Ready status for the NVIDIA Cloud Partner &lpar;NCP&rpar; program](https://www.redhat.com/en/blog/building-hybrid-ai-factory-future-red-hat-achieves-ai-cloud-ready-status-nvidia-cloud-partner-ncp-program)
+- [Bringing Nemotron models to the Red Hat AI Factory with NVIDIA](https://www.redhat.com/en/blog/bringing-nemotron-models-red-hat-ai-factory-nvidia)
+- [Accelerate enterprise software development with NVIDIA and Model-as-a-Service &lpar;MaaS&rpar; on Red Hat AI](https://www.redhat.com/en/blog/accelerate-enterprise-software-development-nvidia-and-model-service-maas-red-hat-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
