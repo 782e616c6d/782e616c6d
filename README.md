@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat and NVIDIA collaborate for a more secure foundation for the agent-ready workforce](https://www.redhat.com/en/blog/red-hat-and-nvidia-collaborate-more-secure-foundation-agent-ready-workforce)
-- [Operationalizing &quot;Bring Your Own Agent&quot; on Red Hat AI, the OpenClaw edition](https://www.redhat.com/en/blog/operationalizing-bring-your-own-agent-red-hat-ai-openclaw-edition)
-- [Building the hybrid AI factory of the future: Red Hat achieves AI Cloud Ready status for the NVIDIA Cloud Partner &lpar;NCP&rpar; program](https://www.redhat.com/en/blog/building-hybrid-ai-factory-future-red-hat-achieves-ai-cloud-ready-status-nvidia-cloud-partner-ncp-program)
-- [Bringing Nemotron models to the Red Hat AI Factory with NVIDIA](https://www.redhat.com/en/blog/bringing-nemotron-models-red-hat-ai-factory-nvidia)
-- [Accelerate enterprise software development with NVIDIA and Model-as-a-Service &lpar;MaaS&rpar; on Red Hat AI](https://www.redhat.com/en/blog/accelerate-enterprise-software-development-nvidia-and-model-service-maas-red-hat-ai)
+- [Azure DevOps Remote MCP Server &lpar;public preview&rpar;](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-public-preview/)
+- [Introducing GPT-5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
+- [The efficient enterprise: Scaling intelligence with Mixture of Experts](https://www.redhat.com/en/blog/efficient-enterprise-scaling-intelligence-mixture-experts)
+- [Introducing OpenShift Service Mesh 3.3 with post-quantum cryptography](https://www.redhat.com/en/blog/openshift-service-mesh-33-adds-post-quantum-cryptography)
+- [Generate a no-cost VMware migration-readiness report with the OpenShift migration advisor](https://www.redhat.com/en/blog/assess-your-vms-migration-migration-advisor-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
