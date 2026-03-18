@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Authentication Tokens Are Not a Data Contract](https://devblogs.microsoft.com/devops/authentication-tokens-are-not-a-data-contract/)
+- [From the Captain’s Chair: Naga Santhosh Reddy Vootukuri](https://www.docker.com/blog/from-the-captains-chair-naga-santhosh-reddy-vootukuri/)
+- [Announcing Ansible Automation Platform 2.4 end of Maintenance Support](https://www.redhat.com/en/blog/announcing-ansible-automation-platform-24-end-maintenance-support)
 - [Azure DevOps Remote MCP Server &lpar;public preview&rpar;](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-public-preview/)
-- [Introducing GPT-5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
-- [The efficient enterprise: Scaling intelligence with Mixture of Experts](https://www.redhat.com/en/blog/efficient-enterprise-scaling-intelligence-mixture-experts)
-- [Introducing OpenShift Service Mesh 3.3 with post-quantum cryptography](https://www.redhat.com/en/blog/openshift-service-mesh-33-adds-post-quantum-cryptography)
-- [Generate a no-cost VMware migration-readiness report with the OpenShift migration advisor](https://www.redhat.com/en/blog/assess-your-vms-migration-migration-advisor-red-hat-openshift)
+- [OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first](https://openai.com/index/japan-teen-safety-blueprint)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
