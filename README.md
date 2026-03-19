@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Remote MCP Server preview in Microsoft Foundry](https://devblogs.microsoft.com/devops/remote-mcp-server-preview-in-microsoft-foundry/)
+- [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)
+- [Optimizing cluster observability: A strategic approach to selective log routing in Red Hat OpenShift](https://www.redhat.com/en/blog/optimizing-cluster-observability-strategic-approach-selective-log-routing-red-hat-openshift)
+- [OpenAI to acquire Astral](https://openai.com/index/openai-to-acquire-astral)
 - [Authentication Tokens Are Not a Data Contract](https://devblogs.microsoft.com/devops/authentication-tokens-are-not-a-data-contract/)
-- [From the Captain’s Chair: Naga Santhosh Reddy Vootukuri](https://www.docker.com/blog/from-the-captains-chair-naga-santhosh-reddy-vootukuri/)
-- [Announcing Ansible Automation Platform 2.4 end of Maintenance Support](https://www.redhat.com/en/blog/announcing-ansible-automation-platform-24-end-maintenance-support)
-- [Azure DevOps Remote MCP Server &lpar;public preview&rpar;](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-public-preview/)
-- [OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first](https://openai.com/index/japan-teen-safety-blueprint)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
