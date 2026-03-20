@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Remote MCP Server preview in Microsoft Foundry](https://devblogs.microsoft.com/devops/remote-mcp-server-preview-in-microsoft-foundry/)
-- [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)
-- [Optimizing cluster observability: A strategic approach to selective log routing in Red Hat OpenShift](https://www.redhat.com/en/blog/optimizing-cluster-observability-strategic-approach-selective-log-routing-red-hat-openshift)
-- [OpenAI to acquire Astral](https://openai.com/index/openai-to-acquire-astral)
-- [Authentication Tokens Are Not a Data Contract](https://devblogs.microsoft.com/devops/authentication-tokens-are-not-a-data-contract/)
+- [Solve multi-controller contention with Red Hat OpenShift networking](https://www.redhat.com/en/blog/solve-multi-controller-contention-red-hat-openshift-networking)
+- [Shift gears: 10 stories redefining enterprise IT](https://www.redhat.com/en/blog/shift-gears-10-stories-redefining-enterprise-it)
+- [Get the most out of Red Hat Enterprise Linux for Microsoft Azure](https://www.redhat.com/en/blog/get-most-out-red-hat-enterprise-linux-microsoft-azure)
+- [Get the most out of Red Hat Enterprise Linux for AWS](https://www.redhat.com/en/blog/get-most-out-red-hat-enterprise-linux-aws)
+- [Friday Five — March 20, 2026](https://www.redhat.com/en/blog/friday-five-march-20-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
