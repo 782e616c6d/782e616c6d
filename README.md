@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Solve multi-controller contention with Red Hat OpenShift networking](https://www.redhat.com/en/blog/solve-multi-controller-contention-red-hat-openshift-networking)
-- [Shift gears: 10 stories redefining enterprise IT](https://www.redhat.com/en/blog/shift-gears-10-stories-redefining-enterprise-it)
-- [Get the most out of Red Hat Enterprise Linux for Microsoft Azure](https://www.redhat.com/en/blog/get-most-out-red-hat-enterprise-linux-microsoft-azure)
-- [Get the most out of Red Hat Enterprise Linux for AWS](https://www.redhat.com/en/blog/get-most-out-red-hat-enterprise-linux-aws)
-- [Friday Five — March 20, 2026](https://www.redhat.com/en/blog/friday-five-march-20-2026-red-hat)
+- [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/)
+- [Red Hat OpenShift 4.21: Smarter scaling, faster migration, and AI-powered efficiency](https://www.redhat.com/en/blog/red-hat-openshift-421-smarter-scaling-faster-migration-and-ai-powered-efficiency)
+- [The state of cloud-native security 2026: Maturity gaps and the automation mandate](https://www.redhat.com/en/blog/state-cloud-native-security-2026-maturity-gaps-and-automation-mandate)
+- [The economics of Red Hat OpenShift 4.21: Why infrastructure is now a financial strategy](https://www.redhat.com/en/blog/economics-red-hat-openshift-421-why-infrastructure-now-financial-strategy)
+- [Breaking the RAG bottleneck: Scalable document processing with Ray Data and Docling](https://www.redhat.com/en/blog/breaking-rag-bottleneck-scalable-document-processing-ray-data-and-docling)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
