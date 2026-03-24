@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/)
-- [Red Hat OpenShift 4.21: Smarter scaling, faster migration, and AI-powered efficiency](https://www.redhat.com/en/blog/red-hat-openshift-421-smarter-scaling-faster-migration-and-ai-powered-efficiency)
-- [The state of cloud-native security 2026: Maturity gaps and the automation mandate](https://www.redhat.com/en/blog/state-cloud-native-security-2026-maturity-gaps-and-automation-mandate)
-- [The economics of Red Hat OpenShift 4.21: Why infrastructure is now a financial strategy](https://www.redhat.com/en/blog/economics-red-hat-openshift-421-why-infrastructure-now-financial-strategy)
-- [Breaking the RAG bottleneck: Scalable document processing with Ray Data and Docling](https://www.redhat.com/en/blog/breaking-rag-bottleneck-scalable-document-processing-ray-data-and-docling)
+- [Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard)
+- [Update on the OpenAI Foundation](https://openai.com/index/update-on-the-openai-foundation)
+- [Powering product discovery in ChatGPT](https://openai.com/index/powering-product-discovery-in-chatgpt)
+- [Why we’re contributing llm-d to the CNCF: Standardizing the future of AI](https://www.redhat.com/en/blog/why-were-contributing-llm-d-cncf-standardizing-future-ai)
+- [What does “AI security” mean and why does it matter to your business?](https://www.redhat.com/en/blog/what-does-ai-security-mean-and-why-does-it-matter-your-business)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
