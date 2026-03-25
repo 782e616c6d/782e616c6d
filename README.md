@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard)
-- [Update on the OpenAI Foundation](https://openai.com/index/update-on-the-openai-foundation)
-- [Powering product discovery in ChatGPT](https://openai.com/index/powering-product-discovery-in-chatgpt)
-- [Why we’re contributing llm-d to the CNCF: Standardizing the future of AI](https://www.redhat.com/en/blog/why-were-contributing-llm-d-cncf-standardizing-future-ai)
-- [What does “AI security” mean and why does it matter to your business?](https://www.redhat.com/en/blog/what-does-ai-security-mean-and-why-does-it-matter-your-business)
+- [Five real-world lessons for building developer workflows in the agentic era](https://www.dynatrace.com/news/blog/five-real-world-lessons-for-building-developer-workflows-in-the-agentic-era/)
+- [Inside our approach to the Model Spec](https://openai.com/index/our-approach-to-the-model-spec)
+- [Streamline your work with the new learning drawer in the migration toolkit for virtualization](https://www.redhat.com/en/blog/streamline-your-work-new-learning-drawer-migration-toolkit-virtualization)
+- [Stop searching, start operating: Scale hybrid clusters with Red Hat Advanced Cluster Management for Kubernetes 2.16](https://www.redhat.com/en/blog/stop-searching-start-operating-scale-hybrid-clusters-red-hat-advanced-cluster-management-kubernetes-216)
+- [Red Hat Enterprise Linux is ready for AWS M9g instances, powered by Graviton5](https://www.redhat.com/en/blog/red-hat-enterprise-linux-ready-aws-m9g-instances-powered-graviton5)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
