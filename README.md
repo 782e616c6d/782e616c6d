@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Modernize virtual machines on Google Cloud with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/modernize-virtual-machines-google-cloud-red-hat-openshift-virtualization)
+- [AIOps and MLOps made simple: Automating Vertex AI with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/aiops-and-mlops-made-simple-automating-vertex-ai-red-hat-ansible-automation-platform)
+- [AI security: Defending against prompt injection and unsafe actions](https://www.redhat.com/en/blog/ai-security-defending-against-prompt-injection-and-unsafe-actions)
 - [Five real-world lessons for building developer workflows in the agentic era](https://www.dynatrace.com/news/blog/five-real-world-lessons-for-building-developer-workflows-in-the-agentic-era/)
 - [Inside our approach to the Model Spec](https://openai.com/index/our-approach-to-the-model-spec)
-- [Streamline your work with the new learning drawer in the migration toolkit for virtualization](https://www.redhat.com/en/blog/streamline-your-work-new-learning-drawer-migration-toolkit-virtualization)
-- [Stop searching, start operating: Scale hybrid clusters with Red Hat Advanced Cluster Management for Kubernetes 2.16](https://www.redhat.com/en/blog/stop-searching-start-operating-scale-hybrid-clusters-red-hat-advanced-cluster-management-kubernetes-216)
-- [Red Hat Enterprise Linux is ready for AWS M9g instances, powered by Graviton5](https://www.redhat.com/en/blog/red-hat-enterprise-linux-ready-aws-m9g-instances-powered-graviton5)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
