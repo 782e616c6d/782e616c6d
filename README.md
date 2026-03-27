@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Modernize virtual machines on Google Cloud with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/modernize-virtual-machines-google-cloud-red-hat-openshift-virtualization)
-- [AIOps and MLOps made simple: Automating Vertex AI with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/aiops-and-mlops-made-simple-automating-vertex-ai-red-hat-ansible-automation-platform)
-- [AI security: Defending against prompt injection and unsafe actions](https://www.redhat.com/en/blog/ai-security-defending-against-prompt-injection-and-unsafe-actions)
-- [Five real-world lessons for building developer workflows in the agentic era](https://www.dynatrace.com/news/blog/five-real-world-lessons-for-building-developer-workflows-in-the-agentic-era/)
-- [Inside our approach to the Model Spec](https://openai.com/index/our-approach-to-the-model-spec)
+- [STADLER reshapes knowledge work at a 230-year-old company](https://openai.com/index/stadler)
+- [Building a News Roundup with Docker Agent, Docker Model Runner, and Skill](https://www.docker.com/blog/building-a-news-roundup-with-docker-agent-docker-model-runner-and-skill/)
+- [What&#39;s new in Red Hat OpenShift Virtualization 4.21](https://www.redhat.com/en/blog/whats-new-red-hat-openshift-virtualization-421)
+- [Friday Five — March 27, 2026](https://www.redhat.com/en/blog/friday-five-march-27-2026-red-hat)
+- [Closing the gap: Bringing AI and Kubernetes to the source of the data](https://www.redhat.com/en/blog/closing-gap-bringing-ai-and-kubernetes-source-data)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
