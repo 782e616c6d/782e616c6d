@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [STADLER reshapes knowledge work at a 230-year-old company](https://openai.com/index/stadler)
-- [Building a News Roundup with Docker Agent, Docker Model Runner, and Skill](https://www.docker.com/blog/building-a-news-roundup-with-docker-agent-docker-model-runner-and-skill/)
-- [What&#39;s new in Red Hat OpenShift Virtualization 4.21](https://www.redhat.com/en/blog/whats-new-red-hat-openshift-virtualization-421)
-- [Friday Five — March 27, 2026](https://www.redhat.com/en/blog/friday-five-march-27-2026-red-hat)
-- [Closing the gap: Bringing AI and Kubernetes to the source of the data](https://www.redhat.com/en/blog/closing-gap-bringing-ai-and-kubernetes-source-data)
+- [Introducing the Red Hat Universal Base Image](https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image)
+- [Strengthening Spain&#39;s digital sovereignty: Red Hat Enterprise Linux achieves top-tier ENS security certification](https://www.redhat.com/en/blog/strengthening-spains-digital-sovereignty-red-hat-enterprise-linux-achieves-top-tier-ens-security-certification)
+- [Red Hat Enterprise Linux now supported for Microsoft SQL Server on Azure VMs with SQL IaaS Agent extension](https://www.redhat.com/en/blog/red-hat-enterprise-linux-now-supported-microsoft-sql-server-azure-vms-sql-iaas-agent-extension)
+- [Our journey to AI-centricity, part 1: Building on a stable foundation](https://www.redhat.com/en/blog/our-journey-ai-centricity-part-1-building-stable-foundation)
+- [From network telemetry to operational intelligence](https://www.redhat.com/en/blog/network-telemetry-operational-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
