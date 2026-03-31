@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Red Hat Universal Base Image](https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image)
-- [Strengthening Spain&#39;s digital sovereignty: Red Hat Enterprise Linux achieves top-tier ENS security certification](https://www.redhat.com/en/blog/strengthening-spains-digital-sovereignty-red-hat-enterprise-linux-achieves-top-tier-ens-security-certification)
-- [Red Hat Enterprise Linux now supported for Microsoft SQL Server on Azure VMs with SQL IaaS Agent extension](https://www.redhat.com/en/blog/red-hat-enterprise-linux-now-supported-microsoft-sql-server-azure-vms-sql-iaas-agent-extension)
-- [Our journey to AI-centricity, part 1: Building on a stable foundation](https://www.redhat.com/en/blog/our-journey-ai-centricity-part-1-building-stable-foundation)
-- [From network telemetry to operational intelligence](https://www.redhat.com/en/blog/network-telemetry-operational-intelligence)
+- [Leverage Agentic AI for Autonomous Incident Response with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/leverage-agentic-ai-for-autonomous-incident-response-with-aws-devops-agent/)
+- [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/)
+- [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/)
+- [Accelerating the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai)
+- [Using containers to bring software engineering rigor to AI workloads](https://www.redhat.com/en/blog/using-containers-bring-software-engineering-rigor-ai-workloads)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
