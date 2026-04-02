@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Improving the Markdown Editor for Work Items](https://devblogs.microsoft.com/devops/improving-the-markdown-editor-for-work-items/)
-- [Securely connect AWS DevOps Agent to private services in your VPCs](https://aws.amazon.com/blogs/devops/securely-connect-aws-devops-agent-to-private-services-in-your-vpcs/)
-- [Gradient Labs gives every bank customer an AI account manager](https://openai.com/index/gradient-labs)
-- [Why customers are choosing Red Hat AI for real business outcomes](https://www.redhat.com/en/blog/why-customers-are-choosing-red-hat-ai-real-business-outcomes)
-- [Red Hat AI tops MLPerf Inference v6.0 with vLLM on Qwen3-VL, Whisper, and GPT-OSS-120B](https://www.redhat.com/en/blog/red-hat-ai-tops-mlperf-inference-v60-vllm-qwen3-vl-whisper-and-gpt-oss-120b)
+- [Defending Your Software Supply Chain: What Every Engineering Team Should Do Now](https://www.docker.com/blog/defending-your-software-supply-chain-what-every-engineering-team-should-do-now/)
+- [Gemma 4 is Here: Now Available on Docker Hub](https://www.docker.com/blog/gemma4-dockerhub/)
+- [Docker Offload now Generally Available: The Full Power of Docker, for Every Developer, Everywhere.](https://www.docker.com/blog/docker-offload-now-generally-available-the-full-power-of-docker-for-every-developer-everywhere/)
+- [OpenAI acquires TBPN](https://openai.com/index/openai-acquires-tbpn)
+- [Codex now offers more flexible pricing for teams](https://openai.com/index/codex-flexible-pricing-for-teams)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
