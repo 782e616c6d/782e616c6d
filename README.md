@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship)
+- [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age)
+- [AI for scientific research: The power of small language models](https://www.redhat.com/en/blog/ai-scientific-research-power-small-language-models)
 - [Use code-level analysis to cut MTTR before you push to production](https://www.dynatrace.com/news/blog/use-code-level-analysis-to-cut-mttr-before-you-push-to-production/)
 - [Streamlining Cloud Compliance at GoDaddy Using CDK Aspects](https://aws.amazon.com/blogs/devops/streamlining-cloud-compliance-at-godaddy-using-cdk-aspects/)
-- [Refactoring at the speed of mission: An &quot;agent mesh&quot; approach to legacy system modernization with Red Hat AI](https://www.redhat.com/en/blog/refactoring-speed-mission-agent-mesh-approach-legacy-system-modernization-red-hat-ai)
-- [Red Hat solutions for the hybrid SAP landscape](https://www.redhat.com/en/blog/red-hat-solutions-hybrid-sap-landscape)
-- [Friday Five — April 3, 2026](https://www.redhat.com/en/blog/friday-five-april-3-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
