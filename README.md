@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming inference challenges](https://www.redhat.com/en/blog/overcoming-inference-challenges)
-- [Managed identity in Azure Red Hat OpenShift: Deploy in just a few clicks with the Azure portal](https://www.redhat.com/en/blog/managed-identity-azure-red-hat-openshift-portal)
-- [Announcing the OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship)
-- [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age)
-- [Part I: AI for scientific research: The power of small language models](https://www.redhat.com/en/blog/ai-scientific-research-power-small-language-models)
+- [Reclaim Developer Hours through Smarter Vulnerability Prioritization with Docker and Mend.io](https://www.docker.com/blog/reclaim-developer-hours-through-smarter-vulnerability-prioritization-with-docker-and-mend-io/)
+- [The next phase of enterprise AI](https://openai.com/index/next-phase-of-enterprise-ai)
+- [Introducing the Child Safety Blueprint](https://openai.com/index/introducing-child-safety-blueprint)
+- [What’s new at Red Hat Summit 2026](https://www.redhat.com/en/blog/whats-new-red-hat-summit-2026)
+- [Navigating the Mythos-haunted world of platform security](https://www.redhat.com/en/blog/navigating-mythos-haunted-world-platform-security)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
