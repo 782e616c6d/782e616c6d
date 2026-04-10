@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Planning your upgrade path to Ansible Automation Platform 2.6](https://www.redhat.com/en/blog/planning-your-upgrade-path-ansible-automation-platform-26)
-- [CyberAgent moves faster with ChatGPT Enterprise and Codex](https://openai.com/index/cyber-agent)
-- [OpenAI Full Fan Mode Contest: Terms &amp; Conditions](https://openai.com/index/full-fan-mode-contest-terms-conditions)
-- [Reclaim Developer Hours through Smarter Vulnerability Prioritization with Docker and Mend.io](https://www.docker.com/blog/reclaim-developer-hours-through-smarter-vulnerability-prioritization-with-docker-and-mend-io/)
-- [The next phase of enterprise AI](https://openai.com/index/next-phase-of-enterprise-ai)
+- [Friday Five — April 10, 2026](https://www.redhat.com/en/blog/friday-five-april-10-2026-red-hat)
+- [AI for scientific research: Building the research platform that science needs with Red Hat AI](https://www.redhat.com/en/blog/ai-scientific-research-building-research-platform-science-needs-red-hat-ai)
+- [Research with ChatGPT](https://openai.com/academy/search-and-deep-research)
+- [Working with files in ChatGPT](https://openai.com/academy/working-with-files)
+- [Using custom GPTs](https://openai.com/academy/custom-gpts)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
