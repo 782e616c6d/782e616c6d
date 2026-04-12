@@ -56,9 +56,9 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 <!-- BLOG-POST-LIST:START -->
 - [Friday Five — April 10, 2026](https://www.redhat.com/en/blog/friday-five-april-10-2026-red-hat)
 - [AI for scientific research: Building the research platform that science needs with Red Hat AI](https://www.redhat.com/en/blog/ai-scientific-research-building-research-platform-science-needs-red-hat-ai)
-- [Healthcare](https://openai.com/academy/healthcare)
-- [Using skills](https://openai.com/academy/skills)
-- [Analyzing data with ChatGPT](https://openai.com/academy/data-analysis)
+- [Using projects in ChatGPT](https://openai.com/academy/projects)
+- [ChatGPT for marketing teams](https://openai.com/academy/marketing)
+- [Our response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
