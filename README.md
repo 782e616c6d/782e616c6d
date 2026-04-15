@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Why We Chose the Harder Path: Docker Hardened Images, One Year Later](https://www.docker.com/blog/why-we-chose-the-harder-path-docker-hardened-images-one-year-later/)
-- [April Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server/)
-- [233% 3-year return on investment and 13 months to payback with Red Hat AI](https://www.redhat.com/en/blog/233-3-year-return-investment-and-13-months-payback-red-hat-ai)
-- [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense)
-- [Troubleshooting environment with AI analysis in AWS Elastic Beanstalk](https://aws.amazon.com/blogs/devops/troubleshooting-environment-with-ai-analysis-in-aws-elastic-beanstalk/)
+- [One-click security scanning and org-wide alert triage come to Advanced Security](https://devblogs.microsoft.com/devops/one-click-security-scanning-and-org-wide-alert-triage-come-to-advanced-security/)
+- [The next evolution of the Agents SDK](https://openai.com/index/the-next-evolution-of-the-agents-sdk)
+- [Taming costs in cloud environments: Rating in OpenStack with CloudKitty](https://www.redhat.com/en/blog/taming-costs-cloud-environments-rating-openstack-cloudkitty)
+- [Connect, collaborate, and grow: Your guide to Ecosystem Success Day at Red Hat Summit 2026](https://www.redhat.com/en/blog/connect-collaborate-and-grow-your-guide-ecosystem-success-day-red-hat-summit-2026)
+- [Announcing Red Hat OpenShift Pipelines 1.21: Faster builds, smarter caching, and improved troubleshooting](https://www.redhat.com/en/blog/announcing-red-hat-openshift-pipelines-121-faster-builds-smarter-caching-and-improved-troubleshooting)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
