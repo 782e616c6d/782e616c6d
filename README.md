@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [One-click security scanning and org-wide alert triage come to Advanced Security](https://devblogs.microsoft.com/devops/one-click-security-scanning-and-org-wide-alert-triage-come-to-advanced-security/)
-- [The next evolution of the Agents SDK](https://openai.com/index/the-next-evolution-of-the-agents-sdk)
-- [Taming costs in cloud environments: Rating in OpenStack with CloudKitty](https://www.redhat.com/en/blog/taming-costs-cloud-environments-rating-openstack-cloudkitty)
-- [Connect, collaborate, and grow: Your guide to Ecosystem Success Day at Red Hat Summit 2026](https://www.redhat.com/en/blog/connect-collaborate-and-grow-your-guide-ecosystem-success-day-red-hat-summit-2026)
-- [Announcing Red Hat OpenShift Pipelines 1.21: Faster builds, smarter caching, and improved troubleshooting](https://www.redhat.com/en/blog/announcing-red-hat-openshift-pipelines-121-faster-builds-smarter-caching-and-improved-troubleshooting)
+- [Why MicroVMs: The Architecture Behind Docker Sandboxes](https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/)
+- [Codex for &lpar;almost&rpar; everything](https://openai.com/index/codex-for-almost-everything)
+- [Introducing GPT-Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind)
+- [Meet the latest Red Hat OpenShift Superheroes](https://www.redhat.com/en/blog/meet-latest-red-hat-openshift-superheroes-0)
+- [AI optimization: 7 powerful techniques you can use today!](https://www.redhat.com/en/blog/ai-optimization-7-powerful-techniques-you-can-use-today)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
