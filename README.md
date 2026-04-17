@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Confidential Containers workshop on Microsoft Azure Red Hat OpenShift: Learn interactively](https://www.redhat.com/en/blog/confidential-containers-workshop-microsoft-azure-red-hat-openshift-learn-interactively)
+- [The zero touch future: Enabling Telstra’s path to a fully autonomous, self-healing network](https://www.redhat.com/en/blog/zero-touch-future-enabling-telstras-path-fully-autonomous-self-healing-network)
+- [MCP security: Containerization and Red Hat OpenShift integration](https://www.redhat.com/en/blog/mcp-security-containerization-and-red-hat-openshift-integration)
+- [Friday Five — April 17, 2026](https://www.redhat.com/en/blog/friday-five-april-17-2026-red-hat)
 - [Why MicroVMs: The Architecture Behind Docker Sandboxes](https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/)
-- [Codex for &lpar;almost&rpar; everything](https://openai.com/index/codex-for-almost-everything)
-- [Introducing GPT-Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind)
-- [Meet the latest Red Hat OpenShift Superheroes](https://www.redhat.com/en/blog/meet-latest-red-hat-openshift-superheroes-0)
-- [AI optimization: 7 powerful techniques you can use today!](https://www.redhat.com/en/blog/ai-optimization-7-powerful-techniques-you-can-use-today)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
