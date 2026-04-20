@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Confidential Containers workshop on Microsoft Azure Red Hat OpenShift: Learn interactively](https://www.redhat.com/en/blog/confidential-containers-workshop-microsoft-azure-red-hat-openshift-learn-interactively)
-- [The zero touch future: Enabling Telstra’s path to a fully autonomous, self-healing network](https://www.redhat.com/en/blog/zero-touch-future-enabling-telstras-path-fully-autonomous-self-healing-network)
-- [MCP security: Containerization and Red Hat OpenShift integration](https://www.redhat.com/en/blog/mcp-security-containerization-and-red-hat-openshift-integration)
-- [Friday Five — April 17, 2026](https://www.redhat.com/en/blog/friday-five-april-17-2026-red-hat)
-- [Why MicroVMs: The Architecture Behind Docker Sandboxes](https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/)
+- [The power shift: Why the future of the electric grid will be software-defined](https://www.redhat.com/en/blog/power-shift-why-future-electric-grid-will-be-software-defined)
+- [Proving open source is ready for the industrial edge](https://www.redhat.com/en/blog/proving-open-source-ready-industrial-edge)
+- [Integrating Red Hat Lightspeed with CrowdStrike for enhanced malware detection coverage](https://www.redhat.com/en/blog/integrating-red-hat-lightspeed-crowdstrike)
+- [From RAG to agentic AI: When models stop answering and start acting](https://www.redhat.com/en/blog/rag-agentic-ai-when-models-stop-answering-and-start-acting)
+- [OpenAI helps Hyatt advance AI among colleagues](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
