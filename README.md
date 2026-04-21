@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The power shift: Why the future of the electric grid will be software-defined](https://www.redhat.com/en/blog/power-shift-why-future-electric-grid-will-be-software-defined)
-- [Proving open source is ready for the industrial edge](https://www.redhat.com/en/blog/proving-open-source-ready-industrial-edge)
-- [Integrating Red Hat Lightspeed with CrowdStrike for enhanced malware detection coverage](https://www.redhat.com/en/blog/integrating-red-hat-lightspeed-crowdstrike)
-- [From RAG to agentic AI: When models stop answering and start acting](https://www.redhat.com/en/blog/rag-agentic-ai-when-models-stop-answering-and-start-acting)
-- [OpenAI helps Hyatt advance AI among colleagues](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise)
+- [Azure DevOps MCP Server April Update](https://devblogs.microsoft.com/devops/azure-devops-mcp-server-april-update/)
+- [Unlock enterprise-ready, secure AI with Red Hat Lightspeed Agent for Google Cloud](https://www.redhat.com/en/blog/unlock-enterprise-ready-secure-ai-red-hat-lightspeed-agent-google-cloud)
+- [The Open Accelerator joins the Google for Startups Cloud Program to empower the next generation of innovators](https://www.redhat.com/en/blog/open-accelerator-joins-google-startups-cloud-program-empower-next-generation-innovators)
+- [Open source transparency defines the future of sovereign AI in Europe](https://www.redhat.com/en/blog/open-source-transparency-defines-future-sovereign-ai-europe)
+- [Now generally available: Red Hat Confirmed Sovereign Support drives digital autonomy for global enterprise](https://www.redhat.com/en/blog/red-hat-confirmed-sovereign-support)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
