@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Azure DevOps MCP Server April Update](https://devblogs.microsoft.com/devops/azure-devops-mcp-server-april-update/)
-- [Unlock enterprise-ready, secure AI with Red Hat Lightspeed Agent for Google Cloud](https://www.redhat.com/en/blog/unlock-enterprise-ready-secure-ai-red-hat-lightspeed-agent-google-cloud)
-- [The Open Accelerator joins the Google for Startups Cloud Program to empower the next generation of innovators](https://www.redhat.com/en/blog/open-accelerator-joins-google-startups-cloud-program-empower-next-generation-innovators)
-- [Open source transparency defines the future of sovereign AI in Europe](https://www.redhat.com/en/blog/open-source-transparency-defines-future-sovereign-ai-europe)
-- [Now generally available: Red Hat Confirmed Sovereign Support drives digital autonomy for global enterprise](https://www.redhat.com/en/blog/red-hat-confirmed-sovereign-support)
+- [Optimizing Git policy management at scale](https://devblogs.microsoft.com/devops/optimizing-git-policy-management-at-scale/)
+- [Automating Incident Investigation with AWS DevOps Agent and Salesforce MCP Server](https://aws.amazon.com/blogs/devops/automating-incident-investigation-with-aws-devops-agent-and-salesforce-mcp-server/)
+- [Making ChatGPT better for clinicians](https://openai.com/index/making-chatgpt-better-for-clinicians)
+- [Public Preview: Actual Result for Manual Tests in Azure Test Plans](https://devblogs.microsoft.com/devops/actual-result-azure-test-plans/)
+- [Introducing workspace agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
