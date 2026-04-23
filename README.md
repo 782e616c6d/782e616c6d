@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Git policy management at scale](https://devblogs.microsoft.com/devops/optimizing-git-policy-management-at-scale/)
-- [Automating Incident Investigation with AWS DevOps Agent and Salesforce MCP Server](https://aws.amazon.com/blogs/devops/automating-incident-investigation-with-aws-devops-agent-and-salesforce-mcp-server/)
-- [Making ChatGPT better for clinicians](https://openai.com/index/making-chatgpt-better-for-clinicians)
-- [Public Preview: Actual Result for Manual Tests in Azure Test Plans](https://devblogs.microsoft.com/devops/actual-result-azure-test-plans/)
-- [Introducing workspace agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt)
+- [Building a Center of Excellence for Ansible](https://www.redhat.com/en/blog/building-center-excellence-ansible)
+- [Trivy, KICS, and the shape of supply chain attacks so far in 2026](https://www.docker.com/blog/trivy-kics-and-the-shape-of-supply-chain-attacks-so-far-in-2026/)
+- [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card)
+- [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5)
+- [What is Codex?](https://openai.com/academy/what-is-codex)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
