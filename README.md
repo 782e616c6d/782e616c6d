@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Building a Center of Excellence for Ansible](https://www.redhat.com/en/blog/building-center-excellence-ansible)
+- [Our Principles](https://openai.com/index/our-principles)
 - [Axios npm Supply Chain Compromise – Guidance for Azure Pipelines Customers](https://devblogs.microsoft.com/devops/axios-npm-supply-chain-compromise-guidance-for-azure-pipelines-customers/)
 - [When less is more: Why less precision and fewer parameters carry enterprise AI](https://www.redhat.com/en/blog/when-less-more-why-less-precision-and-fewer-parameters-carry-enterprise-ai)
 - [Friday Five — April 24, 2026](https://www.redhat.com/en/blog/friday-five-april-23-2026-red-hat)
-- [Customer stories and continued momentum: OpenShift Virtualization sessions at Red Hat Summit 2026](https://www.redhat.com/en/blog/openshift-virtualization-sessions-red-hat-summit-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
