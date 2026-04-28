@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The sovereignty mandate: Why open hybrid cloud is the boardroom’s new risk frontier](https://www.redhat.com/en/blog/sovereignty-mandate-why-open-hybrid-cloud-boardrooms-new-risk-frontier)
+- [Scaling financial services with a strategic automation foundation](https://www.redhat.com/en/blog/scaling-financial-services-strategic-automation-foundation)
 - [Getting to know Daniel Aw, Vice President &amp; General Manager, Red Hat APAC](https://www.redhat.com/en/blog/getting-know-daniel-aw-vice-president-general-manager-red-hat-apac-0)
-- [OpenAI available at FedRAMP Moderate](https://openai.com/index/openai-available-at-fedramp-moderate)
-- [The next phase of the Microsoft OpenAI partnership](https://openai.com/index/next-phase-of-microsoft-partnership)
-- [AWS Transform custom: Enterprise Code Modernization with the Learn-Scale-Improve Flywheel](https://aws.amazon.com/blogs/devops/aws-transform-custom-enterprise-code-modernization-with-the-learn-scale-improve-flywheel/)
-- [Redefining security data: Red Hat’s new VEX experience heading to Red Hat Summit 2026](https://www.redhat.com/en/blog/redefining-security-data-red-hats-new-vex-experience-heading-red-hat-summit-2026)
+- [Building a hardened, image-based foundation for AI agents](https://www.redhat.com/en/blog/building-hardened-image-based-foundation-ai-agents)
+- [Announcing Fedora 44](https://www.redhat.com/en/blog/announcing-fedora-44)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
