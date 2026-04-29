@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The sovereignty mandate: Why open hybrid cloud is the boardroom’s new risk frontier](https://www.redhat.com/en/blog/sovereignty-mandate-why-open-hybrid-cloud-boardrooms-new-risk-frontier)
-- [Scaling financial services with a strategic automation foundation](https://www.redhat.com/en/blog/scaling-financial-services-strategic-automation-foundation)
-- [Getting to know Daniel Aw, Vice President &amp; General Manager, Red Hat APAC](https://www.redhat.com/en/blog/getting-know-daniel-aw-vice-president-general-manager-red-hat-apac-0)
-- [Building a hardened, image-based foundation for AI agents](https://www.redhat.com/en/blog/building-hardened-image-based-foundation-ai-agents)
-- [Announcing Fedora 44](https://www.redhat.com/en/blog/announcing-fedora-44)
+- [Building the compute infrastructure for the Intelligence Age](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age)
+- [Cybersecurity in the Intelligence Age](https://openai.com/index/cybersecurity-in-the-intelligence-age)
+- [Using NVIDIA Aerial CUDA-Accelerated RAN on Red Hat OpenShift to accelerate development of AI-native 5G and 6G RAN solutions](https://www.redhat.com/en/blog/using-nvidia-aerial-cuda-accelerated-ran-red-hat-openshift-accelerate-development-ai-native-5g-and-6g-ran-solutions)
+- [The definitive automation guide to Red Hat Summit 2026: Must-attend Red Hat Ansible Automation Platform sessions, talks, and labs](https://www.redhat.com/en/blog/definitive-automation-guide-red-hat-summit-2026-must-attend-red-hat-ansible-automation-platform-sessions-talks-and-labs)
+- [One New Zealand’s strategic shift to Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/one-new-zealands-strategic-shift-red-hat-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
