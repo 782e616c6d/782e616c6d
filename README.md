@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Building the compute infrastructure for the Intelligence Age](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age)
-- [Cybersecurity in the Intelligence Age](https://openai.com/index/cybersecurity-in-the-intelligence-age)
-- [Using NVIDIA Aerial CUDA-Accelerated RAN on Red Hat OpenShift to accelerate development of AI-native 5G and 6G RAN solutions](https://www.redhat.com/en/blog/using-nvidia-aerial-cuda-accelerated-ran-red-hat-openshift-accelerate-development-ai-native-5g-and-6g-ran-solutions)
-- [The definitive automation guide to Red Hat Summit 2026: Must-attend Red Hat Ansible Automation Platform sessions, talks, and labs](https://www.redhat.com/en/blog/definitive-automation-guide-red-hat-summit-2026-must-attend-red-hat-ansible-automation-platform-sessions-talks-and-labs)
-- [One New Zealand’s strategic shift to Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/one-new-zealands-strategic-shift-red-hat-openshift-virtualization)
+- [Amazon Q Developer end-of-support announcement](https://aws.amazon.com/blogs/devops/amazon-q-developer-end-of-support-announcement/)
+- [From Security Blocked to Prod Ready: ClickHouse on Docker Hardened Images](https://www.docker.com/blog/from-security-blocked-to-prod-ready-clickhouse-on-docker-hardened-images/)
+- [Designing multitenant GPU infrastructure: Isolation across virtualization and Kubernetes platforms](https://www.redhat.com/en/blog/designing-multitenant-gpu-infrastructure-isolation-across-virtualization-and-kubernetes-platforms)
+- [Introducing Advanced Account Security](https://openai.com/index/advanced-account-security)
+- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
