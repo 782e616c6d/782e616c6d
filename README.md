@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [A Virtual Agent team at Docker: How the Coding Agent Sandboxes team uses a fleet of agents to ship faster](https://www.docker.com/blog/a-virtual-agent-team-at-docker-how-the-coding-agent-sandboxes-team-uses-a-fleet-of-agents-to-ship-faster/)
+- [Unlocking sovereign AI and protected collaboration with confidential computing](https://www.redhat.com/en/blog/unlocking-sovereign-ai-and-protected-collaboration-confidential-computing)
+- [Friday Five — May 1, 2026](https://www.redhat.com/en/blog/friday-five-may-1-2026-red-hat)
 - [Amazon Q Developer end-of-support announcement](https://aws.amazon.com/blogs/devops/amazon-q-developer-end-of-support-announcement/)
 - [From Security Blocked to Prod Ready: ClickHouse on Docker Hardened Images](https://www.docker.com/blog/from-security-blocked-to-prod-ready-clickhouse-on-docker-hardened-images/)
-- [Designing multitenant GPU infrastructure: Isolation across virtualization and Kubernetes platforms](https://www.redhat.com/en/blog/designing-multitenant-gpu-infrastructure-isolation-across-virtualization-and-kubernetes-platforms)
-- [Introducing Advanced Account Security](https://openai.com/index/advanced-account-security)
-- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
