@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [A Virtual Agent team at Docker: How the Coding Agent Sandboxes team uses a fleet of agents to ship faster](https://www.docker.com/blog/a-virtual-agent-team-at-docker-how-the-coding-agent-sandboxes-team-uses-a-fleet-of-agents-to-ship-faster/)
-- [Unlocking sovereign AI and protected collaboration with confidential computing](https://www.redhat.com/en/blog/unlocking-sovereign-ai-and-protected-collaboration-confidential-computing)
-- [Friday Five — May 1, 2026](https://www.redhat.com/en/blog/friday-five-may-1-2026-red-hat)
-- [Amazon Q Developer end-of-support announcement](https://aws.amazon.com/blogs/devops/amazon-q-developer-end-of-support-announcement/)
-- [From Security Blocked to Prod Ready: ClickHouse on Docker Hardened Images](https://www.docker.com/blog/from-security-blocked-to-prod-ready-clickhouse-on-docker-hardened-images/)
+- [Announcing the winners of the 20th annual Red Hat Innovation Awards](https://www.redhat.com/en/blog/announcing-winners-20th-annual-red-hat-innovation-awards)
+- [What’s in store for Red Hat OpenShift Dedicated running on Google Cloud at Red Hat Summit](https://www.redhat.com/en/blog/whats-store-red-hat-openshift-dedicated-running-google-cloud-red-hat-summit)
+- [Strengthening the enterprise foundation: Red Hat and Oracle’s expanding collaboration](https://www.redhat.com/en/blog/strengthening-enterprise-foundation-red-hat-and-oracles-expanding-collaboration)
+- [Red Hat Summit 2026: Know before you go](https://www.redhat.com/en/blog/red-hat-summit-2026-know-you-go)
+- [CVE-2026-31431: How Red Hat Advanced Cluster Security and Red Hat Advanced Cluster Management can help](https://www.redhat.com/en/blog/cve-2026-31431-how-red-hat-advanced-cluster-security-and-red-hat-advanced-cluster-management-can-help)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
