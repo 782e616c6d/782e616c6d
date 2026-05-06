@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Generate Images Locally with Docker Model Runner and Open WebUI](https://www.docker.com/blog/blog-generate-images-locally-dmr-open-webui/)
-- [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card)
-- [GPT-5.5 Instant: smarter, clearer, and more personalized](https://openai.com/index/gpt-5-5-instant)
-- [Precision Container Security with Docker and Black Duck](https://www.docker.com/blog/precision-container-security-with-docker-and-black-duck/)
-- [Bringing H.E.A.R.T. to the Red Hat Customer Experience](https://www.redhat.com/en/blog/bringing-heart-red-hat-customer-experience)
+- [Why automated OS upgrades still need a human in the loop](https://www.redhat.com/en/blog/why-automation-still-needs-human-loop-os-upgrades)
+- [The virtualization pivot and why enterprise IT’s next move will determine the next decade](https://www.redhat.com/en/blog/virtualization-pivot-and-why-enterprise-its-next-move-will-determine-next-decade)
+- [F5 AI Guardrails quickstart: Answering the hard questions](https://www.redhat.com/en/blog/f5-ai-guardrails-quickstart-answering-hard-questions)
+- [CVE-2026-31431: How Red Hat Advanced Cluster Security and Red Hat Advanced Cluster Management can help](https://www.redhat.com/en/blog/cve-2026-31431-how-red-hat-advanced-cluster-security-and-red-hat-advanced-cluster-management-can-help)
+- [Accelerate innovation and govern integrity with Red Hat Satellite 6.19](https://www.redhat.com/en/blog/accelerate-innovation-and-govern-integrity-red-hat-satellite-619)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
