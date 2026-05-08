@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Different Approaches to Sandboxing](https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents/)
-- [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber)
-- [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa)
-- [Advancing voice intelligence with new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api)
-- [Virtualization at full speed ahead of Red Hat Summit 2026](https://www.redhat.com/en/blog/virtualization-full-speed-ahead-red-hat-summit-2026)
+- [Building an end-to-end agentic SRE using AWS DevOps Agent](https://aws.amazon.com/blogs/devops/building-an-end-to-end-agentic-sre-using-aws-devops-agent/)
+- [Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely)
+- [Your guide to Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; at Red Hat Summit 2026](https://www.redhat.com/en/blog/your-guide-red-hat-openshift-service-aws-rosa-red-hat-summit-2026)
+- [Learn OpenShift Virtualization: 8 resources to help you get started](https://www.redhat.com/en/blog/learn-openshift-virtualization)
+- [Friday Five — May 8, 2026](https://www.redhat.com/en/blog/friday-five-may-8-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
