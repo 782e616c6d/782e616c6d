@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Building an end-to-end agentic SRE using AWS DevOps Agent](https://aws.amazon.com/blogs/devops/building-an-end-to-end-agentic-sre-using-aws-devops-agent/)
-- [Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely)
-- [Your guide to Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; at Red Hat Summit 2026](https://www.redhat.com/en/blog/your-guide-red-hat-openshift-service-aws-rosa-red-hat-summit-2026)
-- [Learn OpenShift Virtualization: 8 resources to help you get started](https://www.redhat.com/en/blog/learn-openshift-virtualization)
-- [Friday Five — May 8, 2026](https://www.redhat.com/en/blog/friday-five-may-8-2026-red-hat)
+- [Agentic application modernization at scale with Strands and Amazon Transform custom](https://aws.amazon.com/blogs/devops/use-generative-ai-agents-for-application-modernization-at-scale-with-strands-amazon-transform-custom-and-amazon-bedrock-agentcore/)
+- [How ChatGPT adoption broadened in early 2026](https://openai.com/signals/research/2026q1-update)
+- [How enterprises are scaling AI](https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai)
+- [OpenAI Campus Network: Student club interest form](https://openai.com/index/openai-campus-network-student-club-interest-form)
+- [OpenAI launches DeployCo to help businesses build around intelligence](https://openai.com/index/openai-launches-the-deployment-company)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
