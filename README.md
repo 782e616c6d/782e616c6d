@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Agentic application modernization at scale with Strands and Amazon Transform custom](https://aws.amazon.com/blogs/devops/use-generative-ai-agents-for-application-modernization-at-scale-with-strands-amazon-transform-custom-and-amazon-bedrock-agentcore/)
-- [How ChatGPT adoption broadened in early 2026](https://openai.com/signals/research/2026q1-update)
-- [How enterprises are scaling AI](https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai)
-- [OpenAI Campus Network: Student club interest form](https://openai.com/index/openai-campus-network-student-club-interest-form)
-- [OpenAI launches DeployCo to help businesses build around intelligence](https://openai.com/index/openai-launches-the-deployment-company)
+- [Stop managing the past and start building IT’s future](https://www.redhat.com/en/blog/stop-managing-past-and-start-building-its-future)
+- [Docker AI Governance: Unlock Agent Autonomy, Safely](https://www.docker.com/blog/docker-ai-governance-unlock-agent-autonomy-safely/)
+- [How finance teams use Codex](https://openai.com/academy/how-finance-teams-use-codex)
+- [AI’s next inflection point: Transforming agents into enterprise superusers](https://www.redhat.com/en/blog/ais-next-inflection-point-transforming-agents-enterprise-superusers)
+- [The three pillars of trust: The hardened OpenShift foundation](https://www.redhat.com/en/blog/three-pillars-trust-hardened-openshift-foundation)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
