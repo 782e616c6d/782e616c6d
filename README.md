@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Building a safe, effective sandbox to enable Codex on Windows](https://openai.com/index/building-codex-windows-sandbox)
+- [NIST Narrows the NVD: What Container Security Programs Should Reassess](https://www.docker.com/blog/nist-narrows-the-nvd-what-container-security-programs-should-reassess/)
 - [Stop managing the past and start building IT’s future](https://www.redhat.com/en/blog/stop-managing-past-and-start-building-its-future)
-- [Docker AI Governance: Unlock Agent Autonomy, Safely](https://www.docker.com/blog/docker-ai-governance-unlock-agent-autonomy-safely/)
-- [How finance teams use Codex](https://openai.com/academy/how-finance-teams-use-codex)
-- [AI’s next inflection point: Transforming agents into enterprise superusers](https://www.redhat.com/en/blog/ais-next-inflection-point-transforming-agents-enterprise-superusers)
-- [The three pillars of trust: The hardened OpenShift foundation](https://www.redhat.com/en/blog/three-pillars-trust-hardened-openshift-foundation)
+- [Virtualization in 2026: Building a platform for VMs, containers, and AI](https://www.redhat.com/en/blog/virtualization-2026-building-platform-vms-containers-and-ai)
+- [Agent-ready AI means token-ready strategy](https://www.redhat.com/en/blog/agent-ready-ai-means-token-ready-strategy)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
