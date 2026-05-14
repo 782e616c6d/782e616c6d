@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Building a safe, effective sandbox to enable Codex on Windows](https://openai.com/index/building-codex-windows-sandbox)
-- [NIST Narrows the NVD: What Container Security Programs Should Reassess](https://www.docker.com/blog/nist-narrows-the-nvd-what-container-security-programs-should-reassess/)
-- [Stop managing the past and start building IT’s future](https://www.redhat.com/en/blog/stop-managing-past-and-start-building-its-future)
-- [Virtualization in 2026: Building a platform for VMs, containers, and AI](https://www.redhat.com/en/blog/virtualization-2026-building-platform-vms-containers-and-ai)
-- [Agent-ready AI means token-ready strategy](https://www.redhat.com/en/blog/agent-ready-ai-means-token-ready-strategy)
+- [Simplify cross-account and cross-Region stack output references with AWS CloudFormation and CDK’s new Fn::GetStackOutput](https://aws.amazon.com/blogs/devops/simplify-cross-account-and-cross-region-stack-output-references-with-aws-cloudformation-and-cdks-new-fngetstackoutput/)
+- [May Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-3/)
+- [Work with Codex from anywhere](https://openai.com/index/work-with-codex-from-anywhere)
+- [Scaling enterprise AI: Delivering Models-as-a-Service with Red Hat OpenShift AI 3.4](https://www.redhat.com/en/blog/scaling-enterprise-ai-delivering-models-service-openshift-ai-34)
+- [Save the date: Red Hat Summit 2027 is coming to Boston](https://www.redhat.com/en/blog/save-date-red-hat-summit-2027-coming-boston)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
