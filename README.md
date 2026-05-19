@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership)
-- [Custom MCP Catalogs and Profiles: Advancing Enterprise MCP Adoption](https://www.docker.com/blog/create-custom-mcp-catalogs-and-profiles/)
-- [Friday Five — May 15, 2026](https://www.redhat.com/en/blog/friday-five-may-15-2026-red-hat)
-- [How business operations teams use Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex)
-- [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks)
+- [Coding Agent Horror Stories: The Security Crisis Threatening Developer Infrastructure](https://www.docker.com/blog/ai-coding-agent-horror-stories-security-risks/)
+- [Announcing AWS CDK Mixins: Composable Abstractions for AWS Resources](https://aws.amazon.com/blogs/devops/announcing-aws-cdk-mixins-composable-abstractions-for-aws-resources/)
+- [Building Self-Extending CLI Tools with Strands Agent](https://aws.amazon.com/blogs/devops/building-self-extending-cli-tools-with-aws-strands/)
+- [Modernizing Excel VBA to Python at Scale with AWS Transform custom](https://aws.amazon.com/blogs/devops/modernizing-excel-vba-to-python-at-scale-with-aws-transform-custom/)
+- [Ensure Code Integrity for AWS Lambda Functions with Automated Code Signing Using Terraform](https://aws.amazon.com/blogs/devops/ensure-code-integrity-for-aws-lambda-functions-with-automated-code-signing-using-terraform/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
