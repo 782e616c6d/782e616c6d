@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Automate root cause analysis across Datadog and Elasticsearch with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/automate-root-cause-analysis-across-datadog-and-elasticsearch-with-aws-devops-agent/)
+- [Meet Gordon: Docker’s AI Agent For Your Entire Container Workflow](https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow/)
+- [Advancing content provenance for a safer, more transparent AI ecosystem](https://openai.com/index/advancing-content-provenance)
+- [AWS and Red Hat at Red Hat Summit 2026: Accelerating AI, innovation, and open source infrastructure](https://www.redhat.com/en/blog/aws-and-red-hat-red-hat-summit-2026-accelerating-ai-innovation-and-open-source-infrastructure)
 - [Coding Agent Horror Stories: The Security Crisis Threatening Developer Infrastructure](https://www.docker.com/blog/ai-coding-agent-horror-stories-security-risks/)
-- [Announcing AWS CDK Mixins: Composable Abstractions for AWS Resources](https://aws.amazon.com/blogs/devops/announcing-aws-cdk-mixins-composable-abstractions-for-aws-resources/)
-- [Building Self-Extending CLI Tools with Strands Agent](https://aws.amazon.com/blogs/devops/building-self-extending-cli-tools-with-aws-strands/)
-- [Modernizing Excel VBA to Python at Scale with AWS Transform custom](https://aws.amazon.com/blogs/devops/modernizing-excel-vba-to-python-at-scale-with-aws-transform-custom/)
-- [Ensure Code Integrity for AWS Lambda Functions with Automated Code Signing Using Terraform](https://aws.amazon.com/blogs/devops/ensure-code-integrity-for-aws-lambda-functions-with-automated-code-signing-using-terraform/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
