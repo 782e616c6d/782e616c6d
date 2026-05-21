@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Automate root cause analysis across Datadog and Elasticsearch with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/automate-root-cause-analysis-across-datadog-and-elasticsearch-with-aws-devops-agent/)
-- [Meet Gordon: Docker’s AI Agent For Your Entire Container Workflow](https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow/)
-- [Advancing content provenance for a safer, more transparent AI ecosystem](https://openai.com/index/advancing-content-provenance)
-- [AWS and Red Hat at Red Hat Summit 2026: Accelerating AI, innovation, and open source infrastructure](https://www.redhat.com/en/blog/aws-and-red-hat-red-hat-summit-2026-accelerating-ai-innovation-and-open-source-infrastructure)
-- [Coding Agent Horror Stories: The Security Crisis Threatening Developer Infrastructure](https://www.docker.com/blog/ai-coding-agent-horror-stories-security-risks/)
+- [Trust at every layer: How sealed images extend OS integrity from boot to runtime](https://www.redhat.com/en/blog/how-sealed-images-red-hat-enterprise-linux-extend-os-integrity-boot-runtime)
+- [Red Hat Enterprise Linux 10.2 and 9.8 are here: The intelligent evolution of enterprise Linux](https://www.redhat.com/en/blog/rhel-102-and-98-intelligent-evolution-enterprise-linux)
+- [Red Hat AI and OpenShell: Driving security-enhanced agent execution for enterprise AI](https://www.redhat.com/en/blog/red-hat-ai-and-openshell-driving-security-enhanced-agent-execution-for-enterprise-ai)
+- [Celebrating the 2026 Red Hat Ecosystem Innovation Awards honorable mentions](https://www.redhat.com/en/blog/celebrating-2026-red-hat-ecosystem-innovation-awards-honorable-mentions)
+- [Building trust through AI red teaming: Red Hat&#39;s approach to testing model safety](https://www.redhat.com/en/blog/building-trust-through-ai-red-teaming-red-hats-approach-testing-model-safety)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
