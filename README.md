@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Red Hat OpenShift multicluster management with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/streamlining-red-hat-openshift-multicluster-management-red-hat-ansible-automation-platform)
+- [Friday Five — May 22, 2026](https://www.redhat.com/en/blog/friday-five-may-22-2026-red-hat)
+- [OpenAI named a Leader in enterprise coding agents by Gartner](https://openai.com/index/gartner-2026-agentic-coding-leader)
+- [How Virgin Atlantic ships faster with Codex](https://openai.com/index/virgin-atlantic)
 - [AdventHealth advances whole-person care with OpenAI](https://openai.com/index/adventhealth)
-- [What even is the harness in AI?](https://www.redhat.com/en/blog/what-even-harness-ai)
-- [Red Hat&#39;s Approach to Keyboard Testing for Web Accessibility](https://www.redhat.com/en/blog/beyond-automation-why-manual-keyboard-testing-essential-real-accessibility)
-- [Trust at every layer: How sealed images extend OS integrity from boot to runtime](https://www.redhat.com/en/blog/how-sealed-images-red-hat-enterprise-linux-extend-os-integrity-boot-runtime)
-- [Red Hat Enterprise Linux 10.2 and 9.8 are here: The intelligent evolution of enterprise Linux](https://www.redhat.com/en/blog/rhel-102-and-98-intelligent-evolution-enterprise-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
