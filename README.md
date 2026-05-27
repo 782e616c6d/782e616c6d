@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Untrusted Autonomous Workload: How AI Coding Agents Reshape What Isolation Has to Do](https://www.docker.com/blog/untrusted-autonomous-workload-ai-sandboxes/)
+- [Convert and upgrade your RHEL-like system to RHEL in one go](https://www.redhat.com/en/blog/convert-and-upgrade-your-rhel-system-rhel-one-go)
 - [The new reality of supply chain trust: Why platform-native security is non-negotiable](https://www.redhat.com/en/blog/new-reality-supply-chain-trust-why-platform-native-security-non-negotiable)
 - [Context-aware advisor recommendations in Red Hat Lightspeed](https://www.redhat.com/en/blog/context-aware-advisor-recommendations-red-hat-lightspeed)
 - [Building the levee: Why Red Hat’s post-quantum strategy is already in production](https://www.redhat.com/en/blog/building-levee-why-red-hats-post-quantum-strategy-already-production)
-- [OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership](https://openai.com/index/grupo-folha-grupo-uol-partnership)
-- [Streamlining Red Hat OpenShift multicluster management with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/streamlining-red-hat-openshift-multicluster-management-red-hat-ansible-automation-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
