@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How AWS DevOps Agent uses multi-agent reasoning to find root causes](https://aws.amazon.com/blogs/devops/how-aws-devops-agent-uses-multi-agent-reasoning-to-find-root-causes/)
-- [Mitigating CVE-2026-31431 &lpar;“Copy Fail”&rpar; in Docker Engine](https://www.docker.com/blog/mitigating-cve-2026-31431-copy-fail-in-docker-engine/)
-- [Cisco and OpenAI redefine enterprise engineering with Codex](https://openai.com/index/cisco)
-- [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex)
-- [When certificates expire 8x faster, manual renewals break](https://www.redhat.com/en/blog/when-certificates-expire-8x-faster-manual-renewals-break)
+- [How Endava builds an agentic organization with Codex](https://openai.com/index/endava)
+- [7 features of Red Hat Identity Management you need to know for the modern enterprise](https://www.redhat.com/en/blog/7-features-red-hat-identity-management-you-need-know-modern-enterprise)
+- [Manage MCP servers on Red Hat OpenShift with the MCP lifecycle operator](https://www.redhat.com/en/blog/manage-mcp-servers-red-hat-openshift-mcp-lifecycle-operator)
+- [Kiali and MCP: Bringing AI-native observability to Red Hat OpenShift Service Mesh](https://www.redhat.com/en/blog/kiali-and-mcp-bring-ai-native-observability-red-hat-openshift-service-mesh)
+- [Advancing post-quantum capabilities of SSH in Red Hat Enterprise Linux](https://www.redhat.com/en/blog/advancing-post-quantum-capabilities-ssh-red-hat-enterprise-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
