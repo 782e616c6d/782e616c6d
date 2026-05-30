@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How Endava builds an agentic organization with Codex](https://openai.com/index/endava)
-- [7 features of Red Hat Identity Management you need to know for the modern enterprise](https://www.redhat.com/en/blog/7-features-red-hat-identity-management-you-need-know-modern-enterprise)
-- [Manage MCP servers on Red Hat OpenShift with the MCP lifecycle operator](https://www.redhat.com/en/blog/manage-mcp-servers-red-hat-openshift-mcp-lifecycle-operator)
-- [Kiali and MCP: Bringing AI-native observability to Red Hat OpenShift Service Mesh](https://www.redhat.com/en/blog/kiali-and-mcp-bring-ai-native-observability-red-hat-openshift-service-mesh)
-- [Advancing post-quantum capabilities of SSH in Red Hat Enterprise Linux](https://www.redhat.com/en/blog/advancing-post-quantum-capabilities-ssh-red-hat-enterprise-linux)
+- [Boston Children’s uses AI to unlock new diagnoses](https://openai.com/index/boston-childrens-hospital)
+- [How Braintrust turns customer requests into code with Codex](https://openai.com/index/braintrust)
+- [Strengthening societal resilience with Rosalind Biodefense](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense)
+- [Is digital sovereignty illusory without open source and a trusted supply chain?](https://www.redhat.com/en/blog/digital-sovereignty-illusory-without-open-source-and-trusted-supply-chain)
+- [Friday Five — May 29, 2026](https://www.redhat.com/en/blog/friday-five-may-29-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
