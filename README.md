@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Boston Children’s uses AI to unlock new diagnoses](https://openai.com/index/boston-childrens-hospital)
-- [How Braintrust turns customer requests into code with Codex](https://openai.com/index/braintrust)
-- [Strengthening societal resilience with Rosalind Biodefense](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense)
-- [Is digital sovereignty illusory without open source and a trusted supply chain?](https://www.redhat.com/en/blog/digital-sovereignty-illusory-without-open-source-and-trusted-supply-chain)
-- [Friday Five — May 29, 2026](https://www.redhat.com/en/blog/friday-five-may-29-2026-red-hat)
+- [Our views on AI policy and political advocacy](https://openai.com/index/our-views-on-ai-policy-and-political-advocacy)
+- [What is Sandbox Security?](https://www.docker.com/blog/what-is-sandbox-security/)
+- [Coding Agent Horror Stories: The rm -rf ~/ Incident](https://www.docker.com/blog/coding-agent-horror-stories-the-rm-rf-incident/)
+- [Building the infrastructure for the Intelligence Age in Michigan](https://openai.com/index/stargate-michigan-data-center)
+- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
