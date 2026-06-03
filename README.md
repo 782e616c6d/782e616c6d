@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Our views on AI policy and political advocacy](https://openai.com/index/our-views-on-ai-policy-and-political-advocacy)
-- [What is Sandbox Security?](https://www.docker.com/blog/what-is-sandbox-security/)
-- [Coding Agent Horror Stories: The rm -rf ~/ Incident](https://www.docker.com/blog/coding-agent-horror-stories-the-rm-rf-incident/)
-- [Building the infrastructure for the Intelligence Age in Michigan](https://openai.com/index/stargate-michigan-data-center)
-- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws)
+- [Azure DevOps and GitHub: Journeying into the AI Era](https://devblogs.microsoft.com/devops/azure-devops-and-github-journeying-into-the-ai-era/)
+- [How to Secure AI Agents: A Practical Overview for Development Teams](https://www.docker.com/blog/how-to-secure-ai-agents/)
+- [Travelers deploys AI-powered claims countrywide with OpenAI](https://openai.com/index/travelers)
+- [Codex for every role, tool, and workflow](https://openai.com/index/codex-for-every-role-tool-workflow)
+- [Advancing youth safety and opportunity through global leadership](https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
