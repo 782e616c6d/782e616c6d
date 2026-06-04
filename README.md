@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Azure DevOps and GitHub: Journeying into the AI Era](https://devblogs.microsoft.com/devops/azure-devops-and-github-journeying-into-the-ai-era/)
-- [How to Secure AI Agents: A Practical Overview for Development Teams](https://www.docker.com/blog/how-to-secure-ai-agents/)
-- [Travelers deploys AI-powered claims countrywide with OpenAI](https://openai.com/index/travelers)
-- [Codex for every role, tool, and workflow](https://openai.com/index/codex-for-every-role-tool-workflow)
-- [Advancing youth safety and opportunity through global leadership](https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership)
+- [How Microsoft is migrating repositories to GitHub](https://devblogs.microsoft.com/devops/how-microsoft-is-migrating-repositories-to-github/)
+- [Introducing new capabilities to GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind)
+- [How Wasmer used Codex to build a Node.js runtime for the edge](https://openai.com/index/wasmer)
+- [OpenAI public policy agenda](https://openai.com/index/public-policy-agenda)
+- [A blueprint for democratic governance of frontier AI](https://openai.com/index/frontier-safety-blueprint)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
