@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How Microsoft is migrating repositories to GitHub](https://devblogs.microsoft.com/devops/how-microsoft-is-migrating-repositories-to-github/)
-- [Introducing new capabilities to GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind)
-- [How Wasmer used Codex to build a Node.js runtime for the edge](https://openai.com/index/wasmer)
-- [OpenAI public policy agenda](https://openai.com/index/public-policy-agenda)
-- [A blueprint for democratic governance of frontier AI](https://openai.com/index/frontier-safety-blueprint)
+- [Hardened Images Explained: Fewer CVEs, Smaller Attack Surface](https://www.docker.com/blog/what-are-hardened-images/)
+- [Debug deployment failures faster with the Deployments tab in AWS Elastic Beanstalk](https://aws.amazon.com/blogs/devops/debug-deployment-failures-faster-with-the-deployments-tab-in-aws-elastic-beanstalk/)
+- [How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers)
+- [Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming)
+- [MENA PR - Why flexibility is non-negotiable in the Middle East’s AI transformation journey](https://www.redhat.com/en/blog/flexibility-in-middle-east-ai-transformation-journey)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
