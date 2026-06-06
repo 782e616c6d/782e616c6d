@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Hardened Images Explained: Fewer CVEs, Smaller Attack Surface](https://www.docker.com/blog/what-are-hardened-images/)
-- [Debug deployment failures faster with the Deployments tab in AWS Elastic Beanstalk](https://aws.amazon.com/blogs/devops/debug-deployment-failures-faster-with-the-deployments-tab-in-aws-elastic-beanstalk/)
-- [How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers)
-- [Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming)
-- [MENA PR - Why flexibility is non-negotiable in the Middle East’s AI transformation journey](https://www.redhat.com/en/blog/flexibility-in-middle-east-ai-transformation-journey)
+- [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/)
+- [Build security into ITOps from the start with automation](https://www.redhat.com/en/blog/build-security-itops-start-automation)
+- [Scaling the future: How Garanti BBVA manages etcd in massive Red Hat OpenShift environments](https://www.redhat.com/en/blog/scaling-future-how-garanti-bbva-manages-etcd-massive-red-hat-openshift-environments)
+- [Planning your path forward from Amazon Linux 2: Why consistency is the ultimate upgrade](https://www.redhat.com/en/blog/planning-your-path-forward-amazon-linux-2-why-consistency-ultimate-upgrade)
+- [From metal to agent: Why agentic AI is an application evolution](https://www.redhat.com/en/blog/metal-agent-why-agentic-ai-application-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
