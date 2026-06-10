@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/)
-- [Enterprise Live Migrations: Moving from Azure DevOps Repo to GitHub with minimal disruption](https://devblogs.microsoft.com/devops/enterprise-live-migrations/)
-- [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1)
-- [Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan)
-- [Why agentic AI needs an open inference stack](https://www.redhat.com/en/blog/why-agentic-ai-needs-open-inference-stack)
+- [Copilot Code Reviews for Azure Repos](https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos/)
+- [How engineers at Nextdoor use Codex to build without limits](https://openai.com/index/nextdoor)
+- [What Codex unlocks for Notion](https://openai.com/index/notion)
+- [The AI-enabled enterprise: Why we are applying software engineering principles to business operations](https://www.redhat.com/en/blog/ai-enabled-enterprise-why-we-are-applying-software-engineering-principles-business-operations)
+- [Lessons from an autonomous computer vision system on the air-gapped edge](https://www.redhat.com/en/blog/lessons-autonomous-computer-vision-system-air-gapped-edge)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
