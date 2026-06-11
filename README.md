@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Copilot Code Reviews for Azure Repos](https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos/)
-- [How engineers at Nextdoor use Codex to build without limits](https://openai.com/index/nextdoor)
-- [What Codex unlocks for Notion](https://openai.com/index/notion)
-- [The AI-enabled enterprise: Why we are applying software engineering principles to business operations](https://www.redhat.com/en/blog/ai-enabled-enterprise-why-we-are-applying-software-engineering-principles-business-operations)
-- [Lessons from an autonomous computer vision system on the air-gapped edge](https://www.redhat.com/en/blog/lessons-autonomous-computer-vision-system-air-gapped-edge)
+- [Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide](https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide)
+- [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes)
+- [Access OpenAI models and Codex through your Oracle cloud commitment](https://openai.com/index/openai-on-oracle-cloud)
+- [PRC-linked influence operations are targeting AI debates in the US](https://openai.com/index/prc-linked-influence-operations-ai-debates)
+- [What&#39;s New in Ansible Automation Platform 2.7](https://www.redhat.com/en/blog/whats-new-ansible-automation-platform-2-7)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
