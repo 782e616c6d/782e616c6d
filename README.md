@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/)
+- [Securing the enterprise software fabric: A blueprint for open source](https://www.redhat.com/en/blog/securing-enterprise-software-fabric-blueprint-open-source)
+- [Scaling automated infrastructure compliance in telecommunications using Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/scaling-automated-infrastructure-compliance-in-telecommunications-using-red-hat-ansible-automation-platform)
+- [Protecting enterprise AI: How to manage API keys in Models-as-a-Service &lpar;MaaS&rpar;](https://www.redhat.com/en/blog/protecting-enterprise-ai-how-manage-api-keys-models-service-maas)
 - [Introducing the OpenAI Partner Network](https://openai.com/index/introducing-openai-partner-network)
-- [New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work)
-- [Red Hat has updated the RISC-V Developer Preview](https://www.redhat.com/en/blog/red-hat-has-updated-risc-v-developer-preview)
-- [Friday Five — June 12, 2026](https://www.redhat.com/en/blog/friday-five-june-12-2026-red-hat)
-- [Architecting true autonomy with a level 4/5 network](https://www.redhat.com/en/blog/architecting-true-autonomy-level-45-network)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
