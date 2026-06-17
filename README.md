@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/)
+- [What&#39;s new with image builder for Red Hat Enterprise Linux 10.2 and 9.8](https://www.redhat.com/en/blog/whats-new-image-builder-red-hat-enterprise-linux-102-and-98)
+- [Navigating the future: Schiphol Airport&#39;s journey to shift-left platform engineering](https://www.redhat.com/en/blog/navigating-future-schiphol-airports-journey-shift-left-platform-engineering)
+- [Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)
 - [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/)
-- [Securing the enterprise software fabric: A blueprint for open source](https://www.redhat.com/en/blog/securing-enterprise-software-fabric-blueprint-open-source)
-- [Scaling automated infrastructure compliance in telecommunications using Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/scaling-automated-infrastructure-compliance-in-telecommunications-using-red-hat-ansible-automation-platform)
-- [Protecting enterprise AI: How to manage API keys in Models-as-a-Service &lpar;MaaS&rpar;](https://www.redhat.com/en/blog/protecting-enterprise-ai-how-manage-api-keys-models-service-maas)
-- [Introducing the OpenAI Partner Network](https://openai.com/index/introducing-openai-partner-network)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
