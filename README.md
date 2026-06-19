@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction)
-- [Bring your own knowledge to the automation intelligent assistant](https://www.redhat.com/en/blog/bring-your-own-knowledge-automation-intelligent-assistant)
-- [Introducing LifeSciBench](https://openai.com/index/introducing-life-sci-bench)
-- [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/)
-- [What&#39;s new with image builder for Red Hat Enterprise Linux 10.2 and 9.8](https://www.redhat.com/en/blog/whats-new-image-builder-red-hat-enterprise-linux-102-and-98)
+- [Friday Five — June 19, 2026](https://www.redhat.com/en/blog/friday-five-june-19-2026-red-hat)
+- [Production-Ready Autonomous Incident Resolution with AWS DevOps Agent &lpar;now GA&rpar; and Datadog MCP Server](https://aws.amazon.com/blogs/devops/production-ready-autonomous-incident-resolution-with-aws-devops-agent-now-ga-and-datadog-mcp-server/)
+- [New usage analytics and updated spend controls for enterprises](https://openai.com/index/chatgpt-enterprise-spend-controls)
+- [Improving health intelligence in ChatGPT](https://openai.com/index/improving-health-intelligence-in-chatgpt)
+- [Using AI to help physicians diagnose rare genetic diseases affecting children](https://openai.com/index/diagnose-rare-childhood-diseases)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
