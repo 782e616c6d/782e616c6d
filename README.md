@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Feature Flag Orchestration with AWS DevOps Agent and LaunchDarkly](https://aws.amazon.com/blogs/devops/feature-flag-orchestration-with-aws-devops-agent-and-launchdarkly/)
+- [Supercharge your cloud operations with the Kiro power for AWS DevOps Agent](https://aws.amazon.com/blogs/devops/supercharge-your-cloud-operations-with-the-kiro-power-for-aws-devops-agent/)
+- [Accelerate Incident Resolution with PagerDuty and AWS DevOps Agent](https://aws.amazon.com/blogs/devops/accelerate-incident-resolution-with-pagerduty-and-aws-devops-agent/)
+- [Red Hat Lightspeed on premise delivers infrastructure intelligence inside your firewall](https://www.redhat.com/en/blog/red-hat-lightspeed-premise-delivers-infrastructure-intelligence-inside-your-firewall)
 - [Friday Five — June 19, 2026](https://www.redhat.com/en/blog/friday-five-june-19-2026-red-hat)
-- [Production-Ready Autonomous Incident Resolution with AWS DevOps Agent &lpar;now GA&rpar; and Datadog MCP Server](https://aws.amazon.com/blogs/devops/production-ready-autonomous-incident-resolution-with-aws-devops-agent-now-ga-and-datadog-mcp-server/)
-- [New usage analytics and updated spend controls for enterprises](https://openai.com/index/chatgpt-enterprise-spend-controls)
-- [Improving health intelligence in ChatGPT](https://openai.com/index/improving-health-intelligence-in-chatgpt)
-- [Using AI to help physicians diagnose rare genetic diseases affecting children](https://openai.com/index/diagnose-rare-childhood-diseases)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
