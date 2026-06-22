@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Electronics brings ChatGPT and Codex to employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)
 - [Feature Flag Orchestration with AWS DevOps Agent and LaunchDarkly](https://aws.amazon.com/blogs/devops/feature-flag-orchestration-with-aws-devops-agent-and-launchdarkly/)
 - [Supercharge your cloud operations with the Kiro power for AWS DevOps Agent](https://aws.amazon.com/blogs/devops/supercharge-your-cloud-operations-with-the-kiro-power-for-aws-devops-agent/)
 - [Accelerate Incident Resolution with PagerDuty and AWS DevOps Agent](https://aws.amazon.com/blogs/devops/accelerate-incident-resolution-with-pagerduty-and-aws-devops-agent/)
 - [Red Hat Lightspeed on premise delivers infrastructure intelligence inside your firewall](https://www.redhat.com/en/blog/red-hat-lightspeed-premise-delivers-infrastructure-intelligence-inside-your-firewall)
-- [Friday Five — June 19, 2026](https://www.redhat.com/en/blog/friday-five-june-19-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
