@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Samsung Electronics brings ChatGPT and Codex to employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)
-- [Feature Flag Orchestration with AWS DevOps Agent and LaunchDarkly](https://aws.amazon.com/blogs/devops/feature-flag-orchestration-with-aws-devops-agent-and-launchdarkly/)
-- [Supercharge your cloud operations with the Kiro power for AWS DevOps Agent](https://aws.amazon.com/blogs/devops/supercharge-your-cloud-operations-with-the-kiro-power-for-aws-devops-agent/)
-- [Accelerate Incident Resolution with PagerDuty and AWS DevOps Agent](https://aws.amazon.com/blogs/devops/accelerate-incident-resolution-with-pagerduty-and-aws-devops-agent/)
-- [Red Hat Lightspeed on premise delivers infrastructure intelligence inside your firewall](https://www.redhat.com/en/blog/red-hat-lightspeed-premise-delivers-infrastructure-intelligence-inside-your-firewall)
+- [Building and running custom code transformations without leaving your editor](https://aws.amazon.com/blogs/devops/building-and-running-custom-code-transformations-without-leaving-your-editor/)
+- [Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world)
+- [Patch the Planet: a Daybreak initiative to support open source maintainers](https://openai.com/index/patch-the-planet)
+- [Retirement of Azure DevOps issuer in Workload identity federation service connections](https://devblogs.microsoft.com/devops/retirement-of-azure-devops-issuer-in-workload-identity-federation-service-connections/)
+- [Introducing Project Navigator: From AI intent to optimized deployment on Red Hat OpenShift AI](https://www.redhat.com/en/blog/introducing-project-navigator-ai-intent-optimized-deployment-red-hat-openshift-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
