@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Building and running custom code transformations without leaving your editor](https://aws.amazon.com/blogs/devops/building-and-running-custom-code-transformations-without-leaving-your-editor/)
-- [Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world)
-- [Patch the Planet: a Daybreak initiative to support open source maintainers](https://openai.com/index/patch-the-planet)
-- [Retirement of Azure DevOps issuer in Workload identity federation service connections](https://devblogs.microsoft.com/devops/retirement-of-azure-devops-issuer-in-workload-identity-federation-service-connections/)
-- [Introducing Project Navigator: From AI intent to optimized deployment on Red Hat OpenShift AI](https://www.redhat.com/en/blog/introducing-project-navigator-ai-intent-optimized-deployment-red-hat-openshift-ai)
+- [Building in the open: How Dynatrace invests in open source to move the industry forward](https://www.dynatrace.com/news/blog/building-in-the-open-how-dynatrace-invests-in-open-source-to-move-the-industry-forward/)
+- [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery)
+- [What is an SBOM &lpar;and Why Can’t You Ship Without One&rpar;?](https://www.docker.com/blog/what-is-an-sbom/)
+- [Helping build shared standards for advanced AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)
+- [Reinventing the industrial edge: How Red Hat and Schneider Electric are modernizing OT](https://www.redhat.com/en/blog/reinventing-industrial-edge-how-red-hat-and-schneider-electric-are-modernizing-ot)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
