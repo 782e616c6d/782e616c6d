@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)
+- [To the moon and beyond: RamaLama being tested by NASA to potentially support a medical AI assistant for future deep space missions](https://www.redhat.com/en/blog/moon-and-beyond-ramalama-being-tested-nasa-potentially-support-medical-ai-assistant-future-deep-space-missions)
+- [The AI code paradox: Moving fast without breaking security](https://www.redhat.com/en/blog/ai-code-paradox-moving-fast-without-breaking-security)
+- [Sit, stay, deploy: Lessons from a real-world robotic blueprint on scaling edge computer vision](https://www.redhat.com/en/blog/sit-stay-deploy-lessons-real-world-robotic-blueprint-scaling-edge-computer-vision)
 - [Building in the open: How Dynatrace invests in open source to move the industry forward](https://www.dynatrace.com/news/blog/building-in-the-open-how-dynatrace-invests-in-open-source-to-move-the-industry-forward/)
-- [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery)
-- [What is an SBOM &lpar;and Why Can’t You Ship Without One&rpar;?](https://www.docker.com/blog/what-is-an-sbom/)
-- [Helping build shared standards for advanced AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)
-- [Reinventing the industrial edge: How Red Hat and Schneider Electric are modernizing OT](https://www.redhat.com/en/blog/reinventing-industrial-edge-how-red-hat-and-schneider-electric-are-modernizing-ot)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
