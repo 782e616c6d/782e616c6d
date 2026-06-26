@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)
-- [To the moon and beyond: RamaLama being tested by NASA to potentially support a medical AI assistant for future deep space missions](https://www.redhat.com/en/blog/moon-and-beyond-ramalama-being-tested-nasa-potentially-support-medical-ai-assistant-future-deep-space-missions)
-- [The AI code paradox: Moving fast without breaking security](https://www.redhat.com/en/blog/ai-code-paradox-moving-fast-without-breaking-security)
-- [Sit, stay, deploy: Lessons from a real-world robotic blueprint on scaling edge computer vision](https://www.redhat.com/en/blog/sit-stay-deploy-lessons-real-world-robotic-blueprint-scaling-edge-computer-vision)
-- [Building in the open: How Dynatrace invests in open source to move the industry forward](https://www.dynatrace.com/news/blog/building-in-the-open-how-dynatrace-invests-in-open-source-to-move-the-industry-forward/)
+- [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/)
+- [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/)
+- [How agents are transforming work](https://openai.com/index/how-agents-are-transforming-work)
+- [Why automated network configuration assurance matters for enterprise NetOps](https://www.redhat.com/en/blog/why-automated-network-configuration-assurance-matters-enterprise-netops)
+- [Govern privileged workload boundaries with Red Hat OpenShift, Ansible Automation Platform, and Identity Management](https://www.redhat.com/en/blog/govern-privileged-workload-boundaries-red-hat-openshift-ansible-automation-platform-and-identity-management)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
