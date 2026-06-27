@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol)
+- [Red Hat OpenShift delivers high-performance LLM inference for financial services](https://www.redhat.com/en/blog/red-hat-openshift-delivers-high-performance-llm-inference-financial-services)
+- [Friday Five — June 26, 2026](https://www.redhat.com/en/blog/friday-five-june-26-2026-red-hat)
+- [Empower your AI tools with new agent skills for Red Hat Enterprise Linux](https://www.redhat.com/en/blog/empower-your-ai-tools-new-agent-skills-red-hat-enterprise-linux)
 - [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/)
-- [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/)
-- [How agents are transforming work](https://openai.com/index/how-agents-are-transforming-work)
-- [Why automated network configuration assurance matters for enterprise NetOps](https://www.redhat.com/en/blog/why-automated-network-configuration-assurance-matters-enterprise-netops)
-- [Govern privileged workload boundaries with Red Hat OpenShift, Ansible Automation Platform, and Identity Management](https://www.redhat.com/en/blog/govern-privileged-workload-boundaries-red-hat-openshift-ansible-automation-platform-and-identity-management)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
