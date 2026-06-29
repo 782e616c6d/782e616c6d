@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership)
 - [What Does EU AI Act Compliance Require?](https://www.docker.com/blog/eu-ai-act-compliance/)
 - [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol)
 - [Red Hat OpenShift delivers high-performance LLM inference for financial services](https://www.redhat.com/en/blog/red-hat-openshift-delivers-high-performance-llm-inference-financial-services)
 - [Friday Five — June 26, 2026](https://www.redhat.com/en/blog/friday-five-june-26-2026-red-hat)
-- [Empower your AI tools with new agent skills for Red Hat Enterprise Linux](https://www.redhat.com/en/blog/empower-your-ai-tools-new-agent-skills-red-hat-enterprise-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
