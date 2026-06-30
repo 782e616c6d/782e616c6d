@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu)
+- [Supercharge RHEL troubleshooting with agentic AI: Introducing goose](https://www.redhat.com/en/blog/supercharge-rhel-troubleshooting-agentic-ai-introducing-goose)
+- [Distributed AI inference: What telecom service provider leaders should know](https://www.redhat.com/en/blog/distributed-ai-inference-what-telecom-service-provider-leaders-should-know)
+- [Can&#39;t patch fast enough? Zero trust as a last line of defense](https://www.redhat.com/en/blog/cant-patch-fast-enough-zero-trust-last-line-defense)
 - [HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership)
-- [What Does EU AI Act Compliance Require?](https://www.docker.com/blog/eu-ai-act-compliance/)
-- [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol)
-- [Red Hat OpenShift delivers high-performance LLM inference for financial services](https://www.redhat.com/en/blog/red-hat-openshift-delivers-high-performance-llm-inference-financial-services)
-- [Friday Five — June 26, 2026](https://www.redhat.com/en/blog/friday-five-june-26-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
