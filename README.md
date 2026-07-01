@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu)
-- [Supercharge RHEL troubleshooting with agentic AI: Introducing goose](https://www.redhat.com/en/blog/supercharge-rhel-troubleshooting-agentic-ai-introducing-goose)
-- [Distributed AI inference: What telecom service provider leaders should know](https://www.redhat.com/en/blog/distributed-ai-inference-what-telecom-service-provider-leaders-should-know)
-- [Can&#39;t patch fast enough? Zero trust as a last line of defense](https://www.redhat.com/en/blog/cant-patch-fast-enough-zero-trust-last-line-defense)
-- [HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership)
+- [Ship infrastructure faster with CloudFormation and CDK pre-deployment validation on every stack operation](https://aws.amazon.com/blogs/devops/ship-infrastructure-faster-with-cloudformation-and-cdk-pre-deployment-validation-on-every-stack-operation/)
+- [How ChatGPT adoption has expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded)
+- [How should your infrastructure connect to Red Hat Lightspeed?](https://www.redhat.com/en/blog/how-should-your-infrastructure-connect-red-hat-lightspeed)
+- [Introducing GeneBench-Pro](https://openai.com/index/introducing-genebench-pro)
+- [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
