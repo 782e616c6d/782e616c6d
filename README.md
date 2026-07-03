@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How CloudFormation Express mode accelerates your development cycle](https://aws.amazon.com/blogs/devops/how-cloudformation-express-mode-accelerates-your-development-cycle/)
+- [Introducing Red Hat OpenShift Service Mesh 3.4](https://www.redhat.com/en/blog/introducing-red-hat-openshift-service-mesh-34)
 - [Upcoming Change: NTLM Removal in Git &lpar;libcurl&rpar; – Impact to Azure DevOps Server Customers](https://devblogs.microsoft.com/devops/upcoming-change-ntlm-removal-in-git-libcurl-impact-to-azure-devops-server-customers/)
 - [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/)
 - [The evolution of infrastructure automation in the age of AI: 4 key takeaways from Red Hat Summit 2026](https://www.redhat.com/en/blog/evolution-infrastructure-automation-age-ai-4-key-takeaways-red-hat-summit-2026)
-- [Agentic AI on Red Hat OpenShift: What enterprises are doing right now](https://www.redhat.com/en/blog/agentic-ai-red-hat-openshift-what-enterprises-are-doing-right-now)
-- [Ship infrastructure faster with CloudFormation and CDK pre-deployment validation on every stack operation](https://aws.amazon.com/blogs/devops/ship-infrastructure-faster-with-cloudformation-and-cdk-pre-deployment-validation-on-every-stack-operation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
