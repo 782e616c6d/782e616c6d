@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How CloudFormation Express mode accelerates your development cycle](https://aws.amazon.com/blogs/devops/how-cloudformation-express-mode-accelerates-your-development-cycle/)
-- [Introducing Red Hat OpenShift Service Mesh 3.4](https://www.redhat.com/en/blog/introducing-red-hat-openshift-service-mesh-34)
-- [Upcoming Change: NTLM Removal in Git &lpar;libcurl&rpar; – Impact to Azure DevOps Server Customers](https://devblogs.microsoft.com/devops/upcoming-change-ntlm-removal-in-git-libcurl-impact-to-azure-devops-server-customers/)
-- [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/)
-- [The evolution of infrastructure automation in the age of AI: 4 key takeaways from Red Hat Summit 2026](https://www.redhat.com/en/blog/evolution-infrastructure-automation-age-ai-4-key-takeaways-red-hat-summit-2026)
+- [Scaling NetOps-as-Code: Improving security, eliminating random scripting, and more](https://www.redhat.com/en/blog/scaling-netops-code-improving-security-eliminating-random-scripting-and-more)
+- [Friday Five — July 3, 2026](https://www.redhat.com/en/blog/friday-five-july-3-2026)
+- [Beyond the baseline: Introducing the Digital Sovereignty Readiness Appraisal](https://www.redhat.com/en/blog/beyond-baseline-introducing-digital-sovereignty-readiness-appraisal)
+- [BackendTLSPolicy expands Gateway API transport security](https://www.redhat.com/en/blog/backendtlspolicy-expands-gateway-api-transport-security)
+- [How CloudFormation express mode accelerates your development cycle](https://aws.amazon.com/blogs/devops/how-cloudformation-express-mode-accelerates-your-development-cycle/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
