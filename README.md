@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Quit trying to keep up with every new AI tool and keep building](https://www.dynatrace.com/news/blog/quit-trying-to-keep-up-with-every-new-ai-tool-and-keep-building/)
+- [Provide access to Red Hat documentation in environments with limited connectivity](https://www.redhat.com/en/blog/provide-access-red-hat-documentation-environments-limited-connectivity)
 - [Scaling NetOps-as-Code: Improving security, eliminating random scripting, and more](https://www.redhat.com/en/blog/scaling-netops-code-improving-security-eliminating-random-scripting-and-more)
 - [Friday Five — July 3, 2026](https://www.redhat.com/en/blog/friday-five-july-3-2026)
 - [Beyond the baseline: Introducing the Digital Sovereignty Readiness Appraisal](https://www.redhat.com/en/blog/beyond-baseline-introducing-digital-sovereignty-readiness-appraisal)
-- [BackendTLSPolicy expands Gateway API transport security](https://www.redhat.com/en/blog/backendtlspolicy-expands-gateway-api-transport-security)
-- [How CloudFormation express mode accelerates your development cycle](https://aws.amazon.com/blogs/devops/how-cloudformation-express-mode-accelerates-your-development-cycle/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
