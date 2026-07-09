@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [EMEA blog | ODC-Noord: Building Blocks for a Government Cloud That Is Already Up and Running &lpar;NL&rpar;](https://www.redhat.com/en/blog/ocd-noord-building-blocks-for-a-government-cloud-that-is-already-up-and-running)
-- [Satellite 6.19 delivers Red Hat Lightspeed on premise security monitoring](https://www.redhat.com/en/blog/satellite-619-delivers-red-hat-lightspeed-premise-security-monitoring)
-- [Red Hat Enterprise Linux Long-Life Add-On: Your path to RHEL with no pre-determined end date](https://www.redhat.com/en/blog/red-hat-enterprise-linux-long-life-add-your-path-rhel-forever)
-- [Meet the latest Red Hat OpenShift Superheroes](https://www.redhat.com/en/blog/meet-latest-red-hat-openshift-superheroes)
-- [An introduction to the vi editor](https://www.redhat.com/en/blog/introduction-vi-editor)
+- [Our approach to government and national security partnerships](https://openai.com/index/government-national-security-partnerships)
+- [Your Laptop Is the New Production Environment](https://www.docker.com/blog/your-laptop-is-the-new-production-environment/)
+- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations)
+- [Helping K–12 educators build practical AI skills](https://openai.com/index/k-12-educators-practical-skills)
+- [Unleashing open innovation: How Diebold Nixdorf reimagined global banking on Red Hat OpenShift](https://www.redhat.com/en/blog/unleashing-open-innovation-how-diebold-nixdorf-reimagined-global-banking-red-hat-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
