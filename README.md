@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Our approach to government and national security partnerships](https://openai.com/index/government-national-security-partnerships)
-- [Your Laptop Is the New Production Environment](https://www.docker.com/blog/your-laptop-is-the-new-production-environment/)
-- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations)
-- [Helping K–12 educators build practical AI skills](https://openai.com/index/k-12-educators-practical-skills)
-- [Unleashing open innovation: How Diebold Nixdorf reimagined global banking on Red Hat OpenShift](https://www.redhat.com/en/blog/unleashing-open-innovation-how-diebold-nixdorf-reimagined-global-banking-red-hat-openshift)
+- [GPT-5.6 is now the preferred model in Microsoft 365 Copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
+- [ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work)
+- [GPT-5.5 Bio Bug Bounty](https://openai.com/index/bio-bug-bounty)
+- [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6)
+- [Introducing Red Hat OpenShift Service Mesh 3.4](https://www.redhat.com/en/blog/introducing-red-hat-openshift-service-mesh-34)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
