@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5.6 is now the preferred model in Microsoft 365 Copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
-- [ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work)
-- [GPT-5.5 Bio Bug Bounty](https://openai.com/index/bio-bug-bounty)
-- [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6)
-- [Introducing Red Hat OpenShift Service Mesh 3.4](https://www.redhat.com/en/blog/introducing-red-hat-openshift-service-mesh-34)
+- [Shrinking Azure Pipeline task extensions using esbuild](https://devblogs.microsoft.com/devops/shrinking-azure-pipeline-task-extensions-using-esbuild/)
+- [How Deutsche Telekom is rewiring telecommunications with AI](https://openai.com/index/deutsche-telekom)
+- [Pluggable by design: An agent mesh for software modernization that adopts the next model release](https://www.redhat.com/en/blog/pluggable-design-agent-mesh-software-modernization-adopts-next-model-release)
+- [New observability features in Red Hat OpenShift 4.22](https://www.redhat.com/en/blog/new-observability-features-red-hat-openshift-422)
+- [Friday Five — July 10, 2026](https://www.redhat.com/en/blog/friday-five-july-10-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
