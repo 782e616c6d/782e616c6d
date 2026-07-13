@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Why good AI agents fail in production: The missing infrastructure layer](https://www.redhat.com/en/blog/why-good-ai-agents-fail-production-missing-infrastructure-layer)
+- [Results for Red Hat’s Kubernetes fleet management survey](https://www.redhat.com/en/blog/results-red-hats-kubernetes-fleet-management-survey)
+- [Red Hat Advanced Cluster Management 2.17: Less operational toil and more Kubernetes fleet control](https://www.redhat.com/en/blog/red-hat-advanced-cluster-management-217-less-operational-toil-and-more-kubernetes-fleet-control)
+- [Navigating AI vulnerability discovery and achieving operational resilience with automation](https://www.redhat.com/en/blog/navigating-ai-vulnerability-discovery-and-achieving-operational-resilience-automation)
 - [Shrinking Azure Pipeline task extensions using esbuild](https://devblogs.microsoft.com/devops/shrinking-azure-pipeline-task-extensions-using-esbuild/)
-- [How Deutsche Telekom is rewiring telecommunications with AI](https://openai.com/index/deutsche-telekom)
-- [Pluggable by design: An agent mesh for software modernization that adopts the next model release](https://www.redhat.com/en/blog/pluggable-design-agent-mesh-software-modernization-adopts-next-model-release)
-- [New observability features in Red Hat OpenShift 4.22](https://www.redhat.com/en/blog/new-observability-features-red-hat-openshift-422)
-- [Friday Five — July 10, 2026](https://www.redhat.com/en/blog/friday-five-july-10-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
