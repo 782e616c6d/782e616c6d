@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Why good AI agents fail in production: The missing infrastructure layer](https://www.redhat.com/en/blog/why-good-ai-agents-fail-production-missing-infrastructure-layer)
-- [Results for Red Hat’s Kubernetes fleet management survey](https://www.redhat.com/en/blog/results-red-hats-kubernetes-fleet-management-survey)
-- [Red Hat Advanced Cluster Management 2.17: Less operational toil and more Kubernetes fleet control](https://www.redhat.com/en/blog/red-hat-advanced-cluster-management-217-less-operational-toil-and-more-kubernetes-fleet-control)
-- [Navigating AI vulnerability discovery and achieving operational resilience with automation](https://www.redhat.com/en/blog/navigating-ai-vulnerability-discovery-and-achieving-operational-resilience-automation)
-- [Shrinking Azure Pipeline task extensions using esbuild](https://devblogs.microsoft.com/devops/shrinking-azure-pipeline-task-extensions-using-esbuild/)
+- [Automated Incident Remediation with AWS DevOps Agent and Kiro CLI](https://aws.amazon.com/blogs/devops/automated-incident-remediation-with-aws-devops-agent-and-kiro-cli/)
+- [AI Engineer World’s Fair 2026: The Runtime Is Where Agent Trust Is Won](https://www.docker.com/blog/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won/)
+- [How to manage AI investments in the agentic era](https://openai.com/index/managing-ai-investments-in-agentic-era)
+- [Zero trust workload identity manager version 1.1 generally available on Red Hat OpenShift](https://www.redhat.com/en/blog/zero-trust-workload-identity-manager-11-generally-available-red-hat-openshift)
+- [Why the future of telco depends on open, ecosystem-led architectures](https://www.redhat.com/en/blog/why-future-telco-depends-open-ecosystem-led-architectures)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
