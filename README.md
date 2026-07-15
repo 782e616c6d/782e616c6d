@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Automated Incident Remediation with AWS DevOps Agent and Kiro CLI](https://aws.amazon.com/blogs/devops/automated-incident-remediation-with-aws-devops-agent-and-kiro-cli/)
-- [AI Engineer World’s Fair 2026: The Runtime Is Where Agent Trust Is Won](https://www.docker.com/blog/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won/)
-- [How to manage AI investments in the agentic era](https://openai.com/index/managing-ai-investments-in-agentic-era)
-- [Zero trust workload identity manager version 1.1 generally available on Red Hat OpenShift](https://www.redhat.com/en/blog/zero-trust-workload-identity-manager-11-generally-available-red-hat-openshift)
-- [Why the future of telco depends on open, ecosystem-led architectures](https://www.redhat.com/en/blog/why-future-telco-depends-open-ecosystem-led-architectures)
+- [The US is advancing AI safety through state and federal action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action)
+- [GPT-Red: Unlocking Self-Improvement for Robustness](https://openai.com/index/unlocking-self-improvement-gpt-red)
+- [Moving from PoC to production: Delivering real business value with Red Hat AI 3.4](https://www.redhat.com/en/blog/moving-poc-production-delivering-real-business-value-red-hat-ai-34)
+- [Two-node OpenShift with fencing improves reliability at the edge](https://www.redhat.com/en/blog/two-node-openshift-fencing-improves-reliability-edge)
+- [Physical AI: Physical operations are broken, a new kind of intelligence is needed](https://www.redhat.com/en/blog/physical-ai-physical-operations-are-broken-new-kind-intelligence-needed)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
