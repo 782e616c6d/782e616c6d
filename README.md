@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The US is advancing AI safety through state and federal action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action)
-- [GPT-Red: Unlocking Self-Improvement for Robustness](https://openai.com/index/unlocking-self-improvement-gpt-red)
-- [Moving from PoC to production: Delivering real business value with Red Hat AI 3.4](https://www.redhat.com/en/blog/moving-poc-production-delivering-real-business-value-red-hat-ai-34)
-- [Two-node OpenShift with fencing improves reliability at the edge](https://www.redhat.com/en/blog/two-node-openshift-fencing-improves-reliability-edge)
-- [Physical AI: Physical operations are broken, a new kind of intelligence is needed](https://www.redhat.com/en/blog/physical-ai-physical-operations-are-broken-new-kind-intelligence-needed)
+- [From the Captain’s Chair: Mohammad-Ali A’râbi](https://www.docker.com/blog/from-the-captains-chair-mohammad-ali-arabi/)
+- [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai)
+- [AI Agents Explained: How to Build with Them Safely](https://www.docker.com/blog/what-are-ai-agents/)
+- [The Developer Has Changed. So Should Developer Conferences](https://www.docker.com/blog/docker-wearedevelopers-world-congress-north-america-2026/)
+- [Why Operational Resilience and Digital Sovereignty Top the CIO Agenda - by Martin Lentle](https://www.redhat.com/en/blog/why-operational-resilience-and-digital-sovereignty-top-cio-agenda)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
