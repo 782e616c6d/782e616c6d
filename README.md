@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [From the Captain’s Chair: Mohammad-Ali A’râbi](https://www.docker.com/blog/from-the-captains-chair-mohammad-ali-arabi/)
-- [Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai)
-- [AI Agents Explained: How to Build with Them Safely](https://www.docker.com/blog/what-are-ai-agents/)
-- [The Developer Has Changed. So Should Developer Conferences](https://www.docker.com/blog/docker-wearedevelopers-world-congress-north-america-2026/)
-- [Why Operational Resilience and Digital Sovereignty Top the CIO Agenda - by Martin Lentle](https://www.redhat.com/en/blog/why-operational-resilience-and-digital-sovereignty-top-cio-agenda)
+- [A scorecard for the AI age](https://openai.com/index/a-scorecard-for-the-ai-age)
+- [Why your AI agent framework isn&#39;t enough: 7 platform capabilities missing from production](https://www.redhat.com/en/blog/why-your-ai-agent-framework-isnt-enough-7-platform-capabilities-missing-production)
+- [Introducing Red Hat build of Karpenter](https://www.redhat.com/en/blog/introducing-red-hat-build-karpenter)
+- [Friday Five — July 17, 2026](https://www.redhat.com/en/blog/friday-five-july-17-2026-red-hat)
+- [Agentic AI, Red Hat OpenShift, and NVIDIA: Shifting to precision security](https://www.redhat.com/en/blog/agentic-ai-red-hat-openshift-and-nvidia-shifting-precision-security)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
