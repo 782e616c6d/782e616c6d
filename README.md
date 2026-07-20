@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [A scorecard for the AI age](https://openai.com/index/a-scorecard-for-the-ai-age)
-- [Why your AI agent framework isn&#39;t enough: 7 platform capabilities missing from production](https://www.redhat.com/en/blog/why-your-ai-agent-framework-isnt-enough-7-platform-capabilities-missing-production)
-- [Introducing Red Hat build of Karpenter](https://www.redhat.com/en/blog/introducing-red-hat-build-karpenter)
-- [Friday Five — July 17, 2026](https://www.redhat.com/en/blog/friday-five-july-17-2026-red-hat)
-- [Agentic AI, Red Hat OpenShift, and NVIDIA: Shifting to precision security](https://www.redhat.com/en/blog/agentic-ai-red-hat-openshift-and-nvidia-shifting-precision-security)
+- [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/)
+- [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models)
+- [The value of unconventional experience: From sweeping hair to shaping careers](https://www.redhat.com/en/blog/value-unconventional-experience-sweeping-hair-shaping-careers)
+- [Open Telco AI: Training a model for an industry](https://www.redhat.com/en/blog/open-telco-ai-training-model-industry)
+- [Debunking IT automation myths: A strategic blueprint for healthcare payers](https://www.redhat.com/en/blog/debunking-it-automation-myths-strategic-blueprint-healthcare-payers)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
