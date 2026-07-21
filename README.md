@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/)
-- [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models)
-- [The value of unconventional experience: From sweeping hair to shaping careers](https://www.redhat.com/en/blog/value-unconventional-experience-sweeping-hair-shaping-careers)
-- [Open Telco AI: Training a model for an industry](https://www.redhat.com/en/blog/open-telco-ai-training-model-industry)
-- [Debunking IT automation myths: A strategic blueprint for healthcare payers](https://www.redhat.com/en/blog/debunking-it-automation-myths-strategic-blueprint-healthcare-payers)
+- [July Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-3/)
+- [Introducing the ChatGPT for small business program](https://openai.com/index/introducing-chatgpt-small-business-program)
+- [OpenAI and Hugging Face partner to address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident)
+- [Why prompt-level guardrails aren&#39;t enough: The platform security layers production agents need](https://www.redhat.com/en/blog/why-prompt-level-guardrails-arent-enough-platform-security-layers-production-agents-need)
+- [Preparing for Q-day: Four steps to prepare your hybrid cloud today](https://www.redhat.com/en/blog/preparing-q-day-four-steps-prepare-your-hybrid-cloud-today)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
