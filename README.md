@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [July Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-3/)
-- [Introducing the ChatGPT for small business program](https://openai.com/index/introducing-chatgpt-small-business-program)
-- [OpenAI and Hugging Face partner to address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident)
-- [Why prompt-level guardrails aren&#39;t enough: The platform security layers production agents need](https://www.redhat.com/en/blog/why-prompt-level-guardrails-arent-enough-platform-security-layers-production-agents-need)
-- [Preparing for Q-day: Four steps to prepare your hybrid cloud today](https://www.redhat.com/en/blog/preparing-q-day-four-steps-prepare-your-hybrid-cloud-today)
+- [Runtime Enforcement, Not Runtime Advice](https://www.docker.com/blog/runtime-enforcement-not-runtime-advice/)
+- [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-security-ciso-panel/)
+- [Building AI infrastructure with the Effingham County community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)
+- [How news organizations are using AI to advance their vital missions](https://openai.com/index/how-news-organizations-are-using-ai)
+- [Advancing the next era of national science](https://openai.com/index/advancing-the-next-era-of-national-science)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
