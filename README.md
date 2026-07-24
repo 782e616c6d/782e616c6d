@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Runtime Enforcement, Not Runtime Advice](https://www.docker.com/blog/runtime-enforcement-not-runtime-advice/)
-- [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-security-ciso-panel/)
-- [Building AI infrastructure with the Effingham County community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)
-- [How news organizations are using AI to advance their vital missions](https://openai.com/index/how-news-organizations-are-using-ai)
-- [Advancing the next era of national science](https://openai.com/index/advancing-the-next-era-of-national-science)
+- [Red Hat Government Symposium: Keeping the mission in motion by leading through change and delivering with impact](https://www.redhat.com/en/blog/red-hat-government-symposium-keeping-mission-motion-leading-through-change-and-delivering-impact)
+- [5 new ways Red Hat helps partners maximize business value](https://www.redhat.com/en/blog/5-new-ways-red-hat-helps-partners-maximize-business-value)
+- [Why single AI agents fail at scale: Building governed multi-agent networks](https://www.redhat.com/en/blog/why-single-ai-agents-fail-scale-building-governed-multi-agent-networks)
+- [Taming existing tech: A strategic approach for insurance modernization](https://www.redhat.com/en/blog/taming-existing-tech-strategic-approach-insurance-modernization)
+- [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
