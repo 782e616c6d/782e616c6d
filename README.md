@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat Government Symposium: Keeping the mission in motion by leading through change and delivering with impact](https://www.redhat.com/en/blog/red-hat-government-symposium-keeping-mission-motion-leading-through-change-and-delivering-impact)
-- [5 new ways Red Hat helps partners maximize business value](https://www.redhat.com/en/blog/5-new-ways-red-hat-helps-partners-maximize-business-value)
-- [Why single AI agents fail at scale: Building governed multi-agent networks](https://www.redhat.com/en/blog/why-single-ai-agents-fail-scale-building-governed-multi-agent-networks)
-- [Taming existing tech: A strategic approach for insurance modernization](https://www.redhat.com/en/blog/taming-existing-tech-strategic-approach-insurance-modernization)
-- [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt)
+- [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-needs-guardrails-not-guesswork/)
+- [Gain stronger pod isolation on Microsoft Azure Red Hat OpenShift with OpenShift sandboxed containers](https://www.redhat.com/en/blog/gain-stronger-pod-isolation-microsoft-azure-red-hat-openshift-openshift-sandboxed-containers)
+- [Friday Five — July 24, 2026](https://www.redhat.com/en/blog/friday-five-july-24-2026-red-hat)
+- [Beyond the blind spots: Defeating frontier AI model threats in your application development process](https://www.redhat.com/en/blog/beyond-blind-spots-defeating-frontier-ai-model-threats-your-application-development-process)
+- [Achieve high scalability using Red Hat Satellite Capsule Server](https://www.redhat.com/en/blog/achieve-high-scalability-using-red-hat-satellite-capsule-server)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
