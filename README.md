@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-needs-guardrails-not-guesswork/)
-- [Gain stronger pod isolation on Microsoft Azure Red Hat OpenShift with OpenShift sandboxed containers](https://www.redhat.com/en/blog/gain-stronger-pod-isolation-microsoft-azure-red-hat-openshift-openshift-sandboxed-containers)
-- [Friday Five — July 24, 2026](https://www.redhat.com/en/blog/friday-five-july-24-2026-red-hat)
-- [Beyond the blind spots: Defeating frontier AI model threats in your application development process](https://www.redhat.com/en/blog/beyond-blind-spots-defeating-frontier-ai-model-threats-your-application-development-process)
-- [Achieve high scalability using Red Hat Satellite Capsule Server](https://www.redhat.com/en/blog/achieve-high-scalability-using-red-hat-satellite-capsule-server)
+- [How Observability transforms vibe coding into AI engineering](https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering/)
+- [How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work)
+- [Strengthening the open source defense layer: Red Hat joins NVIDIA in the Open Secure AI Alliance](https://www.redhat.com/en/blog/strengthening-open-source-defense-layer-red-hat-joins-nvidias-open-secure-ai-alliance)
+- [How leading companies are turning AI vision into business value](https://www.redhat.com/en/blog/how-leading-companies-are-turning-ai-vision-business-value)
+- [Building the future: Core concepts of Red Hat’s agentic software development life cycle](https://www.redhat.com/en/blog/building-future-core-concepts-red-hats-agentic-software-development-life-cycle)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
