@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How Observability transforms vibe coding into AI engineering](https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering/)
-- [How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work)
-- [Strengthening the open source defense layer: Red Hat joins NVIDIA in the Open Secure AI Alliance](https://www.redhat.com/en/blog/strengthening-open-source-defense-layer-red-hat-joins-nvidias-open-secure-ai-alliance)
-- [How leading companies are turning AI vision into business value](https://www.redhat.com/en/blog/how-leading-companies-are-turning-ai-vision-business-value)
-- [Building the future: Core concepts of Red Hat’s agentic software development life cycle](https://www.redhat.com/en/blog/building-future-core-concepts-red-hats-agentic-software-development-life-cycle)
+- [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai)
+- [OpenTelemetry series: Understanding OTel traces and spans](https://www.dynatrace.com/news/blog/opentelemetry-series-understanding-otel-traces-and-spans/)
+- [Find any commit in seconds: Commit Search comes to Azure DevOps](https://devblogs.microsoft.com/devops/find-any-commit-in-seconds-commit-search-comes-to-azure-devops/)
+- [Coding Agent Horror Stories: The 29 Million Secret Problem](https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/)
+- [Substituting IP address evaluation with hardware-rooted sovereign zero trust](https://www.redhat.com/en/blog/substituting-ip-address-evaluation-hardware-rooted-sovereign-zero-trust)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
