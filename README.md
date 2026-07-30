@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai)
-- [OpenTelemetry series: Understanding OTel traces and spans](https://www.dynatrace.com/news/blog/opentelemetry-series-understanding-otel-traces-and-spans/)
-- [Find any commit in seconds: Commit Search comes to Azure DevOps](https://devblogs.microsoft.com/devops/find-any-commit-in-seconds-commit-search-comes-to-azure-devops/)
-- [Coding Agent Horror Stories: The 29 Million Secret Problem](https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/)
-- [Substituting IP address evaluation with hardware-rooted sovereign zero trust](https://www.redhat.com/en/blog/substituting-ip-address-evaluation-hardware-rooted-sovereign-zero-trust)
+- [How enabling two settings tripled our scores on the ARC-AGI-3 benchmark](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)
+- [How Company 3 Streamlines Studio Image Management with EC2 Image Builder and AWS CDK](https://aws.amazon.com/blogs/devops/how-company-3-streamlines-studio-image-management-with-ec2-image-builder-and-aws-cdk/)
+- [Add security context to operational investigations with AWS DevOps Agent and Wiz](https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/)
+- [Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers)
+- [Sovereign by design: Lessons from Red Hat Summit](https://www.redhat.com/en/blog/sovereign-design-lessons-red-hat-summit)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
