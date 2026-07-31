@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How enabling two settings tripled our scores on the ARC-AGI-3 benchmark](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)
-- [How Company 3 Streamlines Studio Image Management with EC2 Image Builder and AWS CDK](https://aws.amazon.com/blogs/devops/how-company-3-streamlines-studio-image-management-with-ec2-image-builder-and-aws-cdk/)
-- [Add security context to operational investigations with AWS DevOps Agent and Wiz](https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/)
-- [Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers)
-- [Sovereign by design: Lessons from Red Hat Summit](https://www.redhat.com/en/blog/sovereign-design-lessons-red-hat-summit)
+- [The Future of Agentic AI Depends on Openness and Trust. That’s Why Docker Is Joining Nvidia’s Open Secure AI Alliance.](https://www.docker.com/blog/docker-joins-nvidia-open-secure-ai-alliance/)
+- [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6)
+- [Firefox and Thunderbird as RHEL Flatpaks: What it means for you](https://www.redhat.com/en/blog/firefox-and-thunderbird-rhel-flatpaks-what-it-means-you)
+- [Why self-hosted inference is essential: Building a reliable, sovereign inference layer](https://www.redhat.com/en/blog/why-self-hosted-inference-essential-building-reliable-sovereign-inference-layer)
+- [Make every GPU-hour count: Progress tracking in Red Hat OpenShift AI](https://www.redhat.com/en/blog/make-every-gpu-hour-count-progress-tracking-red-hat-openshift-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
