@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Agentic AI Depends on Openness and Trust. That’s Why Docker Is Joining Nvidia’s Open Secure AI Alliance.](https://www.docker.com/blog/docker-joins-nvidia-open-secure-ai-alliance/)
-- [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6)
-- [Firefox and Thunderbird as RHEL Flatpaks: What it means for you](https://www.redhat.com/en/blog/firefox-and-thunderbird-rhel-flatpaks-what-it-means-you)
-- [Why self-hosted inference is essential: Building a reliable, sovereign inference layer](https://www.redhat.com/en/blog/why-self-hosted-inference-essential-building-reliable-sovereign-inference-layer)
-- [Make every GPU-hour count: Progress tracking in Red Hat OpenShift AI](https://www.redhat.com/en/blog/make-every-gpu-hour-count-progress-tracking-red-hat-openshift-ai)
+- [Docker OIDC connections for GitHub Actions available for Docker Orgs](https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/)
+- [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe)
+- [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence)
+- [Univé builds an AI-ready workforce](https://openai.com/index/unive)
+- [Announcing Red Hat OpenShift Platform Plus for Red Hat OpenShift Service on AWS on AWS Marketplace](https://www.redhat.com/en/blog/red-hat-openshift-platform-plus-rosa-aws-marketplace)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
