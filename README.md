@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics)
 - [Docker OIDC connections for GitHub Actions available for Docker Orgs](https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/)
 - [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe)
 - [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence)
 - [Univé builds an AI-ready workforce](https://openai.com/index/unive)
-- [Announcing Red Hat OpenShift Platform Plus for Red Hat OpenShift Service on AWS on AWS Marketplace](https://www.redhat.com/en/blog/red-hat-openshift-platform-plus-rosa-aws-marketplace)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
