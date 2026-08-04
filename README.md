@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics)
-- [Docker OIDC connections for GitHub Actions available for Docker Orgs](https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/)
-- [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe)
-- [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence)
-- [Univé builds an AI-ready workforce](https://openai.com/index/unive)
+- [Analyze and remediate technical debt autonomously with AWS Transform – continuous modernization](https://aws.amazon.com/blogs/devops/analyze-and-remediate-technical-debt-autonomously-with-aws-transform-continuous-modernization/)
+- [Empty sandboxes break developer experience](https://www.docker.com/blog/empty-sandboxes-break-developer-experience/)
+- [Docker AI Governance: Audit Logs, Now Where Your Security Team Already Works](https://www.docker.com/blog/docker-ai-governance-audit-logs-now-where-your-security-team-already-works/)
+- [How we built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live)
+- [Dynamic troubleshooting with guarded command execution in the MCP server for Red Hat Enterprise Linux](https://www.redhat.com/en/blog/dynamic-troubleshooting-guarded-command-execution-mcp-server-red-hat-enterprise-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
