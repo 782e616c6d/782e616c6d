@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Analyze and remediate technical debt autonomously with AWS Transform – continuous modernization](https://aws.amazon.com/blogs/devops/analyze-and-remediate-technical-debt-autonomously-with-aws-transform-continuous-modernization/)
-- [Empty sandboxes break developer experience](https://www.docker.com/blog/empty-sandboxes-break-developer-experience/)
-- [Docker AI Governance: Audit Logs, Now Where Your Security Team Already Works](https://www.docker.com/blog/docker-ai-governance-audit-logs-now-where-your-security-team-already-works/)
-- [How we built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live)
-- [Dynamic troubleshooting with guarded command execution in the MCP server for Red Hat Enterprise Linux](https://www.redhat.com/en/blog/dynamic-troubleshooting-guarded-command-execution-mcp-server-red-hat-enterprise-linux)
+- [Coding agents are scaling fast. How do teams keep up?](https://www.dynatrace.com/news/blog/coding-agents-are-scaling-fast-how-do-teams-keep-up/)
+- [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models)
+- [The Software Supply Chain Is Under Siege. Devs Are Still the First Line of Defense](https://www.docker.com/blog/software-supply-chain-security-omdia-2026-report/)
+- [Accelerate CloudFormation development with the IaC MCP Server](https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/)
+- [What&#39;s new in Red Hat OpenShift confidential computing and sandboxing](https://www.redhat.com/en/blog/whats-new-red-hat-openshift-confidential-computing-and-sandboxing)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
