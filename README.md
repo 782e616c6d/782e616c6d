@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Coding agents are scaling fast. How do teams keep up?](https://www.dynatrace.com/news/blog/coding-agents-are-scaling-fast-how-do-teams-keep-up/)
-- [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models)
-- [The Software Supply Chain Is Under Siege. Devs Are Still the First Line of Defense](https://www.docker.com/blog/software-supply-chain-security-omdia-2026-report/)
-- [Accelerate CloudFormation development with the IaC MCP Server](https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/)
-- [What&#39;s new in Red Hat OpenShift confidential computing and sandboxing](https://www.redhat.com/en/blog/whats-new-red-hat-openshift-confidential-computing-and-sandboxing)
+- [Governance Is a Developer Experience Problem](https://www.docker.com/blog/governance-is-a-developer-experience-problem/)
+- [Azure DevOps Remote MCP Server is generally available](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-ga/)
+- [Use EVPN in Red Hat OpenShift 4.22 to integrate production networks across Kubernetes cluster boundaries](https://www.redhat.com/en/blog/use-evpn-red-hat-openshift-422-integrate-production-networks-across-kubernetes-cluster-boundaries)
+- [Red Hat named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms for the Third Consecutive Year](https://www.redhat.com/en/blog/red-hat-named-leader-2026-cloud-native)
+- [Red Hat Enterprise Linux runner images now in public preview for GitHub Actions](https://www.redhat.com/en/blog/red-hat-enterprise-linux-runner-images-now-public-preview-github-actions)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
