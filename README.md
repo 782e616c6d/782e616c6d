@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities)
+- [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe)
+- [Stop burning your AI budget: Optimize GPU usage and model deployment with workflow navigator](https://www.redhat.com/en/blog/stop-burning-your-ai-budget-optimize-gpu-usage-and-model-deployment-workflow-navigator)
+- [Managing virtual machines on Red Hat OpenShift with Service Mesh](https://www.redhat.com/en/blog/managing-virtual-machines-red-hat-openshift-service-mesh)
 - [Friday Five — August 7, 2026](https://www.redhat.com/en/blog/friday-five-august-7-2026-red-hat)
-- [Scaling Autonomous Operations with AWS DevOps Agent and ServiceNow](https://aws.amazon.com/blogs/devops/scaling-autonomous-operations-with-aws-devops-agent-and-servicenow/)
-- [Pull request annotations on work item cards](https://devblogs.microsoft.com/devops/pull-request-annotations-on-work-item-cards/)
-- [Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt)
-- [You can now use the Azure DevOps Service Connection instead of a PAT or Build Session token](https://devblogs.microsoft.com/devops/you-can-now-use-the-azure-devops-service-connection-instead-of-a-pat-or-build-session-token/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
