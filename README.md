@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Governance Is a Developer Experience Problem](https://www.docker.com/blog/governance-is-a-developer-experience-problem/)
-- [Azure DevOps Remote MCP Server is generally available](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-ga/)
-- [Use EVPN in Red Hat OpenShift 4.22 to integrate production networks across Kubernetes cluster boundaries](https://www.redhat.com/en/blog/use-evpn-red-hat-openshift-422-integrate-production-networks-across-kubernetes-cluster-boundaries)
-- [Red Hat named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms for the Third Consecutive Year](https://www.redhat.com/en/blog/red-hat-named-leader-2026-cloud-native)
-- [Red Hat Enterprise Linux runner images now in public preview for GitHub Actions](https://www.redhat.com/en/blog/red-hat-enterprise-linux-runner-images-now-public-preview-github-actions)
+- [Friday Five — August 7, 2026](https://www.redhat.com/en/blog/friday-five-august-7-2026-red-hat)
+- [Scaling Autonomous Operations with AWS DevOps Agent and ServiceNow](https://aws.amazon.com/blogs/devops/scaling-autonomous-operations-with-aws-devops-agent-and-servicenow/)
+- [Pull request annotations on work item cards](https://devblogs.microsoft.com/devops/pull-request-annotations-on-work-item-cards/)
+- [Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt)
+- [You can now use the Azure DevOps Service Connection instead of a PAT or Build Session token](https://devblogs.microsoft.com/devops/you-can-now-use-the-azure-devops-service-connection-instead-of-a-pat-or-build-session-token/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
