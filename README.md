@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities)
-- [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe)
-- [Stop burning your AI budget: Optimize GPU usage and model deployment with workflow navigator](https://www.redhat.com/en/blog/stop-burning-your-ai-budget-optimize-gpu-usage-and-model-deployment-workflow-navigator)
-- [Managing virtual machines on Red Hat OpenShift with Service Mesh](https://www.redhat.com/en/blog/managing-virtual-machines-red-hat-openshift-service-mesh)
-- [Friday Five — August 7, 2026](https://www.redhat.com/en/blog/friday-five-august-7-2026-red-hat)
+- [What building an AI-native finance function taught me](https://openai.com/index/building-an-ai-native-finance-function)
+- [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas)
+- [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml)
+- [Automate SageMaker HyperPod incident triage and root-cause-analysis with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/automate-sagemaker-hyperpod-incident-triage-and-root-cause-analysis-with-aws-devops-agent/)
+- [Scaling organizational knowledge in Kiro with Amazon Bedrock Knowledge Bases, LangChain, and MCP](https://aws.amazon.com/blogs/devops/scaling-organizational-knowledge-in-kiro-with-amazon-bedrock-knowledge-bases-langchain-and-mcp/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
