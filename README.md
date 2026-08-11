@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [What building an AI-native finance function taught me](https://openai.com/index/building-an-ai-native-finance-function)
-- [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas)
-- [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml)
-- [Automate SageMaker HyperPod incident triage and root-cause-analysis with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/automate-sagemaker-hyperpod-incident-triage-and-root-cause-analysis-with-aws-devops-agent/)
-- [Scaling organizational knowledge in Kiro with Amazon Bedrock Knowledge Bases, LangChain, and MCP](https://aws.amazon.com/blogs/devops/scaling-organizational-knowledge-in-kiro-with-amazon-bedrock-knowledge-bases-langchain-and-mcp/)
+- [August Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-4/)
+- [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt)
+- [Daybreak models are now available on AWS](https://openai.com/index/daybreak-models-are-now-available-on-aws)
+- [Stop preventable outages: Intelligent Windows certificate rotation with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/stop-preventable-outages-intelligent-windows-certificate-rotation-red-hat-ansible-automation-platform)
+- [Red Hat on FHIR: Why an informatics nerd joined Red Hat](https://www.redhat.com/en/blog/red-hat-fhir-why-informatics-nerd-joined-red-ha)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
