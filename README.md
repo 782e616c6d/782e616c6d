@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [August Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-4/)
-- [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt)
-- [Daybreak models are now available on AWS](https://openai.com/index/daybreak-models-are-now-available-on-aws)
-- [Stop preventable outages: Intelligent Windows certificate rotation with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/stop-preventable-outages-intelligent-windows-certificate-rotation-red-hat-ansible-automation-platform)
-- [Red Hat on FHIR: Why an informatics nerd joined Red Hat](https://www.redhat.com/en/blog/red-hat-fhir-why-informatics-nerd-joined-red-ha)
+- [Docker VMM Public Beta: A Complete Overhaul, Built for Performance](https://www.docker.com/blog/docker-vmm-public-beta/)
+- [A new security baseline for enterprise agentic adoption](https://www.docker.com/blog/a-new-security-baseline-for-enterprise-agentic-adoption/)
+- [Extending AWS Transform custom with MCP Servers for End-to-End Code Modernization](https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/)
+- [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work)
+- [Operationalizing agentic AI: The Day 0-2 blueprint for enterprise infrastructure](https://www.redhat.com/en/blog/operationalizing-agentic-ai-day-0-2-blueprint-enterprise-infrastructure)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
