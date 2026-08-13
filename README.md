@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker VMM Public Beta: A Complete Overhaul, Built for Performance](https://www.docker.com/blog/docker-vmm-public-beta/)
-- [A new security baseline for enterprise agentic adoption](https://www.docker.com/blog/a-new-security-baseline-for-enterprise-agentic-adoption/)
-- [Extending AWS Transform custom with MCP Servers for End-to-End Code Modernization](https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/)
-- [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work)
-- [Operationalizing agentic AI: The Day 0-2 blueprint for enterprise infrastructure](https://www.redhat.com/en/blog/operationalizing-agentic-ai-day-0-2-blueprint-enterprise-infrastructure)
+- [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6)
+- [Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed](https://openai.com/index/previewing-ultrafast)
+- [OpenAI appoints Dali Rajic as Chief Revenue Officer](https://openai.com/index/dali-rajic-chief-revenue-officer)
+- [What is metal to agents? Navigating the architecture of enterprise AI](https://www.redhat.com/en/blog/what-metal-agents-navigating-architecture-enterprise-ai)
+- [Manage bare metal like a cloud with Red Hat Bare-Metal-as-a-Service for OpenShift](https://www.redhat.com/en/blog/manage-bare-metal-cloud-red-hat-bare-metal-service-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
