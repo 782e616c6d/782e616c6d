@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6)
-- [Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed](https://openai.com/index/previewing-ultrafast)
-- [OpenAI appoints Dali Rajic as Chief Revenue Officer](https://openai.com/index/dali-rajic-chief-revenue-officer)
-- [What is metal to agents? Navigating the architecture of enterprise AI](https://www.redhat.com/en/blog/what-metal-agents-navigating-architecture-enterprise-ai)
-- [Manage bare metal like a cloud with Red Hat Bare-Metal-as-a-Service for OpenShift](https://www.redhat.com/en/blog/manage-bare-metal-cloud-red-hat-bare-metal-service-openshift)
+- [Reproducible ESP32 Firmware Development with Docker and Docker Sandboxes](https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/)
+- [ODC-Noord: Building blocks for an existing government cloud](https://www.redhat.com/en/blog/odc-noord-building-blocks-existing-government-cloud)
+- [How student athletes are changing the game](https://www.redhat.com/en/blog/how-student-athletes-are-changing-game)
+- [Friday Five — August 14, 2026](https://www.redhat.com/en/blog/friday-five-august-14-2026-red-hat)
+- [Breaking free from lock-in: How a leading insurance provider migrated 1,500 workloads to ROSA in 10 months](https://www.redhat.com/en/blog/breaking-free-lock-how-leading-insurance-provider-migrated-1500-workloads-rosa-10-months)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
