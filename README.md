@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Reproducible ESP32 Firmware Development with Docker and Docker Sandboxes](https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/)
-- [ODC-Noord: Building blocks for an existing government cloud](https://www.redhat.com/en/blog/odc-noord-building-blocks-existing-government-cloud)
-- [How student athletes are changing the game](https://www.redhat.com/en/blog/how-student-athletes-are-changing-game)
-- [Friday Five — August 14, 2026](https://www.redhat.com/en/blog/friday-five-august-14-2026-red-hat)
-- [Breaking free from lock-in: How a leading insurance provider migrated 1,500 workloads to ROSA in 10 months](https://www.redhat.com/en/blog/breaking-free-lock-how-leading-insurance-provider-migrated-1500-workloads-rosa-10-months)
+- [Streamline your GitHub journey with AWS CodePipeline and AWS DevOps Agent](https://aws.amazon.com/blogs/devops/streamline-your-github-journey-with-aws-codepipeline-and-aws-devops-agent/)
+- [Make zero CVEs your new default](https://www.docker.com/blog/make-zero-cves-your-new-default/)
+- [The Defender’s Window](https://openai.com/index/the-defenders-window)
+- [OpenAI joins PORTS-Pike project](https://openai.com/index/openai-joins-ports-pike-project)
+- [New policy ideas for the Intelligence Age](https://openai.com/index/new-policy-ideas-for-the-intelligence-age)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
