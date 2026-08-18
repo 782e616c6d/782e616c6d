@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Streamline your GitHub journey with AWS CodePipeline and AWS DevOps Agent](https://aws.amazon.com/blogs/devops/streamline-your-github-journey-with-aws-codepipeline-and-aws-devops-agent/)
-- [Make zero CVEs your new default](https://www.docker.com/blog/make-zero-cves-your-new-default/)
-- [The Defender’s Window](https://openai.com/index/the-defenders-window)
-- [OpenAI joins PORTS-Pike project](https://openai.com/index/openai-joins-ports-pike-project)
-- [New policy ideas for the Intelligence Age](https://openai.com/index/new-policy-ideas-for-the-intelligence-age)
+- [Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security)
+- [17,600 Actions: Agent Security Is a Systems Problem](https://www.docker.com/blog/ai-agent-security-systems-problem/)
+- [Coding Agent Horror Stories: The Command You Already Approved](https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/)
+- [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai)
+- [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
