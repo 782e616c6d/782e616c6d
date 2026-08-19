@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security)
-- [17,600 Actions: Agent Security Is a Systems Problem](https://www.docker.com/blog/ai-agent-security-systems-problem/)
-- [Coding Agent Horror Stories: The Command You Already Approved](https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/)
-- [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai)
-- [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities)
+- [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)
+- [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit)
+- [Scaling agentic AI: How llm-d enables infrastructure sovereignty](https://www.redhat.com/en/blog/scaling-agentic-ai-how-llm-d-enables-infrastructure-sovereignty)
+- [From experiment to production: A reliable architecture for version-controlled MLOps](https://www.redhat.com/en/blog/experiment-production-reliable-architecture-version-controlled-mlops-0)
+- [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
