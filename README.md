@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)
-- [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit)
-- [Scaling agentic AI: How llm-d enables infrastructure sovereignty](https://www.redhat.com/en/blog/scaling-agentic-ai-how-llm-d-enables-infrastructure-sovereignty)
-- [From experiment to production: A reliable architecture for version-controlled MLOps](https://www.redhat.com/en/blog/experiment-production-reliable-architecture-version-controlled-mlops-0)
-- [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe)
+- [Docker Verified Publisher Applications Are Now Self-Serve](https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/)
+- [Introducing AI Futures](https://openai.com/index/introducing-ai-futures)
+- [Why proprietary software isn’t a retrospective trend but a trap for failure](https://www.redhat.com/en/blog/why-proprietary-software-isnt-retrospective-trend-trap-failure)
+- [Why AI infrastructure must be built in the open](https://www.redhat.com/en/blog/why-ai-infrastructure-must-be-built-open)
+- [Stampli cuts launch hours by 68% using ChatGPT Work](https://openai.com/index/stampli)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
