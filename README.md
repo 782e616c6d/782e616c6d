@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Docker Verified Publisher Applications Are Now Self-Serve](https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/)
-- [Introducing AI Futures](https://openai.com/index/introducing-ai-futures)
-- [Why proprietary software isn’t a retrospective trend but a trap for failure](https://www.redhat.com/en/blog/why-proprietary-software-isnt-retrospective-trend-trap-failure)
-- [Why AI infrastructure must be built in the open](https://www.redhat.com/en/blog/why-ai-infrastructure-must-be-built-open)
-- [Stampli cuts launch hours by 68% using ChatGPT Work](https://openai.com/index/stampli)
+- [Running AI agents in GitHub Actions with Docker Sandboxes](https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes/)
+- [From clickops to governed IaC: CloudFormation drift detection in practice](https://aws.amazon.com/blogs/devops/from-clickops-to-governed-iac-cloudformation-drift-detection-in-practice/)
+- [Unify IT workflows at scale with the new automation orchestrator for Ansible Automation Platform](https://www.redhat.com/en/blog/unify-it-workflows-scale-new-automation-orchestrator-ansible-automation-platform)
+- [How a global financial messaging network secured millions of containers and defeated alert fatigue](https://www.redhat.com/en/blog/how-global-financial-messaging-network-secured-millions-containers-and-defeated-alert-fatigue)
+- [From fragmented to flawless: Unifying the AI development lifecycle](https://www.redhat.com/en/blog/fragmented-flawless-unifying-ai-development-lifecycle)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
