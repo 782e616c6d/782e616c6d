@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Running AI agents in GitHub Actions with Docker Sandboxes](https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes/)
-- [From clickops to governed IaC: CloudFormation drift detection in practice](https://aws.amazon.com/blogs/devops/from-clickops-to-governed-iac-cloudformation-drift-detection-in-practice/)
-- [Unify IT workflows at scale with the new automation orchestrator for Ansible Automation Platform](https://www.redhat.com/en/blog/unify-it-workflows-scale-new-automation-orchestrator-ansible-automation-platform)
-- [How a global financial messaging network secured millions of containers and defeated alert fatigue](https://www.redhat.com/en/blog/how-global-financial-messaging-network-secured-millions-containers-and-defeated-alert-fatigue)
-- [From fragmented to flawless: Unifying the AI development lifecycle](https://www.redhat.com/en/blog/fragmented-flawless-unifying-ai-development-lifecycle)
+- [MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS](https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/)
+- [Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro)
+- [We built an enterprise data agent—and you can too](https://www.redhat.com/en/blog/we-built-enterprise-data-agent-and-you-can-too)
+- [Red Hat extends RHEL special offering to participants of Google for Startups Cloud Program](https://www.redhat.com/en/blog/red-hat-extends-rhel-special-offering-participants-google-startups-cloud-program)
+- [Passwordless workload identity on OpenShift](https://www.redhat.com/en/blog/passwordless-workload-identity-openshift)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
