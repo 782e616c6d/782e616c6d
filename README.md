@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS](https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/)
-- [Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro)
-- [We built an enterprise data agent—and you can too](https://www.redhat.com/en/blog/we-built-enterprise-data-agent-and-you-can-too)
-- [Red Hat extends RHEL special offering to participants of Google for Startups Cloud Program](https://www.redhat.com/en/blog/red-hat-extends-rhel-special-offering-participants-google-startups-cloud-program)
-- [Passwordless workload identity on OpenShift](https://www.redhat.com/en/blog/passwordless-workload-identity-openshift)
+- [Moving from Minimus to Docker Hardened Images](https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/)
+- [SRE best practices and platform engineering trends: How AI workloads raise demands on observability to meet reliability requirements](https://www.dynatrace.com/news/blog/sre-best-practices-platform-engineering-trends/)
+- [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence)
+- [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results)
+- [Streamlining container security: Red Hat Hardened Images now supported in AWS InspectorScan API and ECR Basic scanning](https://www.redhat.com/en/blog/streamlining-container-security-red-hat-hardened-images-now-supported-aws-inspectorscan-api-and-ecr-basic-scanning)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
