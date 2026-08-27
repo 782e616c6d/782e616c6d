@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Moving from Minimus to Docker Hardened Images](https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/)
-- [SRE best practices and platform engineering trends: How AI workloads raise demands on observability to meet reliability requirements](https://www.dynatrace.com/news/blog/sre-best-practices-platform-engineering-trends/)
-- [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence)
-- [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results)
-- [Streamlining container security: Red Hat Hardened Images now supported in AWS InspectorScan API and ECR Basic scanning](https://www.redhat.com/en/blog/streamlining-container-security-red-hat-hardened-images-now-supported-aws-inspectorscan-api-and-ecr-basic-scanning)
+- [Copilot Code Reviews for Azure Repos &lpar;public preview&rpar;](https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-public-preview/)
+- [AI-driven software delivery with Kiro, AWS DevOps Agent and Bluebox by Dynatrace](https://aws.amazon.com/blogs/devops/ai-driven-software-delivery-with-kiro-aws-devops-agent-and-bluebox-by-dynatrace/)
+- [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts)
+- [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops)
+- [Taming the agent beast: From monolithic prompt to modular agentic workflow](https://www.redhat.com/en/blog/taming-agent-beast-monolithic-prompt-modular-agentic-workflow)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
