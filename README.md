@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Copilot Code Reviews for Azure Repos &lpar;public preview&rpar;](https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-public-preview/)
-- [AI-driven software delivery with Kiro, AWS DevOps Agent and Bluebox by Dynatrace](https://aws.amazon.com/blogs/devops/ai-driven-software-delivery-with-kiro-aws-devops-agent-and-bluebox-by-dynatrace/)
-- [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts)
-- [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops)
-- [Taming the agent beast: From monolithic prompt to modular agentic workflow](https://www.redhat.com/en/blog/taming-agent-beast-monolithic-prompt-modular-agentic-workflow)
+- [Friday Five — August 28, 2026](https://www.redhat.com/en/blog/friday-five-august-28-2026-red-hat)
+- [Azure DevOps in the GitHub Copilot App](https://devblogs.microsoft.com/devops/azure-devops-in-the-github-copilot-app/)
+- [Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training)
+- [Expanding OpenAI’s presence in Brazil](https://openai.com/index/expanding-our-presence-in-brazil)
+- [Beyond the model: Architecting production-grade enterprise AI systems](https://www.redhat.com/en/blog/beyond-model-architecting-production-grade-enterprise-ai-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
