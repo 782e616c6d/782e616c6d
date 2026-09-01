@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry series: Anatomy of an OTel span](https://www.dynatrace.com/news/blog/opentelemetry-series-anatomy-of-an-otel-span/)
-- [Build your own continuous modernization pipeline with AWS Transform custom](https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/)
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)
-- [Supporting Thailand’s next generation of AI startups](https://openai.com/index/supporting-next-generation-ai-startups-thailand)
-- [Managing enterprise AI at scale: Hosting, deployment patterns, and Day 2 operations](https://www.redhat.com/en/blog/managing-enterprise-ai-scale-hosting-deployment-patterns-and-day-2-operations)
+- [Enterprise Live Migrations is now in public preview](https://devblogs.microsoft.com/devops/enterprise-live-migrations-public-preview/)
+- [Secure by default is your only way forward](https://www.docker.com/blog/secure-by-default-is-your-only-way-forward/)
+- [Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator](https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/)
+- [Polimill builds Japan&#39;s next-generation public AI infrastructure](https://openai.com/index/polimill)
+- [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
