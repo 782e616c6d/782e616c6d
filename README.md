@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Live Migrations is now in public preview](https://devblogs.microsoft.com/devops/enterprise-live-migrations-public-preview/)
-- [Secure by default is your only way forward](https://www.docker.com/blog/secure-by-default-is-your-only-way-forward/)
-- [Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator](https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/)
-- [Polimill builds Japan&#39;s next-generation public AI infrastructure](https://openai.com/index/polimill)
-- [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)
+- [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows)
+- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra)
+- [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)
+- [Why the virtualization decision keeps getting deferred](https://www.redhat.com/en/blog/why-virtualization-decision-keeps-getting-deferred)
+- [5 ways to augment security risk management in the AI era](https://www.redhat.com/en/blog/5-ways-augment-security-risk-management-ai-era)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
