@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows)
-- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra)
-- [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)
-- [Why the virtualization decision keeps getting deferred](https://www.redhat.com/en/blog/why-virtualization-decision-keeps-getting-deferred)
-- [5 ways to augment security risk management in the AI era](https://www.redhat.com/en/blog/5-ways-augment-security-risk-management-ai-era)
+- [Automate planned lifecycle upgrades with AWS DevOps Agent and Kiro](https://aws.amazon.com/blogs/devops/automate-planned-lifecycle-upgrades-with-aws-devops-agent-and-kiro/)
+- [Building Reproducible AI Evaluation Workflows with Docker Sandboxes](https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/)
+- [Below the Harness: Governing a Multi-Model, Multi-Harness World](https://www.docker.com/blog/below-the-harness-governing-a-multi-model-multi-harness-world/)
+- [ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT](https://openai.com/index/atv-big-air-tour)
+- [What risk-aware model deployment looks like in regulated industries](https://www.redhat.com/en/blog/what-risk-aware-model-deployment-looks-regulated-industries)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
