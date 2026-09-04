@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Automate planned lifecycle upgrades with AWS DevOps Agent and Kiro](https://aws.amazon.com/blogs/devops/automate-planned-lifecycle-upgrades-with-aws-devops-agent-and-kiro/)
-- [Building Reproducible AI Evaluation Workflows with Docker Sandboxes](https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/)
-- [Below the Harness: Governing a Multi-Model, Multi-Harness World](https://www.docker.com/blog/below-the-harness-governing-a-multi-model-multi-harness-world/)
-- [ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT](https://openai.com/index/atv-big-air-tour)
-- [What risk-aware model deployment looks like in regulated industries](https://www.redhat.com/en/blog/what-risk-aware-model-deployment-looks-regulated-industries)
+- [YOLO Mode: Agent Autonomy Without the Guardrails](https://www.docker.com/blog/what-is-yolo-mode/)
+- [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders)
+- [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra)
+- [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra)
+- [Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly](https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
