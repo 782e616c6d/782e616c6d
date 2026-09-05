@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Investigate DMS migration issues with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/investigate-dms-migration-issues-with-aws-devops-agent/)
+- [Modernizing virtualization in higher education: How automated node recovery protects data integrity](https://www.redhat.com/en/blog/modernizing-virtualization-higher-education-how-automated-node-recovery-protects-data-integrity)
+- [Friday Five — September 4, 2026](https://www.redhat.com/en/blog/friday-five-september-4-2026-red-hat)
 - [YOLO Mode: Agent Autonomy Without the Guardrails](https://www.docker.com/blog/what-is-yolo-mode/)
 - [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders)
-- [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra)
-- [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra)
-- [Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly](https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
