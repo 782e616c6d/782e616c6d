@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [An Alien Mind](https://openai.com/index/an-alien-mind)
+- [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai)
 - [Investigate DMS migration issues with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/investigate-dms-migration-issues-with-aws-devops-agent/)
 - [Modernizing virtualization in higher education: How automated node recovery protects data integrity](https://www.redhat.com/en/blog/modernizing-virtualization-higher-education-how-automated-node-recovery-protects-data-integrity)
 - [Friday Five — September 4, 2026](https://www.redhat.com/en/blog/friday-five-september-4-2026-red-hat)
-- [YOLO Mode: Agent Autonomy Without the Guardrails](https://www.docker.com/blog/what-is-yolo-mode/)
-- [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
