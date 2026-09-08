@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Why faster coding isn&#39;t making delivery any faster](https://www.redhat.com/en/blog/why-faster-coding-isnt-making-delivery-any-faster)
+- [Introducing the external secrets management console plug-in](https://www.redhat.com/en/blog/introducing-external-secrets-management-console-plugin)
+- [Supporting independent journalism in Ukraine](https://openai.com/index/supporting-independent-journalism-in-ukraine)
 - [An Alien Mind](https://openai.com/index/an-alien-mind)
 - [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai)
-- [Investigate DMS migration issues with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/investigate-dms-migration-issues-with-aws-devops-agent/)
-- [Modernizing virtualization in higher education: How automated node recovery protects data integrity](https://www.redhat.com/en/blog/modernizing-virtualization-higher-education-how-automated-node-recovery-protects-data-integrity)
-- [Friday Five — September 4, 2026](https://www.redhat.com/en/blog/friday-five-september-4-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
