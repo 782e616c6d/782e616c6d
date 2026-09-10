@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [6 Benefits of Sandbox Environments &lpar;and How Docker Sandboxes Delivers Them&rpar;](https://www.docker.com/blog/benefits-of-sandbox-environments/)
-- [How to tackle platform engineering’s biggest challenges in 2026](https://www.dynatrace.com/news/blog/how-to-tackle-platform-engineerings-biggest-challenges-in-2026/)
-- [How GPT-5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments)
-- [The Work Now Within Reach](https://openai.com/index/the-work-now-within-reach)
-- [Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5)
+- [Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board)
+- [Runtime is where code tells the truth. Are you listening?](https://www.dynatrace.com/news/blog/runtime-is-where-code-tells-the-truth-are-you-listening/)
+- [The AI policy window is open. We need to act.](https://openai.com/index/ai-policy-window)
+- [GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work)
+- [The Lightwell reality check](https://www.redhat.com/en/blog/lightwell-reality-check)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
