@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board)
-- [Runtime is where code tells the truth. Are you listening?](https://www.dynatrace.com/news/blog/runtime-is-where-code-tells-the-truth-are-you-listening/)
-- [The AI policy window is open. We need to act.](https://openai.com/index/ai-policy-window)
-- [GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work)
-- [The Lightwell reality check](https://www.redhat.com/en/blog/lightwell-reality-check)
+- [September Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-3/)
+- [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)
+- [Now everyone can put data to work](https://openai.com/index/put-data-to-work)
+- [Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services)
+- [Expanding AI access and cyber defense for federal, state, local, and tribal governments](https://openai.com/index/expanding-ai-access-us-government)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
