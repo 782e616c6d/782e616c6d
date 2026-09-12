@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [September Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-3/)
-- [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)
-- [Now everyone can put data to work](https://openai.com/index/put-data-to-work)
-- [Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services)
-- [Expanding AI access and cyber defense for federal, state, local, and tribal governments](https://openai.com/index/expanding-ai-access-us-government)
+- [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
+- [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra)
+- [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one)
+- [Friday Five — September 11, 2026](https://www.redhat.com/en/blog/friday-five-september-11-2026-red-hat)
+- [Closing the AIOps loop with Splunk Observability Cloud and Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/closing-aiops-loop-splunk-observability-cloud-and-red-hat-ansible-automation-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
