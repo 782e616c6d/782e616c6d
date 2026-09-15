@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
-- [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra)
-- [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one)
-- [Friday Five — September 11, 2026](https://www.redhat.com/en/blog/friday-five-september-11-2026-red-hat)
-- [Closing the AIOps loop with Splunk Observability Cloud and Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/closing-aiops-loop-splunk-observability-cloud-and-red-hat-ansible-automation-platform)
+- [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer)
+- [Red Hat is named a Leader in IDC MarketScape: Worldwide Private and Hybrid Cloud Management with Automation](https://www.redhat.com/en/blog/red-hat-named-leader-idc-marketscape-worldwide-private-and-hybrid-cloud-management-automation)
+- [Modernizing Microsoft SQL Server: Choosing the right path with Red Hat](https://www.redhat.com/en/blog/modernizing-microsoft-sql-server-choosing-right-path-red-hat)
+- [From fine-tuned model to cheaper and faster inference: Speculator training on Red Hat OpenShift AI with Kubeflow](https://www.redhat.com/en/blog/fine-tuned-model-cheaper-and-faster-inference-speculator-training-red-hat-openshift-ai-kubeflow)
+- [From bare metal to diverse AI revenue streams: Navigating the GPU cloud platform challenge](https://www.redhat.com/en/blog/bare-metal-diverse-ai-revenue-streams-navigating-gpu-cloud-platform-challenge)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
