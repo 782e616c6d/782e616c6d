@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer)
-- [Red Hat is named a Leader in IDC MarketScape: Worldwide Private and Hybrid Cloud Management with Automation](https://www.redhat.com/en/blog/red-hat-named-leader-idc-marketscape-worldwide-private-and-hybrid-cloud-management-automation)
-- [Modernizing Microsoft SQL Server: Choosing the right path with Red Hat](https://www.redhat.com/en/blog/modernizing-microsoft-sql-server-choosing-right-path-red-hat)
-- [From fine-tuned model to cheaper and faster inference: Speculator training on Red Hat OpenShift AI with Kubeflow](https://www.redhat.com/en/blog/fine-tuned-model-cheaper-and-faster-inference-speculator-training-red-hat-openshift-ai-kubeflow)
-- [From bare metal to diverse AI revenue streams: Navigating the GPU cloud platform challenge](https://www.redhat.com/en/blog/bare-metal-diverse-ai-revenue-streams-navigating-gpu-cloud-platform-challenge)
+- [The datacenter myth: Why sovereign AI demands a tenancy model, not just geography](https://www.redhat.com/en/blog/datacenter-myth-why-sovereign-ai-demands-tenancy-model-not-just-geography)
+- [Opening the black box: Profiling a secured agentic pipeline on Red Hat OpenShift AI](https://www.redhat.com/en/blog/opening-black-box-profiling-secured-agentic-pipeline-red-hat-openshift-ai)
+- [Fedora 45 Beta now available](https://www.redhat.com/en/blog/fedora-45-beta-now-available)
+- [Azure Red Hat OpenShift with hosted control planes is now available in public preview](https://www.redhat.com/en/blog/azure-red-hat-openshift-hosted-control-planes-now-available-public-preview)
+- [Achieving data sovereignty for SaaS with confidential containers and quantum-safe networking](https://www.redhat.com/en/blog/achieving-data-sovereignty-saas-confidential-containers-and-quantum-safe-networking)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
