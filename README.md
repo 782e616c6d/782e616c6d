@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [The datacenter myth: Why sovereign AI demands a tenancy model, not just geography](https://www.redhat.com/en/blog/datacenter-myth-why-sovereign-ai-demands-tenancy-model-not-just-geography)
-- [Opening the black box: Profiling a secured agentic pipeline on Red Hat OpenShift AI](https://www.redhat.com/en/blog/opening-black-box-profiling-secured-agentic-pipeline-red-hat-openshift-ai)
-- [Fedora 45 Beta now available](https://www.redhat.com/en/blog/fedora-45-beta-now-available)
-- [Azure Red Hat OpenShift with hosted control planes is now available in public preview](https://www.redhat.com/en/blog/azure-red-hat-openshift-hosted-control-planes-now-available-public-preview)
-- [Achieving data sovereignty for SaaS with confidential containers and quantum-safe networking](https://www.redhat.com/en/blog/achieving-data-sovereignty-saas-confidential-containers-and-quantum-safe-networking)
+- [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework)
+- [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
+- [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)
+- [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value)
+- [How workers are unlocking new ways of working](https://openai.com/index/unlocking-new-ways-of-working)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
