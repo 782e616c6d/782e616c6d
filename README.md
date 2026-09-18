@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework)
-- [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
-- [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)
-- [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value)
-- [How workers are unlocking new ways of working](https://openai.com/index/unlocking-new-ways-of-working)
+- [Friday Five — September 18, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-september-18-2026)
+- [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic)
+- [From data residency to digital control: Why the Middle East’s cloud future depends on the ecosystem](https://www.redhat.com/en/blog/data-residency-digital-control-why-middle-east-cloud-future-depends-on-ecosystem)
+- [Smart enough, fast enough: Choosing the right models for agentic work](https://www.redhat.com/en/blog/smart-enough-fast-enough-choosing-right-models-agentic-work)
+- [Scaling enterprise AI fleets with Alquimia and Red Hat OpenShift AI](https://www.redhat.com/en/blog/scaling-enterprise-ai-fleets-alquimia-and-red-hat-openshift-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
