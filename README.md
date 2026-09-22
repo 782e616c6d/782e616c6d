@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint)
-- [Friday Five — September 18, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-september-18-2026)
-- [Beyond OCR: Achieving 98% billing accuracy with GroundX and Red Hat OpenShift AI](https://www.redhat.com/en/blog/beyond-ocr-achieving-98-billing-accuracy-groundx-and-openshift-ai)
-- [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic)
-- [From data residency to digital control: Why the Middle East’s cloud future depends on the ecosystem](https://www.redhat.com/en/blog/data-residency-digital-control-why-middle-east-cloud-future-depends-on-ecosystem)
+- [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai)
+- [Higgsfield AI ships new video features in a day with GPT-6 Astra](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra)
+- [Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai)
+- [Expanding OpenAI Academy with new learning paths](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)
+- [Turning security complexity into useful intelligence: What’s new in Red Hat Lightspeed](https://www.redhat.com/en/blog/turning-security-complexity-useful-intelligence-whats-new-red-hat-lightspeed)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
