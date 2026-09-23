@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai)
-- [Higgsfield AI ships new video features in a day with GPT-6 Astra](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra)
-- [Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai)
-- [Expanding OpenAI Academy with new learning paths](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)
-- [Turning security complexity into useful intelligence: What’s new in Red Hat Lightspeed](https://www.redhat.com/en/blog/turning-security-complexity-useful-intelligence-whats-new-red-hat-lightspeed)
+- [Better prompt caching for GPT-6](https://openai.com/index/better-prompt-caching-for-gpt-6)
+- [Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)
+- [Meet the Ecosystem: Partners and Customers at WeAreDevelopers with Docker](https://www.docker.com/blog/wearedevelopers-partner-customer-sessions-2026/)
+- [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra)
+- [Evolving your automation &lpar;Pt. 2&rpar;: Architectural decisions for upgrading to Red Hat Ansible Automation Platform 2.7](https://www.redhat.com/en/blog/evolving-your-automation-pt-2-architectural-decisions-upgrading-red-hat-ansible-automation-platform-27)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
