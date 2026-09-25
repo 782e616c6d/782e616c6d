@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)
-- [OpenAI extends cyber access to Ukraine for civilian defense](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense)
-- [Sam Altman’s remarks at the United Nations Security Council](https://openai.com/index/sam-altman-un-security-council-remarks)
-- [Harvey turns legal context into stronger drafts with GPT-6 Astra](https://openai.com/index/harvey-from-context-to-confidence-with-astra)
-- [How invideo improves color grading 3x with GPT‑6 Astra](https://openai.com/index/invideo-builds-with-gpt-6-astra)
+- [Friday Five — September 25, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-september-25-2026-red-hat)
+- [Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote](https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/)
+- [From Dockerfile to Kit: the Docker Sandboxes Kit Specification](https://www.docker.com/blog/docker-sandbox-kit-spec/)
+- [Docker and CNCF partner on an open spec for agent permissions](https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/)
+- [Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud](https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
