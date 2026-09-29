@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction)
-- [Red Hat Enterprise Linux 10 STIG automation now matches DISA STIG V1R2](https://www.redhat.com/en/blog/red-hat-enterprise-linux-10-stig-automation-now-matches-disa-stig-v1r2)
-- [How to manage aircraft leases with AI agents](https://www.redhat.com/en/blog/how-manage-aircraft-leases-ai-agents)
-- [Friday Five — September 25, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-september-25-2026-red-hat)
-- [Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote](https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/)
+- [How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia)
+- [How Property Finder automated incident management with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/how-property-finder-automated-incident-management-with-aws-devops-agent/)
+- [Audit trails for autonomous agents with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/audit-trails-for-autonomous-agents-with-aws-devops-agent/)
+- [The Lenfest Institute grows landmark program with expanded OpenAI support](https://openai.com/index/lenfest-ai-collaborative-expansion)
+- [Why Red Hat is building secure agent onboarding](https://www.redhat.com/en/blog/why-red-hat-is-building-secure-agent-onboarding)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
