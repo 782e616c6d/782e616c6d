@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia)
-- [How Property Finder automated incident management with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/how-property-finder-automated-incident-management-with-aws-devops-agent/)
-- [Audit trails for autonomous agents with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/audit-trails-for-autonomous-agents-with-aws-devops-agent/)
-- [The Lenfest Institute grows landmark program with expanded OpenAI support](https://openai.com/index/lenfest-ai-collaborative-expansion)
-- [Why Red Hat is building secure agent onboarding](https://www.redhat.com/en/blog/why-red-hat-is-building-secure-agent-onboarding)
+- [Building a Slack-powered AI development agent with Kiro CLI and headless authentication](https://aws.amazon.com/blogs/devops/building-a-slack-powered-ai-development-agent-with-kiro-cli-and-headless-authentication/)
+- [Accelerating development workflows with Kiro CLI as a Pre-Commit and Git Hook Agent](https://aws.amazon.com/blogs/devops/accelerating-development-workflows-with-kiro-cli-as-a-pre-commit-and-git-hook-agent/)
+- [Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol)
+- [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)
+- [Why Red Hat is building an open foundation for enterprise agents with OpenClaw Enterprise](https://www.redhat.com/en/blog/why-red-hat-building-open-foundation-enterprise-agents-openclaw-enterprise)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
