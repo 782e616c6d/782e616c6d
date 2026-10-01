@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Building a Slack-powered AI development agent with Kiro CLI and headless authentication](https://aws.amazon.com/blogs/devops/building-a-slack-powered-ai-development-agent-with-kiro-cli-and-headless-authentication/)
-- [Accelerating development workflows with Kiro CLI as a Pre-Commit and Git Hook Agent](https://aws.amazon.com/blogs/devops/accelerating-development-workflows-with-kiro-cli-as-a-pre-commit-and-git-hook-agent/)
-- [Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol)
-- [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)
-- [Why Red Hat is building an open foundation for enterprise agents with OpenClaw Enterprise](https://www.redhat.com/en/blog/why-red-hat-building-open-foundation-enterprise-agents-openclaw-enterprise)
+- [Running production experiments with AWS AppConfig experimentation](https://aws.amazon.com/blogs/devops/running-production-experiments-with-aws-appconfig-experimentation/)
+- [Updates to Copilot Code Reviews for Azure Repos](https://devblogs.microsoft.com/devops/updates-to-copilot-code-reviews-for-azure-repos/)
+- [Accelerating AS/400 business rule extraction with Kiro: Step-by-step guide](https://aws.amazon.com/blogs/devops/accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide/)
+- [Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)
+- [Helping small businesses put AI to work](https://openai.com/index/helping-small-businesses-put-ai-to-work)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
