@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Running production experiments with AWS AppConfig experimentation](https://aws.amazon.com/blogs/devops/running-production-experiments-with-aws-appconfig-experimentation/)
-- [Updates to Copilot Code Reviews for Azure Repos](https://devblogs.microsoft.com/devops/updates-to-copilot-code-reviews-for-azure-repos/)
-- [Accelerating AS/400 business rule extraction with Kiro: Step-by-step guide](https://aws.amazon.com/blogs/devops/accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide/)
-- [Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)
-- [Helping small businesses put AI to work](https://openai.com/index/helping-small-businesses-put-ai-to-work)
+- [Friday Five — October 2, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-2-2026-red-hat)
+- [Trust Docker for the agents you don’t](https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/)
+- [The eternal complement](https://openai.com/index/the-eternal-complement)
+- [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail)
+- [How Mirelo AI brought sound design to the IDE with MCP and Kiro powers](https://aws.amazon.com/blogs/devops/how-mirelo-ai-brought-sound-design-to-the-ide-with-mcp-and-kiro-powers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
