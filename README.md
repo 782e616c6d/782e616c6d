@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Friday Five — October 2, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-2-2026-red-hat)
-- [Trust Docker for the agents you don’t](https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/)
-- [The eternal complement](https://openai.com/index/the-eternal-complement)
-- [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail)
-- [How Mirelo AI brought sound design to the IDE with MCP and Kiro powers](https://aws.amazon.com/blogs/devops/how-mirelo-ai-brought-sound-design-to-the-ide-with-mcp-and-kiro-powers/)
+- [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
+- [From symptom to fix in minutes: AI-assisted development with Dynatrace MCP](https://www.dynatrace.com/news/blog/ai-assisted-development-with-dynatrace-mcp/)
+- [Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge](https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/)
+- [Closed-loop incident response: connect AWS DevOps Agent to OpenSearch](https://aws.amazon.com/blogs/devops/closed-loop-incident-response-connect-aws-devops-agent-to-opensearch/)
+- [What enterprises need to know about the software they depend on](https://www.redhat.com/en/blog/what-enterprises-need-to-know-about-the-software-they-depend-on)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
