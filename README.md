@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
-- [From symptom to fix in minutes: AI-assisted development with Dynatrace MCP](https://www.dynatrace.com/news/blog/ai-assisted-development-with-dynatrace-mcp/)
-- [Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge](https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/)
-- [Closed-loop incident response: connect AWS DevOps Agent to OpenSearch](https://aws.amazon.com/blogs/devops/closed-loop-incident-response-connect-aws-devops-agent-to-opensearch/)
-- [What enterprises need to know about the software they depend on](https://www.redhat.com/en/blog/what-enterprises-need-to-know-about-the-software-they-depend-on)
+- [Restart EC2 and on-premises fleets faster with AWS CodeDeploy RESTART deployment mode](https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/)
+- [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance)
+- [Building advertising for the way people use AI](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
+- [Building zero trust networks with Red Hat Ansible](https://www.redhat.com/en/blog/building-zero-trust-networks-red-hat-ansible)
+- [Red Hat named a &quot;Leader&quot; in 2026 IDC MarketScape](https://www.redhat.com/en/blog/red-hat-named-leader-2026-idc-marketscape)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
