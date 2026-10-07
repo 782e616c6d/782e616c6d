@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Restart EC2 and on-premises fleets faster with AWS CodeDeploy RESTART deployment mode](https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/)
-- [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance)
-- [Building advertising for the way people use AI](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
-- [Building zero trust networks with Red Hat Ansible](https://www.redhat.com/en/blog/building-zero-trust-networks-red-hat-ansible)
-- [Red Hat named a &quot;Leader&quot; in 2026 IDC MarketScape](https://www.redhat.com/en/blog/red-hat-named-leader-2026-idc-marketscape)
+- [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership)
+- [How Jump Trading is scaling quant research with ChatGPT](https://openai.com/index/jump-trading)
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics)
+- [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad)
+- [Red Hat OpenShift: Enabling a resilient 5G autonomous edge for Telenor with AxyomCore](https://www.redhat.com/en/blog/red-hat-openshift-enabling-resilient-5g-autonomous-edge-telenor-axyomcore)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
