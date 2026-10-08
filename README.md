@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership)
-- [How Jump Trading is scaling quant research with ChatGPT](https://openai.com/index/jump-trading)
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics)
-- [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad)
-- [Red Hat OpenShift: Enabling a resilient 5G autonomous edge for Telenor with AxyomCore](https://www.redhat.com/en/blog/red-hat-openshift-enabling-resilient-5g-autonomous-edge-telenor-axyomcore)
+- [Helping teens learn, plan, and shape the future of AI](https://openai.com/index/teens-learn-and-plan)
+- [Radisson Hotel Group brings hotel discovery into ChatGPT](https://openai.com/index/radisson)
+- [3 reasons to attend Red Hat Summit:Connect 2026](https://www.redhat.com/en/3-reasons-to-attend-red-hat-summit-connect)
+- [Red Hat OpenShift Platform Plus bundle available on hyperscaler marketplaces](https://www.redhat.com/en/blog/red-hat-openshift-platform-plus-rosa-aws-marketplace)
+- [How global service providers achieve virtualization migration at scale with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/how-global-service-providers-achieve-virtualization-migration-scale-red-hat-openshift-virtualization)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
