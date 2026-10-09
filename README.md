@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Helping teens learn, plan, and shape the future of AI](https://openai.com/index/teens-learn-and-plan)
-- [Radisson Hotel Group brings hotel discovery into ChatGPT](https://openai.com/index/radisson)
-- [3 reasons to attend Red Hat Summit:Connect 2026](https://www.redhat.com/en/3-reasons-to-attend-red-hat-summit-connect)
-- [Red Hat OpenShift Platform Plus bundle available on hyperscaler marketplaces](https://www.redhat.com/en/blog/red-hat-openshift-platform-plus-rosa-aws-marketplace)
-- [How global service providers achieve virtualization migration at scale with Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/how-global-service-providers-achieve-virtualization-migration-scale-red-hat-openshift-virtualization)
+- [Friday Five — October 9, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-9-2026-red-hat)
+- [Contain, observe, adapt: Three trends shaping agentic software development](https://www.dynatrace.com/news/blog/three-trends-shaping-agentic-software-development/)
+- [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle)
+- [New Wiki Editor Experience](https://devblogs.microsoft.com/devops/new-wiki-editor-experience/)
+- [Pollo AI turns creative ideas into campaigns with OpenAI](https://openai.com/index/pollo-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
