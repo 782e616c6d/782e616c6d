@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
+- [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent)
+- [Why &quot;secure by design&quot; is the new standard for open source](https://www.redhat.com/en/blog/why-secure-design-new-standard-open-source)
+- [Scale enterprise analytics by running Cloudera Data Platform with OpenShift Virtualization](https://www.redhat.com/en/blog/scale-enterprise-analytics-running-cloudera-data-platform-openshift-virtualization)
 - [Friday Five — October 9, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-9-2026-red-hat)
-- [Contain, observe, adapt: Three trends shaping agentic software development](https://www.dynatrace.com/news/blog/three-trends-shaping-agentic-software-development/)
-- [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle)
-- [New Wiki Editor Experience](https://devblogs.microsoft.com/devops/new-wiki-editor-experience/)
-- [Pollo AI turns creative ideas into campaigns with OpenAI](https://openai.com/index/pollo-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
