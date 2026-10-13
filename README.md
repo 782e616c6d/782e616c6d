@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions](https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/)
+- [Developer-first innovation: Reducing technical debt with Red Hat Enterprise Linux](https://www.redhat.com/en/blog/developer-first-innovation-reducing-technical-debt-red-hat-enterprise-linux)
+- [Chaos engineering in practice: Lessons from enterprise customers](https://www.redhat.com/en/blog/chaos-engineering-practice-lessons-enterprise-customers)
 - [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
 - [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent)
-- [Why &quot;secure by design&quot; is the new standard for open source](https://www.redhat.com/en/blog/why-secure-design-new-standard-open-source)
-- [Scale enterprise analytics by running Cloudera Data Platform with OpenShift Virtualization](https://www.redhat.com/en/blog/scale-enterprise-analytics-running-cloudera-data-platform-openshift-virtualization)
-- [Friday Five — October 9, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-9-2026-red-hat)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
