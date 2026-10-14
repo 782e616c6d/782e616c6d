@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [October Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-4/)
+- [Higgsfield takes AI video from 1 minute to over 10](https://openai.com/index/higgsfield-longer-videos-voice)
+- [What’s old is new: Lightwell discovers novel zero-day vulnerability in core Java framework](https://www.redhat.com/en/blog/whats-old-new-lightwell-discovers-novel-zero-day-vulnerability-core-java-framework)
+- [How AI is defining the ‘new’ architect](https://www.redhat.com/en/blog/how-ai-defining-new-architect)
 - [Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions](https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/)
-- [Developer-first innovation: Reducing technical debt with Red Hat Enterprise Linux](https://www.redhat.com/en/blog/developer-first-innovation-reducing-technical-debt-red-hat-enterprise-linux)
-- [Chaos engineering in practice: Lessons from enterprise customers](https://www.redhat.com/en/blog/chaos-engineering-practice-lessons-enterprise-customers)
-- [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
-- [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
