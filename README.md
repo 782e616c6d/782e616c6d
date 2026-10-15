@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [October Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-4/)
-- [Higgsfield takes AI video from 1 minute to over 10](https://openai.com/index/higgsfield-longer-videos-voice)
-- [What’s old is new: Lightwell discovers novel zero-day vulnerability in core Java framework](https://www.redhat.com/en/blog/whats-old-new-lightwell-discovers-novel-zero-day-vulnerability-core-java-framework)
-- [How AI is defining the ‘new’ architect](https://www.redhat.com/en/blog/how-ai-defining-new-architect)
-- [Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions](https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/)
+- [AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own](https://www.docker.com/blog/ai-agent-security-risks/)
+- [Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals](https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals/)
+- [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding)
+- [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone)
+- [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
