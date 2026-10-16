@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own](https://www.docker.com/blog/ai-agent-security-risks/)
-- [Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals](https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals/)
-- [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding)
-- [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone)
-- [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research)
+- [Friday Five — October 16, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-16-2026-red-hat)
+- [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
+- [Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
+- [Red Hat Summit 2027 call for proposals is now open](https://www.redhat.com/en/blog/red-hat-summit-2027-call-proposals-now-open)
+- [Open Source Security Signals | Q3 2026](https://www.redhat.com/en/blog/open-source-security-signals-q3-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
