@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
+- [From Containers to Sandboxes: Developer Trust in the Agentic Era](https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/)
+- [Model Context Protocol gateway for Red Hat OpenShift is now generally available](https://www.redhat.com/en/blog/model-context-protocol-gateway-red-hat-openshift-now-generally-available)
 - [Friday Five — October 16, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-16-2026-red-hat)
-- [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
-- [Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
-- [Red Hat Summit 2027 call for proposals is now open](https://www.redhat.com/en/blog/red-hat-summit-2027-call-proposals-now-open)
-- [Open Source Security Signals | Q3 2026](https://www.redhat.com/en/blog/open-source-security-signals-q3-2026)
+- [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
