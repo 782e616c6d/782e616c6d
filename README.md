@@ -58,7 +58,7 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 - [From Containers to Sandboxes: Developer Trust in the Agentic Era](https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/)
 - [Model Context Protocol gateway for Red Hat OpenShift is now generally available](https://www.redhat.com/en/blog/model-context-protocol-gateway-red-hat-openshift-now-generally-available)
 - [Friday Five — October 16, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-16-2026-red-hat)
-- [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
+- [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
