@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
-- [From Containers to Sandboxes: Developer Trust in the Agentic Era](https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/)
-- [Model Context Protocol gateway for Red Hat OpenShift is now generally available](https://www.redhat.com/en/blog/model-context-protocol-gateway-red-hat-openshift-now-generally-available)
-- [Friday Five — October 16, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-16-2026-red-hat)
-- [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners)
+- [Automate Active Directory joins for Elastic Beanstalk Windows applications](https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/)
+- [HERE Technologies and AWS: Accelerating NDS.Live with agentic AI](https://aws.amazon.com/blogs/devops/here-technologies-and-aws-accelerating-nds-live-with-agentic-ai/)
+- [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages)
+- [Red Hat Enterprise Linux is now a native offering on Oracle Cloud Infrastructure](https://www.redhat.com/en/blog/red-hat-enterprise-linux-now-native-offering-oracle-cloud-infrastructure)
+- [A patch only reduces risk when it runs in production](https://www.redhat.com/en/blog/patch-only-reduces-risk-when-it-runs-production)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
