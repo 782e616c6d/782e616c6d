@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Automate Active Directory joins for Elastic Beanstalk Windows applications](https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/)
-- [HERE Technologies and AWS: Accelerating NDS.Live with agentic AI](https://aws.amazon.com/blogs/devops/here-technologies-and-aws-accelerating-nds-live-with-agentic-ai/)
-- [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages)
-- [Red Hat Enterprise Linux is now a native offering on Oracle Cloud Infrastructure](https://www.redhat.com/en/blog/red-hat-enterprise-linux-now-native-offering-oracle-cloud-infrastructure)
-- [A patch only reduces risk when it runs in production](https://www.redhat.com/en/blog/patch-only-reduces-risk-when-it-runs-production)
+- [Limit agent permissions and spend in AWS Transform custom](https://aws.amazon.com/blogs/devops/limit-agent-permissions-and-spend-in-aws-transform-custom/)
+- [Azure DevOps available in Microsoft Copilot](https://devblogs.microsoft.com/devops/azure-devops-available-in-microsoft-copilot/)
+- [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant)
+- [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x)
+- [Shared GPUs without shared latency: Priority-aware serving in Red Hat AI](https://www.redhat.com/en/blog/shared-gpus-without-shared-latency-priority-aware-serving-in-red-hat-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
