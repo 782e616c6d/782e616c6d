@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Limit agent permissions and spend in AWS Transform custom](https://aws.amazon.com/blogs/devops/limit-agent-permissions-and-spend-in-aws-transform-custom/)
-- [Azure DevOps available in Microsoft Copilot](https://devblogs.microsoft.com/devops/azure-devops-available-in-microsoft-copilot/)
-- [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant)
-- [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x)
-- [Shared GPUs without shared latency: Priority-aware serving in Red Hat AI](https://www.redhat.com/en/blog/shared-gpus-without-shared-latency-priority-aware-serving-in-red-hat-ai)
+- [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards)
+- [How AT&amp;T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)
+- [Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.](https://www.docker.com/blog/band-ai-agents-docker-sandboxes/)
+- [From baseline to Secure Software Factory: securing the systems that build your software](https://www.docker.com/blog/from-baseline-to-secure-software-factory-securing-the-systems-that-build-your-software/)
+- [Introducing Agentic Autofix for code and dependencies](https://devblogs.microsoft.com/devops/introducing-agentic-autofix-for-code-and-dependencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
