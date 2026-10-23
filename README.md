@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards)
-- [How AT&amp;T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)
-- [Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.](https://www.docker.com/blog/band-ai-agents-docker-sandboxes/)
-- [From baseline to Secure Software Factory: securing the systems that build your software](https://www.docker.com/blog/from-baseline-to-secure-software-factory-securing-the-systems-that-build-your-software/)
-- [Introducing Agentic Autofix for code and dependencies](https://devblogs.microsoft.com/devops/introducing-agentic-autofix-for-code-and-dependencies/)
+- [Friday Five — October 23, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-23-2026-red-hat)
+- [Dynatrace and Cursor close the loop on AI-native development](https://www.dynatrace.com/news/blog/dynatrace-and-cursor-close-the-loop-on-ai-native-development/)
+- [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
+- [Security Update on PHP2Shell: Impact for Docker Customers](https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/)
+- [ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers](https://www.docker.com/blog/docker-activestate-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
