@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Rapidly scaling online storage to serve over 1 billion ChatGPT users &lpar;Part II&rpar;](https://openai.com/index/scaling-storage-one-billion-users-part-two)
+- [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
+- [How organizations can get more value from open source](https://www.redhat.com/en/blog/how-organizations-can-get-more-value-open-source)
+- [Top 5 enterprise use cases for AI agents](https://www.redhat.com/en/blog/top-5-enterprise-use-cases-ai-agents)
 - [Friday Five — October 23, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-23-2026-red-hat)
-- [Dynatrace and Cursor close the loop on AI-native development](https://www.dynatrace.com/news/blog/dynatrace-and-cursor-close-the-loop-on-ai-native-development/)
-- [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
-- [Security Update on PHP2Shell: Impact for Docker Customers](https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/)
-- [ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers](https://www.docker.com/blog/docker-activestate-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
