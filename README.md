@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Rapidly scaling online storage to serve over 1 billion ChatGPT users &lpar;Part II&rpar;](https://openai.com/index/scaling-storage-one-billion-users-part-two)
-- [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
-- [How organizations can get more value from open source](https://www.redhat.com/en/blog/how-organizations-can-get-more-value-open-source)
-- [Top 5 enterprise use cases for AI agents](https://www.redhat.com/en/blog/top-5-enterprise-use-cases-ai-agents)
-- [Friday Five — October 23, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-23-2026-red-hat)
+- [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)
+- [Tracing failures across Terraform state boundaries with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/tracing-failures-across-terraform-state-boundaries-with-aws-devops-agent/)
+- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities)
+- [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)
+- [PHP2Shell and Azure DevOps: what to check](https://devblogs.microsoft.com/devops/php2shell-and-azure-devops-what-to-check/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
