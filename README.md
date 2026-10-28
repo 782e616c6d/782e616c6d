@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)
-- [Tracing failures across Terraform state boundaries with AWS DevOps Agent](https://aws.amazon.com/blogs/devops/tracing-failures-across-terraform-state-boundaries-with-aws-devops-agent/)
-- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities)
-- [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)
-- [PHP2Shell and Azure DevOps: what to check](https://devblogs.microsoft.com/devops/php2shell-and-azure-devops-what-to-check/)
+- [Azure DevOps Server RC &lpar;26H2&rpar; Is Now Available](https://devblogs.microsoft.com/devops/azure-devops-server-rc-26h2-is-now-available/)
+- [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)
+- [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)
+- [Securing the enterprise software supply chain in the AI era](https://www.redhat.com/en/blog/securing-enterprise-software-supply-chain-ai-era)
+- [AI agent security with policy-driven access control](https://www.redhat.com/en/blog/ai-agent-security-policy-driven-access-control)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
