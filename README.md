@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Azure DevOps Server RC &lpar;26H2&rpar; Is Now Available](https://devblogs.microsoft.com/devops/azure-devops-server-rc-26h2-is-now-available/)
-- [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)
-- [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)
-- [Securing the enterprise software supply chain in the AI era](https://www.redhat.com/en/blog/securing-enterprise-software-supply-chain-ai-era)
-- [AI agent security with policy-driven access control](https://www.redhat.com/en/blog/ai-agent-security-policy-driven-access-control)
+- [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion)
+- [Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program](https://www.docker.com/blog/docker-navigator-partner-program/)
+- [The future of the firm](https://openai.com/index/the-future-of-the-firm)
+- [Legora is building the agentic operating system for legal work](https://openai.com/index/legora)
+- [How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI](https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
