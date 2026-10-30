@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion)
-- [Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program](https://www.docker.com/blog/docker-navigator-partner-program/)
-- [The future of the firm](https://openai.com/index/the-future-of-the-firm)
-- [Legora is building the agentic operating system for legal work](https://openai.com/index/legora)
-- [How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI](https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai)
+- [Friday Five — October 30, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-30-2026-red-hat)
+- [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)
+- [Coding Agent Horror Stories: The CVE That Did Not Exist](https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/)
+- [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)
+- [How Ropes &amp; Gray is developing AI for transactional diligence](https://openai.com/index/ropes-gray-ai-diligence)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
