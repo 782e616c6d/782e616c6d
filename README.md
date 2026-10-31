@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences)
+- [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
+- [How parental leave helped 2 new parents find their rhythm](https://www.redhat.com/en/blog/how-parental-leave-helped-2-new-parents-find-their-rhythm)
 - [Friday Five — October 30, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-30-2026-red-hat)
-- [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)
-- [Coding Agent Horror Stories: The CVE That Did Not Exist](https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/)
-- [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)
-- [How Ropes &amp; Gray is developing AI for transactional diligence](https://openai.com/index/ropes-gray-ai-diligence)
+- [Direct VM networking in AWS: Introducing BGP cloud connector on Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/direct-vm-networking-aws-introducing-bgp-cloud-connector-red-hat-openshift-service-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
