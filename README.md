@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences)
-- [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
-- [How parental leave helped 2 new parents find their rhythm](https://www.redhat.com/en/blog/how-parental-leave-helped-2-new-parents-find-their-rhythm)
-- [Friday Five — October 30, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-october-30-2026-red-hat)
-- [Direct VM networking in AWS: Introducing BGP cloud connector on Red Hat OpenShift Service on AWS](https://www.redhat.com/en/blog/direct-vm-networking-aws-introducing-bgp-cloud-connector-red-hat-openshift-service-aws)
+- [Rewarding defenders with bigger bug bounties](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)
+- [Preparing our next security sprint to harden OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)
+- [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai)
+- [Introducing the Grid Protectors Program](https://openai.com/index/grid-protectors-program)
+- [The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era](https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
