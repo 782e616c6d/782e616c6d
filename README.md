@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Rewarding defenders with bigger bug bounties](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)
-- [Preparing our next security sprint to harden OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)
-- [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai)
-- [Introducing the Grid Protectors Program](https://openai.com/index/grid-protectors-program)
-- [The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era](https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/)
+- [Accelerating engineering for the physical world](https://openai.com/index/accelerating-engineering-for-the-physical-world)
+- [How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber)
+- [Heimstaden is changing residential real estate management with AI](https://openai.com/index/heimstaden)
+- [Trustworthy AI starts with community governance](https://www.redhat.com/en/blog/trustworthy-ai-starts-community-governance)
+- [Moving Lightwell patches into production by orchestrating the release lifecycle](https://www.redhat.com/en/blog/moving-lightwell-patches-production-orchestrating-release-lifecycle)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
