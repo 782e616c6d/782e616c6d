@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating engineering for the physical world](https://openai.com/index/accelerating-engineering-for-the-physical-world)
-- [How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber)
-- [Heimstaden is changing residential real estate management with AI](https://openai.com/index/heimstaden)
-- [Trustworthy AI starts with community governance](https://www.redhat.com/en/blog/trustworthy-ai-starts-community-governance)
-- [Moving Lightwell patches into production by orchestrating the release lifecycle](https://www.redhat.com/en/blog/moving-lightwell-patches-production-orchestrating-release-lifecycle)
+- [OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre)
+- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root)
+- [Daybreak Red is now available in AWS GovCloud &lpar;US-East&rpar;](https://openai.com/index/daybreak-red-aws-govcloud)
+- [Why Lightwell pairs dependency backports with upstream collaboration](https://www.redhat.com/en/blog/why-lightwell-pairs-dependency-backports-upstream-collaboration)
+- [Red Hat OpenShift is now generally available in Google Cloud’s sovereign regions](https://www.redhat.com/en/blog/red-hat-openshift-now-generally-available-google-clouds-sovereign-regions)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
