@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre)
-- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root)
-- [Daybreak Red is now available in AWS GovCloud &lpar;US-East&rpar;](https://openai.com/index/daybreak-red-aws-govcloud)
-- [Why Lightwell pairs dependency backports with upstream collaboration](https://www.redhat.com/en/blog/why-lightwell-pairs-dependency-backports-upstream-collaboration)
-- [Red Hat OpenShift is now generally available in Google Cloud’s sovereign regions](https://www.redhat.com/en/blog/red-hat-openshift-now-generally-available-google-clouds-sovereign-regions)
+- [Friday Five — November 6, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-november-6-2026-red-hat)
+- [Cult.fit builds operational muscle with Codex](https://openai.com/index/cultfit-builds-with-codex)
+- [Australian universities are creating AI-native graduates](https://openai.com/index/australian-universities-ai-native-graduates)
+- [October 2026 Node.js vulnerabilities: Azure DevOps security guidance](https://devblogs.microsoft.com/devops/october-2026-node-js-vulnerabilities-azure-devops-security-guidance/)
+- [Docker and ActiveState Extending Secure Defaults to the Packages Developers Install](https://www.docker.com/blog/docker-activestate-trusted-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
