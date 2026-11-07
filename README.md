@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Your Guide to the Developer Tools Track at AWS re:Invent 2026](https://aws.amazon.com/blogs/devops/your-guide-to-the-developer-tools-track-at-aws-reinvent-2026/)
+- [Run Maestro tests on real Android devices using AWS Device Farm](https://aws.amazon.com/blogs/devops/run-maestro-tests-on-real-android-devices-using-aws-device-farm/)
+- [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron)
+- [Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents](https://www.docker.com/blog/docker-sandboxes-vs-containers/)
 - [Friday Five — November 6, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-november-6-2026-red-hat)
-- [Cult.fit builds operational muscle with Codex](https://openai.com/index/cultfit-builds-with-codex)
-- [Australian universities are creating AI-native graduates](https://openai.com/index/australian-universities-ai-native-graduates)
-- [October 2026 Node.js vulnerabilities: Azure DevOps security guidance](https://devblogs.microsoft.com/devops/october-2026-node-js-vulnerabilities-azure-devops-security-guidance/)
-- [Docker and ActiveState Extending Secure Defaults to the Packages Developers Install](https://www.docker.com/blog/docker-activestate-trusted-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
