@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Your Guide to the Developer Tools Track at AWS re:Invent 2026](https://aws.amazon.com/blogs/devops/your-guide-to-the-developer-tools-track-at-aws-reinvent-2026/)
-- [Run Maestro tests on real Android devices using AWS Device Farm](https://aws.amazon.com/blogs/devops/run-maestro-tests-on-real-android-devices-using-aws-device-farm/)
-- [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron)
-- [Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents](https://www.docker.com/blog/docker-sandboxes-vs-containers/)
-- [Friday Five — November 6, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-november-6-2026-red-hat)
+- [ChatGPT Enterprise now available in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace)
+- [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room)
+- [CodeRabbit scales agentic software development and ships 20x more](https://openai.com/index/coderabbit-codex-daybreak)
+- [Kuken Industries searches 70 years of drawings in minutes](https://openai.com/index/kuken)
+- [What’s new in Red Hat OpenShift 5](https://www.redhat.com/en/blog/announcing-red-hat-openshift-5)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
