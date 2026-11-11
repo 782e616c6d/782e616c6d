@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Enterprise now available in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace)
-- [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room)
-- [CodeRabbit scales agentic software development and ships 20x more](https://openai.com/index/coderabbit-codex-daybreak)
-- [Kuken Industries searches 70 years of drawings in minutes](https://openai.com/index/kuken)
-- [What’s new in Red Hat OpenShift 5](https://www.redhat.com/en/blog/announcing-red-hat-openshift-5)
+- [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)
+- [Helping caregivers use AI in everyday life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)
+- [Introducing Businesses in ChatGPT](https://openai.com/index/introducing-businesses-chatgpt)
+- [Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education)
+- [Work at the Frontier: AI’s effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
