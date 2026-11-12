@@ -55,10 +55,10 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)
-- [Helping caregivers use AI in everyday life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)
-- [Introducing Businesses in ChatGPT](https://openai.com/index/introducing-businesses-chatgpt)
-- [Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education)
-- [Work at the Frontier: AI’s effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work)
+- [ChatGPT Plus for veterans and servicemembers](https://openai.com/index/chatgpt-plus-for-veterans)
+- [Guide to observability with Red Hat OpenShift 5](https://www.redhat.com/en/blog/guide-observability-red-hat-openshift-5)
+- [Unlocking next-generation workloads: What’s new in Red Hat OpenShift Virtualization 5](https://www.redhat.com/en/blog/unlocking-next-generation-workloads-whats-new-red-hat-openshift-virtualization-5)
+- [Red Hat Advanced Cluster Management for Kubernetes 5.0: Run your Kubernetes fleet with more control](https://www.redhat.com/en/blog/red-hat-advanced-cluster-management-kubernetes-5)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
