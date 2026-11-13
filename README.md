@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)
-- [ChatGPT Plus for veterans and servicemembers](https://openai.com/index/chatgpt-plus-for-veterans)
-- [Guide to observability with Red Hat OpenShift 5](https://www.redhat.com/en/blog/guide-observability-red-hat-openshift-5)
-- [Unlocking next-generation workloads: What’s new in Red Hat OpenShift Virtualization 5](https://www.redhat.com/en/blog/unlocking-next-generation-workloads-whats-new-red-hat-openshift-virtualization-5)
-- [Red Hat Advanced Cluster Management for Kubernetes 5.0: Run your Kubernetes fleet with more control](https://www.redhat.com/en/blog/red-hat-advanced-cluster-management-kubernetes-5)
+- [AWS Graviton support for Java in AWS Transform continuous modernization](https://aws.amazon.com/blogs/devops/aws-graviton-support-for-java-in-aws-transform-continuous-modernization/)
+- [Friday Five — November 13, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-november-13-2026-red-hat)
+- [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude)
+- [A coordination framework for formal proof development with Kiro](https://aws.amazon.com/blogs/devops/a-coordination-framework-for-formal-proof-development-with-kiro/)
+- [Gondola doubles revenue as its team builds more with Codex](https://openai.com/business/customer-stories/gondola)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
