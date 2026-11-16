@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [A step toward defining the Standard Model on a lattice](https://openai.com/index/step-toward-defining-the-standard-model)
+- [Our new blog for science](https://openai.com/index/our-new-blog-for-science)
 - [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)
 - [Shield helps technicians hand off legacy portal work with OpenAI](https://openai.com/business/customer-stories/shield)
 - [AWS Graviton support for Java in AWS Transform continuous modernization](https://aws.amazon.com/blogs/devops/aws-graviton-support-for-java-in-aws-transform-continuous-modernization/)
-- [We came. We connected. We are Red Hat.](https://www.redhat.com/en/blog/we-came-we-connected-we-are-red-hat)
-- [Node management in Red Hat OpenShift 5: Server-level visibility for bare metal](https://www.redhat.com/en/blog/node-management-red-hat-openshift-5-bare-metal)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
