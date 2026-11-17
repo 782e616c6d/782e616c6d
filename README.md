@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [A step toward defining the Standard Model on a lattice](https://openai.com/index/step-toward-defining-the-standard-model)
-- [Our new blog for science](https://openai.com/index/our-new-blog-for-science)
-- [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)
-- [Shield helps technicians hand off legacy portal work with OpenAI](https://openai.com/business/customer-stories/shield)
-- [AWS Graviton support for Java in AWS Transform continuous modernization](https://aws.amazon.com/blogs/devops/aws-graviton-support-for-java-in-aws-transform-continuous-modernization/)
+- [How British Airways is accelerating the modernization of its Java services](https://aws.amazon.com/blogs/devops/how-british-airways-is-accelerating-the-modernization-of-its-java-services/)
+- [A governed AI-driven development lifecycle for financial services with Kiro and AWS Frontier Agents](https://aws.amazon.com/blogs/devops/a-governed-ai-driven-development-lifecycle-for-financial-services-with-kiro-and-aws-frontier-agents/)
+- [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers)
+- [Strengthening the fight against online child sexual abuse with new tools and support](https://openai.com/index/strengthening-online-child-safety)
+- [PHP2Shell: Using AWS Transform to move legacy PHP onto a patched runtime](https://aws.amazon.com/blogs/devops/php2shell-using-aws-transform-to-move-legacy-php-onto-a-patched-runtime/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
