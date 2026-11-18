@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How British Airways is accelerating the modernization of its Java services](https://aws.amazon.com/blogs/devops/how-british-airways-is-accelerating-the-modernization-of-its-java-services/)
-- [A governed AI-driven development lifecycle for financial services with Kiro and AWS Frontier Agents](https://aws.amazon.com/blogs/devops/a-governed-ai-driven-development-lifecycle-for-financial-services-with-kiro-and-aws-frontier-agents/)
-- [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers)
-- [Strengthening the fight against online child sexual abuse with new tools and support](https://openai.com/index/strengthening-online-child-safety)
-- [PHP2Shell: Using AWS Transform to move legacy PHP onto a patched runtime](https://aws.amazon.com/blogs/devops/php2shell-using-aws-transform-to-move-legacy-php-onto-a-patched-runtime/)
+- [Reducing database incident MTTR by 73% with a custom AWS DevOps Agent Skill](https://aws.amazon.com/blogs/devops/reducing-database-incident-mttr-by-73-with-a-custom-aws-devops-agent-skill/)
+- [Azure DevOps and GitHub: Start Your Agentic Journey Where You Are](https://devblogs.microsoft.com/devops/azure-devops-and-github-start-your-agentic-journey-where-you-are/)
+- [Enforcing zero-trust dependency policies in AWS CodeBuild with JFrog Curation](https://aws.amazon.com/blogs/devops/enforcing-zero-trust-dependency-policies-in-aws-codebuild-with-jfrog-curation/)
+- [Secure MCP integrations for AWS DevOps Agent with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/devops/secure-mcp-integrations-for-aws-devops-agent-with-amazon-bedrock-agentcore/)
+- [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
