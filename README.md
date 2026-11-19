@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Reducing database incident MTTR by 73% with a custom AWS DevOps Agent Skill](https://aws.amazon.com/blogs/devops/reducing-database-incident-mttr-by-73-with-a-custom-aws-devops-agent-skill/)
-- [Azure DevOps and GitHub: Start Your Agentic Journey Where You Are](https://devblogs.microsoft.com/devops/azure-devops-and-github-start-your-agentic-journey-where-you-are/)
-- [Enforcing zero-trust dependency policies in AWS CodeBuild with JFrog Curation](https://aws.amazon.com/blogs/devops/enforcing-zero-trust-dependency-policies-in-aws-codebuild-with-jfrog-curation/)
-- [Secure MCP integrations for AWS DevOps Agent with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/devops/secure-mcp-integrations-for-aws-devops-agent-with-amazon-bedrock-agentcore/)
-- [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)
+- [Get more from your Kiro investment with credit pooling: A guide for admins](https://aws.amazon.com/blogs/devops/get-more-from-your-kiro-investment-with-credit-pooling-a-guide-for-admins/)
+- [The Trust Layer: Securing Agentic AI with Docker AI Governance](https://www.docker.com/blog/agentic-ai-security-docker-governance/)
+- [The Silent Consensus](https://openai.com/index/the-silent-consensus)
+- [Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)
+- [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
