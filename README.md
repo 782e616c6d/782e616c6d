@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Get more from your Kiro investment with credit pooling: A guide for admins](https://aws.amazon.com/blogs/devops/get-more-from-your-kiro-investment-with-credit-pooling-a-guide-for-admins/)
-- [The Trust Layer: Securing Agentic AI with Docker AI Governance](https://www.docker.com/blog/agentic-ai-security-docker-governance/)
-- [The Silent Consensus](https://openai.com/index/the-silent-consensus)
-- [Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)
-- [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)
+- [Announcing custom execution roles for AWS CloudFormation StackSets](https://aws.amazon.com/blogs/devops/announcing-custom-execution-roles-for-aws-cloudformation-stacksets/)
+- [Track AWS CloudFormation StackSets deployments with progress visibility](https://aws.amazon.com/blogs/devops/track-aws-cloudformation-stacksets-deployments-with-progress-visibility/)
+- [Friday Five — November 20, 2026 | Red Hat](https://www.redhat.com/en/blog/friday-five-november-20-2026-red-hat)
+- [What’s new in AWS Transform – continuous modernization for re:Invent 2026](https://aws.amazon.com/blogs/devops/whats-new-in-aws-transform-continuous-modernization-for-reinvent-2026/)
+- [Azure DevOps integration with the GitHub Copilot app &lpar;public preview&rpar;](https://devblogs.microsoft.com/devops/azure-devops-integration-with-the-github-copilot-app-public-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
