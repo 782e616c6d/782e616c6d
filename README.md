@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence)
 - [Copilot Code Reviews for Azure Repos is generally available](https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-is-generally-available/)
 - [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation)
 - [Announcing custom execution roles for AWS CloudFormation StackSets](https://aws.amazon.com/blogs/devops/announcing-custom-execution-roles-for-aws-cloudformation-stacksets/)
 - [Track AWS CloudFormation StackSets deployments with progress visibility](https://aws.amazon.com/blogs/devops/track-aws-cloudformation-stacksets-deployments-with-progress-visibility/)
-- [Red Hat at Microsoft Ignite 2026: Partnership in action](https://www.redhat.com/en/blog/red-hat-microsoft-ignite-2026-partnership-action)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
