@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence)
-- [Copilot Code Reviews for Azure Repos is generally available](https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-is-generally-available/)
-- [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation)
-- [Announcing custom execution roles for AWS CloudFormation StackSets](https://aws.amazon.com/blogs/devops/announcing-custom-execution-roles-for-aws-cloudformation-stacksets/)
-- [Track AWS CloudFormation StackSets deployments with progress visibility](https://aws.amazon.com/blogs/devops/track-aws-cloudformation-stacksets-deployments-with-progress-visibility/)
+- [Futurum Research study: Why 97 percent of enterprise IT teams cannot survive a cloud cutoff](https://www.redhat.com/en/blog/futurum-research-study-why-97-percent-enterprise-it-teams-cannot-survive-cloud-cutoff)
+- [OpenAI and Cisco introduce Shirudo](https://openai.com/index/introducing-shirudo)
+- [Agentic Autofix for GitHub Advanced Security for Azure DevOps is in public preview](https://devblogs.microsoft.com/devops/agentic-autofix-for-advanced-security-for-azure-devops-public-preview/)
+- [New guidance to optimize Git performance in Azure Repos](https://devblogs.microsoft.com/devops/new-guidance-to-optimize-git-performance-in-azure-repos/)
+- [Connected intelligence for in-house legal](https://openai.com/business/learn/connected-intelligence-for-in-house-legal)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
