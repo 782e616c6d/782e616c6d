@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Futurum Research study: Why 97 percent of enterprise IT teams cannot survive a cloud cutoff](https://www.redhat.com/en/blog/futurum-research-study-why-97-percent-enterprise-it-teams-cannot-survive-cloud-cutoff)
-- [OpenAI and Cisco introduce Shirudo](https://openai.com/index/introducing-shirudo)
-- [Agentic Autofix for GitHub Advanced Security for Azure DevOps is in public preview](https://devblogs.microsoft.com/devops/agentic-autofix-for-advanced-security-for-azure-devops-public-preview/)
-- [New guidance to optimize Git performance in Azure Repos](https://devblogs.microsoft.com/devops/new-guidance-to-optimize-git-performance-in-azure-repos/)
-- [Connected intelligence for in-house legal](https://openai.com/business/learn/connected-intelligence-for-in-house-legal)
+- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)
+- [Searching for distant planets with Astra](https://openai.com/index/searching-for-distant-planets-with-astra)
+- [Why your Ansible Automation Platform instance needs its own disaster recovery plan](https://www.redhat.com/en/blog/why-your-ansible-automation-platform-instance-needs-its-own-disaster-recovery-plan)
+- [The digital sovereignty paradox: Closing the gap between compliance and operational resilience](https://www.redhat.com/en/blog/digital-sovereignty-paradox-closing-gap-between-compliance-and-operational-resilience)
+- [How to build a self-improving RAG retrieval pipeline with ZenML and Red Hat OpenShift AI](https://www.redhat.com/en/blog/how-build-self-improving-rag-retrieval-pipeline-zenml-and-red-hat-openshift-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
