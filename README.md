@@ -54,11 +54,11 @@ I am a student of DevOps and Data Science. <img src="https://media.giphy.com/med
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Prove your AI agent guardrails work](https://www.docker.com/blog/prove-your-ai-agent-guardrails-work/)
+- [How Red Hat and Odine unify sovereign telco cloud management](https://www.redhat.com/en/blog/how-red-hat-and-odine-unify-sovereign-telco-cloud-management)
 - [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)
 - [Searching for distant planets with Astra](https://openai.com/index/searching-for-distant-planets-with-astra)
 - [Why your Ansible Automation Platform instance needs its own disaster recovery plan](https://www.redhat.com/en/blog/why-your-ansible-automation-platform-instance-needs-its-own-disaster-recovery-plan)
-- [The digital sovereignty paradox: Closing the gap between compliance and operational resilience](https://www.redhat.com/en/blog/digital-sovereignty-paradox-closing-gap-between-compliance-and-operational-resilience)
-- [How to build a self-improving RAG retrieval pipeline with ZenML and Red Hat OpenShift AI](https://www.redhat.com/en/blog/how-build-self-improving-rag-retrieval-pipeline-zenml-and-red-hat-openshift-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
